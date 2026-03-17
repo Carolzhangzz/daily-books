@@ -3,521 +3,383 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Books</title>
+<title>每日三书</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Noto Serif SC','Inter',serif;background:#0f0f0f;color:#e8e6e3;min-height:100vh;overflow-x:hidden}
+.app{max-width:480px;margin:0 auto;min-height:100vh;padding-bottom:40px}
+button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 
-  * { margin: 0; padding: 0; box-sizing: border-box; }
+/* Header */
+.header{padding:40px 24px 12px;text-align:center}
+.header h1{font-size:26px;font-weight:700;letter-spacing:4px;color:#f5f0eb}
+.header .sub{font-size:13px;color:#666;margin-top:6px;font-family:'Inter',sans-serif}
 
-  body {
-    font-family: 'Noto Serif SC', 'Inter', serif;
-    background: #0f0f0f;
-    color: #e8e6e3;
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
+/* Date nav */
+.date-nav{display:flex;justify-content:center;align-items:center;gap:16px;padding:8px 24px 16px}
+.date-nav button{background:none;border:1px solid #333;color:#888;width:34px;height:34px;border-radius:50%;cursor:pointer;font-size:16px;transition:all .2s}
+.date-nav button:hover{border-color:#c9a96e;color:#c9a96e}
+.date-nav button:disabled{opacity:.3;cursor:not-allowed}
+.date-nav span{font-family:'Inter',sans-serif;font-size:14px;color:#999}
 
-  .app {
-    max-width: 480px;
-    margin: 0 auto;
-    min-height: 100vh;
-    position: relative;
-  }
+/* Book tabs */
+.book-tabs{display:flex;gap:0;padding:0 24px 16px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.book-tabs::-webkit-scrollbar{display:none}
+.btab{padding:8px 14px;font-size:13px;color:#666;background:#151515;border:1px solid #252525;cursor:pointer;transition:all .2s;white-space:nowrap;flex-shrink:0}
+.btab:first-child{border-radius:8px 0 0 8px}
+.btab:last-child{border-radius:0 8px 8px 0}
+.btab:not(:first-child){border-left:none}
+.btab.on{background:#c9a96e;color:#0f0f0f;border-color:#c9a96e;font-weight:600}
 
-  .header {
-    padding: 40px 24px 20px;
-    text-align: center;
-  }
-  .header h1 { font-size: 28px; font-weight: 700; letter-spacing: 4px; color: #f5f0eb; }
-  .header .subtitle { font-size: 14px; color: #888; margin-top: 4px; }
-  .header .date { font-family: 'Inter', sans-serif; font-size: 13px; color: #666; margin-top: 8px; letter-spacing: 1px; }
+/* Card */
+.card-box{padding:0 24px}
+.card{background:#1a1a1a;border-radius:20px;padding:28px 22px;border:1px solid #252525}
+.card .cat{font-family:'Inter',sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:2px;color:#c9a96e;margin-bottom:14px}
+.card .t{font-size:22px;font-weight:700;line-height:1.4;margin-bottom:4px}
+.card .te{font-family:'Inter',sans-serif;font-size:14px;color:#666;font-style:italic;margin-bottom:4px}
+.card .au{font-size:14px;color:#888;margin-bottom:18px}
+.card .ol{font-size:15px;color:#c9a96e;line-height:1.6;padding:14px;background:#222;border-radius:12px;border-left:3px solid #c9a96e;margin-bottom:18px}
+.card .dd{font-size:15px;line-height:1.9;color:#ccc}
+.card .dd p{margin-bottom:12px}
 
-  .date-nav {
-    display: flex; justify-content: center; align-items: center; gap: 16px; padding: 8px 24px 16px;
-  }
-  .date-nav button {
-    background: none; border: 1px solid #333; color: #888;
-    width: 36px; height: 36px; border-radius: 50%;
-    cursor: pointer; font-size: 16px; transition: all 0.2s;
-    -webkit-tap-highlight-color: transparent;
-  }
-  .date-nav button:hover { border-color: #c9a96e; color: #c9a96e; }
-  .date-nav button:disabled { opacity: 0.3; cursor: not-allowed; }
-  .date-nav .current-date { font-family: 'Inter', sans-serif; font-size: 14px; color: #999; }
+/* Action row */
+.actions{display:flex;gap:10px;padding:12px 24px 0}
+.actions button{flex:1;padding:12px;border-radius:12px;font-size:14px;cursor:pointer;transition:all .2s;border:1px solid #333}
+.btn-quote{background:linear-gradient(135deg,#1a1a1a,#252525);color:#c9a96e}
+.btn-quote:hover{border-color:#c9a96e}
+.btn-read{background:#151515;color:#888}
+.btn-read:hover{border-color:#c9a96e;color:#c9a96e}
+.btn-read.done{background:#1a2a1a;border-color:#4a8;color:#6c6}
 
-  /* Book tabs */
-  .book-tabs {
-    display: flex; justify-content: center; gap: 0; padding: 0 24px 20px;
-  }
-  .book-tab {
-    padding: 8px 16px; font-size: 13px; color: #666;
-    background: #151515; border: 1px solid #252525;
-    cursor: pointer; transition: all 0.2s;
-    -webkit-tap-highlight-color: transparent;
-    white-space: nowrap;
-  }
-  .book-tab:first-child { border-radius: 8px 0 0 8px; }
-  .book-tab:last-child { border-radius: 0 8px 8px 0; }
-  .book-tab:not(:first-child) { border-left: none; }
-  .book-tab.active {
-    background: #c9a96e; color: #0f0f0f; border-color: #c9a96e;
-    font-weight: 600;
-  }
-  .book-tab + .book-tab.active { border-left: 1px solid #c9a96e; }
+/* Generate section */
+.gen{padding:20px 24px;margin-top:12px;border-top:1px solid #1a1a1a}
+.gen h3{font-size:13px;color:#555;letter-spacing:2px;margin-bottom:14px}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.pill{padding:6px 14px;font-size:12px;border-radius:20px;border:1px solid #333;background:#151515;color:#888;cursor:pointer;transition:all .2s}
+.pill.on{border-color:#c9a96e;background:#2a2218;color:#c9a96e}
+.gen-input{display:flex;gap:8px;margin-bottom:14px}
+.gen-input input{flex:1;padding:10px 14px;background:#151515;border:1px solid #333;border-radius:10px;color:#e8e6e3;font-size:14px;outline:none}
+.gen-input input::placeholder{color:#555}
+.gen-input input:focus{border-color:#c9a96e}
+.gen-btns{display:flex;gap:8px}
+.gen-btns button{flex:1;padding:12px;border-radius:12px;font-size:14px;cursor:pointer;transition:all .2s}
+.btn-gen{background:linear-gradient(135deg,#2a2218,#1a1510);border:1px solid #c9a96e;color:#c9a96e}
+.btn-gen:hover{background:linear-gradient(135deg,#3a3020,#2a2518)}
+.btn-gen:active{transform:scale(.98)}
+.btn-spec{background:#151515;border:1px solid #555;color:#999}
+.btn-spec:hover{border-color:#c9a96e;color:#c9a96e}
 
-  .card-container { padding: 0 24px; position: relative; }
-  .card {
-    background: #1a1a1a; border-radius: 20px; padding: 32px 24px;
-    border: 1px solid #252525;
-  }
-  .card .category { font-family: 'Inter', sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #c9a96e; margin-bottom: 16px; }
-  .card .book-title { font-size: 22px; font-weight: 700; line-height: 1.4; margin-bottom: 4px; }
-  .card .book-title-en { font-family: 'Inter', sans-serif; font-size: 14px; color: #666; font-style: italic; margin-bottom: 4px; }
-  .card .author { font-size: 14px; color: #888; margin-bottom: 20px; }
-  .card .one-liner { font-size: 15px; color: #c9a96e; line-height: 1.6; padding: 16px; background: #222; border-radius: 12px; border-left: 3px solid #c9a96e; margin-bottom: 20px; }
-  .card .deep-dive { font-size: 15px; line-height: 1.9; color: #ccc; }
-  .card .deep-dive p { margin-bottom: 12px; }
+/* Bookshelf */
+.shelf{padding:0 24px;margin-top:20px;border-top:1px solid #1a1a1a}
+.shelf-header{display:flex;justify-content:space-between;align-items:center;padding:16px 0;cursor:pointer}
+.shelf-header h3{font-size:13px;color:#555;letter-spacing:2px}
+.shelf-header .cnt{font-family:'Inter',sans-serif;font-size:12px;color:#c9a96e;background:#2a2218;padding:2px 10px;border-radius:10px}
+.shelf-header .arrow{color:#555;font-size:14px;transition:transform .2s}
+.shelf-header .arrow.open{transform:rotate(90deg)}
+.shelf-list{display:none;padding-bottom:16px}
+.shelf-list.open{display:block}
+.shelf-item{padding:10px 14px;background:#151515;border-radius:10px;margin-bottom:6px;display:flex;justify-content:space-between;align-items:center}
+.shelf-item .si-info{flex:1}
+.shelf-item .si-title{font-size:14px;color:#ccc}
+.shelf-item .si-meta{font-size:11px;color:#555;margin-top:2px;font-family:'Inter',sans-serif}
+.shelf-item .si-rm{background:none;border:none;color:#555;font-size:18px;cursor:pointer;padding:4px 8px}
+.shelf-item .si-rm:hover{color:#c66}
+.shelf-empty{color:#444;font-size:13px;text-align:center;padding:20px}
 
-  .quote-btn {
-    display: none; width: calc(100% - 48px); margin: 20px 24px; padding: 14px;
-    background: linear-gradient(135deg, #1a1a1a, #252525);
-    border: 1px solid #333; border-radius: 14px; color: #c9a96e;
-    font-family: 'Noto Serif SC', serif; font-size: 15px;
-    cursor: pointer; transition: all 0.3s; letter-spacing: 1px;
-    -webkit-tap-highlight-color: transparent;
-  }
-  .quote-btn:hover { border-color: #c9a96e; background: linear-gradient(135deg, #1f1a14, #2a2520); }
+/* History */
+.hist{padding:0 24px;margin-top:16px;border-top:1px solid #1a1a1a}
+.hist h3{font-size:13px;color:#555;letter-spacing:2px;padding:16px 0 12px}
+.hi{padding:10px 14px;background:#151515;border-radius:10px;margin-bottom:6px;cursor:pointer;transition:all .2s;border-left:2px solid transparent}
+.hi:hover,.hi.on{background:#1a1a1a;border-left-color:#c9a96e}
+.hi .hd{font-family:'Inter',sans-serif;font-size:11px;color:#555}
+.hi .hb{font-size:13px;color:#888;margin-top:3px}
 
-  /* Generate section */
-  .generate-section {
-    padding: 16px 24px; margin-top: 8px;
-  }
-  .category-pills {
-    display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 16px;
-  }
-  .cat-pill {
-    padding: 6px 14px; font-size: 12px; border-radius: 20px;
-    border: 1px solid #333; background: #151515; color: #888;
-    cursor: pointer; transition: all 0.2s;
-    -webkit-tap-highlight-color: transparent;
-    font-family: 'Noto Serif SC', serif;
-  }
-  .cat-pill.selected { border-color: #c9a96e; background: #2a2218; color: #c9a96e; }
-  .generate-btn {
-    display: block; width: 100%; padding: 14px;
-    background: linear-gradient(135deg, #2a2218, #1a1510);
-    border: 1px solid #c9a96e; border-radius: 14px;
-    color: #c9a96e; font-family: 'Noto Serif SC', serif;
-    font-size: 15px; cursor: pointer; transition: all 0.3s;
-    letter-spacing: 1px;
-    -webkit-tap-highlight-color: transparent;
-  }
-  .generate-btn:hover { background: linear-gradient(135deg, #3a3020, #2a2518); }
-  .generate-btn:active { transform: scale(0.98); }
+.no-data{text-align:center;padding:60px 24px;color:#444}
+.no-data code{background:#1a1a1a;padding:4px 12px;border-radius:6px;font-size:14px;color:#c9a96e}
+.footer{text-align:center;padding:20px;font-family:'Inter',sans-serif;font-size:11px;color:#333;letter-spacing:1px}
 
-  /* Toast */
-  .toast {
-    position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%);
-    background: #c9a96e; color: #0f0f0f; padding: 12px 24px;
-    border-radius: 12px; font-size: 14px; font-weight: 600;
-    z-index: 200; opacity: 0; transition: opacity 0.3s;
-    pointer-events: none; white-space: nowrap;
-  }
-  .toast.show { opacity: 1; }
+/* Modal */
+.modal{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.85);z-index:100;justify-content:center;align-items:center;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+.modal.on{display:flex}
+.modal-inner{width:360px;max-width:calc(100vw - 32px);max-height:80vh;overflow-y:auto;padding-top:16px}
+.modal-x{position:fixed;top:16px;right:16px;background:rgba(40,40,40,.8);border:1px solid #444;color:#999;width:44px;height:44px;border-radius:50%;font-size:22px;cursor:pointer;z-index:110;display:flex;align-items:center;justify-content:center}
+.modal-x:hover{color:#fff;border-color:#666}
+.qcard{background:linear-gradient(145deg,#1c1c1c,#111);border:1px solid #2a2a2a;border-radius:20px;padding:36px 24px;margin-bottom:14px;position:relative}
+.qcard .qm{font-size:48px;color:#c9a96e;opacity:.3;position:absolute;top:14px;left:18px;font-family:Georgia,serif}
+.qcard .qt{font-size:17px;line-height:1.8;color:#e8e6e3;margin-bottom:14px;padding-top:20px}
+.qcard .qc{font-size:13px;color:#777;line-height:1.6;padding-top:12px;border-top:1px solid #2a2a2a}
+.qcard .qs{font-family:'Inter',sans-serif;font-size:12px;color:#555;margin-top:14px;text-align:right}
+.qnav{display:flex;justify-content:center;gap:8px;padding:8px 0 20px}
+.qnav .qd{width:10px;height:10px;border-radius:50%;background:#444;cursor:pointer;transition:all .3s}
+.qnav .qd.on{background:#c9a96e}
 
-  .swipe-hint {
-    display: none; text-align: center; padding: 12px;
-    font-family: 'Inter', sans-serif; font-size: 12px; color: #444;
-  }
-
-  /* Quote Modal */
-  .modal-overlay {
-    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(0,0,0,0.85); z-index: 100;
-    justify-content: center; align-items: center;
-    backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
-  }
-  .modal-overlay.active { display: flex; }
-
-  .quote-modal {
-    width: 360px; max-width: calc(100vw - 32px);
-    max-height: 80vh; overflow-y: auto;
-    position: relative; padding-top: 16px;
-  }
-
-  .modal-close {
-    position: fixed; top: 16px; right: 16px;
-    background: rgba(40,40,40,0.8); border: 1px solid #444;
-    color: #999; width: 44px; height: 44px; border-radius: 50%;
-    font-size: 22px; cursor: pointer; z-index: 110;
-    display: flex; align-items: center; justify-content: center;
-    -webkit-tap-highlight-color: transparent;
-  }
-  .modal-close:hover { color: #fff; border-color: #666; }
-
-  .quote-card {
-    background: linear-gradient(145deg, #1c1c1c, #111);
-    border: 1px solid #2a2a2a; border-radius: 20px;
-    padding: 40px 28px; margin-bottom: 16px; position: relative;
-  }
-  .quote-card .quote-mark { font-size: 48px; color: #c9a96e; opacity: 0.3; position: absolute; top: 16px; left: 20px; font-family: Georgia, serif; }
-  .quote-card .quote-text { font-size: 17px; line-height: 1.8; color: #e8e6e3; margin-bottom: 16px; padding-top: 20px; }
-  .quote-card .quote-context { font-size: 13px; color: #777; line-height: 1.6; padding-top: 12px; border-top: 1px solid #2a2a2a; }
-  .quote-card .quote-source { font-family: 'Inter', sans-serif; font-size: 12px; color: #555; margin-top: 16px; text-align: right; }
-
-  .quote-nav { display: flex; justify-content: center; gap: 8px; margin-top: 8px; padding-bottom: 20px; }
-  .quote-nav .q-dot {
-    width: 10px; height: 10px; border-radius: 50%;
-    background: #444; cursor: pointer; transition: all 0.3s;
-  }
-  .quote-nav .q-dot.active { background: #c9a96e; }
-
-  .history { padding: 24px; margin-top: 20px; border-top: 1px solid #1a1a1a; }
-  .history h3 { font-size: 14px; color: #555; letter-spacing: 2px; margin-bottom: 12px; }
-  .history-item {
-    display: block; padding: 12px 16px; background: #151515;
-    border-radius: 10px; margin-bottom: 8px; cursor: pointer;
-    transition: all 0.2s; text-decoration: none; color: inherit;
-    border-left: 2px solid transparent;
-    -webkit-tap-highlight-color: transparent;
-  }
-  .history-item:hover, .history-item.active { background: #1a1a1a; border-left-color: #c9a96e; }
-  .history-item .h-date { font-family: 'Inter', sans-serif; font-size: 12px; color: #555; }
-  .history-item .h-books { font-size: 13px; color: #999; margin-top: 4px; }
-
-  .no-data { text-align: center; padding: 80px 24px; color: #444; }
-  .no-data p { margin-bottom: 12px; }
-  .no-data code { background: #1a1a1a; padding: 4px 12px; border-radius: 6px; font-size: 14px; color: #c9a96e; }
-
-  .footer { text-align: center; padding: 20px; font-family: 'Inter', sans-serif; font-size: 11px; color: #333; letter-spacing: 1px; }
+/* Toast */
+.toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#c9a96e;color:#0f0f0f;padding:10px 20px;border-radius:10px;font-size:13px;font-weight:600;z-index:200;opacity:0;transition:opacity .3s;pointer-events:none;white-space:nowrap}
+.toast.on{opacity:1}
 </style>
 </head>
 <body>
-<div class="app" id="app">
+<div class="app">
   <div class="header">
     <h1>每 日 三 书</h1>
-    <div class="subtitle">Daily Books</div>
-    <div class="date" id="headerDate"></div>
+    <div class="sub" id="hDate"></div>
   </div>
-
   <div class="date-nav">
-    <button id="prevDay" disabled>&#8249;</button>
-    <span class="current-date" id="navDate"></span>
-    <button id="nextDay" disabled>&#8250;</button>
+    <button id="prev" disabled>&#8249;</button>
+    <span id="navD"></span>
+    <button id="next" disabled>&#8250;</button>
+  </div>
+  <div class="book-tabs" id="tabs"></div>
+  <div class="card-box" id="cardBox"></div>
+  <div class="actions" id="acts" style="display:none">
+    <button class="btn-quote" id="qBtn">提取金句</button>
+    <button class="btn-read" id="rBtn">标记已读</button>
   </div>
 
-  <div class="book-tabs" id="bookTabs"></div>
-  <div class="card-container" id="cardContainer"></div>
-  <button class="quote-btn" id="quoteBtn">提取金句</button>
-  <div class="swipe-hint">左右滑动切换</div>
-
-  <div class="generate-section">
-    <div class="category-pills" id="categoryPills"></div>
-    <button class="generate-btn" id="generateBtn">换一批</button>
+  <!-- Generate -->
+  <div class="gen">
+    <h3>生 成 新 推 荐</h3>
+    <div class="pills" id="pills"></div>
+    <div class="gen-input">
+      <input id="bookInput" placeholder="输入书名（如：百年孤独）">
+    </div>
+    <div class="gen-btns">
+      <button class="btn-gen" id="genBtn">随机三本</button>
+      <button class="btn-spec" id="specBtn">指定这本</button>
+    </div>
   </div>
 
-  <div class="history" id="history">
+  <!-- Bookshelf -->
+  <div class="shelf">
+    <div class="shelf-header" id="shelfHead">
+      <h3>我 的 书 架 <span class="cnt" id="shelfCnt">0</span></h3>
+      <span class="arrow" id="shelfArrow">&#9654;</span>
+    </div>
+    <div class="shelf-list" id="shelfList"></div>
+  </div>
+
+  <!-- History -->
+  <div class="hist">
     <h3>历 史 记 录</h3>
-    <div id="historyList"></div>
+    <div id="histList"></div>
   </div>
 
-  <div class="footer">DAILY BOOKS &middot; POWERED BY CLAUDE CODE</div>
+  <div class="footer">POWERED BY CLAUDE CODE</div>
 </div>
 
-<div class="modal-overlay" id="quoteModal">
-  <button class="modal-close" id="modalClose">&times;</button>
-  <div class="quote-modal">
-    <div id="quoteCards"></div>
-    <div class="quote-nav" id="quoteNav"></div>
+<!-- Quote Modal -->
+<div class="modal" id="modal">
+  <button class="modal-x" id="mx">&times;</button>
+  <div class="modal-inner">
+    <div id="qCards"></div>
+    <div class="qnav" id="qNav"></div>
   </div>
 </div>
-
 <div class="toast" id="toast"></div>
 
 <script>
-const DATA_DIR = 'data/';
-let currentData = null;
-let currentBookIndex = 0;
-let currentQuoteIndex = 0;
-let currentDate = new Date().toISOString().split('T')[0];
-let availableDates = [];
+const D='data/',CATS=['文学','哲学','社科','科学','商业'];
+let data=null,bi=0,qi=0,curDate=new Date().toISOString().split('T')[0],dates=[],selCats=new Set(CATS);
+const $=id=>document.getElementById(id),LS=localStorage;
 
-const CATEGORIES = ['文学', '哲学', '社科', '科学', '商业'];
-let selectedCategories = new Set(CATEGORIES);
-
-const $ = id => document.getElementById(id);
-const cardContainer = $('cardContainer');
-const quoteModal = $('quoteModal');
-const quoteBtn = $('quoteBtn');
-const swipeHint = document.querySelector('.swipe-hint');
-const prevBtn = $('prevDay');
-const nextBtn = $('nextDay');
-const toast = $('toast');
-
-// --- Events ---
-prevBtn.addEventListener('click', () => navigateDay(-1));
-nextBtn.addEventListener('click', () => navigateDay(1));
-quoteBtn.addEventListener('click', openQuotes);
-$('modalClose').addEventListener('click', closeQuotes);
-quoteModal.addEventListener('click', e => { if (e.target === quoteModal) closeQuotes(); });
-
-// Generate button
-$('generateBtn').addEventListener('click', () => {
-  const cats = [...selectedCategories];
-  let cmd;
-  if (cats.length === CATEGORIES.length) {
-    cmd = '/daily-books';
-  } else {
-    cmd = '/daily-books ' + cats.join(' ');
+// --- Bookshelf (localStorage) ---
+function getShelf(){try{return JSON.parse(LS.getItem('bookshelf')||'[]')}catch{return[]}}
+function saveShelf(s){LS.setItem('bookshelf',JSON.stringify(s))}
+function isRead(title){return getShelf().some(b=>b.title_zh===title)}
+function addToShelf(book){
+  const s=getShelf();
+  if(!s.some(b=>b.title_zh===book.title_zh)){
+    s.push({title_zh:book.title_zh,title_en:book.title_en,author_zh:book.author_zh,category:book.category,date:curDate});
+    saveShelf(s);
   }
-  navigator.clipboard.writeText(cmd).then(() => {
-    showToast('已复制命令，粘贴到终端运行');
-  }).catch(() => {
-    showToast('命令: ' + cmd);
-  });
+  renderShelf();updateReadBtn();
+}
+function removeFromShelf(title){
+  saveShelf(getShelf().filter(b=>b.title_zh!==title));
+  renderShelf();updateReadBtn();
+}
+function renderShelf(){
+  const s=getShelf();
+  $('shelfCnt').textContent=s.length;
+  if(!s.length){$('shelfList').innerHTML='<div class="shelf-empty">还没有标记已读的书</div>';return}
+  $('shelfList').innerHTML=s.map(b=>`
+    <div class="shelf-item">
+      <div class="si-info"><div class="si-title">${b.title_zh}</div><div class="si-meta">${b.category} · ${b.author_zh} · ${b.date}</div></div>
+      <button class="si-rm" data-t="${b.title_zh}">&times;</button>
+    </div>`).join('');
+  $('shelfList').querySelectorAll('.si-rm').forEach(btn=>btn.addEventListener('click',()=>removeFromShelf(btn.dataset.t)));
+}
+function updateReadBtn(){
+  if(!data)return;
+  const b=data.books[bi],btn=$('rBtn');
+  if(isRead(b.title_zh)){btn.textContent='已读';btn.classList.add('done')}
+  else{btn.textContent='标记已读';btn.classList.remove('done')}
+}
+
+// Shelf toggle
+let shelfOpen=false;
+$('shelfHead').addEventListener('click',()=>{
+  shelfOpen=!shelfOpen;
+  $('shelfList').classList.toggle('open',shelfOpen);
+  $('shelfArrow').classList.toggle('open',shelfOpen);
 });
 
+// --- Events ---
+$('prev').addEventListener('click',()=>navDay(-1));
+$('next').addEventListener('click',()=>navDay(1));
+$('qBtn').addEventListener('click',openQ);
+$('rBtn').addEventListener('click',()=>{
+  if(!data)return;
+  const b=data.books[bi];
+  if(isRead(b.title_zh))removeFromShelf(b.title_zh);
+  else addToShelf(b);
+});
+$('mx').addEventListener('click',closeQ);
+$('modal').addEventListener('click',e=>{if(e.target===$('modal'))closeQ()});
+
+// Generate
+$('genBtn').addEventListener('click',()=>{
+  const cats=[...selCats];
+  const cmd=cats.length===CATS.length?'/daily-books':'/daily-books '+cats.join(' ');
+  copyCmd(cmd);
+});
+$('specBtn').addEventListener('click',()=>{
+  const name=$('bookInput').value.trim();
+  if(!name){toast('请先输入书名');return}
+  copyCmd('/daily-books '+name);
+});
+$('bookInput').addEventListener('keydown',e=>{
+  if(e.key==='Enter'){$('specBtn').click()}
+});
+
+function copyCmd(cmd){
+  navigator.clipboard.writeText(cmd).then(()=>toast('已复制: '+cmd)).catch(()=>toast(cmd));
+}
+function toast(msg){const t=$('toast');t.textContent=msg;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2500)}
+
 // Category pills
-function renderCategoryPills() {
-  const container = $('categoryPills');
-  container.innerHTML = CATEGORIES.map(cat =>
-    `<span class="cat-pill${selectedCategories.has(cat) ? ' selected' : ''}" data-cat="${cat}">${cat}</span>`
-  ).join('');
-  container.querySelectorAll('.cat-pill').forEach(pill => {
-    pill.addEventListener('click', () => {
-      const cat = pill.dataset.cat;
-      if (selectedCategories.has(cat)) {
-        if (selectedCategories.size > 1) selectedCategories.delete(cat);
-      } else {
-        selectedCategories.add(cat);
-      }
-      renderCategoryPills();
-    });
-  });
+function renderPills(){
+  $('pills').innerHTML=CATS.map(c=>`<span class="pill${selCats.has(c)?' on':''}" data-c="${c}">${c}</span>`).join('');
+  $('pills').querySelectorAll('.pill').forEach(p=>p.addEventListener('click',()=>{
+    const c=p.dataset.c;
+    selCats.has(c)?selCats.size>1&&selCats.delete(c):selCats.add(c);
+    renderPills();
+  }));
 }
 
-function showToast(msg) {
-  toast.textContent = msg;
-  toast.classList.add('show');
-  setTimeout(() => toast.classList.remove('show'), 2500);
-}
-
-// Touch - book cards
-let touchStartX = 0, touchStartY = 0;
-cardContainer.addEventListener('touchstart', e => {
-  touchStartX = e.touches[0].clientX;
-  touchStartY = e.touches[0].clientY;
-}, { passive: true });
-cardContainer.addEventListener('touchend', e => {
-  const dx = touchStartX - e.changedTouches[0].clientX;
-  const dy = touchStartY - e.changedTouches[0].clientY;
-  if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) {
-    if (dx > 0 && currentData && currentBookIndex < currentData.books.length - 1) switchBook(currentBookIndex + 1);
-    else if (dx < 0 && currentBookIndex > 0) switchBook(currentBookIndex - 1);
+// Touch - cards
+let tx=0,ty=0;
+$('cardBox').addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY},{passive:true});
+$('cardBox').addEventListener('touchend',e=>{
+  const dx=tx-e.changedTouches[0].clientX,dy=ty-e.changedTouches[0].clientY;
+  if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy)){
+    if(dx>0&&data&&bi<data.books.length-1)sw(bi+1);
+    else if(dx<0&&bi>0)sw(bi-1);
   }
-}, { passive: true });
+},{passive:true});
 
-// Touch - quote modal
-let qTouchStartX = 0, qTouchStartY = 0;
-quoteModal.addEventListener('touchstart', e => {
-  qTouchStartX = e.touches[0].clientX;
-  qTouchStartY = e.touches[0].clientY;
-}, { passive: true });
-quoteModal.addEventListener('touchend', e => {
-  const dx = qTouchStartX - e.changedTouches[0].clientX;
-  const dy = qTouchStartY - e.changedTouches[0].clientY;
-  if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) {
-    navigateQuote(dx > 0 ? 1 : -1);
-  }
-}, { passive: true });
+// Touch - modal
+let mqx=0,mqy=0;
+$('modal').addEventListener('touchstart',e=>{mqx=e.touches[0].clientX;mqy=e.touches[0].clientY},{passive:true});
+$('modal').addEventListener('touchend',e=>{
+  const dx=mqx-e.changedTouches[0].clientX,dy=mqy-e.changedTouches[0].clientY;
+  if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy))navQ(dx>0?1:-1);
+},{passive:true});
 
 // Keyboard
-document.addEventListener('keydown', e => {
-  if (quoteModal.classList.contains('active')) {
-    if (e.key === 'Escape') closeQuotes();
-    else if (e.key === 'ArrowRight') navigateQuote(1);
-    else if (e.key === 'ArrowLeft') navigateQuote(-1);
+document.addEventListener('keydown',e=>{
+  if($('modal').classList.contains('on')){
+    if(e.key==='Escape')closeQ();
+    else if(e.key==='ArrowRight')navQ(1);
+    else if(e.key==='ArrowLeft')navQ(-1);
     return;
   }
-  if (currentData) {
-    if (e.key === 'ArrowRight' && currentBookIndex < currentData.books.length - 1) switchBook(currentBookIndex + 1);
-    else if (e.key === 'ArrowLeft' && currentBookIndex > 0) switchBook(currentBookIndex - 1);
+  if(data){
+    if(e.key==='ArrowRight'&&bi<data.books.length-1)sw(bi+1);
+    else if(e.key==='ArrowLeft'&&bi>0)sw(bi-1);
   }
 });
 
 // --- Core ---
-async function init() {
-  renderCategoryPills();
-  await scanHistory();
-  const startDate = availableDates.length > 0 ? availableDates[0] : currentDate;
-  await loadDate(startDate);
+async function init(){
+  renderPills();renderShelf();
+  try{
+    const r=await fetch(D+'index.json');
+    if(r.ok)dates=(await r.json()).sort().reverse();
+  }catch{}
+  renderHist();
+  load(dates.length?dates[0]:curDate);
 }
 
-async function scanHistory() {
-  try {
-    const res = await fetch(DATA_DIR + 'index.json');
-    if (res.ok) {
-      const dates = await res.json();
-      availableDates = dates.sort().reverse();
-    }
-  } catch(e) { availableDates = []; }
-  renderHistory();
-}
-
-function renderHistory() {
-  const list = $('historyList');
-  if (availableDates.length === 0) {
-    list.innerHTML = '<div style="color:#444;text-align:center;padding:20px">暂无记录</div>';
-    return;
-  }
-  list.innerHTML = availableDates.slice(0, 10).map(date =>
-    `<div class="history-item${date === currentDate ? ' active' : ''}" data-date="${date}">
-      <div class="h-date">${date}</div>
-      <div class="h-books" id="hbooks-${date}">Loading...</div>
-    </div>`
-  ).join('');
-  list.querySelectorAll('.history-item').forEach(item => {
-    item.addEventListener('click', () => loadDate(item.dataset.date));
-  });
-  availableDates.slice(0, 10).forEach(async date => {
-    try {
-      const res = await fetch(DATA_DIR + date + '.json');
-      const data = await res.json();
-      const el = $('hbooks-' + date);
-      if (el) el.textContent = data.books.map(b => b.title_zh).join(' · ');
-    } catch(e) {
-      const el = $('hbooks-' + date);
-      if (el) el.textContent = '(无法加载)';
-    }
+function renderHist(){
+  if(!dates.length){$('histList').innerHTML='<div class="shelf-empty">暂无记录</div>';return}
+  $('histList').innerHTML=dates.slice(0,10).map(d=>`<div class="hi${d===curDate?' on':''}" data-d="${d}"><div class="hd">${d}</div><div class="hb" id="hb-${d}">...</div></div>`).join('');
+  $('histList').querySelectorAll('.hi').forEach(h=>h.addEventListener('click',()=>load(h.dataset.d)));
+  dates.slice(0,10).forEach(async d=>{
+    try{const r=await fetch(D+d+'.json');const j=await r.json();const e=$('hb-'+d);if(e)e.textContent=j.books.map(b=>b.title_zh).join(' · ')}catch{}
   });
 }
 
-async function loadDate(dateStr) {
-  currentDate = dateStr;
-  $('headerDate').textContent = dateStr;
-  $('navDate').textContent = dateStr;
-
-  const dateIndex = availableDates.indexOf(dateStr);
-  prevBtn.disabled = dateIndex === -1 || dateIndex >= availableDates.length - 1;
-  nextBtn.disabled = dateIndex <= 0;
-
-  document.querySelectorAll('.history-item').forEach(item => {
-    item.classList.toggle('active', item.dataset.date === dateStr);
-  });
-
-  try {
-    const res = await fetch(DATA_DIR + dateStr + '.json');
-    if (!res.ok) throw new Error('No data');
-    currentData = await res.json();
-    currentBookIndex = 0;
-    renderBookTabs();
-    renderBook();
-    quoteBtn.style.display = 'block';
-    swipeHint.style.display = 'block';
-  } catch(e) {
-    currentData = null;
-    $('bookTabs').innerHTML = '';
-    cardContainer.innerHTML = `
-      <div class="no-data">
-        <p>这天还没有推荐</p>
-        <p>在 Claude Code 中运行</p>
-        <code>/daily-books</code>
-        <p style="margin-top:12px">即可生成推荐</p>
-      </div>`;
-    quoteBtn.style.display = 'none';
-    swipeHint.style.display = 'none';
+async function load(d){
+  curDate=d;$('hDate').textContent=d;$('navD').textContent=d;
+  const di=dates.indexOf(d);
+  $('prev').disabled=di===-1||di>=dates.length-1;
+  $('next').disabled=di<=0;
+  document.querySelectorAll('.hi').forEach(h=>h.classList.toggle('on',h.dataset.d===d));
+  try{
+    const r=await fetch(D+d+'.json');
+    if(!r.ok)throw 0;
+    data=await r.json();bi=0;
+    renderTabs();renderCard();
+    $('acts').style.display='flex';
+  }catch{
+    data=null;$('tabs').innerHTML='';
+    $('cardBox').innerHTML='<div class="no-data"><p>这天还没有推荐</p><p>运行 <code>/daily-books</code> 生成</p></div>';
+    $('acts').style.display='none';
   }
 }
 
-function navigateDay(dir) {
-  const idx = availableDates.indexOf(currentDate);
-  if (idx === -1) return;
-  const newIdx = idx - dir;
-  if (newIdx >= 0 && newIdx < availableDates.length) loadDate(availableDates[newIdx]);
+function navDay(dir){
+  const i=dates.indexOf(curDate);if(i===-1)return;
+  const ni=i-dir;
+  if(ni>=0&&ni<dates.length)load(dates[ni]);
 }
 
-function renderBookTabs() {
-  if (!currentData) return;
-  const tabs = $('bookTabs');
-  tabs.innerHTML = currentData.books.map((book, i) =>
-    `<div class="book-tab${i === currentBookIndex ? ' active' : ''}" data-index="${i}">${book.title_zh}</div>`
-  ).join('');
-  tabs.querySelectorAll('.book-tab').forEach(tab => {
-    tab.addEventListener('click', () => {
-      const idx = parseInt(tab.dataset.index);
-      if (idx !== currentBookIndex) switchBook(idx);
-    });
-  });
+function renderTabs(){
+  if(!data)return;
+  $('tabs').innerHTML=data.books.map((b,i)=>`<div class="btab${i===bi?' on':''}" data-i="${i}">${b.title_zh}</div>`).join('');
+  $('tabs').querySelectorAll('.btab').forEach(t=>t.addEventListener('click',()=>{const i=+t.dataset.i;if(i!==bi)sw(i)}));
 }
 
-function switchBook(index) {
-  currentBookIndex = index;
-  renderBookTabs();
-  renderBook();
+function sw(i){bi=i;renderTabs();renderCard();updateReadBtn()}
+
+function renderCard(){
+  if(!data)return;
+  const b=data.books[bi];
+  const dd=b.deep_dive.split('\n').filter(p=>p.trim()).map(p=>'<p>'+p+'</p>').join('');
+  $('cardBox').innerHTML=`<div class="card"><div class="cat">${b.category}</div><div class="t">${b.title_zh}</div><div class="te">${b.title_en}</div><div class="au">${b.author_zh} (${b.author_en}) · ${b.year}</div><div class="ol">${b.one_liner}</div><div class="dd">${dd}</div></div>`;
+  updateReadBtn();
 }
 
-function renderBook() {
-  if (!currentData) return;
-  const book = currentData.books[currentBookIndex];
-  const deepDive = book.deep_dive.split('\n').filter(p => p.trim()).map(p => `<p>${p}</p>`).join('');
-  cardContainer.innerHTML = `
-    <div class="card">
-      <div class="category">${book.category}</div>
-      <div class="book-title">${book.title_zh}</div>
-      <div class="book-title-en">${book.title_en}</div>
-      <div class="author">${book.author_zh} (${book.author_en}) · ${book.year}</div>
-      <div class="one-liner">${book.one_liner}</div>
-      <div class="deep-dive">${deepDive}</div>
-    </div>`;
+function openQ(){
+  if(!data)return;qi=0;renderQ();
+  $('modal').classList.add('on');document.body.style.overflow='hidden';
 }
-
-function openQuotes() {
-  if (!currentData) return;
-  currentQuoteIndex = 0;
-  renderQuoteCard();
-  quoteModal.classList.add('active');
-  document.body.style.overflow = 'hidden';
+function renderQ(){
+  if(!data)return;
+  const b=data.books[bi],qs=b.quotes;
+  $('qCards').innerHTML=qs.map((q,i)=>`<div class="qcard" style="display:${i===qi?'block':'none'}"><div class="qm">\u201C</div><div class="qt">${q.text}</div><div class="qc">${q.context}</div><div class="qs">\u2014\u2014 ${b.title_zh}</div></div>`).join('');
+  const nav=$('qNav');
+  nav.innerHTML=qs.map((_,i)=>`<div class="qd${i===qi?' on':''}" data-i="${i}"></div>`).join('');
+  nav.querySelectorAll('.qd').forEach(d=>d.addEventListener('click',()=>{qi=+d.dataset.i;renderQ()}));
 }
-
-function renderQuoteCard() {
-  if (!currentData) return;
-  const book = currentData.books[currentBookIndex];
-  const quotes = book.quotes;
-  $('quoteCards').innerHTML = quotes.map((q, i) => `
-    <div class="quote-card" style="display:${i === currentQuoteIndex ? 'block' : 'none'}">
-      <div class="quote-mark">\u201C</div>
-      <div class="quote-text">${q.text}</div>
-      <div class="quote-context">${q.context}</div>
-      <div class="quote-source">\u2014\u2014 ${book.title_zh} (${book.title_en})</div>
-    </div>
-  `).join('');
-
-  const nav = $('quoteNav');
-  nav.innerHTML = quotes.map((_, i) =>
-    `<div class="q-dot ${i === currentQuoteIndex ? 'active' : ''}" data-index="${i}"></div>`
-  ).join('');
-  nav.querySelectorAll('.q-dot').forEach(dot => {
-    dot.addEventListener('click', () => {
-      currentQuoteIndex = parseInt(dot.dataset.index);
-      renderQuoteCard();
-    });
-  });
+function navQ(dir){
+  if(!data)return;
+  const n=qi+dir;
+  if(n>=0&&n<data.books[bi].quotes.length){qi=n;renderQ()}
 }
-
-function navigateQuote(dir) {
-  if (!currentData) return;
-  const book = currentData.books[currentBookIndex];
-  const newIdx = currentQuoteIndex + dir;
-  if (newIdx >= 0 && newIdx < book.quotes.length) {
-    currentQuoteIndex = newIdx;
-    renderQuoteCard();
-  }
-}
-
-function closeQuotes() {
-  quoteModal.classList.remove('active');
-  document.body.style.overflow = '';
-}
+function closeQ(){$('modal').classList.remove('on');document.body.style.overflow=''}
 
 init();
 </script>
