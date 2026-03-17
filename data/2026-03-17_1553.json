@@ -1,0 +1,94 @@
+{
+  "date": "2026-03-17",
+  "books": [
+    {
+      "title_zh": "技术垄断：文化向技术投降",
+      "title_en": "Technopoly: The Surrender of Culture to Technology",
+      "author_zh": "尼尔·波兹曼",
+      "author_en": "Neil Postman",
+      "year": "1992",
+      "category": "社会批评",
+      "one_liner": "当技术不再服务于文化，而是文化臣服于技术，我们便进入了技术垄断的时代。",
+      "deep_dive": "你有没有想过，为什么我们总觉得「新的就是好的」？为什么一个APP说你今天走了8000步，你就真的觉得自己健康了？Neil Postman在《Technopoly》里说，这就是技术垄断的症状——我们已经不知不觉地把判断力交给了技术。\n\n这本书写于1992年，那时候互联网还没普及，智能手机更是天方夜谭。但波兹曼像个预言家一样，精准地描述了我们今天的处境。他把人类社会分成三个阶段：工具使用文化（技术服务于人）、技术统治文化（技术开始挑战传统）、技术垄断文化（技术吞噬一切其他叙事）。美国，在他看来，是世界上第一个完全进入技术垄断的社会。\n\n波兹曼最犀利的洞察在于：技术垄断不是靠暴力实现的，而是靠「信息过载」。当信息多到你根本无法处理时，你就不得不依赖技术来帮你筛选、排序、做决定。想想今天的算法推荐、大数据决策、AI辅助诊断——我们不是在使用工具，我们是在让工具定义什么是重要的。\n\n他特别批评了一种他称为「科学主义」的东西：把科学方法当成唯一合法的认知方式，用数字和数据取代判断力和智慧。SAT分数决定你能上什么大学，IQ测试定义你是不是聪明人，民调数据告诉政客该说什么——这些都是技术垄断的表现。数字给了我们确定感，但这种确定感往往是虚假的。\n\n读这本书最大的冲击是，你会开始反思自己习以为常的东西。我们总以为技术是中性的，用好用坏看人。波兹曼说不是这样，每一种技术都内嵌了一套价值观，它会悄悄改变你思考的方式。印刷术改变了人们理解知识的方式，电视改变了公共话语的本质，而计算机正在改变我们理解「真实」的方式。\n\n三十多年过去了，这本书不但没有过时，反而越来越像一本操作手册。如果你每天花六个小时刷手机，如果你已经不记得上一次不靠GPS导航是什么时候，如果你觉得没有被量化的东西就不算数——那你应该读读这本书。不是为了反对技术，而是为了记住，在技术之外，我们还有别的方式理解这个世界。",
+      "quotes": [
+        {
+          "text": "Technology ... is a strange intruder. It enters a culture not as a friend but as a censor. It is not something to be embraced lightheartedly.",
+          "context": "波兹曼在开篇就警告读者，技术从来不是中性的工具，每一种新技术进入文化时，都会淘汰一些旧的思维方式和社会实践。"
+        },
+        {
+          "text": "Technopoly eliminates alternatives to itself in precisely the way Aldous Huxley outlined in Brave New World. It does not make them illegal. It does not make them immoral. It does not even make them unpopular. It makes them invisible and therefore irrelevant.",
+          "context": "这是全书最著名的段落之一。技术垄断的可怕之处不在于压制异见，而在于让人们根本看不到还有其他选择。"
+        },
+        {
+          "text": "The uncontrolled growth of technology destroys the vital sources of our humanity. It creates a culture without a moral foundation.",
+          "context": "波兹曼总结技术垄断的核心危害：当技术增长不受约束时，它摧毁的不是物质基础，而是人类赖以维系意义的道德和文化根基。"
+        },
+        {
+          "text": "We are a people on the verge of amusing ourselves to death.",
+          "context": "呼应他前一本著作《娱乐至死》的核心论点，指出技术垄断社会中，信息娱乐化是消解严肃思考的主要机制。"
+        }
+      ]
+    },
+    {
+      "title_zh": "老人与海",
+      "title_en": "The Old Man and the Sea",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1952",
+      "category": "文学经典",
+      "one_liner": "一个老人、一条大鱼、一片大海，讲述的却是人类尊严最本质的故事。",
+      "deep_dive": "《老人与海》大概是最容易被低估的经典之一。很多人中学时读过，觉得不就是个老头钓鱼的故事嘛。但如果你在经历过一些挫败之后重读它，你会发现这本薄薄的小书里藏着海明威一辈子想说的话。\n\n故事简单到可以用一句话概括：古巴老渔夫圣地亚哥已经84天没钓到鱼了，第85天他出海，钓到了一条巨大的马林鱼，搏斗了三天三夜终于杀死了它，但在返航途中鱼被鲨鱼一点点吃光，他最终拖着一副巨大的鱼骨架回到港口。\n\n就这么个故事，海明威写了两年，改了两百多遍。\n\n这本书最打动人的地方在于，它写的不是胜利，而是失败中的尊严。圣地亚哥什么都没带回来，从实用角度看，他的一切努力都白费了。但海明威想说的是：价值不在结果里，而在过程中。老人独自面对大海，面对那条比他的船还长的鱼，面对一群又一群的鲨鱼，他从来没有放弃。不是因为他觉得自己能赢，而是因为放弃本身是不可接受的。\n\n海明威的文字风格在这本书里达到了极致。没有多余的形容词，没有心理描写，没有感伤。他就像一个拿着摄像机的人，只记录动作和对话。老人的手被鱼线割破了，他说「疼痛对一个男人来说不算什么」。鲨鱼来了，他用鱼叉打，鱼叉没了用刀绑在桨上打，刀断了用棍子打。每一个动作都是具体的、精确的，但加在一起却有一种史诗般的力量。\n\n很多人把这本书读成一个「永不放弃」的励志故事，但我觉得它比励志深刻得多。海明威写的是一种存在主义的处境：人终究会被打败，你钓到的鱼终究会被鲨鱼吃掉，你的努力终究可能化为乌有。但这不意味着努力没有意义。意义就在于你在那三天三夜里是怎样的人。\n\n1952年这本书出版后，海明威结束了长达十年的创作低谷，次年获得普利策奖，1954年获得诺贝尔文学奖。评委会特别提到了这部作品。这是海明威生前出版的最后一部重要小说，某种程度上，他自己也像圣地亚哥一样，在与时间和自我怀疑的搏斗中，带回了一副完美的骨架。",
+      "quotes": [
+        {
+          "text": "A man can be destroyed but not defeated.",
+          "context": "全书最核心的一句话。老人在与鲨鱼搏斗时的内心独白，区分了肉体的毁灭和精神的屈服——前者可以接受，后者绝不可以。"
+        },
+        {
+          "text": "Now is no time to think of what you do not have. Think of what you can do with what there is.",
+          "context": "老人的鱼叉被鲨鱼拖走后，他没有哀叹失去的武器，而是立刻评估手头还有什么可以用来战斗。这种务实的韧性贯穿全书。"
+        },
+        {
+          "text": "Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.",
+          "context": "老人在出海前与小男孩的对话。运气不可控，但准备工作可控——这是圣地亚哥作为一个老手艺人的信条。"
+        },
+        {
+          "text": "He was too simple to wonder when he had attained humility. But he knew he had attained it and he knew it was not disgraceful and it carried no loss of true pride.",
+          "context": "海明威对老人性格的精妙刻画：真正的谦逊不是自我贬低，而是对自己位置的清醒认知，这与骄傲并不矛盾。"
+        }
+      ]
+    },
+    {
+      "title_zh": "创新者的窘境",
+      "title_en": "The Innovator's Dilemma",
+      "author_zh": "克莱顿·克里斯坦森",
+      "author_en": "Clayton M. Christensen",
+      "year": "1997",
+      "category": "商业创新",
+      "one_liner": "管理越好的公司越容易被颠覆——这不是悖论，而是商业世界最残酷的规律。",
+      "deep_dive": "如果你在科技行业工作，或者对商业创新感兴趣，《The Innovator's Dilemma》几乎是必读书。但它之所以重要，不是因为它讲了什么新概念，而是因为它揭示了一个反直觉的真相：伟大的公司不是因为做错了什么才失败的，恰恰是因为做对了所有事才失败的。\n\n克里斯坦森是哈佛商学院的教授，他花了大量时间研究硬盘行业的历史。这个行业特别适合做研究，因为它技术迭代快、公司更替频繁、数据完整。他发现一个惊人的规律：每当硬盘尺寸缩小一级（从14英寸到8英寸到5.25英寸到3.5英寸），行业领导者几乎都会被新进入者取代。\n\n为什么？不是因为老公司技术不行，事实上它们的技术往往更好。问题在于，当一种新技术刚出现时，它在主流市场的标准下是「更差」的——容量更小、速度更慢。但它在某些边缘市场有优势，比如更小、更便宜。\n\n这时候，大公司的理性决策机制就会害死它们。它们听客户的话——客户说要更大容量，不要更小的盘。它们看利润率——新市场太小，不值得投入。它们做财务分析——数字说应该继续改进现有产品。每一步都是正确的管理决策，但最终结果是灾难性的。因为那个边缘市场会成长，那个「更差」的技术会改进，等大公司反应过来时，已经来不及了。\n\n克里斯坦森把这种现象叫做「颠覆性创新」（Disruptive Innovation），以区别于「持续性创新」（Sustaining Innovation）。持续性创新是在现有技术轨道上做得更好——大公司擅长这个。颠覆性创新是开辟一条新的技术轨道——大公司的组织结构、价值网络、决策流程都会阻碍它做这件事。\n\n这本书的案例不仅限于硬盘。挖掘机行业、钢铁行业、零售行业都遵循同样的模式。后来人们用这个框架解释了无数案例：Netflix颠覆Blockbuster，iPhone颠覆Nokia，数码相机颠覆柯达。\n\n对个人来说，这本书最有价值的启示是：不要只看当前的赢家在做什么。真正改变游戏规则的东西，在早期往往看起来像个玩具。当所有聪明人都告诉你某个新东西「不够好」的时候，也许恰恰应该多看它两眼。\n\n克里斯坦森2020年去世了，但他的这套理论已经成为商业思维的基础设施。无论你是创业者、投资人，还是在大公司里工作，理解创新者的窘境都能帮你看清一些别人看不见的东西。",
+      "quotes": [
+        {
+          "text": "Good management was the most powerful reason they failed to stay atop their industries. Precisely because these firms listened to their customers, invested aggressively in new technologies, and carefully studied market trends, they lost their positions of leadership.",
+          "context": "全书的核心悖论在开篇就摆了出来。好的管理不是万能药，在面对颠覆性创新时，传统的管理智慧反而变成了束缚。"
+        },
+        {
+          "text": "The logical, competent decisions of management that are critical to the success of their companies are also the reasons why they lose their positions of leadership.",
+          "context": "克里斯坦森反复强调，大公司的失败不是因为傲慢或愚蠢，而是因为它们的决策框架本身存在盲区——这使得问题更加棘手。"
+        },
+        {
+          "text": "Disruptive technologies typically are first commercialized in emerging or insignificant markets.",
+          "context": "颠覆性技术不会一上来就进攻主流市场，它们总是先在大公司看不上的边缘市场扎根，这也是为什么大公司的雷达探测不到它们。"
+        },
+        {
+          "text": "Markets that do not exist cannot be analyzed.",
+          "context": "克里斯坦森指出传统市场分析工具的根本局限：对于尚未存在的市场，你无法用数据和调研来验证它的潜力，这要求一种完全不同的决策方式。"
+        },
+        {
+          "text": "Small markets don't solve the growth needs of large companies.",
+          "context": "解释了为什么大公司会系统性地忽视颠覆性创新：即使看到了新市场，其规模对大公司的营收贡献也微不足道，在资源分配中自然会被边缘化。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-17_1553"
+}
