@@ -109,7 +109,8 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 .shelf-header .arrow.open{transform:rotate(90deg)}
 .shelf-list{display:none;padding-bottom:16px}
 .shelf-list.open{display:block}
-.shelf-item{padding:10px 14px;background:#151515;border-radius:10px;margin-bottom:6px;display:flex;justify-content:space-between;align-items:center}
+.shelf-item{padding:10px 14px;background:#151515;border-radius:10px;margin-bottom:6px;display:flex;justify-content:space-between;align-items:center;cursor:pointer;transition:all .2s;border-left:2px solid transparent}
+.shelf-item:hover{background:#1a1a1a;border-left-color:#c9a96e}
 .shelf-item .si-info{flex:1}
 .shelf-item .si-title{font-size:14px;color:#ccc}
 .shelf-item .si-meta{font-size:11px;color:#555;margin-top:2px;font-family:'Inter',sans-serif}
@@ -238,12 +239,21 @@ function renderShelf(){
   $('shelfCnt').textContent=s.length;
   if(!s.length){$('shelfList').innerHTML='<div class="shelf-empty">还没有标记已读的书</div>';return}
   $('shelfList').innerHTML=s.map(b=>`
-    <div class="shelf-item">
+    <div class="shelf-item" data-title="${b.title_zh}" data-date="${b.date}">
       <div class="si-info"><div class="si-title">${b.title_zh}</div><div class="si-meta">${b.category} · ${b.author_zh} · ${b.date}</div></div>
       <button class="si-rm" data-t="${b.title_zh}">&times;</button>
     </div>`).join('');
-  $('shelfList').querySelectorAll('.si-rm').forEach(btn=>btn.addEventListener('click',()=>removeFromShelf(btn.dataset.t)));
+  $('shelfList').querySelectorAll('.si-rm').forEach(btn=>btn.addEventListener('click',e=>{e.stopPropagation();removeFromShelf(btn.dataset.t)}));
+  $('shelfList').querySelectorAll('.shelf-item').forEach(item=>item.addEventListener('click',()=>openShelfBook(item.dataset.date,item.dataset.title)));
 }
+async function openShelfBook(date,title){
+  await load(date);
+  if(!data)return;
+  const idx=data.books.findIndex(b=>b.title_zh===title);
+  if(idx>=0)sw(idx);
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
 function updateReadBtn(){
   if(!data)return;
   const b=data.books[bi],btn=$('rBtn');
