@@ -172,33 +172,41 @@ def run_claude(prompt):
     entry_id = make_id()
     generation_status[entry_id] = 'running'
     def _run():
-        try:
-            result = subprocess.run(
-                [CLAUDE, "-p", "--model", "haiku", prompt],
-                cwd=ROOT, capture_output=True, text=True, timeout=300,
-                env={**os.environ, 'NO_COLOR': '1'}
-            )
-            output = result.stdout.strip()
-            start = output.find('{')
-            end = output.rfind('}') + 1
-            if start >= 0 and end > start:
-                data = repair_json(output[start:end])
-                data['id'] = entry_id
-                path = os.path.join(DATA, f"{entry_id}.json")
-                with open(path, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-                update_index(entry_id)
-                subprocess.run(["git", "add", "data/"], cwd=ROOT)
-                subprocess.run(["git", "commit", "-m", f"Add books {entry_id}"], cwd=ROOT)
-                subprocess.run(["git", "push"], cwd=ROOT)
-                generation_status[entry_id] = 'done'
-                print(f"[done] {entry_id}")
-            else:
-                generation_status[entry_id] = 'error'
-                print(f"[error] No JSON in output: {output[:200]}")
-        except Exception as e:
-            generation_status[entry_id] = 'error'
-            print(f"[error] {e}")
+        for attempt in range(2):
+            try:
+                print(f"[run] attempt {attempt+1} for {entry_id}", flush=True)
+                result = subprocess.run(
+                    [CLAUDE, "-p", "--model", "haiku", prompt],
+                    cwd=ROOT, capture_output=True, text=True, timeout=300,
+                    env={**os.environ, 'NO_COLOR': '1'}
+                )
+                output = result.stdout.strip()
+                # Save raw output for debugging
+                with open(os.path.join(DATA, f".debug_{entry_id}.txt"), 'w') as df:
+                    df.write(output)
+                start = output.find('{')
+                end = output.rfind('}') + 1
+                if start >= 0 and end > start:
+                    data = repair_json(output[start:end])
+                    if 'books' not in data:
+                        raise ValueError("JSON missing 'books' key")
+                    data['id'] = entry_id
+                    path = os.path.join(DATA, f"{entry_id}.json")
+                    with open(path, 'w', encoding='utf-8') as f:
+                        json.dump(data, f, ensure_ascii=False, indent=2)
+                    update_index(entry_id)
+                    subprocess.run(["git", "add", "data/"], cwd=ROOT)
+                    subprocess.run(["git", "commit", "-m", f"Add books {entry_id}"], cwd=ROOT)
+                    subprocess.run(["git", "push"], cwd=ROOT)
+                    generation_status[entry_id] = 'done'
+                    print(f"[done] {entry_id}", flush=True)
+                    return  # success
+                else:
+                    print(f"[retry] No JSON found, attempt {attempt+1}", flush=True)
+            except Exception as e:
+                print(f"[retry] {e}, attempt {attempt+1}", flush=True)
+        generation_status[entry_id] = 'error'
+        print(f"[error] All attempts failed for {entry_id}", flush=True)
     threading.Thread(target=_run, daemon=True).start()
     return entry_id
 
