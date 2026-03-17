@@ -291,12 +291,37 @@ $('wrBtn').addEventListener('click',()=>{
 // Bridge API - only works on localhost
 const isLocal=location.hostname==='localhost'||location.hostname==='127.0.0.1';
 
+let polling=false;
+function pollForUpdate(){
+  if(polling)return;
+  polling=true;
+  let mtime0=0;
+  fetch('/api/status').then(r=>r.json()).then(d=>{mtime0=d.mtime||0}).catch(()=>{});
+  let tries=0;
+  const iv=setInterval(()=>{
+    tries++;
+    fetch('/api/status').then(r=>r.json()).then(d=>{
+      if(d.ready&&d.mtime>mtime0){
+        clearInterval(iv);polling=false;
+        toast('生成完成！');
+        load(new Date().toISOString().split('T')[0]);
+        scanHistory().then(()=>renderHist());
+      }else if(tries>40){
+        clearInterval(iv);polling=false;
+        toast('生成超时，请刷新页面');
+      }
+    }).catch(()=>{});
+  },3000);
+}
+async function scanHistory(){
+  try{const r=await fetch(D+'index.json');if(r.ok)dates=(await r.json()).sort().reverse()}catch{dates=[]}
+}
 function callBridge(apiPath,fallbackCmd){
   if(isLocal){
     toast('正在生成，请稍候...');
     fetch(apiPath).then(r=>r.json()).then(()=>{
-      toast('Claude 正在后台生成，约1分钟后自动刷新');
-      setTimeout(()=>location.reload(),60000);
+      toast('Claude 后台生成中，完成后自动刷新...');
+      pollForUpdate();
     }).catch(()=>toast('生成请求失败'));
   }else{
     navigator.clipboard.writeText(fallbackCmd).then(()=>toast('已复制命令，粘贴到终端运行')).catch(()=>toast(fallbackCmd));
