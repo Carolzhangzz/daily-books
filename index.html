@@ -152,6 +152,17 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 .qnav .qd.on{background:#c9a96e}
 
 /* Toast */
+/* Progress bar */
+.progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:300;pointer-events:none}
+.progress-bar{height:100%;background:linear-gradient(90deg,#c9a96e,#e8c97e,#c9a96e);background-size:200% 100%;width:0;transition:width .3s;animation:shimmer 1.5s infinite}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+.progress-text{position:fixed;top:8px;right:16px;font-family:'Inter',sans-serif;font-size:11px;color:#c9a96e;z-index:300;opacity:0;transition:opacity .3s}
+.progress-text.on{opacity:1}
+
+/* Card skeleton */
+.skeleton{animation:pulse 1.5s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+
 .toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#c9a96e;color:#0f0f0f;padding:10px 20px;border-radius:10px;font-size:13px;font-weight:600;z-index:200;opacity:0;transition:opacity .3s;pointer-events:none;white-space:nowrap}
 .toast.on{opacity:1}
 </style>
@@ -218,6 +229,8 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
     <div class="qnav" id="qNav"></div>
   </div>
 </div>
+<div class="progress" id="prog"><div class="progress-bar" id="progBar"></div></div>
+<div class="progress-text" id="progText"></div>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -298,51 +311,69 @@ $('wrBtn').addEventListener('click',()=>{
 // Bridge API - only works on localhost
 const isLocal=location.hostname==='localhost'||location.hostname==='127.0.0.1';
 
+// --- Progress system ---
+const progBar=$('progBar'),progText=$('progText');
 let polling=false;
+
+function showProgress(pct,text){
+  progBar.style.width=Math.min(pct,95)+'%';
+  if(text){progText.textContent=text;progText.classList.add('on')}
+}
+function hideProgress(){
+  progBar.style.width='100%';
+  setTimeout(()=>{progBar.style.transition='none';progBar.style.width='0';setTimeout(()=>{progBar.style.transition='width .3s'},50)},300);
+  progText.classList.remove('on');
+}
+
 function pollForUpdate(eid){
   if(polling)return;
   polling=true;
-  const startTime=Date.now();
+  const t0=Date.now();
   let tries=0;
-  toast('Claude 后台生成中...');
+  showProgress(5,'准备中...');
   const iv=setInterval(()=>{
     tries++;
+    const elapsed=Math.round((Date.now()-t0)/1000);
+    // Simulate progress (Claude usually takes 30-60s)
+    const pct=Math.min(5+tries*1.5,90);
+    showProgress(pct,'生成中 '+elapsed+'s');
     fetch('/api/status?id='+encodeURIComponent(eid)).then(r=>r.json()).then(d=>{
       if(d.ready){
         clearInterval(iv);polling=false;
-        toast('生成完成！');
+        showProgress(100,'完成！');
+        setTimeout(hideProgress,800);
         scanHistory().then(()=>{renderHist();load(eid)});
       }else if(tries>60){
         clearInterval(iv);polling=false;
+        hideProgress();
         toast('超时了，试试刷新页面');
-      }else if(tries%5===0){
-        toast('还在生成中... ('+Math.round((Date.now()-startTime)/1000)+'s)');
       }
     }).catch(()=>{});
   },2000);
 }
+
 async function scanHistory(){
-  try{const r=await fetch(D+'index.json');if(r.ok)dates=(await r.json()).sort().reverse()}catch{dates=[]}
+  try{const r=await fetch(D+'index.json?t='+Date.now());if(r.ok)dates=(await r.json()).sort().reverse()}catch{dates=[]}
 }
+
 function callBridge(apiPath,fallbackCmd){
   if(isLocal){
-    toast('正在生成...');
+    showProgress(3,'提交请求...');
     fetch(apiPath).then(r=>{
       if(!r.ok)throw new Error('HTTP '+r.status);
       return r.json();
     }).then(d=>{
       if(d.id){
-        toast('已提交生成 ('+d.id+')，等待完成...');
         pollForUpdate(d.id);
       }else{
-        toast('返回数据异常: '+JSON.stringify(d));
+        hideProgress();
+        toast('返回异常');
       }
-    }).catch(e=>toast('请求失败: '+e.message));
+    }).catch(e=>{hideProgress();toast('请求失败: '+e.message)});
   }else{
     navigator.clipboard.writeText(fallbackCmd).then(()=>toast('已复制命令，粘贴到终端运行')).catch(()=>toast(fallbackCmd));
   }
 }
-// Show mode indicator
 if(isLocal){document.querySelector('.footer').textContent='LOCAL MODE · POWERED BY CLAUDE CODE'}
 
 // Auto-browse mode
@@ -373,12 +404,15 @@ $('moreBtn').addEventListener('click',()=>{
   const existing=document.querySelector('.ext');
   if(existing){existing.remove();btn.textContent='看更多';return}
   if(!isLocal){toast('请在本地模式使用');return}
-  btn.textContent='生成中（约30秒）...';btn.classList.add('loading');
-  toast('正在为《'+b.title_zh+'》生成更多内容...');
+  btn.textContent='生成中...';btn.classList.add('loading');
+  showProgress(5,'正在为《'+b.title_zh+'》生成更多内容...');
+  // Simulate extend progress
+  let ep=5;const et0=Date.now();const eiv=setInterval(()=>{ep=Math.min(ep+2,90);showProgress(ep,'生成更多内容 '+Math.round((Date.now()-et0)/1000)+'s')},1000);
   const ctrl=new AbortController();
   const timer=setTimeout(()=>ctrl.abort(),120000);
   fetch('/api/extend?book='+encodeURIComponent(b.title_zh),{signal:ctrl.signal}).then(r=>r.json()).then(d=>{
-    clearTimeout(timer);
+    clearTimeout(timer);clearInterval(eiv);
+    showProgress(100,'完成！');setTimeout(hideProgress,800);
     btn.classList.remove('loading');
     if(d.extended){
       btn.textContent='收起';
@@ -397,7 +431,7 @@ $('moreBtn').addEventListener('click',()=>{
       toast('生成失败: '+(d.error||'未知错误'));
     }
   }).catch(e=>{
-    clearTimeout(timer);
+    clearTimeout(timer);clearInterval(eiv);hideProgress();
     btn.textContent='看更多';btn.classList.remove('loading');
     toast('请求失败: '+e.message);
   });
