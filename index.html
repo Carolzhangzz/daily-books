@@ -81,6 +81,12 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 .btn-wr:hover{border-color:#4a9}
 .btn-more{background:#151515;color:#a9a;border:1px solid #333}
 .btn-more:hover{border-color:#c9a96e;color:#c9a96e}
+.btn-more.loading{opacity:.5;pointer-events:none}
+.ext{margin-top:16px;padding:20px 22px;background:#161616;border-radius:16px;border:1px solid #222;font-size:14px;line-height:1.8;color:#bbb}
+.ext h4{color:#c9a96e;font-size:13px;letter-spacing:1px;margin:16px 0 8px;text-transform:uppercase}
+.ext h4:first-child{margin-top:0}
+.ext p{margin-bottom:8px}
+.ext .eq{color:#999;font-style:italic;padding-left:12px;border-left:2px solid #333;margin:6px 0}
 
 /* Generate section */
 .gen{padding:20px 24px;margin-top:12px;border-top:1px solid #1a1a1a}
@@ -183,6 +189,7 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
       <button class="btn-gen" id="genBtn">随机三本</button>
       <button class="btn-spec" id="specBtn">指定这本</button>
     </div>
+    <button class="btn-auto" id="autoBtn" style="margin-top:10px;width:100%;padding:12px;border-radius:12px;font-size:14px;cursor:pointer;border:1px solid #333;background:#151515;color:#888;transition:all .2s">自动浏览模式</button>
   </div>
 
   <!-- Bookshelf -->
@@ -319,21 +326,67 @@ async function scanHistory(){
 }
 function callBridge(apiPath,fallbackCmd){
   if(isLocal){
-    toast('正在生成，请稍候...');
-    fetch(apiPath).then(r=>r.json()).then(d=>{
-      if(d.id)pollForUpdate(d.id);
-      else toast('生成请求失败');
-    }).catch(()=>toast('生成请求失败'));
+    toast('正在生成...');
+    fetch(apiPath).then(r=>{
+      if(!r.ok)throw new Error('HTTP '+r.status);
+      return r.json();
+    }).then(d=>{
+      if(d.id){
+        toast('已提交生成 ('+d.id+')，等待完成...');
+        pollForUpdate(d.id);
+      }else{
+        toast('返回数据异常: '+JSON.stringify(d));
+      }
+    }).catch(e=>toast('请求失败: '+e.message));
   }else{
     navigator.clipboard.writeText(fallbackCmd).then(()=>toast('已复制命令，粘贴到终端运行')).catch(()=>toast(fallbackCmd));
   }
 }
+// Show mode indicator
+if(isLocal){document.querySelector('.footer').textContent='LOCAL MODE · POWERED BY CLAUDE CODE'}
 
-// More content
+// Auto-browse mode
+let autoTimer=null;
+$('autoBtn').addEventListener('click',()=>{
+  const btn=$('autoBtn');
+  if(autoTimer){
+    clearInterval(autoTimer);autoTimer=null;
+    btn.textContent='自动浏览模式';btn.style.borderColor='#333';btn.style.color='#888';
+    toast('自动浏览已关闭');
+  }else{
+    if(!isLocal){toast('请在本地模式使用');return}
+    btn.textContent='停止自动浏览';btn.style.borderColor='#c9a96e';btn.style.color='#c9a96e';
+    toast('自动浏览已开启');
+    // Generate first batch immediately
+    $('genBtn').click();
+    // Then every 90 seconds (enough time for claude to finish)
+    autoTimer=setInterval(()=>{$('genBtn').click()},90000);
+  }
+});
+
+// More content - extends current card inline
 $('moreBtn').addEventListener('click',()=>{
   if(!data)return;
   const b=data.books[bi];
-  callBridge('/api/more?book='+encodeURIComponent(b.title_zh),'/daily-books '+b.title_zh);
+  const btn=$('moreBtn');
+  if(document.querySelector('.ext')){return}// already showing
+  if(!isLocal){toast('请在本地模式使用');return}
+  btn.textContent='生成中...';btn.classList.add('loading');
+  fetch('/api/extend?book='+encodeURIComponent(b.title_zh)).then(r=>r.json()).then(d=>{
+    btn.textContent='看更多';btn.classList.remove('loading');
+    if(d.extended){
+      const e=d.extended;
+      const html=`<div class="ext">
+        <h4>深层主题</h4>${e.themes.split('\\n').map(t=>'<p>'+t+'</p>').join('')}
+        <h4>思考问题</h4>${e.questions.split('\\n').map(q=>'<p class="eq">'+q+'</p>').join('')}
+        <h4>作者故事</h4><p>${e.author_story}</p>
+        <h4>相关推荐</h4>${e.related.split('\\n').map(r=>'<p>'+r+'</p>').join('')}
+      </div>`;
+      $('cardBox').insertAdjacentHTML('beforeend',html);
+    }else{
+      toast('生成失败: '+(d.error||'未知错误'));
+    }
+  }).catch(e=>{btn.textContent='看更多';btn.classList.remove('loading');toast('请求失败: '+e.message)});
 });
 
 // Generate

@@ -13,6 +13,9 @@ BOOK_LIST = """文学: 百年孤独,局外人,卡拉马佐夫兄弟,罪与罚,�
 科学: 自私的基因,思考快与慢,哥德尔艾舍尔巴赫,时间简史,系统之美,复杂,失控,必然,黑天鹅,反脆弱,心流,进化心理学,人类的误测
 商业: 创新者的窘境,从零到一,原则,穷查理宝典,黑客与画家,设计心理学,硅谷钢铁侠,鞋狗,基业长青,信号与噪声"""
 
+EXTEND_TPL = """为《{book}》生成补充阅读内容。中文回答，输出严格JSON（不要markdown代码块）：
+{{"themes":"3-5个深层主题，每个主题2-3句话展开，用\\n分段","questions":"3个引发思考的问题，帮助读者深入理解，用\\n分隔","author_story":"关于作者的一个有趣故事或背景（150-200字）","related":"3本相关推荐书籍，每本一句话说明为什么相关，用\\n分隔"}}"""
+
 PROMPT_TPL = """你是一个书籍推荐生成器。为以下书籍生成详细的中文推荐内容。
 
 要求：
@@ -115,6 +118,29 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         if parsed.path == "/api/health":
             return self._json({"ok": True})
 
+        if parsed.path == "/api/extend":
+            book = params.get("book", [""])[0]
+            if not book:
+                return self._json({"error": "missing book"}, 400)
+            prompt = EXTEND_TPL.format(book=book)
+            try:
+                result = subprocess.run(
+                    [CLAUDE, "-p", prompt],
+                    cwd=ROOT, capture_output=True, text=True, timeout=90,
+                    env={**os.environ, 'NO_COLOR': '1'}
+                )
+                output = result.stdout.strip()
+                start = output.find('{')
+                end = output.rfind('}') + 1
+                if start >= 0 and end > start:
+                    ext = json.loads(output[start:end])
+                    return self._json({"ok": True, "book": book, "extended": ext})
+                return self._json({"error": "no JSON in response"}, 500)
+            except subprocess.TimeoutExpired:
+                return self._json({"error": "timeout"}, 504)
+            except Exception as e:
+                return self._json({"error": str(e)}, 500)
+
         if parsed.path == "/api/more":
             book = params.get("book", [""])[0]
             if not book:
@@ -150,12 +176,13 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         self.wfile.write(json.dumps(data).encode())
 
     def log_message(self, fmt, *args):
-        msg = str(args[0]) if args else ''
-        if '/api/' in msg:
-            print(f"[api] {msg}")
+        print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {fmt % args}")
 
 if __name__ == "__main__":
+    import sys
+    sys.stdout.reconfigure(line_buffering=True)
+    sys.stderr.reconfigure(line_buffering=True)
     os.makedirs(DATA, exist_ok=True)
     s = http.server.HTTPServer(("127.0.0.1", PORT), Handler)
-    print(f"拾页 running at http://localhost:{PORT}")
+    print(f"拾页 running at http://localhost:{PORT}", flush=True)
     s.serve_forever()
