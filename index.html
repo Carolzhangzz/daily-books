@@ -369,24 +369,38 @@ $('moreBtn').addEventListener('click',()=>{
   if(!data)return;
   const b=data.books[bi];
   const btn=$('moreBtn');
-  if(document.querySelector('.ext')){return}// already showing
+  // If already showing extended content, toggle it off
+  const existing=document.querySelector('.ext');
+  if(existing){existing.remove();btn.textContent='看更多';return}
   if(!isLocal){toast('请在本地模式使用');return}
-  btn.textContent='生成中...';btn.classList.add('loading');
-  fetch('/api/extend?book='+encodeURIComponent(b.title_zh)).then(r=>r.json()).then(d=>{
-    btn.textContent='看更多';btn.classList.remove('loading');
+  btn.textContent='生成中（约30秒）...';btn.classList.add('loading');
+  toast('正在为《'+b.title_zh+'》生成更多内容...');
+  const ctrl=new AbortController();
+  const timer=setTimeout(()=>ctrl.abort(),120000);
+  fetch('/api/extend?book='+encodeURIComponent(b.title_zh),{signal:ctrl.signal}).then(r=>r.json()).then(d=>{
+    clearTimeout(timer);
+    btn.classList.remove('loading');
     if(d.extended){
+      btn.textContent='收起';
       const e=d.extended;
+      const fmt=s=>(s||'').split(/\\n|\n/).filter(x=>x.trim()).map(t=>'<p>'+t+'</p>').join('');
       const html=`<div class="ext">
-        <h4>深层主题</h4>${e.themes.split('\\n').map(t=>'<p>'+t+'</p>').join('')}
-        <h4>思考问题</h4>${e.questions.split('\\n').map(q=>'<p class="eq">'+q+'</p>').join('')}
-        <h4>作者故事</h4><p>${e.author_story}</p>
-        <h4>相关推荐</h4>${e.related.split('\\n').map(r=>'<p>'+r+'</p>').join('')}
+        <h4>深层主题</h4>${fmt(e.themes)}
+        <h4>思考问题</h4>${(e.questions||'').split(/\\n|\n/).filter(x=>x.trim()).map(q=>'<p class="eq">'+q+'</p>').join('')}
+        <h4>作者故事</h4><p>${e.author_story||''}</p>
+        <h4>相关推荐</h4>${fmt(e.related)}
       </div>`;
       $('cardBox').insertAdjacentHTML('beforeend',html);
+      document.querySelector('.ext').scrollIntoView({behavior:'smooth',block:'start'});
     }else{
+      btn.textContent='看更多';
       toast('生成失败: '+(d.error||'未知错误'));
     }
-  }).catch(e=>{btn.textContent='看更多';btn.classList.remove('loading');toast('请求失败: '+e.message)});
+  }).catch(e=>{
+    clearTimeout(timer);
+    btn.textContent='看更多';btn.classList.remove('loading');
+    toast('请求失败: '+e.message);
+  });
 });
 
 // Generate
@@ -504,7 +518,7 @@ function renderTabs(){
   $('tabs').querySelectorAll('.btab').forEach(t=>t.addEventListener('click',()=>{const i=+t.dataset.i;if(i!==bi)sw(i)}));
 }
 
-function sw(i){bi=i;renderTabs();renderCard();updateReadBtn()}
+function sw(i){bi=i;renderTabs();renderCard();updateReadBtn();$('moreBtn').textContent='看更多';$('moreBtn').classList.remove('loading')}
 
 function renderCard(){
   if(!data)return;
