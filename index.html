@@ -26,7 +26,8 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
   .card .t{font-size:26px}
   .card .dd{font-size:16px;line-height:2}
   .gen{grid-column:2;grid-row:3/5;padding:0;margin:0;border-top:none;border-left:1px solid #1a1a1a;padding-left:32px;align-self:start;position:sticky;top:24px}
-  .shelf{grid-column:1/-1;padding:0;margin-top:32px;border-top:1px solid #1a1a1a;padding-top:8px}
+  .notes-sec{grid-column:1/-1;padding:0;margin-top:24px;border-top:1px solid #1a1a1a}
+  .shelf{grid-column:1/-1;padding:0;margin-top:16px;border-top:1px solid #1a1a1a;padding-top:8px}
   .hist{grid-column:1/-1;padding:0;margin-top:16px;border-top:1px solid #1a1a1a}
   .footer{grid-column:1/-1}
   .actions button{padding:10px 16px;font-size:13px}
@@ -163,6 +164,45 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 .skeleton{animation:pulse 1.5s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 
+/* Highlight toolbar */
+.hl-bar{position:absolute;background:#252525;border:1px solid #c9a96e;border-radius:10px;padding:4px;display:none;z-index:50;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.hl-bar.on{display:flex;gap:2px}
+.hl-bar button{background:none;border:none;color:#ccc;padding:6px 10px;border-radius:8px;cursor:pointer;font-size:13px;white-space:nowrap}
+.hl-bar button:hover{background:#333;color:#c9a96e}
+mark.hl{background:rgba(201,169,110,.25);border-bottom:2px solid #c9a96e;cursor:pointer;border-radius:2px}
+
+/* Notes panel */
+.notes-sec{padding:0 24px;margin-top:16px;border-top:1px solid #1a1a1a}
+.notes-header{display:flex;justify-content:space-between;align-items:center;padding:16px 0;cursor:pointer}
+.notes-header h3{font-size:13px;color:#555;letter-spacing:2px}
+.notes-header .cnt{font-family:'Inter',sans-serif;font-size:12px;color:#e8c97e;background:#2a2818;padding:2px 10px;border-radius:10px}
+.notes-header .arrow{color:#555;font-size:14px;transition:transform .2s}
+.notes-header .arrow.open{transform:rotate(90deg)}
+.notes-list{display:none;padding-bottom:16px}
+.notes-list.open{display:block}
+.note-item{padding:12px 14px;background:#151515;border-radius:10px;margin-bottom:8px;border-left:3px solid #c9a96e}
+.note-item .ni-hl{font-size:14px;color:#c9a96e;line-height:1.6;margin-bottom:6px;font-style:italic}
+.note-item .ni-note{font-size:13px;color:#bbb;line-height:1.5}
+.note-item .ni-meta{font-size:11px;color:#555;margin-top:6px;display:flex;justify-content:space-between;font-family:'Inter',sans-serif}
+.note-item .ni-rm{background:none;border:none;color:#555;cursor:pointer;font-size:12px}
+.note-item .ni-rm:hover{color:#c66}
+.notes-export{margin-top:8px;padding:10px;width:100%;border-radius:10px;background:#1a1a1a;border:1px solid #333;color:#888;font-size:13px;cursor:pointer}
+.notes-export:hover{border-color:#c9a96e;color:#c9a96e}
+.notes-empty{color:#444;font-size:13px;text-align:center;padding:20px}
+
+/* Note input modal */
+.note-input-overlay{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.7);z-index:150;justify-content:center;align-items:center}
+.note-input-overlay.on{display:flex}
+.note-input-box{background:#1a1a1a;border:1px solid #333;border-radius:16px;padding:24px;width:340px;max-width:calc(100vw - 32px)}
+.note-input-box .nib-hl{font-size:14px;color:#c9a96e;line-height:1.6;margin-bottom:12px;padding:10px;background:#222;border-radius:8px;border-left:3px solid #c9a96e}
+.note-input-box textarea{width:100%;height:80px;background:#111;border:1px solid #333;border-radius:8px;color:#e8e6e3;font-size:14px;padding:10px;resize:none;outline:none;font-family:inherit}
+.note-input-box textarea:focus{border-color:#c9a96e}
+.note-input-box .nib-btns{display:flex;gap:8px;margin-top:12px}
+.note-input-box .nib-btns button{flex:1;padding:10px;border-radius:10px;font-size:14px;cursor:pointer}
+.nib-save{background:#c9a96e;border:none;color:#0f0f0f;font-weight:600}
+.nib-cancel{background:none;border:1px solid #333;color:#888}
+.nib-hl-only{background:none;border:1px solid #c9a96e;color:#c9a96e}
+
 .toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#c9a96e;color:#0f0f0f;padding:10px 20px;border-radius:10px;font-size:13px;font-weight:600;z-index:200;opacity:0;transition:opacity .3s;pointer-events:none;white-space:nowrap}
 .toast.on{opacity:1}
 </style>
@@ -203,6 +243,15 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
     <button class="btn-auto" id="autoBtn" style="margin-top:10px;width:100%;padding:12px;border-radius:12px;font-size:14px;cursor:pointer;border:1px solid #333;background:#151515;color:#888;transition:all .2s">自动浏览模式</button>
   </div>
 
+  <!-- Notes & Highlights -->
+  <div class="notes-sec">
+    <div class="notes-header" id="notesHead">
+      <h3>划 线 笔 记 <span class="cnt" id="notesCnt">0</span></h3>
+      <span class="arrow" id="notesArrow">&#9654;</span>
+    </div>
+    <div class="notes-list" id="notesList"></div>
+  </div>
+
   <!-- Bookshelf -->
   <div class="shelf">
     <div class="shelf-header" id="shelfHead">
@@ -227,6 +276,23 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
   <div class="modal-inner">
     <div id="qCards"></div>
     <div class="qnav" id="qNav"></div>
+  </div>
+</div>
+<!-- Highlight toolbar -->
+<div class="hl-bar" id="hlBar">
+  <button id="hlNote">+ 笔记</button>
+  <button id="hlOnly">划线</button>
+</div>
+<!-- Note input -->
+<div class="note-input-overlay" id="noteOverlay">
+  <div class="note-input-box">
+    <div class="nib-hl" id="nibHl"></div>
+    <textarea id="nibText" placeholder="写下你的想法..."></textarea>
+    <div class="nib-btns">
+      <button class="nib-cancel" id="nibCancel">取消</button>
+      <button class="nib-hl-only" id="nibHlOnly">仅划线</button>
+      <button class="nib-save" id="nibSave">保存笔记</button>
+    </div>
   </div>
 </div>
 <div class="progress" id="prog"><div class="progress-bar" id="progBar"></div></div>
@@ -496,9 +562,146 @@ document.addEventListener('keydown',e=>{
   }
 });
 
+// --- Highlights & Notes ---
+function getNotes(){try{return JSON.parse(LS.getItem('booknotes')||'[]')}catch{return[]}}
+function saveNotes(n){LS.setItem('booknotes',JSON.stringify(n))}
+
+let pendingHl='';
+const hlBar=$('hlBar'),noteOverlay=$('noteOverlay');
+
+// Show toolbar on text selection in card
+document.addEventListener('mouseup',e=>{
+  const sel=window.getSelection();
+  const text=sel.toString().trim();
+  if(!text||text.length<2){hlBar.classList.remove('on');return}
+  // Check if selection is inside card
+  const anchor=sel.anchorNode;
+  if(!anchor)return;
+  const card=anchor.parentElement?.closest?.('.card,.ext');
+  if(!card){hlBar.classList.remove('on');return}
+  pendingHl=text;
+  const range=sel.getRangeAt(0);
+  const rect=range.getBoundingClientRect();
+  hlBar.style.top=(rect.top+window.scrollY-44)+'px';
+  hlBar.style.left=Math.max(8,Math.min(rect.left+(rect.width/2)-60,window.innerWidth-130))+'px';
+  hlBar.classList.add('on');
+});
+document.addEventListener('mousedown',e=>{
+  if(!hlBar.contains(e.target))hlBar.classList.remove('on');
+});
+
+// Highlight only
+$('hlOnly').addEventListener('click',()=>{
+  if(!pendingHl||!data)return;
+  const b=data.books[bi];
+  const notes=getNotes();
+  notes.push({text:pendingHl,note:'',book:b.title_zh,date:new Date().toISOString().split('T')[0],ts:Date.now()});
+  saveNotes(notes);
+  hlBar.classList.remove('on');
+  window.getSelection().removeAllRanges();
+  renderNotes();
+  toast('已划线');
+});
+
+// Open note input
+$('hlNote').addEventListener('click',()=>{
+  if(!pendingHl)return;
+  $('nibHl').textContent=pendingHl;
+  $('nibText').value='';
+  noteOverlay.classList.add('on');
+  hlBar.classList.remove('on');
+  setTimeout(()=>$('nibText').focus(),100);
+});
+$('nibCancel').addEventListener('click',()=>{noteOverlay.classList.remove('on')});
+$('nibHlOnly').addEventListener('click',()=>{
+  if(!data)return;
+  const b=data.books[bi];
+  const notes=getNotes();
+  notes.push({text:pendingHl,note:'',book:b.title_zh,date:new Date().toISOString().split('T')[0],ts:Date.now()});
+  saveNotes(notes);
+  noteOverlay.classList.remove('on');
+  window.getSelection().removeAllRanges();
+  renderNotes();
+  toast('已划线');
+});
+$('nibSave').addEventListener('click',()=>{
+  if(!data)return;
+  const b=data.books[bi];
+  const noteText=$('nibText').value.trim();
+  const notes=getNotes();
+  notes.push({text:pendingHl,note:noteText,book:b.title_zh,date:new Date().toISOString().split('T')[0],ts:Date.now()});
+  saveNotes(notes);
+  noteOverlay.classList.remove('on');
+  window.getSelection().removeAllRanges();
+  renderNotes();
+  toast('已保存笔记');
+});
+
+// Notes panel toggle
+let notesOpen=false;
+$('notesHead').addEventListener('click',()=>{
+  notesOpen=!notesOpen;
+  $('notesList').classList.toggle('open',notesOpen);
+  $('notesArrow').classList.toggle('open',notesOpen);
+});
+
+function renderNotes(){
+  const notes=getNotes();
+  $('notesCnt').textContent=notes.length;
+  if(!notes.length){
+    $('notesList').innerHTML='<div class="notes-empty">选中文字即可划线或添加笔记</div>';
+    return;
+  }
+  // Show newest first
+  const sorted=[...notes].sort((a,b)=>b.ts-a.ts);
+  $('notesList').innerHTML=sorted.map(n=>`
+    <div class="note-item">
+      <div class="ni-hl">"${n.text}"</div>
+      ${n.note?'<div class="ni-note">'+n.note+'</div>':''}
+      <div class="ni-meta">
+        <span>${n.book} · ${n.date}</span>
+        <button class="ni-rm" data-ts="${n.ts}">删除</button>
+      </div>
+    </div>
+  `).join('')+'<button class="notes-export" id="exportNotes">导出为 Markdown</button>';
+  $('notesList').querySelectorAll('.ni-rm').forEach(btn=>btn.addEventListener('click',()=>{
+    saveNotes(getNotes().filter(n=>n.ts!=+btn.dataset.ts));
+    renderNotes();toast('已删除');
+  }));
+  const exportBtn=$('exportNotes');
+  if(exportBtn)exportBtn.addEventListener('click',exportNotesAsMd);
+}
+
+function exportNotesAsMd(){
+  const notes=getNotes();
+  if(!notes.length){toast('没有笔记可导出');return}
+  // Group by book
+  const grouped={};
+  notes.forEach(n=>{
+    if(!grouped[n.book])grouped[n.book]=[];
+    grouped[n.book].push(n);
+  });
+  let md='# 拾页 · 读书笔记\n\n导出时间: '+new Date().toLocaleString()+'\n\n';
+  for(const [book,items] of Object.entries(grouped)){
+    md+=`## ${book}\n\n`;
+    items.sort((a,b)=>a.ts-b.ts).forEach(n=>{
+      md+=`> ${n.text}\n\n`;
+      if(n.note)md+=`${n.note}\n\n`;
+      md+=`_${n.date}_\n\n---\n\n`;
+    });
+  }
+  // Download
+  const blob=new Blob([md],{type:'text/markdown'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url;a.download='拾页笔记_'+new Date().toISOString().split('T')[0]+'.md';
+  a.click();URL.revokeObjectURL(url);
+  toast('已导出 Markdown 文件');
+}
+
 // --- Core ---
 async function init(){
-  renderPills();renderShelf();
+  renderPills();renderShelf();renderNotes();
   try{
     const r=await fetch(D+'index.json');
     if(r.ok)dates=(await r.json()).sort().reverse();
