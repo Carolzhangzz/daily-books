@@ -26,6 +26,7 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
   .card .t{font-size:26px}
   .card .dd{font-size:16px;line-height:2}
   .gen{grid-column:2;grid-row:3/5;padding:0;margin:0;border-top:none;border-left:1px solid #1a1a1a;padding-left:32px;align-self:start;position:sticky;top:24px}
+  .stats{grid-column:1/-1;padding:16px 0}
   .notes-sec{grid-column:1/-1;padding:0;margin-top:24px;border-top:1px solid #1a1a1a}
   .shelf{grid-column:1/-1;padding:0;margin-top:16px;border-top:1px solid #1a1a1a;padding-top:8px}
   .hist{grid-column:1/-1;padding:0;margin-top:16px;border-top:1px solid #1a1a1a}
@@ -132,6 +133,30 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 .hi:hover,.hi.on{background:#1a1a1a;border-left-color:#c9a96e}
 .hi .hd{font-family:'Inter',sans-serif;font-size:11px;color:#555}
 .hi .hb{font-size:13px;color:#888;margin-top:3px}
+
+/* Category colors */
+.cat-文学,.cat-文学 *{--cc:#c9a96e}
+.cat-哲学,.cat-哲学 *{--cc:#9e8fc9}
+.cat-社科,.cat-社科 *{--cc:#6eb5c9}
+.cat-科学,.cat-科学 *{--cc:#6ec98a}
+.cat-商业,.cat-商业 *{--cc:#c96e6e}
+.cat-心理,.cat-心理 *{--cc:#c99e6e}
+.cat-传记,.cat-传记 *{--cc:#8ac96e}
+.cat-艺术,.cat-艺术 *{--cc:#c96eaa}
+.cat-自然,.cat-自然 *{--cc:#6ec9b5}
+.cat-数学,.cat-数学 *{--cc:#7e8ec9}
+
+/* Stats bar */
+.stats{padding:16px 24px;display:flex;gap:12px;flex-wrap:wrap}
+.stat{flex:1;min-width:70px;background:#151515;border-radius:12px;padding:12px;text-align:center}
+.stat .sv{font-family:'Inter',sans-serif;font-size:22px;font-weight:700;color:#c9a96e}
+.stat .sl{font-size:11px;color:#555;margin-top:2px}
+
+/* Search */
+.search-box{margin-bottom:12px}
+.search-box input{width:100%;padding:10px 14px;background:#151515;border:1px solid #252525;border-radius:10px;color:#e8e6e3;font-size:13px;outline:none}
+.search-box input:focus{border-color:#c9a96e}
+.hi-date-group{font-family:'Inter',sans-serif;font-size:11px;color:#444;padding:8px 0 4px;letter-spacing:1px}
 
 .no-data{text-align:center;padding:60px 24px;color:#444}
 .no-data code{background:#1a1a1a;padding:4px 12px;border-radius:6px;font-size:14px;color:#c9a96e}
@@ -262,9 +287,13 @@ mark.hl{background:rgba(201,169,110,.25);border-bottom:2px solid #c9a96e;cursor:
     <div class="shelf-list" id="shelfList"></div>
   </div>
 
+  <!-- Stats -->
+  <div class="stats" id="stats"></div>
+
   <!-- History -->
   <div class="hist">
     <h3>历 史 记 录</h3>
+    <div class="search-box"><input id="searchInput" placeholder="搜索书名、作者..."></div>
     <div id="histList"></div>
   </div>
 
@@ -409,7 +438,7 @@ function pollForUpdate(eid){
         clearInterval(iv);polling=false;
         showProgress(100,'完成！');
         setTimeout(hideProgress,800);
-        scanHistory().then(()=>{renderHist();load(eid)});
+        scanHistory().then(()=>{renderHist();renderStats();load(eid)});
       }else if(d.error){
         clearInterval(iv);polling=false;
         hideProgress();
@@ -788,21 +817,70 @@ async function init(){
     const r=await fetch(D+'index.json');
     if(r.ok)dates=(await r.json()).sort().reverse();
   }catch{}
-  renderHist();
+  renderHist();renderStats();
   load(dates.length?dates[0]:curDate);
 }
 
-function renderHist(){
+// History data cache for search
+let histCache={};
+
+function renderStats(){
+  const shelf=getShelf();
+  const notes=getNotes();
+  $('stats').innerHTML=`
+    <div class="stat"><div class="sv">${dates.length}</div><div class="sl">次生成</div></div>
+    <div class="stat"><div class="sv">${shelf.length}</div><div class="sl">已读</div></div>
+    <div class="stat"><div class="sv">${notes.length}</div><div class="sl">条笔记</div></div>
+    <div class="stat"><div class="sv">${Object.keys(histCache).reduce((n,k)=>n+(histCache[k]?.books?.length||0),0)}</div><div class="sl">本书</div></div>
+  `;
+}
+
+function renderHist(filter){
   if(!dates.length){$('histList').innerHTML='<div class="shelf-empty">暂无记录</div>';return}
-  $('histList').innerHTML=dates.slice(0,20).map(d=>{
-    const label=d.replace('_',' ');
-    return `<div class="hi${d===curDate?' on':''}" data-d="${d}"><div class="hd">${label}</div><div class="hb" id="hb-${d}">...</div></div>`;
-  }).join('');
+  // Group by date prefix
+  const groups={};
+  dates.forEach(d=>{
+    const day=d.split('_')[0];
+    if(!groups[day])groups[day]=[];
+    groups[day].push(d);
+  });
+  let html='';
+  for(const [day,ids] of Object.entries(groups)){
+    const filtered=filter?ids.filter(d=>{
+      const c=histCache[d];
+      if(!c)return true;
+      return c.books.some(b=>(b.title_zh+b.title_en+b.author_zh+b.author_en).toLowerCase().includes(filter));
+    }):ids;
+    if(!filtered.length)continue;
+    html+=`<div class="hi-date-group">${day}</div>`;
+    filtered.forEach(d=>{
+      html+=`<div class="hi${d===curDate?' on':''}" data-d="${d}"><div class="hd">${d.split('_')[1]||''}</div><div class="hb" id="hb-${d}">...</div></div>`;
+    });
+  }
+  $('histList').innerHTML=html||'<div class="shelf-empty">无匹配结果</div>';
   $('histList').querySelectorAll('.hi').forEach(h=>h.addEventListener('click',()=>load(h.dataset.d)));
-  dates.slice(0,20).forEach(async d=>{
-    try{const r=await fetch(D+d+'.json');const j=await r.json();const e=$('hb-'+d);if(e)e.textContent=j.books.map(b=>b.title_zh).join(' · ')}catch{}
+  // Load titles
+  dates.forEach(async d=>{
+    if(histCache[d]){
+      const e=$('hb-'+d);
+      if(e)e.textContent=histCache[d].books.map(b=>b.title_zh).join(' · ');
+      return;
+    }
+    try{
+      const r=await fetch(D+d+'.json');
+      const j=await r.json();
+      histCache[d]=j;
+      const e=$('hb-'+d);
+      if(e)e.textContent=j.books.map(b=>b.title_zh).join(' · ');
+      renderStats();
+    }catch{}
   });
 }
+
+// Search
+$('searchInput').addEventListener('input',e=>{
+  renderHist(e.target.value.trim().toLowerCase());
+});
 
 async function load(d){
   curDate=d;
@@ -843,7 +921,8 @@ function renderCard(){
   if(!data)return;
   const b=data.books[bi];
   const dd=b.deep_dive.split('\n').filter(p=>p.trim()).map(p=>'<p>'+p+'</p>').join('');
-  $('cardBox').innerHTML=`<div class="card"><div class="cat">${b.category}</div><div class="t">${b.title_zh}</div><div class="te">${b.title_en}</div><div class="au">${b.author_zh} (${b.author_en}) · ${b.year}</div><div class="ol">${b.one_liner}</div><div class="dd">${dd}</div></div>`;
+  const catClass='cat-'+(b.category||'').replace(/[与和].*$/,'');
+  $('cardBox').innerHTML=`<div class="card ${catClass}"><div class="cat" style="color:var(--cc,#c9a96e)">${b.category}</div><div class="t">${b.title_zh}</div><div class="te">${b.title_en}</div><div class="au">${b.author_zh} (${b.author_en}) · ${b.year}</div><div class="ol" style="border-left-color:var(--cc,#c9a96e);color:var(--cc,#c9a96e)">${b.one_liner}</div><div class="dd">${dd}</div></div>`;
   updateReadBtn();
   applyHighlights();
 }
