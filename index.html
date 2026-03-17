@@ -240,6 +240,7 @@ mark.hl{background:rgba(201,169,110,.25);border-bottom:2px solid #c9a96e;cursor:
       <button class="btn-gen" id="genBtn">随机三本</button>
       <button class="btn-spec" id="specBtn">指定这本</button>
     </div>
+    <button class="btn-gen" id="surBtn" style="margin-top:8px;width:100%;background:#151515;border:1px solid #555;color:#999">惊喜模式 · 让 AI 自由推荐</button>
     <button class="btn-auto" id="autoBtn" style="margin-top:10px;width:100%;padding:12px;border-radius:12px;font-size:14px;cursor:pointer;border:1px solid #333;background:#151515;color:#888;transition:all .2s">自动浏览模式</button>
   </div>
 
@@ -512,6 +513,9 @@ $('genBtn').addEventListener('click',()=>{
   const cats=[...selCats];
   const catStr=cats.length===CATS.length?'':cats.join(' ');
   callBridge('/api/generate?cats='+encodeURIComponent(catStr),'/daily-books'+(catStr?' '+catStr:''));
+});
+$('surBtn').addEventListener('click',()=>{
+  callBridge('/api/surprise','/daily-books');
 });
 $('specBtn').addEventListener('click',()=>{
   const name=$('bookInput').value.trim();

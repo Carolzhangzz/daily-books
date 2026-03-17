@@ -252,6 +252,16 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             eid = run_claude(prompt)
             return self._json({"status": "generating", "id": eid, "book": book})
 
+        if parsed.path == "/api/surprise":
+            used = get_used_books()
+            prompt = f"""你是一个资深书评人。请推荐3本你认为最值得读但不太常见的好书（不要选以下已推荐过的书：{','.join(list(used)[:50])}）。
+选书要求：1本经典但冷门的，1本近10年的新书，1本非虚构。尽量选不同国家的作者。
+
+{PROMPT_TPL.format(date=today, books="你自己选的3本书")}"""
+            eid = run_claude(prompt)
+            print(f"[surprise] skipped {len(used)} used books", flush=True)
+            return self._json({"status": "generating", "id": eid, "mode": "surprise"})
+
         if parsed.path == "/api/generate":
             cats_str = params.get("cats", [""])[0].strip()
             cats = [c.strip() for c in cats_str.split()] if cats_str else None
