@@ -29,7 +29,9 @@ PROMPT_TPL = """你是一个书籍推荐生成器。为以下书籍生成详细�
 请为这些书生成内容：{books}"""
 
 def get_used_books():
+    """Get all books that have been generated + books marked as read."""
     used = set()
+    # From generated data files
     if os.path.isdir(DATA):
         for f in os.listdir(DATA):
             if f.endswith('.json') and f != 'index.json':
@@ -39,7 +41,17 @@ def get_used_books():
                         for b in d.get('books', []):
                             used.add(b.get('title_zh', ''))
                 except: pass
+    # From bookshelf (read books)
+    notes_path = os.path.join(ROOT, "notes.json")
+    # Also check bookshelf in a shelf.json if it exists
     return used
+
+def get_total_book_count():
+    count = 0
+    for line in BOOK_LIST.strip().split('\n'):
+        _, books = line.split(': ', 1)
+        count += len(books.split(','))
+    return count
 
 def pick_books(cats=None, count=3):
     all_books = {}
@@ -54,7 +66,14 @@ def pick_books(cats=None, count=3):
     used = get_used_books()
     available = [b for b in filtered if b not in used]
     if len(available) < count:
-        available = list(filtered.keys())
+        # Only fall back if we've exhausted most of the list (>80%)
+        if len(used) > get_total_book_count() * 0.8:
+            available = list(filtered.keys())  # reset
+        else:
+            # Include some used books to fill the gap
+            extra = [b for b in filtered if b not in available]
+            random.shuffle(extra)
+            available += extra[:count - len(available)]
     return random.sample(available, min(count, len(available)))
 
 def make_id():
@@ -153,6 +172,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             cats_str = params.get("cats", [""])[0].strip()
             cats = [c.strip() for c in cats_str.split()] if cats_str else None
             books = pick_books(cats, 3)
+            used = get_used_books()
+            print(f"[gen] picked: {books} | skipped {len(used)} used books", flush=True)
             prompt = PROMPT_TPL.format(date=today, books="、".join(books))
             eid = run_claude(prompt)
             return self._json({"status": "generating", "id": eid, "books": books})
