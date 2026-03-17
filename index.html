@@ -562,9 +562,28 @@ document.addEventListener('keydown',e=>{
   }
 });
 
-// --- Highlights & Notes ---
+// --- Highlights & Notes (dual storage: localStorage + server file) ---
 function getNotes(){try{return JSON.parse(LS.getItem('booknotes')||'[]')}catch{return[]}}
-function saveNotes(n){LS.setItem('booknotes',JSON.stringify(n))}
+function saveNotes(n){
+  LS.setItem('booknotes',JSON.stringify(n));
+  // Also persist to server file (localhost only)
+  if(isLocal){
+    fetch('/api/save-notes',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(n)}).catch(()=>{});
+  }
+}
+// On init, try to restore from server if localStorage is empty
+async function restoreNotes(){
+  if(isLocal&&!getNotes().length){
+    try{
+      const r=await fetch('/api/notes');
+      if(r.ok){
+        const notes=await r.json();
+        if(notes.length){LS.setItem('booknotes',JSON.stringify(notes));return true}
+      }
+    }catch{}
+  }
+  return false;
+}
 
 // Apply saved highlights to card text
 function applyHighlights(){
@@ -755,6 +774,7 @@ function exportNotesAsMd(filterTs){
 
 // --- Core ---
 async function init(){
+  await restoreNotes();
   renderPills();renderShelf();renderNotes();
   try{
     const r=await fetch(D+'index.json');

@@ -166,7 +166,31 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 return self._json({"ready": False, "id": eid})
             return self._json({"ready": False})
 
+        if parsed.path == "/api/notes":
+            notes_path = os.path.join(ROOT, "notes.json")
+            try:
+                with open(notes_path, encoding='utf-8') as f:
+                    return self._json(json.load(f))
+            except:
+                return self._json([])
+
         super().do_GET()
+
+    def do_POST(self):
+        parsed = urllib.parse.urlparse(self.path)
+        if parsed.path == "/api/save-notes":
+            length = int(self.headers.get('Content-Length', 0))
+            body = self.rfile.read(length)
+            try:
+                notes = json.loads(body)
+                notes_path = os.path.join(ROOT, "notes.json")
+                with open(notes_path, 'w', encoding='utf-8') as f:
+                    json.dump(notes, f, ensure_ascii=False, indent=2)
+                self._json({"ok": True})
+            except Exception as e:
+                self._json({"error": str(e)}, 500)
+            return
+        self._json({"error": "not found"}, 404)
 
     def _json(self, data, code=200):
         self.send_response(code)
