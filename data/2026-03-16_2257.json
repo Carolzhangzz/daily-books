@@ -1,0 +1,90 @@
+{
+  "date": "2026-03-16",
+  "books": [
+    {
+      "title_zh": "小王子",
+      "title_en": "The Little Prince",
+      "author_zh": "安托万·德·圣-埃克苏佩里",
+      "author_en": "Antoine de Saint-Exupéry",
+      "year": "1943",
+      "category": "文学/哲学寓言",
+      "one_liner": "一个来自小星球的孩子，用最天真的眼睛看穿了大人世界最荒诞的真相。",
+      "deep_dive": "说实话，第一次读《小王子》的时候我大概十几岁，觉得这就是个童话故事，挺好看的，但也没什么特别。后来二十多岁重读，突然就被击中了——你会发现这本书根本不是写给小孩的，它是写给那些曾经是小孩的大人的。\n\n故事其实很简单：一个飞行员在撒哈拉沙漠迫降，遇到了一个从B612小行星来的小王子。小王子讲述了他在各个星球上的旅行经历——他遇到了一个独裁的国王、一个虚荣的人、一个酒鬼、一个商人、一个点灯人、一个地理学家。每个人都荒谬得可笑，但你仔细想想，这不就是我们身边的人吗？那个不停数星星说星星属于自己的商人，像不像那些把KPI和账户余额当成人生全部意义的人？\n\n但这本书真正让人心碎的部分，是小王子和他的玫瑰的故事。他的星球上有一朵玫瑰，骄傲、任性、爱撒谎。小王子爱她，但也被她折磨，最后选择离开。直到他在地球上看到了一整个玫瑰园——五千朵一模一样的玫瑰——他才明白，他的那朵玫瑰之所以独一无二，不是因为她有多特别，而是因为他为她付出了时间、浇过水、挡过风。狐狸告诉他的那个秘密——'正是你为你的玫瑰花费的时间，才使你的玫瑰变得如此重要'——大概是关于爱情和关系最精辟的一句话了。\n\n圣-埃克苏佩里本人就是个飞行员，他在二战期间写了这本书，一年后执行侦察任务时再也没有回来。知道这个背景再读这本书，你会觉得字里行间都藏着一种温柔的告别。他大概知道自己可能回不来了，所以把他对这个世界最深的眷恋和最温柔的批评，都藏进了这个看似简单的童话里。\n\n这本书很薄，一两个小时就能读完。但我建议你放慢速度，因为几乎每一页都有值得停下来想一想的句子。而且它有个神奇的特质：你在不同的人生阶段读，会读出完全不同的东西。二十岁读到的是爱情，三十岁读到的是孤独，四十岁读到的是和解。这大概就是经典之所以是经典的原因。",
+      "quotes": [
+        {
+          "text": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.（只有用心才能看清楚。最本质的东西，眼睛是看不见的。）",
+          "context": "狐狸在与小王子告别时分享的秘密，也是全书最核心的主题——真正重要的东西无法用眼睛衡量。"
+        },
+        {
+          "text": "C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante.（正是你为你的玫瑰花费的时间，才使你的玫瑰变得如此重要。）",
+          "context": "狐狸解释'驯养'的含义时说的话，点破了一切深厚关系的本质：不是对象有多特别，而是你投入了多少。"
+        },
+        {
+          "text": "Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.（大人们永远什么都不懂，总要小孩子一遍又一遍地给他们解释，真累人。）",
+          "context": "书的开头，叙述者回忆童年画蛇吞象的经历，奠定了全书对成人世界僵化思维的温和讽刺。"
+        },
+        {
+          "text": "Tu deviens responsable pour toujours de ce que tu as apprivoisé.（你永远要为你驯养的东西负责。）",
+          "context": "狐狸对小王子的最后忠告，关于爱与责任不可分割的关系。"
+        }
+      ]
+    },
+    {
+      "title_zh": "杀死一只知更鸟",
+      "title_en": "To Kill a Mockingbird",
+      "author_zh": "哈珀·李",
+      "author_en": "Harper Lee",
+      "year": "1960",
+      "category": "文学/社会正义",
+      "one_liner": "一个南方小镇律师教会女儿的事：真正的勇气不是手握猎枪，而是明知会输还坚持做对的事。",
+      "deep_dive": "这本书的故事发生在1930年代美国南方阿拉巴马州一个虚构的小镇梅科姆（Maycomb），通过六岁小女孩斯库特（Scout）的眼睛，讲述了她的父亲阿提克斯·芬奇（Atticus Finch）为一个被诬陷强奸白人女性的黑人汤姆·鲁滨逊辩护的故事。\n\n你可能会想，一个关于种族歧视的小说，听起来很沉重。但哈珀·李厉害的地方在于，她选择让一个小孩来讲这个故事。斯库特不懂什么叫种族主义，她只是觉得奇怪：为什么大人们会因为一个人的肤色就认定他有罪？为什么邻居们会因为爸爸替黑人辩护就骂他们家？小孩子的困惑反而比任何雄辩的论述都更有力量，因为它让你意识到——偏见不是天生的，是被教会的。\n\n阿提克斯·芬奇大概是美国文学史上最伟大的父亲形象之一。他不是那种会跟你说大道理的人，他用行动教育孩子。当斯库特问他为什么要接这个明知会输的案子，他说：'如果我不接，我就没法在这个镇上抬起头来，我也没法再教你和杰姆什么是对什么是错。'这种安静的正直，没有任何表演性，但力量巨大。\n\n书里还有一条暗线是关于布·拉德利（Boo Radley）的。镇上的人都说他是怪人，孩子们把他当鬼故事来讲。但到最后你才发现，这个从不出门的'怪人'一直在默默保护着斯库特和她哥哥。阿提克斯说的那句'你永远不可能真正了解一个人，除非你穿上他的鞋子走一走'，在布的故事里得到了最完美的诠释。\n\n哈珀·李自己也是南方人，她在阿拉巴马州长大，她的父亲就是一名律师。这本书里有多少自传成分我们不知道，但那种对南方小镇生活的描写——夏天的闷热、邻里间的闲话、孩子们在街上疯跑的自由——真实得像你能闻到空气里的味道。\n\n这本书1960年出版，第二年就拿了普利策奖，后来长期占据美国中学必读书目。六十多年过去了，书里讨论的问题——偏见、正义、勇气、共情——一个都没有过时。每次社会上出现关于种族、关于正义的争论，你都会想起阿提克斯站在法庭上的那个身影。",
+      "quotes": [
+        {
+          "text": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.（你永远不可能真正了解一个人，除非你从他的角度去考虑问题……除非你钻进他的皮肤里走来走去。）",
+          "context": "阿提克斯对斯库特的教诲，教她学会共情。这句话贯穿全书，最终在布·拉德利的故事中得到完整呼应。"
+        },
+        {
+          "text": "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what.（我想让你看看什么是真正的勇气，而不是以为勇气就是一个手里拿着枪的男人。勇气是当你还没开始就知道自己会输，但你依然去做，而且无论如何都要坚持到底。）",
+          "context": "阿提克斯在杜博斯太太去世后对杰姆说的话，解释为什么让他去给那个脾气暴躁的老太太读书——她在生命最后阶段戒掉了吗啡成瘾。"
+        },
+        {
+          "text": "Mockingbirds don't do one thing but make music for us to enjoy... That's why it's a sin to kill a mockingbird.（知更鸟只是唱歌给我们听，什么坏事都不做……所以杀死一只知更鸟是一种罪过。）",
+          "context": "莫迪小姐解释书名的含义。知更鸟象征着无辜的人——汤姆·鲁滨逊和布·拉德利都是被社会伤害的'知更鸟'。"
+        },
+        {
+          "text": "The one thing that doesn't abide by majority rule is a person's conscience.（唯一不服从多数裁决的，是一个人的良心。）",
+          "context": "阿提克斯在解释为什么要坚持为汤姆辩护时对斯库特说的，即使整个镇子都反对他。"
+        }
+      ]
+    },
+    {
+      "title_zh": "贫穷的本质",
+      "title_en": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+      "author_zh": "阿比吉特·班纳吉、埃斯特·迪弗洛",
+      "author_en": "Abhijit V. Banerjee, Esther Duflo",
+      "year": "2011",
+      "category": "经济学/发展研究",
+      "one_liner": "两位诺贝尔奖得主用十八国实地实验告诉你：穷人不是懒，是被困在了一个精心设计的陷阱里。",
+      "deep_dive": "关于贫穷，我们大多数人脑子里都有一套现成的解释：穷人穷是因为懒、因为不努力、因为不会理财、因为生太多孩子。这本书最大的价值，就是用扎实的数据和田野实验把这些偏见一个个拆掉。\n\n班纳吉和迪弗洛是MIT的经济学家（2019年诺贝尔经济学奖得主），他们花了十五年时间在印度、肯尼亚、印尼、摩洛哥等十八个国家做随机对照实验（RCT）——就是那种医学试验里用来测试新药的方法，被他们搬到了扶贫领域。他们不坐在办公室里推理穷人应该怎么做，而是实实在在地去观察穷人到底在做什么，以及为什么。\n\n举几个让我印象深刻的例子。穷人为什么不给孩子打疫苗？不是因为他们不关心孩子的健康，而是最近的诊所要走好几个小时的路，到了之后护士可能没来上班，而且打完疫苗孩子会发烧，意味着第二天没法干活。当研究者在打疫苗的同时给一袋扁豆作为补偿时，接种率从6%飙升到了38%。一袋扁豆！这个微小的激励就跨过了那个关键的行动门槛。\n\n再比如，穷人为什么有了一点钱会买电视而不是存起来？因为当你的生活日复一日毫无希望的时候，一台电视带来的精神慰藉比银行账户里多出的几块钱有意义得多。这不是'不理性'，这恰恰是在极端约束条件下非常理性的选择。\n\n这本书最让人警醒的洞见是'贫穷陷阱'（poverty trap）的概念。穷人不是站在一个可以往上爬的斜坡上，他们是陷在一个坑里。营养不良导致没法高效工作，没法高效工作导致收入低，收入低导致营养不良——这个循环不是靠'努力'就能打破的，它需要外部的一个推力，帮你越过那个临界点。\n\n但这本书也不是简单地说'砸钱就行'。作者对那种大规模的、自上而下的援助计划持谨慎态度。他们的核心主张是：不要用宏大叙事来解决贫穷问题，要把它拆解成一个一个具体的、可以测试的小问题。蚊帐应该免费发还是低价卖？小额贷款真的能改变命运吗？学校里该多雇老师还是多发课本？每个问题都需要实验来回答，而不是靠直觉或意识形态。\n\n读完这本书，你不会变得更乐观或更悲观，但你会变得更清醒。你会明白贫穷不是一个道德问题，而是一个设计问题——制度的设计、政策的设计、援助方式的设计。而好的设计，从理解真实的人开始。",
+      "quotes": [
+        {
+          "text": "The poor often resist the wonderful plans we think up for them because they do not share our faith that those plans work, or more plausibly, because they don't share our faith that they are worth the trouble.（穷人常常抵制我们为他们想出的美好计划，因为他们不像我们那样相信这些计划有效，或者更可能的是，他们不认为这些计划值得那些麻烦。）",
+          "context": "作者讨论为什么许多看似合理的扶贫措施在实际推行中遭遇阻力，核心问题往往不是穷人'不理性'，而是政策设计者没有站在穷人的立场上思考。"
+        },
+        {
+          "text": "It is not easy to escape from poverty, but a sense of possibility and a little bit of well-targeted help can sometimes make a huge difference.（摆脱贫穷并不容易，但一点可能性的感觉加上一些精准的帮助，有时候能产生巨大的改变。）",
+          "context": "全书的核心立场——既不盲目乐观也不绝望悲观，强调小而精准的干预可以撬动巨大的改变。"
+        },
+        {
+          "text": "The poor bear responsibility for too many aspects of their lives. The richer you are, the more the right decisions are made for you.（穷人要为自己生活中太多方面承担决策责任。你越富有，就有越多正确的决定被自动替你做好了。）",
+          "context": "作者指出一个被忽视的不平等：富人的生活充满了'默认选项'（自来水是干净的、退休金自动缴纳），而穷人每天都要在信息不充分的情况下做大量高风险决策。"
+        },
+        {
+          "text": "Poor countries are not poor because of a lack of resources or the wrong values. They are poor because of the wrong institutions and policies.（贫穷国家之所以贫穷，不是因为缺乏资源或价值观有问题，而是因为制度和政策出了问题。）",
+          "context": "反驳文化决定论和资源决定论，将贫穷归因于可以改变的制度设计，而非不可改变的先天条件。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-16_2257"
+}
