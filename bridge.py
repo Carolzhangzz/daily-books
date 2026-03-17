@@ -253,13 +253,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             return self._json({"status": "generating", "id": eid, "book": book})
 
         if parsed.path == "/api/surprise":
-            used = get_used_books()
-            prompt = f"""你是一个资深书评人。请推荐3本你认为最值得读但不太常见的好书（不要选以下已推荐过的书：{','.join(list(used)[:50])}）。
-选书要求：1本经典但冷门的，1本近10年的新书，1本非虚构。尽量选不同国家的作者。
+            used = list(get_used_books())
+            # Only pass last 20 to keep prompt short
+            recent = ','.join(used[-20:]) if used else '无'
+            prompt = f"""自选3本好书并生成推荐内容。要求：选冷门经典、近年新书、非虚构各一本，不同国家作者。不要选这些书：{recent}
 
-{PROMPT_TPL.format(date=today, books="你自己选的3本书")}"""
+输出严格JSON（不要markdown代码块）：
+{{"date":"{today}","books":[{{"title_zh":"中文书名","title_en":"English Title","author_zh":"作者","author_en":"Author","year":"年份","category":"分类","one_liner":"一句话概括","deep_dive":"500-800字深度介绍，像跟朋友聊天","quotes":[{{"text":"原文金句","context":"背景"}}]}}]}}"""
             eid = run_claude(prompt)
-            print(f"[surprise] skipped {len(used)} used books", flush=True)
+            print(f"[surprise] excluded {len(used)} used books", flush=True)
             return self._json({"status": "generating", "id": eid, "mode": "surprise"})
 
         if parsed.path == "/api/generate":
