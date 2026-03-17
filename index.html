@@ -295,23 +295,26 @@ let polling=false;
 function pollForUpdate(){
   if(polling)return;
   polling=true;
-  let mtime0=0;
-  fetch('/api/status').then(r=>r.json()).then(d=>{mtime0=d.mtime||0}).catch(()=>{});
+  const startTime=Date.now();
   let tries=0;
+  toast('Claude 后台生成中...');
   const iv=setInterval(()=>{
     tries++;
-    fetch('/api/status').then(r=>r.json()).then(d=>{
-      if(d.ready&&d.mtime>mtime0){
+    fetch('/api/status?t='+Date.now()).then(r=>r.json()).then(d=>{
+      // Check if file was modified after we started polling
+      if(d.ready&&d.mtime*1000>startTime){
         clearInterval(iv);polling=false;
         toast('生成完成！');
-        load(new Date().toISOString().split('T')[0]);
-        scanHistory().then(()=>renderHist());
-      }else if(tries>40){
+        const today=new Date().toISOString().split('T')[0];
+        scanHistory().then(()=>{renderHist();load(today)});
+      }else if(tries>60){
         clearInterval(iv);polling=false;
-        toast('生成超时，请刷新页面');
+        toast('超时了，试试刷新页面');
+      }else if(tries%5===0){
+        toast('还在生成中... ('+Math.round((Date.now()-startTime)/1000)+'s)');
       }
     }).catch(()=>{});
-  },3000);
+  },2000);
 }
 async function scanHistory(){
   try{const r=await fetch(D+'index.json');if(r.ok)dates=(await r.json()).sort().reverse()}catch{dates=[]}
