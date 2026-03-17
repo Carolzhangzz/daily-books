@@ -566,6 +566,39 @@ document.addEventListener('keydown',e=>{
 function getNotes(){try{return JSON.parse(LS.getItem('booknotes')||'[]')}catch{return[]}}
 function saveNotes(n){LS.setItem('booknotes',JSON.stringify(n))}
 
+// Apply saved highlights to card text
+function applyHighlights(){
+  if(!data)return;
+  const b=data.books[bi];
+  const notes=getNotes().filter(n=>n.book===b.title_zh);
+  if(!notes.length)return;
+  // Walk all text nodes inside .card
+  const card=document.querySelector('.card');
+  if(!card)return;
+  const hlTexts=notes.map(n=>n.text).sort((a,b)=>b.length-a.length); // longest first to avoid partial overlaps
+  const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
+  const textNodes=[];
+  while(walker.nextNode())textNodes.push(walker.currentNode);
+  textNodes.forEach(node=>{
+    let html=node.textContent;
+    let changed=false;
+    hlTexts.forEach(ht=>{
+      // Escape regex special chars
+      const escaped=ht.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+      const re=new RegExp('('+escaped+')','g');
+      if(re.test(html)){
+        html=html.replace(re,'<mark class="hl">$1</mark>');
+        changed=true;
+      }
+    });
+    if(changed){
+      const span=document.createElement('span');
+      span.innerHTML=html;
+      node.parentNode.replaceChild(span,node);
+    }
+  });
+}
+
 let pendingHl='';
 const hlBar=$('hlBar'),noteOverlay=$('noteOverlay');
 
@@ -599,7 +632,7 @@ $('hlOnly').addEventListener('click',()=>{
   saveNotes(notes);
   hlBar.classList.remove('on');
   window.getSelection().removeAllRanges();
-  renderNotes();
+  renderNotes();applyHighlights();
   toast('已划线');
 });
 
@@ -621,7 +654,7 @@ $('nibHlOnly').addEventListener('click',()=>{
   saveNotes(notes);
   noteOverlay.classList.remove('on');
   window.getSelection().removeAllRanges();
-  renderNotes();
+  renderNotes();applyHighlights();
   toast('已划线');
 });
 $('nibSave').addEventListener('click',()=>{
@@ -633,7 +666,7 @@ $('nibSave').addEventListener('click',()=>{
   saveNotes(notes);
   noteOverlay.classList.remove('on');
   window.getSelection().removeAllRanges();
-  renderNotes();
+  renderNotes();applyHighlights();
   toast('已保存笔记');
 });
 
@@ -652,30 +685,51 @@ function renderNotes(){
     $('notesList').innerHTML='<div class="notes-empty">选中文字即可划线或添加笔记</div>';
     return;
   }
-  // Show newest first
   const sorted=[...notes].sort((a,b)=>b.ts-a.ts);
-  $('notesList').innerHTML=sorted.map(n=>`
+  $('notesList').innerHTML=`
+    <div style="display:flex;gap:8px;margin-bottom:10px;align-items:center">
+      <label style="font-size:12px;color:#666;cursor:pointer;display:flex;align-items:center;gap:4px">
+        <input type="checkbox" id="selAll" checked style="accent-color:#c9a96e"> 全选
+      </label>
+      <button class="notes-export" id="exportNotes" style="margin:0;flex:1">导出选中为 Markdown</button>
+    </div>
+  `+sorted.map(n=>`
     <div class="note-item">
-      <div class="ni-hl">"${n.text}"</div>
-      ${n.note?'<div class="ni-note">'+n.note+'</div>':''}
-      <div class="ni-meta">
-        <span>${n.book} · ${n.date}</span>
-        <button class="ni-rm" data-ts="${n.ts}">删除</button>
+      <div style="display:flex;gap:8px;align-items:flex-start">
+        <input type="checkbox" class="ni-cb" data-ts="${n.ts}" checked style="margin-top:4px;accent-color:#c9a96e;flex-shrink:0">
+        <div style="flex:1">
+          <div class="ni-hl">"${n.text}"</div>
+          ${n.note?'<div class="ni-note">'+n.note+'</div>':''}
+          <div class="ni-meta">
+            <span>${n.book} · ${n.date}</span>
+            <button class="ni-rm" data-ts="${n.ts}">删除</button>
+          </div>
+        </div>
       </div>
     </div>
-  `).join('')+'<button class="notes-export" id="exportNotes">导出为 Markdown</button>';
+  `).join('');
+  // Select all toggle
+  $('selAll').addEventListener('change',e=>{
+    document.querySelectorAll('.ni-cb').forEach(cb=>{cb.checked=e.target.checked});
+  });
+  // Delete buttons
   $('notesList').querySelectorAll('.ni-rm').forEach(btn=>btn.addEventListener('click',()=>{
     saveNotes(getNotes().filter(n=>n.ts!=+btn.dataset.ts));
-    renderNotes();toast('已删除');
+    renderNotes();applyHighlights();toast('已删除');
   }));
-  const exportBtn=$('exportNotes');
-  if(exportBtn)exportBtn.addEventListener('click',exportNotesAsMd);
+  // Export
+  $('exportNotes').addEventListener('click',()=>{
+    const selectedTs=new Set();
+    document.querySelectorAll('.ni-cb:checked').forEach(cb=>selectedTs.add(+cb.dataset.ts));
+    if(!selectedTs.size){toast('请先选择要导出的笔记');return}
+    exportNotesAsMd(selectedTs);
+  });
 }
 
-function exportNotesAsMd(){
-  const notes=getNotes();
+function exportNotesAsMd(filterTs){
+  let notes=getNotes();
+  if(filterTs)notes=notes.filter(n=>filterTs.has(n.ts));
   if(!notes.length){toast('没有笔记可导出');return}
-  // Group by book
   const grouped={};
   notes.forEach(n=>{
     if(!grouped[n.book])grouped[n.book]=[];
@@ -763,6 +817,7 @@ function renderCard(){
   const dd=b.deep_dive.split('\n').filter(p=>p.trim()).map(p=>'<p>'+p+'</p>').join('');
   $('cardBox').innerHTML=`<div class="card"><div class="cat">${b.category}</div><div class="t">${b.title_zh}</div><div class="te">${b.title_en}</div><div class="au">${b.author_zh} (${b.author_en}) · ${b.year}</div><div class="ol">${b.one_liner}</div><div class="dd">${dd}</div></div>`;
   updateReadBtn();
+  applyHighlights();
 }
 
 function openQ(){
