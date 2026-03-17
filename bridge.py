@@ -96,17 +96,10 @@ BOOK_LIST = """文学: 百年孤独,局外人,卡拉马佐夫兄弟,罪与罚,�
 EXTEND_TPL = """为《{book}》生成补充阅读内容。中文回答，输出严格JSON（不要markdown代码块）：
 {{"themes":"3-5个深层主题，每个主题2-3句话展开，用\\n分段","questions":"3个引发思考的问题，帮助读者深入理解，用\\n分隔","author_story":"关于作者的一个有趣故事或背景（150-200字）","related":"3本相关推荐书籍，每本一句话说明为什么相关，用\\n分隔"}}"""
 
-PROMPT_TPL = """你是一个书籍推荐生成器。为以下书籍生成详细的中文推荐内容。
-
-要求：
-- deep_dive: 500-800字，像跟朋友聊天一样讲这本书
-- quotes: 3-5条精选原文金句，附上下文说明
-- 中文为主，书名和关键术语保留英文原文
-
-输出严格的JSON格式（不要markdown代码块），结构如下：
+PROMPT_TPL = """为以下书籍生成中文推荐。deep_dive 300-500字像聊天口吻，quotes 2-3条金句。输出严格JSON（不要markdown代码块）：
 {{"date":"{date}","books":[{{"title_zh":"中文书名","title_en":"English Title","author_zh":"作者","author_en":"Author","year":"年份","category":"分类","one_liner":"一句话概括","deep_dive":"深度介绍","quotes":[{{"text":"原文","context":"背景"}}]}}]}}
 
-请为这些书生成内容：{books}"""
+书籍：{books}"""
 
 def get_used_books():
     """Get all books that have been generated + books marked as read."""
@@ -181,8 +174,8 @@ def run_claude(prompt):
     def _run():
         try:
             result = subprocess.run(
-                [CLAUDE, "-p", prompt],
-                cwd=ROOT, capture_output=True, text=True, timeout=120,
+                [CLAUDE, "-p", "--model", "haiku", prompt],
+                cwd=ROOT, capture_output=True, text=True, timeout=300,
                 env={**os.environ, 'NO_COLOR': '1'}
             )
             output = result.stdout.strip()
@@ -228,8 +221,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             prompt = EXTEND_TPL.format(book=book)
             try:
                 result = subprocess.run(
-                    [CLAUDE, "-p", prompt],
-                    cwd=ROOT, capture_output=True, text=True, timeout=90,
+                    [CLAUDE, "-p", "--model", "haiku", prompt],
+                    cwd=ROOT, capture_output=True, text=True, timeout=180,
                     env={**os.environ, 'NO_COLOR': '1'}
                 )
                 output = result.stdout.strip()
