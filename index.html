@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日三书</title>
+<title>拾页 · PickPage</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
 *{margin:0;padding:0;box-sizing:border-box}
@@ -151,7 +152,7 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 <body>
 <div class="app">
   <div class="header">
-    <h1>每 日 三 书</h1>
+    <h1>拾 页</h1>
     <div class="sub" id="hDate"></div>
   </div>
   <div class="date-nav">
@@ -277,31 +278,45 @@ $('wrBtn').addEventListener('click',()=>{
   const b=data.books[bi];
   window.open('https://weread.qq.com/web/search/books?keyword='+encodeURIComponent(b.title_zh),'_blank');
 });
+// Bridge API
+const BRIDGE='http://127.0.0.1:9527';
+let bridgeOk=false;
+fetch(BRIDGE+'/health',{mode:'cors'}).then(r=>r.json()).then(()=>{bridgeOk=true}).catch(()=>{});
+
+function callBridge(path,fallbackCmd){
+  if(bridgeOk){
+    toast('正在生成，请稍候...');
+    fetch(BRIDGE+path,{mode:'cors'}).then(r=>r.json()).then(d=>{
+      toast('已开始生成，完成后刷新页面');
+    }).catch(()=>{
+      navigator.clipboard.writeText(fallbackCmd).then(()=>toast('桥接离线，已复制命令'));
+    });
+  }else{
+    navigator.clipboard.writeText(fallbackCmd).then(()=>toast('已复制: '+fallbackCmd)).catch(()=>toast(fallbackCmd));
+  }
+}
+
 // More content
 $('moreBtn').addEventListener('click',()=>{
   if(!data)return;
   const b=data.books[bi];
-  copyCmd('/daily-books '+b.title_zh);
+  callBridge('/more?book='+encodeURIComponent(b.title_zh),'/daily-books '+b.title_zh);
 });
 
 // Generate
 $('genBtn').addEventListener('click',()=>{
   const cats=[...selCats];
-  const cmd=cats.length===CATS.length?'/daily-books':'/daily-books '+cats.join(' ');
-  copyCmd(cmd);
+  const catStr=cats.length===CATS.length?'':cats.join(' ');
+  callBridge('/generate?cats='+encodeURIComponent(catStr),'/daily-books'+(catStr?' '+catStr:''));
 });
 $('specBtn').addEventListener('click',()=>{
   const name=$('bookInput').value.trim();
   if(!name){toast('请先输入书名');return}
-  copyCmd('/daily-books '+name);
+  callBridge('/more?book='+encodeURIComponent(name),'/daily-books '+name);
 });
 $('bookInput').addEventListener('keydown',e=>{
   if(e.key==='Enter'){$('specBtn').click()}
 });
-
-function copyCmd(cmd){
-  navigator.clipboard.writeText(cmd).then(()=>toast('已复制: '+cmd)).catch(()=>toast(cmd));
-}
 function toast(msg){const t=$('toast');t.textContent=msg;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2500)}
 
 // Category pills
