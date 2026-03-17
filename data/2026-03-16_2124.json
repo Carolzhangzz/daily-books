@@ -1,0 +1,34 @@
+{
+  "date": "2026-03-16",
+  "books": [
+    {
+      "title_zh": "国富论",
+      "title_en": "The Wealth of Nations",
+      "author_zh": "亚当·斯密",
+      "author_en": "Adam Smith",
+      "year": "1776",
+      "category": "经济学",
+      "one_liner": "现代经济学的奠基之作，揭示了市场如何通过分工与自利心创造出惊人的社会财富。",
+      "deep_dive": "1776年发生了两件改变世界的事：美国独立，和亚当·斯密出版了《国富论》。两百五十年过去了，前者建立了一个超级大国，后者建立了一整套理解世界运转方式的思维框架。\n\n很多人以为《国富论》就是在说\"自由市场好，政府别管\"。这是对斯密最大的误读。实际上，这本书的野心远比这大得多——斯密想要回答的问题是：一个国家的财富到底从哪里来？为什么有的国家富、有的国家穷？怎样才能让所有人都过得更好？\n\n斯密的第一个伟大洞见是关于分工的。他用那个著名的\"制针工厂\"开篇：一个工人独自做针，一天也做不了几根；但如果把制针分成十几道工序，十个人分工合作，一天能做四万八千根。分工提高了效率，效率创造了财富，财富改善了生活。这个逻辑链条简单到优雅。\n\n第二个洞见就是那只\"看不见的手\"。斯密说，每个人追求自己的利益，往往会促进社会整体利益，\"好像被一只看不见的手引导着\"。注意，斯密说的是\"往往\"，不是\"总是\"。他非常清楚市场会失灵，商人会勾结垄断，资本家会压榨工人。他在书中反复警告商业利益集团对公共政策的操纵。\n\n实际上，读完整本《国富论》你会发现，斯密对商人阶层的警惕远远超过对政府的不信任。他明确支持政府提供公共教育、基础设施和国防，支持对金融行业进行监管，甚至支持对富人征更高比例的税。这些观点放在今天，恐怕会被很多自称\"斯密信徒\"的人视为异端。\n\n《国富论》最大的价值不在于它给出了什么具体的政策建议，而在于它提供了一种系统性思考经济问题的方式。斯密教会我们追问：这个政策的激励机制是什么？它会产生什么意想不到的后果？谁在这个过程中真正受益？\n\n这本书确实很长，语言也是十八世纪的风格，读起来需要耐心。但核心章节——尤其是关于分工、价格理论和政府职能的部分——至今读来依然振聋发聩。如果你关心经济、关心社会运转的底层逻辑，这是一本绕不过去的书。",
+      "quotes": [
+        {
+          "text": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.",
+          "context": "全书最著名的一句话，出自第一卷关于分工与交换的讨论。斯密指出市场交换的动力不是利他，而是互利——这并非冷酷的判断，而是对人性的务实理解。"
+        },
+        {
+          "text": "Every individual... neither intends to promote the public interest, nor knows how much he is promoting it... he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention.",
+          "context": "\"看不见的手\"这个经济学史上最著名的隐喻，斯密在全书中其实只用了一次。它描述的是个人自利行为如何在市场机制下产生有益的社会后果。"
+        },
+        {
+          "text": "People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.",
+          "context": "斯密对商业利益集团的尖锐批评，警告行业垄断和价格操纵对公共利益的损害——这句话经常被\"自由市场\"的倡导者刻意忽略。"
+        },
+        {
+          "text": "No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.",
+          "context": "斯密论述国家富裕的终极标准不是总量而是普通人的生活水平，体现了他深刻的人文关怀和对不平等的警觉。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-16_2124"
+}
