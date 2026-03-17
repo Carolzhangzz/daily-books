@@ -225,7 +225,7 @@ function isRead(title){return getShelf().some(b=>b.title_zh===title)}
 function addToShelf(book){
   const s=getShelf();
   if(!s.some(b=>b.title_zh===book.title_zh)){
-    s.push({title_zh:book.title_zh,title_en:book.title_en,author_zh:book.author_zh,category:book.category,date:curDate});
+    s.push({title_zh:book.title_zh,title_en:book.title_en,author_zh:book.author_zh,category:book.category,entryId:curDate,date:new Date().toISOString().split('T')[0]});
     saveShelf(s);
   }
   renderShelf();updateReadBtn();
@@ -239,15 +239,15 @@ function renderShelf(){
   $('shelfCnt').textContent=s.length;
   if(!s.length){$('shelfList').innerHTML='<div class="shelf-empty">还没有标记已读的书</div>';return}
   $('shelfList').innerHTML=s.map(b=>`
-    <div class="shelf-item" data-title="${b.title_zh}" data-date="${b.date}">
+    <div class="shelf-item" data-title="${b.title_zh}" data-date="${b.entryId||b.date}">
       <div class="si-info"><div class="si-title">${b.title_zh}</div><div class="si-meta">${b.category} · ${b.author_zh} · ${b.date}</div></div>
       <button class="si-rm" data-t="${b.title_zh}">&times;</button>
     </div>`).join('');
   $('shelfList').querySelectorAll('.si-rm').forEach(btn=>btn.addEventListener('click',e=>{e.stopPropagation();removeFromShelf(btn.dataset.t)}));
   $('shelfList').querySelectorAll('.shelf-item').forEach(item=>item.addEventListener('click',()=>openShelfBook(item.dataset.date,item.dataset.title)));
 }
-async function openShelfBook(date,title){
-  await load(date);
+async function openShelfBook(entryId,title){
+  await load(entryId);
   if(!data)return;
   const idx=data.books.findIndex(b=>b.title_zh===title);
   if(idx>=0)sw(idx);
@@ -292,7 +292,7 @@ $('wrBtn').addEventListener('click',()=>{
 const isLocal=location.hostname==='localhost'||location.hostname==='127.0.0.1';
 
 let polling=false;
-function pollForUpdate(){
+function pollForUpdate(eid){
   if(polling)return;
   polling=true;
   const startTime=Date.now();
@@ -300,13 +300,11 @@ function pollForUpdate(){
   toast('Claude 后台生成中...');
   const iv=setInterval(()=>{
     tries++;
-    fetch('/api/status?t='+Date.now()).then(r=>r.json()).then(d=>{
-      // Check if file was modified after we started polling
-      if(d.ready&&d.mtime*1000>startTime){
+    fetch('/api/status?id='+encodeURIComponent(eid)).then(r=>r.json()).then(d=>{
+      if(d.ready){
         clearInterval(iv);polling=false;
         toast('生成完成！');
-        const today=new Date().toISOString().split('T')[0];
-        scanHistory().then(()=>{renderHist();load(today)});
+        scanHistory().then(()=>{renderHist();load(eid)});
       }else if(tries>60){
         clearInterval(iv);polling=false;
         toast('超时了，试试刷新页面');
@@ -322,9 +320,9 @@ async function scanHistory(){
 function callBridge(apiPath,fallbackCmd){
   if(isLocal){
     toast('正在生成，请稍候...');
-    fetch(apiPath).then(r=>r.json()).then(()=>{
-      toast('Claude 后台生成中，完成后自动刷新...');
-      pollForUpdate();
+    fetch(apiPath).then(r=>r.json()).then(d=>{
+      if(d.id)pollForUpdate(d.id);
+      else toast('生成请求失败');
     }).catch(()=>toast('生成请求失败'));
   }else{
     navigator.clipboard.writeText(fallbackCmd).then(()=>toast('已复制命令，粘贴到终端运行')).catch(()=>toast(fallbackCmd));
@@ -410,15 +408,20 @@ async function init(){
 
 function renderHist(){
   if(!dates.length){$('histList').innerHTML='<div class="shelf-empty">暂无记录</div>';return}
-  $('histList').innerHTML=dates.slice(0,10).map(d=>`<div class="hi${d===curDate?' on':''}" data-d="${d}"><div class="hd">${d}</div><div class="hb" id="hb-${d}">...</div></div>`).join('');
+  $('histList').innerHTML=dates.slice(0,20).map(d=>{
+    const label=d.replace('_',' ');
+    return `<div class="hi${d===curDate?' on':''}" data-d="${d}"><div class="hd">${label}</div><div class="hb" id="hb-${d}">...</div></div>`;
+  }).join('');
   $('histList').querySelectorAll('.hi').forEach(h=>h.addEventListener('click',()=>load(h.dataset.d)));
-  dates.slice(0,10).forEach(async d=>{
+  dates.slice(0,20).forEach(async d=>{
     try{const r=await fetch(D+d+'.json');const j=await r.json();const e=$('hb-'+d);if(e)e.textContent=j.books.map(b=>b.title_zh).join(' · ')}catch{}
   });
 }
 
 async function load(d){
-  curDate=d;$('hDate').textContent=d;$('navD').textContent=d;
+  curDate=d;
+  const label=d.replace('_',' ');
+  $('hDate').textContent=label;$('navD').textContent=label;
   const di=dates.indexOf(d);
   $('prev').disabled=di===-1||di>=dates.length-1;
   $('next').disabled=di<=0;

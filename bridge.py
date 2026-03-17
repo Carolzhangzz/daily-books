@@ -54,23 +54,27 @@ def pick_books(cats=None, count=3):
         available = list(filtered.keys())
     return random.sample(available, min(count, len(available)))
 
-def update_index():
+def make_id():
+    now = datetime.datetime.now()
+    return now.strftime("%Y-%m-%d_%H%M")
+
+def update_index(entry_id):
     idx_path = os.path.join(DATA, 'index.json')
     try:
         with open(idx_path) as f:
-            dates = json.load(f)
+            entries = json.load(f)
     except:
-        dates = []
-    today = datetime.date.today().isoformat()
-    if today not in dates:
-        dates.append(today)
-        dates.sort()
+        entries = []
+    if entry_id not in entries:
+        entries.append(entry_id)
+        entries.sort()
     with open(idx_path, 'w') as f:
-        json.dump(dates, f)
+        json.dump(entries, f)
 
-def run_claude(prompt, callback_date):
+def run_claude(prompt):
     """Run claude -p with full prompt, save output to JSON, push."""
     import threading
+    entry_id = make_id()
     def _run():
         try:
             result = subprocess.run(
@@ -79,25 +83,25 @@ def run_claude(prompt, callback_date):
                 env={**os.environ, 'NO_COLOR': '1'}
             )
             output = result.stdout.strip()
-            # Try to extract JSON from output
             start = output.find('{')
             end = output.rfind('}') + 1
             if start >= 0 and end > start:
                 data = json.loads(output[start:end])
-                path = os.path.join(DATA, f"{callback_date}.json")
+                data['id'] = entry_id
+                path = os.path.join(DATA, f"{entry_id}.json")
                 with open(path, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
-                update_index()
-                # Git push
+                update_index(entry_id)
                 subprocess.run(["git", "add", "data/"], cwd=ROOT)
-                subprocess.run(["git", "commit", "-m", f"Add books for {callback_date}"], cwd=ROOT)
+                subprocess.run(["git", "commit", "-m", f"Add books {entry_id}"], cwd=ROOT)
                 subprocess.run(["git", "push"], cwd=ROOT)
-                print(f"[done] Generated and pushed for {callback_date}")
+                print(f"[done] {entry_id}")
             else:
                 print(f"[error] No JSON in output: {output[:200]}")
         except Exception as e:
             print(f"[error] {e}")
     threading.Thread(target=_run, daemon=True).start()
+    return entry_id
 
 class Handler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
@@ -116,23 +120,24 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             if not book:
                 return self._json({"error": "missing book"}, 400)
             prompt = PROMPT_TPL.format(date=today, books=book)
-            run_claude(prompt, today)
-            return self._json({"status": "generating", "book": book})
+            eid = run_claude(prompt)
+            return self._json({"status": "generating", "id": eid, "book": book})
 
         if parsed.path == "/api/generate":
             cats_str = params.get("cats", [""])[0].strip()
             cats = [c.strip() for c in cats_str.split()] if cats_str else None
             books = pick_books(cats, 3)
             prompt = PROMPT_TPL.format(date=today, books="、".join(books))
-            run_claude(prompt, today)
-            return self._json({"status": "generating", "books": books})
+            eid = run_claude(prompt)
+            return self._json({"status": "generating", "id": eid, "books": books})
 
         if parsed.path == "/api/status":
-            # Check if today's data exists
-            path = os.path.join(DATA, f"{today}.json")
-            if os.path.exists(path):
-                mtime = os.path.getmtime(path)
-                return self._json({"ready": True, "mtime": mtime})
+            eid = params.get("id", [""])[0]
+            if eid:
+                path = os.path.join(DATA, f"{eid}.json")
+                if os.path.exists(path):
+                    return self._json({"ready": True, "id": eid})
+                return self._json({"ready": False, "id": eid})
             return self._json({"ready": False})
 
         super().do_GET()
