@@ -1,6 +1,81 @@
 #!/usr/bin/env python3
 """Local bridge: serves static files + Claude CLI API for 拾页."""
-import http.server, json, subprocess, os, urllib.parse, random, datetime
+import http.server, json, subprocess, os, urllib.parse, random, datetime, re
+
+generation_status = {}  # entry_id -> 'running' | 'done' | 'error'
+
+
+def repair_json(text):
+    """Attempt to repair common JSON issues from LLM output."""
+    # Strip markdown code fences
+    text = re.sub(r'^```(?:json)?\s*\n?', '', text.strip())
+    text = re.sub(r'\n?```\s*$', '', text.strip())
+    text = text.strip()
+
+    # Remove trailing commas before } or ]
+    text = re.sub(r',\s*}', '}', text)
+    text = re.sub(r',\s*]', ']', text)
+
+    # Fix unescaped newlines inside strings
+    # Replace literal newlines between quotes with \\n
+    def _fix_newlines_in_strings(s):
+        result = []
+        in_string = False
+        escape = False
+        for ch in s:
+            if escape:
+                result.append(ch)
+                escape = False
+                continue
+            if ch == '\\' and in_string:
+                result.append(ch)
+                escape = True
+                continue
+            if ch == '"':
+                in_string = not in_string
+            if ch == '\n' and in_string:
+                result.append('\\n')
+                continue
+            result.append(ch)
+        return ''.join(result)
+
+    # First try as-is
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+
+    # Try fixing newlines in strings
+    fixed = _fix_newlines_in_strings(text)
+    try:
+        return json.loads(fixed)
+    except json.JSONDecodeError:
+        pass
+
+    # Try fixing missing closing brackets
+    for suffix in ['}', ']}', '"]}', '"}]}', '"]}]}']:
+        try:
+            return json.loads(fixed + suffix)
+        except json.JSONDecodeError:
+            pass
+
+    # Last resort: extract individual book objects and reconstruct
+    try:
+        book_pattern = re.findall(r'\{[^{}]*"title_zh"[^{}]*\}', fixed)
+        if book_pattern:
+            books = []
+            for m in book_pattern:
+                try:
+                    books.append(json.loads(m))
+                except json.JSONDecodeError:
+                    pass
+            if books:
+                return {"books": books}
+    except Exception:
+        pass
+
+    # Give up, raise the original error
+    return json.loads(text)
 
 PORT = 9527
 ROOT = os.path.expanduser("~/Documents/daily-books")
@@ -102,6 +177,7 @@ def run_claude(prompt):
     """Run claude -p with full prompt, save output to JSON, push."""
     import threading
     entry_id = make_id()
+    generation_status[entry_id] = 'running'
     def _run():
         try:
             result = subprocess.run(
@@ -113,7 +189,7 @@ def run_claude(prompt):
             start = output.find('{')
             end = output.rfind('}') + 1
             if start >= 0 and end > start:
-                data = json.loads(output[start:end])
+                data = repair_json(output[start:end])
                 data['id'] = entry_id
                 path = os.path.join(DATA, f"{entry_id}.json")
                 with open(path, 'w', encoding='utf-8') as f:
@@ -122,10 +198,13 @@ def run_claude(prompt):
                 subprocess.run(["git", "add", "data/"], cwd=ROOT)
                 subprocess.run(["git", "commit", "-m", f"Add books {entry_id}"], cwd=ROOT)
                 subprocess.run(["git", "push"], cwd=ROOT)
+                generation_status[entry_id] = 'done'
                 print(f"[done] {entry_id}")
             else:
+                generation_status[entry_id] = 'error'
                 print(f"[error] No JSON in output: {output[:200]}")
         except Exception as e:
+            generation_status[entry_id] = 'error'
             print(f"[error] {e}")
     threading.Thread(target=_run, daemon=True).start()
     return entry_id
@@ -157,7 +236,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 start = output.find('{')
                 end = output.rfind('}') + 1
                 if start >= 0 and end > start:
-                    ext = json.loads(output[start:end])
+                    ext = repair_json(output[start:end])
                     return self._json({"ok": True, "book": book, "extended": ext})
                 return self._json({"error": "no JSON in response"}, 500)
             except subprocess.TimeoutExpired:
@@ -189,6 +268,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 path = os.path.join(DATA, f"{eid}.json")
                 if os.path.exists(path):
                     return self._json({"ready": True, "id": eid})
+                if generation_status.get(eid) == 'error':
+                    return self._json({"ready": False, "error": True, "id": eid})
                 return self._json({"ready": False, "id": eid})
             return self._json({"ready": False})
 
