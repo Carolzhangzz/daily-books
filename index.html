@@ -51,6 +51,11 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
 .btn-read{background:#151515;color:#888}
 .btn-read:hover{border-color:#c9a96e;color:#c9a96e}
 .btn-read.done{background:#1a2a1a;border-color:#4a8;color:#6c6}
+.acts2{margin-top:0!important;padding-top:6px!important}
+.btn-wr{background:#151515;color:#4a9;border:1px solid #333}
+.btn-wr:hover{border-color:#4a9}
+.btn-more{background:#151515;color:#a9a;border:1px solid #333}
+.btn-more:hover{border-color:#c9a96e;color:#c9a96e}
 
 /* Generate section */
 .gen{padding:20px 24px;margin-top:12px;border-top:1px solid #1a1a1a}
@@ -133,8 +138,12 @@ button,input{-webkit-tap-highlight-color:transparent;font-family:inherit}
   <div class="book-tabs" id="tabs"></div>
   <div class="card-box" id="cardBox"></div>
   <div class="actions" id="acts" style="display:none">
-    <button class="btn-quote" id="qBtn">提取金句</button>
-    <button class="btn-read" id="rBtn">标记已读</button>
+    <button class="btn-quote" id="qBtn">金句</button>
+    <button class="btn-read" id="rBtn">已读</button>
+  </div>
+  <div class="actions acts2" id="acts2" style="display:none">
+    <button class="btn-wr" id="wrBtn">微信读书</button>
+    <button class="btn-more" id="moreBtn">看更多</button>
   </div>
 
   <!-- Generate -->
@@ -238,6 +247,19 @@ $('rBtn').addEventListener('click',()=>{
 $('mx').addEventListener('click',closeQ);
 $('modal').addEventListener('click',e=>{if(e.target===$('modal'))closeQ()});
 
+// WeChat Read
+$('wrBtn').addEventListener('click',()=>{
+  if(!data)return;
+  const b=data.books[bi];
+  window.open('https://weread.qq.com/web/search/books?keyword='+encodeURIComponent(b.title_zh),'_blank');
+});
+// More content
+$('moreBtn').addEventListener('click',()=>{
+  if(!data)return;
+  const b=data.books[bi];
+  copyCmd('/daily-books '+b.title_zh);
+});
+
 // Generate
 $('genBtn').addEventListener('click',()=>{
   const cats=[...selCats];
@@ -332,11 +354,11 @@ async function load(d){
     if(!r.ok)throw 0;
     data=await r.json();bi=0;
     renderTabs();renderCard();
-    $('acts').style.display='flex';
+    $('acts').style.display='flex';$('acts2').style.display='flex';
   }catch{
     data=null;$('tabs').innerHTML='';
     $('cardBox').innerHTML='<div class="no-data"><p>这天还没有推荐</p><p>运行 <code>/daily-books</code> 生成</p></div>';
-    $('acts').style.display='none';
+    $('acts').style.display='none';$('acts2').style.display='none';
   }
 }
 
