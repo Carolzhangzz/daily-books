@@ -66,6 +66,7 @@
     cursor: pointer;
     font-size: 16px;
     transition: all 0.2s;
+    -webkit-tap-highlight-color: transparent;
   }
   .date-nav button:hover { border-color: #c9a96e; color: #c9a96e; }
   .date-nav button:disabled { opacity: 0.3; cursor: not-allowed; }
@@ -107,8 +108,9 @@
     border-radius: 20px;
     padding: 32px 24px;
     border: 1px solid #252525;
-    transition: transform 0.4s ease, opacity 0.4s ease;
+    transition: opacity 0.3s ease;
   }
+  .card.fade-out { opacity: 0; }
   .card .category {
     font-family: 'Inter', sans-serif;
     font-size: 11px;
@@ -154,7 +156,7 @@
 
   /* Quote Button */
   .quote-btn {
-    display: block;
+    display: none;
     width: calc(100% - 48px);
     margin: 20px 24px;
     padding: 14px;
@@ -167,6 +169,7 @@
     cursor: pointer;
     transition: all 0.3s;
     letter-spacing: 1px;
+    -webkit-tap-highlight-color: transparent;
   }
   .quote-btn:hover {
     border-color: #c9a96e;
@@ -175,6 +178,7 @@
 
   /* Swipe hint */
   .swipe-hint {
+    display: none;
     text-align: center;
     padding: 12px;
     font-family: 'Inter', sans-serif;
@@ -192,15 +196,38 @@
     justify-content: center;
     align-items: center;
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
   }
   .modal-overlay.active { display: flex; }
 
   .quote-modal {
     width: 360px;
+    max-width: calc(100vw - 32px);
     max-height: 80vh;
     overflow-y: auto;
     position: relative;
+    padding-top: 48px;
   }
+
+  .modal-close {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    background: rgba(40,40,40,0.8);
+    border: 1px solid #444;
+    color: #999;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    font-size: 22px;
+    cursor: pointer;
+    z-index: 110;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .modal-close:hover { color: #fff; border-color: #666; }
 
   .quote-card {
     background: linear-gradient(145deg, #1c1c1c, #111);
@@ -246,27 +273,17 @@
     justify-content: center;
     gap: 8px;
     margin-top: 8px;
+    padding-bottom: 20px;
   }
   .quote-nav .q-dot {
-    width: 6px;
-    height: 6px;
+    width: 8px;
+    height: 8px;
     border-radius: 50%;
     background: #444;
     cursor: pointer;
     transition: all 0.3s;
   }
   .quote-nav .q-dot.active { background: #c9a96e; }
-
-  .modal-close {
-    position: absolute;
-    top: -40px;
-    right: 0;
-    background: none;
-    border: none;
-    color: #666;
-    font-size: 28px;
-    cursor: pointer;
-  }
 
   /* History */
   .history {
@@ -290,8 +307,10 @@
     transition: all 0.2s;
     text-decoration: none;
     color: inherit;
+    border-left: 2px solid transparent;
+    -webkit-tap-highlight-color: transparent;
   }
-  .history-item:hover { background: #1a1a1a; border-left: 2px solid #c9a96e; }
+  .history-item:hover, .history-item.active { background: #1a1a1a; border-left-color: #c9a96e; }
   .history-item .h-date {
     font-family: 'Inter', sans-serif;
     font-size: 12px;
@@ -338,15 +357,15 @@
   </div>
 
   <div class="date-nav">
-    <button id="prevDay" onclick="navigateDay(-1)">&#8249;</button>
+    <button id="prevDay" disabled>&#8249;</button>
     <span class="current-date" id="navDate"></span>
-    <button id="nextDay" onclick="navigateDay(1)">&#8250;</button>
+    <button id="nextDay" disabled>&#8250;</button>
   </div>
 
   <div class="indicators" id="indicators"></div>
   <div class="card-container" id="cardContainer"></div>
-  <button class="quote-btn" id="quoteBtn" onclick="openQuotes()">提取金句</button>
-  <div class="swipe-hint">左右滑动切换 ·  点击金句可截图分享</div>
+  <button class="quote-btn" id="quoteBtn">提取金句</button>
+  <div class="swipe-hint">左右滑动切换 · 点击金句可截图分享</div>
 
   <div class="history" id="history">
     <h3>历 史 记 录</h3>
@@ -358,8 +377,8 @@
 
 <!-- Quote Modal -->
 <div class="modal-overlay" id="quoteModal">
+  <button class="modal-close" id="modalClose">&times;</button>
   <div class="quote-modal">
-    <button class="modal-close" onclick="closeQuotes()">&times;</button>
     <div id="quoteCards"></div>
     <div class="quote-nav" id="quoteNav"></div>
   </div>
@@ -373,33 +392,74 @@ let currentQuoteIndex = 0;
 let currentDate = new Date().toISOString().split('T')[0];
 let availableDates = [];
 
-// Touch handling
-let touchStartX = 0;
+// Elements
 const cardContainer = document.getElementById('cardContainer');
-cardContainer.addEventListener('touchstart', e => touchStartX = e.touches[0].clientX);
-cardContainer.addEventListener('touchend', e => {
-  const diff = touchStartX - e.changedTouches[0].clientX;
-  if (Math.abs(diff) > 50) {
-    if (diff > 0 && currentBookIndex < 2) switchBook(currentBookIndex + 1);
-    else if (diff < 0 && currentBookIndex > 0) switchBook(currentBookIndex - 1);
-  }
+const quoteModal = document.getElementById('quoteModal');
+const quoteBtn = document.getElementById('quoteBtn');
+const swipeHint = document.querySelector('.swipe-hint');
+const prevBtn = document.getElementById('prevDay');
+const nextBtn = document.getElementById('nextDay');
+
+// Event listeners (no inline onclick)
+prevBtn.addEventListener('click', () => navigateDay(-1));
+nextBtn.addEventListener('click', () => navigateDay(1));
+quoteBtn.addEventListener('click', openQuotes);
+document.getElementById('modalClose').addEventListener('click', closeQuotes);
+
+// Click overlay to close modal
+quoteModal.addEventListener('click', e => {
+  if (e.target === quoteModal) closeQuotes();
 });
+
+// Touch handling for book cards
+let touchStartX = 0;
+let touchStartY = 0;
+cardContainer.addEventListener('touchstart', e => {
+  touchStartX = e.touches[0].clientX;
+  touchStartY = e.touches[0].clientY;
+}, { passive: true });
+cardContainer.addEventListener('touchend', e => {
+  const dx = touchStartX - e.changedTouches[0].clientX;
+  const dy = touchStartY - e.changedTouches[0].clientY;
+  // Only trigger swipe if horizontal movement > vertical (not scrolling)
+  if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+    if (dx > 0 && currentBookIndex < 2) switchBook(currentBookIndex + 1);
+    else if (dx < 0 && currentBookIndex > 0) switchBook(currentBookIndex - 1);
+  }
+}, { passive: true });
+
+// Quote modal touch
+let qTouchStartX = 0;
+let qTouchStartY = 0;
+quoteModal.addEventListener('touchstart', e => {
+  qTouchStartX = e.touches[0].clientX;
+  qTouchStartY = e.touches[0].clientY;
+}, { passive: true });
+quoteModal.addEventListener('touchend', e => {
+  const dx = qTouchStartX - e.changedTouches[0].clientX;
+  const dy = qTouchStartY - e.changedTouches[0].clientY;
+  if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+    navigateQuote(dx > 0 ? 1 : -1);
+  }
+}, { passive: true });
 
 // Keyboard
 document.addEventListener('keydown', e => {
-  if (document.getElementById('quoteModal').classList.contains('active')) {
+  if (quoteModal.classList.contains('active')) {
     if (e.key === 'Escape') closeQuotes();
-    if (e.key === 'ArrowRight') navigateQuote(1);
-    if (e.key === 'ArrowLeft') navigateQuote(-1);
+    else if (e.key === 'ArrowRight') navigateQuote(1);
+    else if (e.key === 'ArrowLeft') navigateQuote(-1);
     return;
   }
   if (e.key === 'ArrowRight' && currentBookIndex < 2) switchBook(currentBookIndex + 1);
-  if (e.key === 'ArrowLeft' && currentBookIndex > 0) switchBook(currentBookIndex - 1);
+  else if (e.key === 'ArrowLeft' && currentBookIndex > 0) switchBook(currentBookIndex - 1);
 });
 
 async function init() {
   await scanHistory();
-  await loadDate(currentDate);
+  // Load most recent available date, or today
+  const startDate = availableDates.length > 0 ? availableDates[0] : currentDate;
+  await loadDate(startDate);
 }
 
 async function scanHistory() {
@@ -417,21 +477,33 @@ async function scanHistory() {
 
 function renderHistory() {
   const list = document.getElementById('historyList');
-  list.innerHTML = availableDates.slice(0, 10).map(date => {
-    return `<div class="history-item" onclick="loadDate('${date}')">
+  if (availableDates.length === 0) {
+    list.innerHTML = '<div style="color:#444;text-align:center;padding:20px">暂无记录</div>';
+    return;
+  }
+  list.innerHTML = availableDates.slice(0, 10).map(date =>
+    `<div class="history-item${date === currentDate ? ' active' : ''}" data-date="${date}">
       <div class="h-date">${date}</div>
       <div class="h-books" id="hbooks-${date}">Loading...</div>
-    </div>`;
-  }).join('');
+    </div>`
+  ).join('');
 
-  // Load titles for history items
+  // Click handlers for history items
+  list.querySelectorAll('.history-item').forEach(item => {
+    item.addEventListener('click', () => loadDate(item.dataset.date));
+  });
+
+  // Load titles
   availableDates.slice(0, 10).forEach(async date => {
     try {
       const res = await fetch(DATA_DIR + date + '.json');
       const data = await res.json();
       const el = document.getElementById('hbooks-' + date);
       if (el) el.textContent = data.books.map(b => b.title_zh).join(' · ');
-    } catch(e) {}
+    } catch(e) {
+      const el = document.getElementById('hbooks-' + date);
+      if (el) el.textContent = '(无法加载)';
+    }
   });
 }
 
@@ -442,8 +514,13 @@ async function loadDate(dateStr) {
 
   // Update nav buttons
   const dateIndex = availableDates.indexOf(dateStr);
-  document.getElementById('prevDay').disabled = dateIndex >= availableDates.length - 1;
-  document.getElementById('nextDay').disabled = dateIndex <= 0;
+  prevBtn.disabled = dateIndex === -1 || dateIndex >= availableDates.length - 1;
+  nextBtn.disabled = dateIndex <= 0;
+
+  // Highlight active history item
+  document.querySelectorAll('.history-item').forEach(item => {
+    item.classList.toggle('active', item.dataset.date === dateStr);
+  });
 
   try {
     const res = await fetch(DATA_DIR + dateStr + '.json');
@@ -452,24 +529,26 @@ async function loadDate(dateStr) {
     currentBookIndex = 0;
     renderIndicators();
     renderBook();
-    document.getElementById('quoteBtn').style.display = 'block';
-    document.querySelector('.swipe-hint').style.display = 'block';
+    quoteBtn.style.display = 'block';
+    swipeHint.style.display = 'block';
   } catch(e) {
-    document.getElementById('cardContainer').innerHTML = `
+    currentData = null;
+    cardContainer.innerHTML = `
       <div class="no-data">
-        <p>今天还没有推荐</p>
+        <p>这天还没有推荐</p>
         <p>在 Claude Code 中运行</p>
         <code>/daily-books</code>
-        <p style="margin-top:12px">即可生成今日推荐</p>
+        <p style="margin-top:12px">即可生成推荐</p>
       </div>`;
     document.getElementById('indicators').innerHTML = '';
-    document.getElementById('quoteBtn').style.display = 'none';
-    document.querySelector('.swipe-hint').style.display = 'none';
+    quoteBtn.style.display = 'none';
+    swipeHint.style.display = 'none';
   }
 }
 
 function navigateDay(dir) {
   const idx = availableDates.indexOf(currentDate);
+  if (idx === -1) return;
   const newIdx = idx - dir;
   if (newIdx >= 0 && newIdx < availableDates.length) {
     loadDate(availableDates[newIdx]);
@@ -477,22 +556,38 @@ function navigateDay(dir) {
 }
 
 function renderIndicators() {
+  if (!currentData) return;
   const el = document.getElementById('indicators');
   el.innerHTML = currentData.books.map((_, i) =>
-    `<div class="dot ${i === currentBookIndex ? 'active' : ''}" onclick="switchBook(${i})"></div>`
+    `<div class="dot ${i === currentBookIndex ? 'active' : ''}" data-index="${i}"></div>`
   ).join('');
+  el.querySelectorAll('.dot').forEach(dot => {
+    dot.addEventListener('click', () => switchBook(parseInt(dot.dataset.index)));
+  });
 }
 
 function switchBook(index) {
-  currentBookIndex = index;
-  renderIndicators();
-  renderBook();
+  if (index === currentBookIndex) return;
+  const card = cardContainer.querySelector('.card');
+  if (card) {
+    card.classList.add('fade-out');
+    setTimeout(() => {
+      currentBookIndex = index;
+      renderIndicators();
+      renderBook();
+    }, 150);
+  } else {
+    currentBookIndex = index;
+    renderIndicators();
+    renderBook();
+  }
 }
 
 function renderBook() {
+  if (!currentData) return;
   const book = currentData.books[currentBookIndex];
   const deepDive = book.deep_dive.split('\n').filter(p => p.trim()).map(p => `<p>${p}</p>`).join('');
-  document.getElementById('cardContainer').innerHTML = `
+  cardContainer.innerHTML = `
     <div class="card">
       <div class="category">${book.category}</div>
       <div class="book-title">${book.title_zh}</div>
@@ -505,33 +600,41 @@ function renderBook() {
 
 function openQuotes() {
   if (!currentData) return;
-  const book = currentData.books[currentBookIndex];
   currentQuoteIndex = 0;
   renderQuoteCard();
-  document.getElementById('quoteModal').classList.add('active');
+  quoteModal.classList.add('active');
+  document.body.style.overflow = 'hidden';
 }
 
 function renderQuoteCard() {
+  if (!currentData) return;
   const book = currentData.books[currentBookIndex];
   const quotes = book.quotes;
   document.getElementById('quoteCards').innerHTML = quotes.map((q, i) => `
     <div class="quote-card" style="display:${i === currentQuoteIndex ? 'block' : 'none'}">
-      <div class="quote-mark">"</div>
+      <div class="quote-mark">\u201C</div>
       <div class="quote-text">${q.text}</div>
       <div class="quote-context">${q.context}</div>
-      <div class="quote-source">—— ${book.title_zh}  (${book.title_en})</div>
+      <div class="quote-source">\u2014\u2014 ${book.title_zh}  (${book.title_en})</div>
     </div>
   `).join('');
 
-  document.getElementById('quoteNav').innerHTML = quotes.map((_, i) =>
-    `<div class="q-dot ${i === currentQuoteIndex ? 'active' : ''}" onclick="navigateQuote(${i - currentQuoteIndex})"></div>`
+  const nav = document.getElementById('quoteNav');
+  nav.innerHTML = quotes.map((_, i) =>
+    `<div class="q-dot ${i === currentQuoteIndex ? 'active' : ''}" data-index="${i}"></div>`
   ).join('');
+  nav.querySelectorAll('.q-dot').forEach(dot => {
+    dot.addEventListener('click', () => {
+      currentQuoteIndex = parseInt(dot.dataset.index);
+      renderQuoteCard();
+    });
+  });
 }
 
 function navigateQuote(dir) {
+  if (!currentData) return;
   const book = currentData.books[currentBookIndex];
-  const newIdx = typeof dir === 'number' ?
-    currentQuoteIndex + dir : dir;
+  const newIdx = currentQuoteIndex + dir;
   if (newIdx >= 0 && newIdx < book.quotes.length) {
     currentQuoteIndex = newIdx;
     renderQuoteCard();
@@ -539,17 +642,9 @@ function navigateQuote(dir) {
 }
 
 function closeQuotes() {
-  document.getElementById('quoteModal').classList.remove('active');
+  quoteModal.classList.remove('active');
+  document.body.style.overflow = '';
 }
-
-// Quote modal touch
-const quoteModal = document.getElementById('quoteModal');
-let qTouchStart = 0;
-quoteModal.addEventListener('touchstart', e => qTouchStart = e.touches[0].clientX);
-quoteModal.addEventListener('touchend', e => {
-  const diff = qTouchStart - e.changedTouches[0].clientX;
-  if (Math.abs(diff) > 50) navigateQuote(diff > 0 ? 1 : -1);
-});
 
 init();
 </script>
