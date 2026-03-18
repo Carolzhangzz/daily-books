@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-18",
+  "books": [
+    {
+      "title_zh": "荒野之声",
+      "title_en": "The Call of the Wild",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1903",
+      "category": "冒险文学",
+      "one_liner": "一只驯养的狗在阿拉斯加荒野中的生存与救赎之旅",
+      "deep_dive": "这部作品堪称美国文学的瑰宝。故事跟随巴克从舒适的加州庄园被拐卖到严酷的阿拉斯加，一路上经历了雪橇犬的磨难和虐待。但你会发现，这不仅仅是一个关于狗的故事，而是对人性、文明与自然之间永恒冲突的深刻探讨。伦敦用诗意的笔触描绘了荒野的残酷美妙，同时也在追问：究竟是文明束缚了我们的本性，还是我们需要文明来制约内心的野兽？最打动人的是那位爱上巴克的约翰·桑顿，他代表了人与自然能够达成的最高和解。这部小说一出版就引发轰动，至今仍是探讨生存、自由和本真的经典之作。读它的时候，你会不由自主地反思自己生活中被压抑的那部分野性。",
+      "quotes": [
+        {
+          "text": "The domesticated generations fell from him. In seconds he was just animal, awake.",
+          "context": "巴克重获自由本性的瞬间"
+        },
+        {
+          "text": "He had felt the call, deep in the forest, and he answered, not with a call like Mowgli's, but with a sound more powerful—with deeds.",
+          "context": "对荒野原始力量的召唤的回应"
+        },
+        {
+          "text": "Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every dog, on the Pacific coast.",
+          "context": "故事的开篇，讽刺而含蓄"
+        }
+      ]
+    },
+    {
+      "title_zh": "宇宙的琴弦",
+      "title_en": "The Elegant Universe",
+      "author_zh": "布莱恩·格林",
+      "author_en": "Brian Greene",
+      "year": "2003",
+      "category": "科普物理学",
+      "one_liner": "用优雅的弦论解释宇宙的终极结构和万物统一的秘密",
+      "deep_dive": "要说最神奇的科学理论是什么，弦论绝对要排在前列。格林用极具吸引力的类比和清晰的逻辑，把这个复杂到令人头昏脑胀的理论讲得生动有趣。你知道吗，根据弦论，组成宇宙万物的基本粒子其实都是微观的振动弦，就像小提琴弦在振动时产生不同的音符一样。这个观点太优雅了！书中涉及时间、空间、维度、相对论等诸多深邃的物理概念，但格林的天才之处就在于他能用日常生活的例子让你慢慢理解这些概念。从黑洞、虫洞到平行宇宙，再到最终的统一理论，这场思想之旅既壮阔又充满惊喜。即使你的数学不好，也能被这种宇宙观的宏大和美妙所震撼。这本书会改变你看待世界的方式。",
+      "quotes": [
+        {
+          "text": "If the unified theory is right, the answer is yes. Gravity is one with the other forces, not separate from them.",
+          "context": "对万物统一理论的阐述"
+        },
+        {
+          "text": "String theory shows that the universe has a kind of improbable architecture in which the strings are the fundamental ingredients of all things.",
+          "context": "弦论的核心观点"
+        },
+        {
+          "text": "The universe is like an enormous symphony, with all the fundamental particles being notes played on strings.",
+          "context": "用音乐隐喻解释宇宙构成"
+        }
+      ]
+    },
+    {
+      "title_zh": "所罗门王的指环",
+      "title_en": "King Solomon's Ring",
+      "author_zh": "康拉德·洛伦茨",
+      "author_en": "Konrad Lorenz",
+      "year": "1952",
+      "category": "动物行为学",
+      "one_liner": "动物心理学大师用诗意的笔触记录与各种动物相处的感人故事",
+      "deep_dive": "如果你想了解动物，这是一本不能错过的书。洛伦茨是20世纪最伟大的动物行为学家，这部作品汇集了他一生中与各种动物相处的精彩故事——有可爱的小鸭子、聪慧的乌鸦、优雅的雁群，还有野蛮的大鼠。但这不是冷冰冰的学术著作，而是充满温情和洞察的生活随笔。洛伦茨用风趣幽默的笔调讲述他如何与这些动物建立信任，如何从它们的行为中发现规律，如何在观察中获得感悟。每个故事都闪烁着智慧之光：鸭子的印刻现象揭示了学习的奥秘，乌鸦的复仇心理显露了人性，而雁群的忠诚则让人思考友谊的真谛。这本书改变了人们对动物的认识，也让人重新思考人与动物的关系。更妙的是，你能感受到作者对所有生灵的尊重和热爱——这才是真正的科学精神。",
+      "quotes": [
+        {
+          "text": "There is nothing in the world more important than understanding the behavior of living beings.",
+          "context": "洛伦茨对动物行为学的信念"
+        },
+        {
+          "text": "The bond between man and dog is as old as civilization itself, but the bond between man and the wild animal is something even more mysterious and profound.",
+          "context": "关于人与野生动物关系的思考"
+        },
+        {
+          "text": "When you look into the eyes of an animal, you realize that there is a being there, thinking and feeling just as you do.",
+          "context": "对动物内心世界的认识"
+        }
+      ]
+    }
+  ]
+}
+```
