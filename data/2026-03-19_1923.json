@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "马斯克传",
+      "title_en": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author_zh": "阿什利·万斯",
+      "author_en": "Ashley Vance",
+      "year": "2015",
+      "category": "商业与技术",
+      "one_liner": "一个改变三个行业的企业家如何用执着与疯狂推动人类的未来",
+      "deep_dive": "读这本书就像跟朋友坐下喝咖啡，聊一个真实得离谱的人生故事。万斯用详尽的采访和调查，让你看到马斯克不仅仅是个天才，更是个充满矛盾的人——他可以为了火箭梦想在办公室睡地板，也会因为一条推特搞得全球瞩目。书里最有意思的是他对三个行业的执念：电动车不是为了环保，而是为了加速人类向可持续能源过渡；火箭回收看似疯狂，却打破了航天工业几十年的僵局；Neuralink和隧道公司则展现了他超越常规的想象力。你会发现，他的所有看似疯狂的举动都源于对人类文明长期生存的深度焦虑。这本书让你理解一个人的执念如何塑造了整个时代。",
+      "quotes": [
+        {
+          "text": "When something is important enough, you do it even if the odds are not in your favor.",
+          "context": "马斯克对做难事的态度。这句话贯穿了他所有伟大的成就——从濒临破产的特斯拉到SpaceX的火箭回收。"
+        },
+        {
+          "text": "The first principles of thermodynamics say you can't really decrease the cost much further, but you can increase functionality, reliability, and safety.",
+          "context": "他讲述如何突破技术极限的思维方式——不是削减成本，而是增加价值，这是他在每个产业中都能创新的核心秘密。"
+        }
+      ]
+    },
+    {
+      "title_zh": "遗落的南境",
+      "title_en": "Annihilation",
+      "author_zh": "杰夫·范德米尔",
+      "author_en": "Jeff VanderMeer",
+      "year": "2014",
+      "category": "文学",
+      "one_liner": "在一个被诡异力量改造的禁区里，一支探险队发现了比死亡更恐怖的东西",
+      "deep_dive": "这部作品的独特之处在于它不是一部传统的科幻冒险。当你读到第一页时，你已经知道故事结局——队长活着回来了，但改变了。这种反转的叙事结构让每一页都充满了宿命感。南境（The Shimmer）这个神秘禁区不是什么外星入侵或病毒感染，而是一种更哲学、更恐怖的存在——它改写现实的规则，让一切都变得陌生。范德米尔笔下的四个女性探险队成员各怀各的秘密，她们不仅在对抗环境的异化，更在对抗自己。书中最让人毛骨悚然的不是怪物，而是那种慢慢失去对自己身体、记忆和身份掌控的感觉。这是对人类本质的深度追问——当一切都可能被改变时，'我'还是'我'吗？",
+      "quotes": [
+        {
+          "text": "What had once been my life had no meaning to me anymore, but the life I lived now had no relevance to who I had been before.",
+          "context": "队长在经历南境的改变后的独白。这句话是整部书的灵魂——在面对无法理解的力量时，我们对自我认知的彻底崩溃。"
+        },
+        {
+          "text": "Fear likes empty spaces. It breeds in the dark and multiplies where the answers are few.",
+          "context": "范德米尔对人类面对未知事物时心理状态的深刻洞察，这也是南境最可怕之处——不是已知的危险，而是无尽的不确定性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "丝绸之路：一部全新的世界史",
+      "title_en": "The Silk Roads: A New History of the World",
+      "author_zh": "彼得·弗兰科潘",
+      "author_en": "Peter Frankopan",
+      "year": "2015",
+      "category": "社科与历史",
+      "one_liner": "一部打破欧洲中心视角、从欧亚大陆腹地重新讲述的世界文明史",
+      "deep_dive": "如果你习惯了从欧洲出发理解世界历史，这本书会彻底颠覆你的认知。弗兰科潘不是讲丝绸贸易线上的驼队，而是用一根线串起了三千年欧亚大陆的政治、经济、宗教和文化碰撞。从波斯帝国的荣光到伊斯兰世界的黄金时代，从蒙古征服到奥斯曼帝国的建立，他用翔实的考古证据和历史档案，证明了西方所谓的'中世纪黑暗时期'其实是欧亚大陆东方文明的璀璨时代。你会震惊地发现，很多我们以为的欧洲创新实际上源自波斯、阿拉伯、中国的思想与技术。这本书最精妙之处在于它揭示了一个真相：控制丝绸之路的商人和帝王，掌握的不仅是贸易，更是塑造文明的权力。读完这部900页的著作，你对当代地缘政治的理解也会被刷新。",
+      "quotes": [
+        {
+          "text": "The Silk Road was never simply a trade route; it was a network of connections that bound together the fate of peoples from the Atlantic to the Pacific.",
+          "context": "弗兰科潘的核心观点——丝绸之路不是商业路线，而是文明交汇和权力争夺的舞台，理解它就是理解现代世界的起源。"
+        },
+        {
+          "text": "What happened in the East did not stay in the East but rippled out across the world, changing everything.",
+          "context": "作者强调的是，历史不是单向流动的，东方的变化以强大的力量塑造了西方的发展，我们需要放弃欧洲中心的叙事。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_1923"
+}
