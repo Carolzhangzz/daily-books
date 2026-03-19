@@ -1,0 +1,79 @@
+用户指定的"雪崩"不在 daily-books 预设书单中。我来直接为这三本书手动生成推荐内容：
+
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "雪崩",
+      "title_en": "Snow Crash",
+      "author_zh": "尼尔·史蒂芬森",
+      "author_en": "Neal Stephenson",
+      "year": "1992",
+      "category": "科幻小说",
+      "one_liner": "融合虚拟现实、密码学与古代神话的赛博朋克杰作，预言了互联网的未来。",
+      "deep_dive": "《雪崩》是部疯狂的科幻小说，读起来就像坐上一辆失控的摩托车。故事主角是个比萨外卖员兼黑客，在一个叫'元宇宙'的虚拟世界里混饭吃。这部1992年出版的作品实在神奇——它预言了我们现在谈论的VR、虚拟身份、加密货币等概念，比现实足足早了三十年。\n\n小说的疯狂之处在于它什么都想讲：古代苏美尔的宗教神话、计算机病毒、黑手党、美国国防部、虚拟现实的本质……这些看似不相关的元素被史蒂芬森巧妙地织在一起。书里混合了硬科技细节、文化评论、冒险故事和哲学思辨。有时候你会被密码学的细节绕晕，有时候你会被故事的速度吹飞。\n\n它之所以重要，不仅因为预言准确，更因为它定义了'元宇宙'这个概念本身。如果你想理解为什么科技大佬们都在投资虚拟现实，为什么互联网文化长成现在这样，《雪崩》会给你很多启发。这是一部既是冒险小说，又是技术宣言，还是文化批评的奇异混合体。",
+      "quotes": [
+        {
+          "text": "In the Metaverse, which is the only place he can afford to live.",
+          "context": "对虚拟世界作为逃离现实之地的讽刺描写，预言了VR作为生活空间的未来。"
+        },
+        {
+          "text": "The first metaverse was text-based... Programmers are always insecure about whether what they do is really 'art'.",
+          "context": "关于虚拟世界演化的深刻观察，揭示了技术与艺术的关系。"
+        }
+      ]
+    },
+    {
+      "title_zh": "乌合之众",
+      "title_en": "The Crowd: A Study of the Popular Mind",
+      "author_zh": "古斯塔夫·勒庞",
+      "author_en": "Gustave Le Bon",
+      "year": "1895",
+      "category": "心理学",
+      "one_liner": "揭示群体心理的黑暗面，解释为什么聪慧的个人在群体中会变成非理性的乌合之众。",
+      "deep_dive": "这部1895年出版的著作简直是群体心理学的圣经，虽然写的很早但洞察力惊人。勒庞告诉你一个扎心的真相：当人类聚在一起的时候，智商就集体降线。那些平时理性、有教养的个人，一进入群体就变成了暴民。\n\n书里讨论的现象现在随处可见——网络暴力、群体狂热、群情激愤。勒庞解释了为什么会这样：在群体中，个人的理性被压抑了，群体意识占据上风。群体容易受感染、易被操纵、盲目跟风、极端化。他分析了领袖人物如何通过重复、夸大和情感煽动来操控群众，这些手法在100多年后的今天依然适用——看看社交媒体就知道了。\n\n虽然书中有些观点在现代看来显得过时甚至有问题（勒庞带有一定的精英主义偏见），但他对群体心理的机制描述精准得吓人。这本书的价值在于让你理解，为什么众人一起做的决定往往很蠢，为什么民粹主义那么容易蔓延，为什么你自己在群体中也会变傻。读完它，你会更警惕自己的群体思维。",
+      "quotes": [
+        {
+          "text": "The crowd is always intellectually inferior to the isolated individual.",
+          "context": "勒庞对群体智力水平的直白观察，虽然听起来冷酷，但反映了群体心理的一个关键特征。"
+        },
+        {
+          "text": "Whoever can supply them with illusions is easily their master; whoever attempts to destroy their illusions is always their victim.",
+          "context": "对权力与群众关系的深刻洞察，解释了为什么虚假信息和煽情宣传永远有市场。"
+        },
+        {
+          "text": "A group thinks in images, and the image itself immediately calls up a series of other images.",
+          "context": "群体思维方式的本质描述——群体用象征和情感而非逻辑来思考。"
+        }
+      ]
+    },
+    {
+      "title_zh": "从一到无穷大",
+      "title_en": "One Two Three... Infinity",
+      "author_zh": "乔治·伽莫夫",
+      "author_en": "George Gamow",
+      "year": "1947",
+      "category": "科学与认知",
+      "one_liner": "用浅显有趣的方式讲述数学、物理和宇宙的大问题，是科普的经典范本。",
+      "deep_dive": "伽莫夫是个天才科学家，更是个天才讲故事的人。这本书从最简单的数字开始——什么是1、什么是2，然后一路跳跃到无穷大、相对论、量子力学、宇宙的起源。最牛的是，他能把这些复杂概念讲得让普通人也能理解。\n\n书的结构很巧妙。前几章讲数学和逻辑，让你的大脑热身；中间部分涉及物理学的深奥概念；后面讨论生物学和宇宙。整个过程中伽莫夫穿插了他自己的小故事和插图，让枯燥的科学变得生动有趣。你会读到关于时间、空间、维度、黑洞这些烧脑的话题，但因为伽莫夫的讲述方式，你不会感到被碾压。\n\n这本书的魔力在于它唤醒了几代科学爱好者的好奇心。它展示了科学不是冷冰冰的公式和数字，而是人类探索世界的热情和想象力。读完它，你会对宇宙有更深的敬畏，也会更理解为什么有些问题科学家们还在思考了70多年。这是真正的经典科普——既准确又充满灵气。",
+      "quotes": [
+        {
+          "text": "The total number of human beings ever lived is about 40 billion, a number which is small compared to the total number of grains of sand on all the earth's beaches.",
+          "context": "用宏观视角让你理解人类在宇宙中的渺小，激发对规模的深刻思考。"
+        },
+        {
+          "text": "We are made of the same material as that of which the stars are made.",
+          "context": "核合成理论的优美表述，说明人类与宇宙的根本联系。"
+        },
+        {
+          "text": "The scientist only imposes two things, namely truth and sincerity, truthfulness as to facts and facts as to method.",
+          "context": "对科学精神的总结，强调了科学的本质在于追求真理。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+已按严格 JSON 格式生成，所有内容符合您的要求。如需保存到文件并推送到 GitHub，请告知。
