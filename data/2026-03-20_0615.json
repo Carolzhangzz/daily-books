@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "窗边的小豆豆",
+      "title_en": "Totto-chan: The Little Girl at the Window",
+      "author_zh": "黑柳彻子",
+      "author_en": "Tetsuko Kuroyanagi",
+      "year": "1981",
+      "category": "教育文学",
+      "one_liner": "通过小豆豆的故事，展现了一种温暖而自由的教育理念",
+      "deep_dive": "这部作品讲的是作者自己的童年经历，真的特别感人。小豆豆原本被普通学校开除，后来来到了巴学园——一个很不一样的地方。校长小林宗作用很特别的方式教育孩子，他不是严厉地管束，而是尊重每个孩子的个性和天赋。书里最触动我的是，小豆豆虽然调皮但从未被否定，反而被看见和理解。巴学园的教室是真的火车车厢改造的，学生在自由的环境里学习。这本书让人反思什么是真正的教育——不是把孩子塑造成标准件，而是帮助他们发现自己的光芒。读完以后你会更加相信，每个孩子都是独特而珍贵的，只要给予理解和自由的空间，他们都能开花结果。",
+      "quotes": [
+        {
+          "text": "真正的教育并不是为了培养成绩优异的学生，而是要培养能适应社会、懂得如何生活的人",
+          "context": "校长小林对教育的理解"
+        },
+        {
+          "text": "只要你是个好孩子，就应该被喜欢",
+          "context": "小林校长对小豆豆说的话"
+        }
+      ]
+    },
+    {
+      "title_zh": "傲慢与偏见",
+      "title_en": "Pride and Prejudice",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1813",
+      "category": "爱情小说",
+      "one_liner": "爱情与社会地位的碰撞，女性自我觉醒的经典之作",
+      "deep_dive": "这是英国文学里最经典的爱情故事之一，但它绝不只是爱情小说。伊丽莎白和达西的互动特别有意思——一开始他们互相看不顺眼，达西显得傲慢无礼，伊丽莎白对他充满偏见。但随着故事展开，他们慢慢发现彼此的真实面目，那种误会解开的瞬间真的令人畅快。更重要的是，奥斯汀笔下的伊丽莎白是那个时代少见的独立女性——她敢拒绝不爱的男人，敢说自己的想法，这在当时真的是很大的勇气。整个故事融合了社交讽刺、家族纠葛和爱情，读起来既有趣又有深度。你会看到每个人物都有缺点，但也都有闪光点，这才是真实的人性。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.（一个有钱的单身男人，必然需要娶一个老婆，这是普遍公认的真理）",
+          "context": "小说开篇"
+        },
+        {
+          "text": "There is nothing I would not do for those who are really my friends.",
+          "context": "伊丽莎白论及友谊的价值"
+        }
+      ]
+    },
+    {
+      "title_zh": "沙丘",
+      "title_en": "Dune",
+      "author_zh": "弗兰克·赫伯特",
+      "author_en": "Frank Herbert",
+      "year": "1965",
+      "category": "科幻史诗",
+      "one_liner": "一个男孩的蜕变，权力、宗教与生态的完美融合",
+      "deep_dive": "这真的是科幻文学里的巅峰之作。故事设定在遥远的未来，保罗·厄崔迪是一个贵族少年，他的家族被派往沙漠星球阿拉基斯采集最珍贵的香料。一场政治阴谋让保罗失去了一切，他逃往沙漠，被当地的弗瑞曼人救起。从这一刻起，他的人生彻底改变了。书里最精妙的是权力、宗教、生态系统的多维度碰撞——保罗不仅要学会生存，还要理解弗瑞曼人对香料和沙虫的信仰，最后他成为了一个救世主般的人物。赫伯特对政治权力游戏的刻画特别深刻，你会看到保罗虽然拥有超凡的能力，但也被卷入了无法逃脱的宿命。这不是简单的英雄冒险故事，而是关于权力如何腐蚀人性的深刻思考。",
+      "quotes": [
+        {
+          "text": "Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear.",
+          "context": "贝尼·格瑟瑞特的冥想教程"
+        },
+        {
+          "text": "The sleeper has awakened.",
+          "context": "弗瑞曼人对保罗预言的应验"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0615"
+}
