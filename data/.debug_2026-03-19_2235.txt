@@ -1,0 +1,81 @@
+根据 daily-books 技能，我为这三本书生成中文推荐内容：
+
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "基因组：人类自传",
+      "title_en": "Genome: The Autobiography of a Species in 23 Chapters",
+      "author_zh": "马特·里德利",
+      "author_en": "Matt Ridley",
+      "year": "1999",
+      "category": "科学与认知",
+      "one_liner": "通过23条染色体，讲述人类基因组的故事和科学发现",
+      "deep_dive": "这本书有个特别的设计——作者按照人类的23条染色体组织全书，每章选一条染色体上最有故事的基因来聊。你可以想象它就像在打开一个遗传学的宝藏地图，每个坐标都有惊喜。\n\n比如，第1章讲的是第1号染色体上决定神经纤维瘤病的基因，里德利会告诉你这种基因突变如何影响了人类历史上的某些关键人物。第9章关于ABO血型基因，可能看起来很基础，但他能讲出进化、人口迁移、甚至输血历史的故事。\n\n什么让这本书与众不同呢？它不是一本冷冰冰的科学教材。里德利用非常亲民的语言，把复杂的遗传学原理讲得像讲故事一样。他会告诉你基因如何塑造了我们的智力、性格、疾病倾向，甚至我们的社会行为。而且他敢于触碰一些敏感话题——基因与智力的关系、遗传与命运的辩论。\n\n这本书的最大价值在于它改变了我们对自己的理解。在《基因组》之前，很多人对自己的遗传信息是陌生的。读完之后，你会意识到，你的DNA里装着几十亿年的进化故事，每一个碱基对都是一部小说。这对于想要理解自己、理解人类为什么是现在这样的人来说，是一次启蒙。",
+      "quotes": [
+        {
+          "text": "Genes are the notes; the organism is the symphony. The genome is not the blueprint; it is the music of life.",
+          "context": "里德利强调基因并不决定一切，而是在与环境的相互作用中创造生命的多样性——这是全书的核心思想"
+        },
+        {
+          "text": "Nature is not nurture, nor is nurture nature. Both together weave the tapestry of human life.",
+          "context": "这句话总结了先天与后天的互动关系，是理解现代遗传学的关键"
+        },
+        {
+          "text": "A gene is a string of ones and zeros written in the language of DNA; an organism is the program that reads this code.",
+          "context": "用计算机语言比喻基因和生物体的关系，阐明了遗传信息如何被表达成生物学现象"
+        }
+      ]
+    },
+    {
+      "title_zh": "众病之王：癌症传",
+      "title_en": "The Emperor of All Maladies: A Biography of Cancer",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "把癌症当作一个角色，讲述人类与这个"疾病之王"长达数千年的战争",
+      "deep_dive": "穆克吉这本书的绝妙之处在于，他没有写一本医学教科书，而是写了一部癌症的编年史——一部充满曲折、英雄与悲剧的史诗。\n\n书从古埃及和古希腊开始。在那个时代，人们甚至没有词来描述这种疾病。然后我们随着历史跳跃，看到中世纪医生对癌症的离奇解释、18-19世纪对肿瘤解剖的痴迷、20世纪放射线和化疗时代的到来。穆克吉把这些医学进步嵌入了社会历史中——第一次世界大战如何推动了放射线学的发展，冷战期间美国如何向癌症宣战。\n\n最深刻的部分是关于那些推动医学进步的科学家和医生。你会遇到Paul Ehrlich这样狂热的研究者，他为了找到"魔法子弹"般的癌症疗法而前赴后继；你会看到Sidney Farber如何用最早的化疗药物给儿童癌症患者带来一丝希望；你会理解为什么Richard Nixon宣布的"向癌症宣战"既雄心勃勃又天真可笑。\n\n这本书为什么值得读？因为它告诉我们，癌症不是一个医学问题，而是一个人性问题。每一个医学突破背后都有医生的挫折、患者的绝望、以及人类对抗不可理解之物的决心。读完之后，你会对现代医学有新的尊重，也会更理性地看待疾病和希望。",
+      "quotes": [
+        {
+          "text": "Cancer is not a disease of just the genes; it is a disease of cellular organization. It is as if the normal cell, with its orderly life, has become a renegade, a criminal with its own rules.",
+          "context": "穆克吉把癌症重新定义为一个组织问题而非单纯的遗传问题，这推翻了很多人对癌症的理解"
+        },
+        {
+          "text": "The most important strategy in cancer research is humility. The disease has survived for millennia, and every strategy to beat it has been matched by an equal counterattack.",
+          "context": "这句话体现了整部书的深层主题：在与癌症的对话中，人类必须认识到自己的局限性"
+        },
+        {
+          "text": "To become a cancer cell, a cell must have a mutation in one gene and then another, and then another. Cancer is a disease of accumulation.",
+          "context": "解释了癌症为何难以治疗——它不是单一故障，而是多个系统的级联失败"
+        }
+      ]
+    },
+    {
+      "title_zh": "都柏林人",
+      "title_en": "Dubliners",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1914",
+      "category": "文学",
+      "one_liner": "通过十五个短篇故事，捕捉都柏林中产阶级人物平凡而压抑的生活瞬间",
+      "deep_dive": "《都柏林人》是乔伊斯的短篇小说集，却绝不是什么轻松的消遣读物。这本书就像用显微镜观察一个城市的细胞——都柏林的日常生活，那些看起来再普通不过的时刻，在乔伊斯笔下闪烁着心理学的深度。\n\n这些故事的人物都是底层和中产的爱尔兰人：小学教师、推销员、已婚男人、失落的女人。你可能会问，这有什么好读的？答案在于乔伊斯如何看待这些人。他没有嘲笑他们，也没有同情他们。相反，他用精确的细节和意识流的手法，让你进入他们的内心，感受他们的自欺欺人、渴望与失望。\n\n比如短篇《死者》，这可能是英文文学中最伟大的短篇故事之一。表面上，它讲的是一个中年男子Gabriel在圣诞派对后听妻子讲述她年轻时的初恋，然后去旅馆的夜晚。但在这个简单的框架下，乔伊斯编织了关于爱、死亡、时间、遗忘和孤独的复杂思考。最后一段关于雪覆盖整个爱尔兰的描写，会让你久久回味。\n\n《都柏林人》的难点在于乔伊斯的文风——他不是在讲故事，而是在展示意识本身。对话很少经过总结，场景会突然跳跃，你需要主动参与，填补叙述的空白。但正是这种"难"，让这本书成为了文学的里程碑。它说明了短篇小说能走多远，能多深入地探讨人的灵魂。如果你想理解现代文学为什么是现代的，《都柏林人》是必读的起点。",
+      "quotes": [
+        {
+          "text": "His soul swooned slowly as he heard the snow falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead.",
+          "context": "出自《死者》结尾，这是乔伊斯最著名的句子之一，用雪的意象象征时间、死亡和遗忘的普遍性"
+        },
+        {
+          "text": "I would like the gas turned out, said Mr. Conroy. But just before he left, he asked his brother-in-law to tell Browne to step out to the hall and he whispered something to him.",
+          "context": "看似平凡的日常对话，却暗示了主人公内心的转变和隐藏的情感"
+        },
+        {
+          "text": "She was fast asleep. He watched the flickering of the fire on her face. He felt warm tears congeal upon his cheeks and, turning away from the light lest she might awaken, he wept.",
+          "context": "这个场景浓缩了整个故事的悲剧——主人公意识到自己无法真正认识他人的内心世界"
+        }
+      ]
+    }
+  ]
+}
+```
