@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "哥德尔、艾舍尔、巴赫：一条永恒的金色辫子",
+      "title_en": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author_zh": "道格拉斯·侯世达",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "科学与认知",
+      "one_liner": "通过数学、艺术、音乐的对话，探讨意识、自我指涉和自相似性的本质。",
+      "deep_dive": "你知道吗，这本书可能是我读过最有趣但也最烧脑的书。侯世达用三个天才的名字做题目——数学家哥德尔、画家艾舍尔、音乐家巴赫——然后花了700多页来讲述他们之间的秘密联系。\n\n乍一看，这三个人来自完全不同的领域：哥德尔研究数学逻辑的极限，艾舍尔创造视觉上自相似的怪异建筑，巴赫作曲时常用对位法。侯世达的天才在于发现，这三个领域背后遵循同样的模式——自我指涉、无限循环和分形结构。\n\n这本书的关键概念是\"奇怪的循环\"(strange loops)。想象艾舍尔的楼梯，不管怎么往上爬，最后都会回到起点——这就是奇怪的循环。这个概念帮我们理解意识本身。也许意识就是大脑复杂系统中的一个奇怪循环——当神经元信息足够复杂且自我指涉时，就产生了\"我\"的感觉。\n\n对话中的人物通过看似荒谬的谈话，其实在讨论递归、元数学、美学的本质。如果你喜欢被思想挑战，这本书会让你重新看待世界。它不是快速阅读的书，但过程本身就是一种冥想。",
+      "quotes": [
+        {
+          "text": "It is a good question whether a strange loop can exist in the physical world at all—whether, for instance, an artificial intelligence could be built which would have a sense of self and free will.",
+          "context": "涉及书的核心问题——自我指涉的循环是否能产生真正的意识和自由意志，对人工智能伦理有深远影响。"
+        },
+        {
+          "text": "Jumping out of the system seems to be the only way to achieve a kind of power with respect to the system.",
+          "context": "元数学的核心洞见——要理解系统的局限性，必须跳出来看。这对科学方法和哲学思考都很有启发。"
+        },
+        {
+          "text": "The 'I' is not an entity but a process.",
+          "context": "反挑战我们直觉上对\"自我\"的理解，暗示自我不是固定的东西，而是持续发生的心理过程。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学：确定性的丧失",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "数学与逻辑",
+      "one_liner": "追踪数学从被视为绝对真理到承认自身局限性的历史演变。",
+      "deep_dive": "还记得高中时老师说数学是\"绝对真理\"吗？克莱因这本书要做的，就是彻底打碎这个幻觉。从欧几里得开始，数学被认为是唯一能达到永恒真理的领域。几何原本就像一座完美的大厦，所有定理都从少数几个公理推导出来。两千多年来，人们相信这就是绝对的、永恒的真理。\n\n然后在19世纪，一切都改变了。非欧几何的出现是第一次冲击——你可以改变平行公理，仍然构建出完全自洽的几何。突然间，\"真理\"变成了多个版本。接着是更大的危机：康托尔的集合论产生了悖论，罗素悖论更是直接挑战了集合论的基础。再然后是哥德尔的不完全定理，证明任何足够强大的形式系统都无法证明自己的一致性。\n\n这意味着什么？没有完美的数学。数学不再是宇宙基础的永恒真理，而是人类构造的工具，有其适用范围和内在局限。克莱因通过生动的历史叙述，让我们看到数学家们如何失去对数学绝对性的信心。这听起来很悲观，但其实是成熟的过程——从盲目信仰到理性理解，教会我们即使在最严密的学科中，也要保持谦虚。",
+      "quotes": [
+        {
+          "text": "The mathematicians have lost their absolute truth.",
+          "context": "这是书的核心论点，也是标题的体现。总结了整个数学史上最重大的转变。"
+        },
+        {
+          "text": "Mathematics is not a closed body of knowledge, but an open-ended system of creation and exploration.",
+          "context": "重新定义了数学的本质，从绝对真理变成人类的创造活动，对理解科学方法很重要。"
+        },
+        {
+          "text": "The discovery of non-Euclidean geometries shattered the illusion of mathematical uniqueness.",
+          "context": "标志性事件，说明数学的\"真理\"不是唯一的，而取决于所采纳的公理系统。"
+        }
+      ]
+    },
+    {
+      "title_zh": "三体",
+      "title_en": "The Three-Body Problem",
+      "author_zh": "刘慈欣",
+      "author_en": "Liu Cixin",
+      "year": "2008",
+      "category": "文学",
+      "one_liner": "在文革背景下，人类首次与外星文明接触，面临终极生存困境的硬科幻佳作。",
+      "deep_dive": "如果你想读一部真正会改变世界观的科幻小说，《三体》绝对是名单前几位。这不仅是太空歌剧，更是关于人类困境、科技进步和宇宙残酷真相的深刻思考。\n\n故事开端很巧妙——文革。一个遭遇背叛的天文学家叶文洁，在绝望中向太空发出信号。这个信号被三光年外的三体星系接收。三体星系有三颗恒星，导致环境极端恶劣，文明频繁毁灭重生。当他们接收到地球信号时，迫不及待想要移民。\n\n450年的航行期限给了人类准备的时间，也给了他们奇异的心理——我们知道末日将至，却看不见它。刘慈欣引入了黑暗森林法则：宇宙就像一片黑暗森林，每个文明都是猎人，一旦被发现可能面临消灭。这解释了费米悖论——为什么天空如此寂静。\n\n读《三体》的体验很独特。它不是爽快冒险，也不是温暖人文故事。它冷酷、残酷、逻辑严密。主角是普通人，面对无法理解的对手和无法改变的未来。这种冷酷正是其魅力——提出真正的科学问题：我们应该向外星文明广播吗？生存能以何种代价获得？",
+      "quotes": [
+        {
+          "text": "The universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost, gently pushing aside branches that block the path and trying to tread without sound.",
+          "context": "黑暗森林假说，科幻小说中最有影响力的概念之一，颠覆了对宇宙的理性想象。"
+        },
+        {
+          "text": "Humanity has lost its way in the universe.",
+          "context": "反映了对人类处境的深刻无奈——在宇宙面前，人类力量是多么渺小。"
+        },
+        {
+          "text": "Don't answer! Don't answer!! Don't answer!!!",
+          "context": "重复的警告贯穿整个三部曲，代表着对人类自我毁灭的深刻恐惧。"
+        }
+      ]
+    }
+  ]
+}
+```
