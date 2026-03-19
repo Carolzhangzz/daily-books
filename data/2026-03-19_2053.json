@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "米德尔马契",
+      "title_en": "Middlemarch",
+      "author_zh": "乔治·艾略特",
+      "author_en": "George Eliot",
+      "year": "1871-1872",
+      "category": "文学",
+      "one_liner": "19世纪英国小镇中多个人物交织的人生故事，探讨理想、爱情与现实的碰撞。",
+      "deep_dive": "《米德尔马契》是一部浓厚的社会剧，背景设在虚构的英国小镇米德尔马契。小说通过多条叙事线索，讲述了不同阶层、不同背景的人物如何在这个小社区中相互碰撞、互相影响。中心故事围绕几对主要人物展开：年轻医生利德盖特满怀改革医学的理想来到镇上，却被世俗的经济困境和婚姻所拖累；有志于成为改革家的多萝西选择嫁给了苍白无力的宗教学者卡索邦，而非她真正爱的人；年轻的政治家布鲁克试图成为进步的力量。艾略特以极其细腻的笔触描绘了这些人物如何在理想与现实的巨大鸿沟中挣扎、妥协、最终走向各自的人生终局。这部小说之所以伟大，在于它不是讲述一个单一故事，而是用社会学的眼光观察人性本身——人们如何被欲望、期待、压力所束缚，又如何在束缚中寻找意义和救赎。",
+      "quotes": [
+        {
+          "text": "If we had a keen vision of all that is ordinary in human life, it would be like hearing the grass grow and we should die of that roar which is the other side of silence.",
+          "context": "艾略特在小说开篇的反思，揭示了平凡生活中隐藏的深刻真理——我们之所以活着，是因为我们对日常生活的麻木。"
+        },
+        {
+          "text": "Our life is determined by the ideas which we have about it.",
+          "context": "在讨论人物如何被自己的观念所束缚时，艾略特道出了这个核心真理——我们对生活的认知，才是决定命运的真正力量。"
+        },
+        {
+          "text": "To know how to live is all we have to learn.",
+          "context": "这句话浓缩了整部小说的主题——在所有知识中，最重要的是如何活出一个有意义的人生。"
+        }
+      ]
+    },
+    {
+      "title_zh": "发条女孩",
+      "title_en": "The Clockwork Girl",
+      "author_zh": "邦妮·迪",
+      "author_en": "Bonnie Dee",
+      "year": "2011",
+      "category": "文学",
+      "one_liner": "未来世界中，一个被改造成机械生物的女孩寻求独立和自我认同的故事。",
+      "deep_dive": "在一个高度科技化的未来社会中，一个年轻女孩遭遇了一场改变人生的创伤——她的身体被部分机械化改造，成为了一半人类、一半机器的存在。小说跟随着这位\"发条女孩\"的视角，展现她如何在一个既不完全接纳她人类身份、也不愿承认她机械特性的社会中生存。她的旅程不仅是关于接纳自己的不完美与异奇，更是关于在一个试图定义和控制人们身体、甚至灵魂的系统中争取个人自由。这部作品涉及身体自主权、身份认同、人性的本质等深刻主题。通过科幻设定，作者思考了现代社会关于身体改造、技术介入生活的伦理问题，以及在现代社会中找到自我的艰难。既有科幻的想象力，又不失对人性深层次的关怀与追问。",
+      "quotes": [
+        {
+          "text": "I am not what was done to me. I am what I choose to become.",
+          "context": "女主人公面对自己的机械化身体时的坚定宣言，表达了个人意志对于自我定义的至高性。"
+        },
+        {
+          "text": "Being broken doesn't mean you're useless. It just means you have to find a new way to work.",
+          "context": "反思伤痛与重生的深刻洞察，强调了在困境中寻找新的可能性的重要性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "丧钟为谁而鸣",
+      "title_en": "For Whom the Bell Tolls",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1940",
+      "category": "文学",
+      "one_liner": "西班牙内战背景下，一位美国志愿者为信念而战、为爱而死的悲壮史诗。",
+      "deep_dive": "《丧钟为谁而鸣》是海明威的巅峰之作，背景设在西班牙内战最激烈的时刻。小说的主人公罗伯特·乔丹是一位在美国教大学的炸药专家，志愿加入西班牙共和军，执行一项危险的爆破任务——炸毁一座桥梁，以配合即将到来的军事行动。在这个任务中，他与游击队员相识，与一位名叫玛丽亚的年轻女孩坠入爱河。这个三天三夜的故事，既是战争的残酷写照，又是人物内心世界的深入探索。海明威以简洁、有力的文笔，描绘了战争中的人性挣扎——勇气与恐惧、爱与死亡、信念与绝望的对话。小说的核心主题体现在约翰·邓恩的著名诗句中：\"没有人是一座孤岛\"——当一个人死亡时，丧钟为所有人而鸣。既是战争文学杰作，也是关于人生意义、个人责任和人类团结的永恒思考。",
+      "quotes": [
+        {
+          "text": "For whom the bell tolls? It tolls for thee.",
+          "context": "取自约翰·邓恩的诗歌，道出了小说的中心哲学——我们都是人类整体的一部分，任何人的死亡都减少了我们所有人。"
+        },
+        {
+          "text": "The world is a fine place and worth fighting for.",
+          "context": "罗伯特·乔丹的信念宣言，即使面对死亡和绝望，仍坚持这个世界值得为之奋斗。"
+        },
+        {
+          "text": "There is no remedy for anything in life.",
+          "context": "海明威式的宿命论与现实主义的交融，承认生命中痛苦和失去的必然性，但这不能阻止我们的抗争。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2053"
+}
