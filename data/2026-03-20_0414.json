@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "博弈论与经济行为",
+      "title_en": "Theory of Games and Economic Behavior",
+      "author_zh": "约翰·冯·诺依曼、奥斯卡·摩根斯坦",
+      "author_en": "John von Neumann, Oskar Morgenstern",
+      "year": "1944",
+      "category": "科学与认知",
+      "one_liner": "用数学语言破译人类理性决策和竞争博弈的秘密",
+      "deep_dive": "这本书是20世纪最具革命性的著作之一。它做了一件看似简单但极其深刻的事：用数学模型严格描述人与人之间的互动、竞争和合作。\n\n想象你和朋友分配彩票奖金，怎样最公平？或者两家公司竞争市场份额，各自该采取什么策略？这些具体问题背后有通用的数学结构——这就是博弈论。冯·诺依曼和摩根斯坦定义博弈为：多个参与者各有目标和可选行动，最终结果既取决于你的选择，也取决于对手的选择。这听起来简单，但数学化后你就能分析：什么时候合作比竞争更有利？什么策略是\"稳定的\"——即使对手知道你的计划也改变不了？\n\n这本书的妙处在于应用的广泛性。它不仅适用于经济学或战争策略，也适用于日常生活——怎么分配家务、国家如何谈判核军备、生物进化中物种之间的互动。这些看似完全不同的问题在博弈论框架下有相似的逻辑结构。\n\n读这本书还能体验一种思维方式：把复杂现实简化为数学模型，再用严格推理得出结论。这方法在20世纪彻底改变了经济学、政治学甚至生物学。冯·诺依曼还创造了现代计算机的基本架构，真的是天才中的天才。\n\n坦诚地说，数学部分有难度，但核心思想不需高深数学理解，完全可以跳过复杂证明，抓住直觉。",
+      "quotes": [
+        {
+          "text": "We assert that the \"players\" of a social \"game\" are motivated, in the first instance, by the realization of financial gain, of material reward, but that in the case of many other \"games\" the incentives are of a wholly different nature.",
+          "context": "博弈不仅关乎金钱，也关乎声誉、权力、尊严等多种动机"
+        },
+        {
+          "text": "A rational person does not act according to the momentary impulse of his passions, but according to a plan, which in view of his knowledge and the knowledge of his environment, is likely to give him the utmost satisfaction.",
+          "context": "理性决策的定义——强调计划性和整体利益最大化"
+        },
+        {
+          "text": "The natural limitation of human intellect forbids us from applying such a treatment to the actually existing forms of economic organization.",
+          "context": "谦虚地承认模型的局限——再优雅的数学也无法完全描述现实经济"
+        }
+      ]
+    },
+    {
+      "title_zh": "第五屠宰场",
+      "title_en": "Slaughterhouse-Five",
+      "author_zh": "库尔特·冯内古特",
+      "author_en": "Kurt Vonnegut",
+      "year": "1969",
+      "category": "文学",
+      "one_liner": "一个人在四维时空中游荡，目睹战争和死亡的荒诞真相",
+      "deep_dive": "这是冯内古特最著名的反战小说，20世纪英文文学的杰作。主人公比利·派迪格看起来像被外星人绑架的科幻主人公，但本质上讲的是战争、死亡和人类面对荒诞宇宙的无奈。\n\n比利是二战美国士兵，经历了人类历史上最恐怖的事件之一：德累斯顿大轰炸，近20万人丧生。小说巧妙融合这段真实历史创伤和科幻虚构，创造出既怪诞又令人不安的叙事体验。冯内古特本人是这场轰炸的幸存者，这本书既是见证也是疗愈。\n\n书中最著名的短语是\"So it goes\"。每当有人死亡、每当发生悲剧，这个短语重复出现。这简单的重复变成绝望的咒语——人类面对命运和死亡时，我们能说的也只是\"就是这样了\"。\n\n为什么值得读？因为它用既幽默又悲哀的方式，讲述战争的真实代价。不是英雄的战役故事，不是宏大的历史叙述，而是普通人在枪林弹雨中无法理解自己经历的困惑和痛苦。\n\n这本书的结构也很特别——时间被打乱。比利在不同时间点之间跳跃，时而在战争中，时而在外星飞船上，时而在战后普通生活。这种破碎的叙事反映了创伤对人心的影响：记忆不是线性的，创伤让你在过去和现在无序徘徊。\n\n总的来说，这部作品说出许多战争文学回避的真相：战争大多只是毫无意义的死亡，人们无法控制命运，我们能做的只有承认荒诞，然后继续活下去。",
+      "quotes": [
+        {
+          "text": "So it goes.",
+          "context": "书中最著名的短语，每次有人或动物死亡时重复出现，承认死亡的不可避免性和生命的无常"
+        },
+        {
+          "text": "Everything is beautiful and nothing hurts.",
+          "context": "外星人特拉弗美多星人对死亡的哲学——接纳所有时刻，包括死亡，都是美的"
+        },
+        {
+          "text": "And I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'",
+          "context": "冯内古特对读者最温暖的建议——在荒诞的世界中，学会欣赏微小的幸福时刻"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学简史",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "科学与认知",
+      "one_liner": "数学如何从绝对真理演变成充满假设和不完全性的探险",
+      "deep_dive": "如果你听说数学是\"绝对真理\"的象征，莫里斯·克莱因会温和地摇头，讲一个更有趣的故事。《数学简史》不是枯燥的按年代列举发现的教科书，而是数学思想如何变革的引人入胜叙述。\n\n书的标题《确定性的丧失》点出核心：从欧几里得几何开始，数学曾被视为完美、无可挑剔的知识体系。两千多年里，人们相信欧几里得的五个公理是自证其实的真理，基于它们推导的定理也就自动成了真理。多么舒适的信念啊。\n\n但问题来了。19世纪，数学家开始问一个天真的问题：欧几里得第五公理（平行线）真那么显而易见吗？为什么不能否定它？数学家们真的这样做，发现了非欧几何——一个同样逻辑自洽但描述完全不同空间的几何系统。\n\n这是第一次震撼。如果两个互相矛盾的公理系统都能产生逻辑自洽的几何，那数学真理的绝对性从哪来？\n\n第二次震撼更深刻。20世纪初，哥德尔证明：在任何足够复杂的公理系统中，都必然存在既不能被证明也不能被否定的命题。任何数学系统都是不完全的。我们能选择哪些假设作为基础，但永远无法证明这些假设的真实性。\n\n听起来悲观，但克莱因论述很妙。他展示的不是数学的衰落，而是成熟。数学从声称掌握绝对真理的学科，变成更诚实的工作方式：建立假设，严格推导后果。数学的力量不在于告诉我们真理是什么，而在于给我们强大工具思考和解决问题。\n\n这本书最有价值处是：数学不是完成的大厦，而是不断演进的思想过程。数学家犯过错误，改变过想法，质疑过信念。理解这点，你就理解了科学和知识本身的本质——都是人类对世界的不断逼近，而非最终答案。",
+      "quotes": [
+        {
+          "text": "Mathematics is not a discovery of eternal truths, but rather a series of models that are useful for describing aspects of our world.",
+          "context": "克莱因对数学性质的重新定义——它是创造有用的思想系统，而非发现永恒真理"
+        },
+        {
+          "text": "The parallel postulate has been the source of more philosophical and mathematical controversy than any other postulate in the history of mathematics.",
+          "context": "平行线公理的故事展示了数学基础的脆弱性，引发了非欧几何的革命"
+        },
+        {
+          "text": "The loss of absolute certainty has not weakened mathematics but has made it stronger and more powerful.",
+          "context": "克莱因的核心论点——放弃绝对真理的幻想，让数学变得更强大、更实用"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0414"
+}
