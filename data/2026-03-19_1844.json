@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "海明威传",
+      "title_en": "Hemingway: A Life Without Consequences",
+      "author_zh": "卡洛斯·贝克",
+      "author_en": "Carlos Baker",
+      "year": "1969",
+      "category": "传记",
+      "one_liner": "一位用笔和生活都在追求真实的作家，在荣耀与自毁之间不断摇摆的传奇人生。",
+      "deep_dive": "读海明威传就像看一部既壮丽又悲剧的电影。这个人啊，就是非要把生活活成小说似的。你知道那种酒吧里最会讲故事的家伙吗？海明威就是这样的人，只不过他还会把故事写成永恒的文学作品。从一战后躁动的巴黎，到西班牙内战的炮火，再到古巴捕鱼的大海，他用笔尖记录了一个时代的脉搏。但这也是一个自我摧毁的故事——无数段婚姻、与朋友的决裂、对名气的执着，还有永不停歇的自我证明。他像个现代海盗一样活着，掠夺生活的每一个刺激时刻，却也在无形中伤害了身边的人。海明威教会我们什么是真实的写作和真实的活着，但代价似乎总是那么昂贵。读这部传记，你会理解为什么文学圈有句话说'天才和疯子只隔一线'，也会明白过度的热烈有时候反而是一种诅咒。",
+      "quotes": [
+        {
+          "text": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+          "context": "海明威对写作的理解——写作就是把灵魂赤裸裸地倒在纸上，没有任何修饰和退缩的空间。这句话定义了他整个文学哲学的核心。"
+        },
+        {
+          "text": "Courage is grace under pressure.",
+          "context": "海明威所倡导的'硬汉'精神的精髓——真正的勇气不在于没有恐惧，而在于恐惧中仍保持优雅和尊严，这也是他一生所追求和实践的品质。"
+        },
+        {
+          "text": "The world breaks everyone, and afterward, many are strong at the broken places.",
+          "context": "这是《永别了，武器》中的经典台词，也是海明威人生的完美写照。他经历过战争创伤、感情伤害、身体病痛，但正是这些破碎之处让他的作品闪闪发光。"
+        }
+      ]
+    },
+    {
+      "title_zh": "野性的呼唤",
+      "title_en": "The Call of the Wild",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1903",
+      "category": "文学",
+      "one_liner": "一只被驯化的狗听到来自森林的呼唤，最终选择回归野性，这是关于自由、本能和生命意义的冒险史诗。",
+      "deep_dive": "这本书啊，看似在讲一条狗的故事，实际上是在讲我们每个人心里那头野兽的觉醒。主角Buck原本是个舒适家庭里的宠物犬，被园丁拐卖后经历了一连串的主人——有对它残忍无比的，也有试图驯服它的。但越来越多的时刻，Buck开始听到森林深处的呼唤，感受到血液里的原始冲动。伦敦把狗的心理活动写得极其生动，你会发现Buck的挣扎其实就是人性中理性与本能、文明与野性之间的终极冲突。到最后，当一个真正爱它的人出现又离开时，Buck终于决定完全回归森林，成为传说中的'幽灵狗'。这个故事之所以震撼，是因为它触及了永恒的问题：我们为了社会和秩序放弃了什么？为了安全而失去了什么？有时候，回归本真的呼唤，比舒适和安全更强大。",
+      "quotes": [
+        {
+          "text": "He was sounding the deeps of his nature, and of the parts of his nature that were deeper than he, going back into the womb of Time.",
+          "context": "这句话捕捉了Buck回归本性的过程——它在发现自己DNA里刻录的远古力量，这种回归是一种深层次的精神救赎和生命觉醒。"
+        },
+        {
+          "text": "There is an ecstasy that marks the summit of life, and beyond which life cannot rise. And such is the paradox of living, this ecstasy comes when one is most alive, and it comes as a complete forgetfulness that one is alive.",
+          "context": "伦敦关于生命最高峰的哲学观——真正的狂喜在于完全沉浸于当下，忘却自我的存在，这也是Buck在野生状态中最终体验到的终极自由。"
+        }
+      ]
+    },
+    {
+      "title_zh": "鼠疫",
+      "title_en": "The Plague",
+      "author_zh": "阿尔贝·加缪",
+      "author_en": "Albert Camus",
+      "year": "1947",
+      "category": "文学/哲学",
+      "one_liner": "一场突如其来的瘟疫围困了一座城市，在死亡和隔离中，人们发现了生命的荒诞和反抗的意义。",
+      "deep_dive": "《鼠疫》表面上是一个医学冒险故事，实际上是加缪献给所有在荒诞世界中坚持反抗的人的赞歌。故事发生在北非的阿尔及尔，一场莫名的鼠疫突然爆发，城市被迫完全隔离，人们被困在互相感染的恐怖中。这里面有医生、神父、记者、情人等各种人物，他们在瘟疫面前的反应各不相同，但最令人印象深刻的是那些无名英雄的坚持——医生每天走进病房，明知可能被感染，却从不放弃救人；工人们组成防疫队，机械地执行任务；即便在死亡的威胁下，人们仍然相互帮助。加缪用这个故事告诉我们，生活是荒诞的，上帝沉默，瘟疫不可理喻，但人类的反抗本身就具有了英雄性。我们无法战胜死亡，但可以选择在什么样的精神状态下面对它。这本书像一面镜子，照出每个人心中的恐惧与勇气。",
+      "quotes": [
+        {
+          "text": "If there is a thing one can always yearn for, and sometimes attain, it is human love.",
+          "context": "在瘟疫的绝望中，加缪强调人与人之间的连接是最后的救赎。不是信仰，不是道德，而是最简单、最真实的人类之间的温暖和理解。"
+        },
+        {
+          "text": "The only reasonable thing we can say is that we must imagine Sisyphus happy.",
+          "context": "这是加缪著名的西西弗斯悖论的核心——面对永恒的徒劳和无意义，我们仍然必须坚持，并在坚持中找到快乐，这就是对荒诞最深刻的反抗。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_1844"
+}
