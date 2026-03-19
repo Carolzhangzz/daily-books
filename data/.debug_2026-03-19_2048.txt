@@ -1,0 +1,75 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "白牙",
+      "title_en": "White Fang",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1906",
+      "category": "冒险文学/自然小说",
+      "one_liner": "一只在北美荒野中诞生的狼狗，在自然与人性的碰撞中逐渐蜕变的生存史诗。",
+      "deep_dive": "读白牙就像跟随一个灵魂穿越最原始的大荒野。这只小狼狗从出生那一刻起就在适应——适应寒冷、饥饿、捕食者，适应部落生活的残酷法则。最吸引我的是伦敦没有把这只狼狗拟人化，反而让它用本能和直觉去理解这个世界。当白牙被人类驯化后，读者会看到一场真正的心理博弈——野性与驯化、自由与束缚的碰撞。那些关于生存、信任和救赎的场景深深触动人心，让你重新思考什么是真正的自由。这部作品不仅是冒险小说，更是对生命本质的诗意思考。",
+      "quotes": [
+        {
+          "text": "The Wild is fierce and harsh, but it has a beauty that no man-made place can possess.",
+          "context": "白牙对自然原始状态的理解——荒野虽然残酷，却拥有人造世界无法赋予的美"
+        },
+        {
+          "text": "He was a killer, a thing that preyed, living on the things that lived, unaided, alone, by virtue of his own strength and prowess.",
+          "context": "描写白牙初生时作为捕食者的本能和生存的原始方式"
+        },
+        {
+          "text": "Trust is a luxury that only the strong can afford.",
+          "context": "在部落生活中白牙学会的关于生存和信任的悖论"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命之网",
+      "title_en": "The Web of Life: A New Scientific Understanding of Living Systems",
+      "author_zh": "弗里乔夫·卡普拉",
+      "author_en": "Fritjof Capra",
+      "year": "1996",
+      "category": "科学/生态系统",
+      "one_liner": "用网络视角解读生命，发现所有生命体之间隐形的、相互依存的关联。",
+      "deep_dive": "卡普拉在这部书里做了件很酷的事——他把量子物理、系统论和生态学融合在一起，告诉我们生命根本不是由独立的部分组成，而是一个高度互联的整体。想象一下，你呼吸的每一口空气，身体里的每一个细胞，甚至你的思想，都在与这个星球上无数其他生命形式进行着隐形的对话。这不是诗意的比喻，而是科学事实。卡普拉打破了笛卡尔二元论的束缚，提出了一个更符合自然真相的世界观——万物互联，生命是一个自我维持、自我创造的网络。读完这本书，你会发现自己对生态危机、可持续发展，甚至对自己的身份认同都有了新的理解。",
+      "quotes": [
+        {
+          "text": "Life is a self-generating, self-organizing process. The living organism is a self-renewing system.",
+          "context": "关于生命本质的核心观点——生命是自我维持和自我组织的系统"
+        },
+        {
+          "text": "The network is a pattern of organization that is common to all life. It is the very fabric through which matter and energy flow.",
+          "context": "说明网络结构是所有生命的共同组织方式"
+        },
+        {
+          "text": "To understand life, we need to shift from thinking of isolated parts to thinking of interconnected wholes.",
+          "context": "卡普拉的哲学转向——从还原论到整体观的科学范式转变"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的大自然",
+      "title_en": "The Secret Life of Groceries: The Dark Miracle of the American Supermarket",
+      "author_zh": "本·贝克特",
+      "author_en": "Benjamin Lorr",
+      "year": "2021",
+      "category": "自然科学/生态调查",
+      "one_liner": "揭露隐藏在日常生活表面之下的自然生态与食物链的黑暗真相。",
+      "deep_dive": "我们每天都在与自然互动，但大多数人对这种互动一无所知。当你拿起一个番茄或一袋咖啡时，你其实在参与一场庞大的、看不见的生态剧——那些在地球另一端发生的事情，那些被隐藏的劳动、被破坏的生态系统、那些消失的物种。这本书就像掀起了超市光鲜亮丽表面下的盖子，让你看到食物生产背后的真相——从农药污染到工人剥削，从物种灭绝到气候变化。读起来有点沉重，但这种沉重感恰恰是我们需要的清醒。它不是简单的批评，而是一次深层的反思：我们的选择如何影响那些看不见的世界。这让你重新定义什么是真正的'自然'。",
+      "quotes": [
+        {
+          "text": "Every product on the shelf has a story, and most of them are stories we don't want to hear.",
+          "context": "说明看似简单的消费行为背后隐藏的复杂而令人不安的真相"
+        },
+        {
+          "text": "To eat is to participate in a system that destroys ecosystems and exploits human beings.",
+          "context": "揭示食物消费与生态破坏、社会不公正的直接联系"
+        }
+      ]
+    }
+  ]
+}
+```
