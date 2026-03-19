@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "博弈论与经济行为",
+      "title_en": "Theory of Games and Economic Behavior",
+      "author_zh": "冯·诺伊曼 & 摩根斯坦",
+      "author_en": "John von Neumann & Oskar Morgenstern",
+      "year": "1944",
+      "category": "数学与逻辑",
+      "one_liner": "用数学严谨地解析竞争、合作和理性决策，现代博弈论的圣经。",
+      "deep_dive": "你可能以为博弈论是个当代概念，其实早在二战期间，两位数学天才就把竞争和合作的本质抽象成了优雅的数学模型。冯·诺伊曼是真正的怪才，他在量子力学、计算机等领域都有开创性贡献，而这本书是他与摩根斯坦合著的杰作。\n\n这本书的核心其实很简单：当两个或多个参与者的决策会相互影响时会发生什么？比如两个商人竞争、国际谈判、甚至恋爱关系——都可以用博弈论的框架来理解。零和博弈、非零和博弈、纳什均衡这些概念听起来复杂，但读懂了就能看透很多现象的逻辑。\n\n真正震撼的地方在于，书中用严格的数学语言证明了什么是\"理性\"。不是简单地追求最大利益，而是在考虑对手也在理性决策的前提下，找到最优策略。这改变了经济学、政治学、甚至生物学的研究方式。现在人们用博弈论解释进化、解释市场、解释为什么合作有时比竞争更有利。这本书奠定了20世纪最重要的知识框架之一。",
+      "quotes": [
+        {
+          "text": "The theory of games should allow us to understand the logical structure of a bewildering variety of competitions and conflicts.",
+          "context": "阐述博弈论的核心使命——用逻辑结构理解竞争的本质"
+        },
+        {
+          "text": "What we mean by a solution is a set of imputations which satisfy the following two conditions.",
+          "context": "定义博弈论中\"解\"的严格概念，体现了数学化的思维方式"
+        }
+      ]
+    },
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记与回忆录",
+      "one_liner": "梵高用生命作画，欧文·斯通用文字刻画一个天才如何在孤独中燃烧。",
+      "deep_dive": "《渴望生活》是关于梵高最经典的传记，也是最有温度的一部。欧文·斯通没有用冷冰冰的历史记录来讲述，而是像讲一个朋友的故事一样，让你能感受到梵高的每一次失望、每一次狂喜、每一次绝望。\n\n梵高其实是个挫折之王。早年当传教士失败了，做商人也失败了，甚至一开始学画也是为了逃离失败。但就是这样一个在世俗意义上的失败者，却在画布上找到了绝对的自由。他在法国南部的37个月里，用600多幅作品改变了艺术史。那些跃动的笔触、燃烧的色彩，其实都是他内心的呐喊。\n\n这本书最让人心酸的地方在于梵高从来没有获得过成功的快乐。他只卖出过一幅画，大部分时间都在贫困中挣扎。但他从不后悔，反而对美的追求越来越执着。读到他割掉耳朵、精神崩溃这些情节时，你不会觉得他疯了，反而能理解——有时候，一颗太敏感、太渴望的灵魂，在这个冷漠的世界里就是会破碎。梵高的故事让我们重新思考什么才是真正的成功。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高对艺术创作的本质理解，梦想与现实在他手中无界"
+        },
+        {
+          "text": "I am always doing what I cannot do yet, in order to learn how to do it.",
+          "context": "体现他对艺术永无止境的追求，即使在困境中也在不断突破自己"
+        },
+        {
+          "text": "If you hear a voice within you say 'you cannot paint,' then by all means paint.",
+          "context": "给所有追梦者的鼓励，勇气往往来自内心的呐喊"
+        }
+      ]
+    },
+    {
+      "title_zh": "普京传",
+      "title_en": "Putin: The New Tsar",
+      "author_zh": "史蒂文·李·迈尔斯",
+      "author_en": "Steven Lee Myers",
+      "year": "2015",
+      "category": "传记与历史",
+      "one_liner": "一个前克格勃特工如何重塑俄罗斯，成为21世纪最具权势的政治人物。",
+      "deep_dive": "这是目前关于普京最权威的英文传记，作者是《纽约时报》的资深记者。这本书的价值在于它记录了普京从一个籍籍无名的克格勃官员，如何在苏联解体的混乱中迅速上升，最终掌控俄罗斯的完整轨迹。\n\n普京的早年经历充满了冷战的色彩。他在东德当了16年克格勃特务，深谙权力的游戏规则。苏联解体后，俄罗斯陷入了混乱，经济崩溃、黑帮横行。普京在圣彼得堡的政治舞台上逐步建立了自己的权力网络，然后被叶利钦看中，一步步被提拔。从副市长到副总统，再到总理，最后成为总统——这个升迁过程看似偶然，实则体现了他对权力的深刻理解。\n\n书中最吸引人的地方是对普京执政风格的分析。他不是一个意识形态家，而是一个现实主义者。他重建了国家的权力结构，集中了权力，打压寡头，重申了俄罗斯在世界舞台上的地位。但代价是什么？民主退缩、新闻自由受限、反对派遭压制。这本书帮你理解一个人如何塑造一个国家，以及权力集中的吸引力和危险。",
+      "quotes": [
+        {
+          "text": "I am like a cat. I always land on my feet.",
+          "context": "普京对自己政治生涯的自信评价，体现了他对权力游戏的掌控能力"
+        },
+        {
+          "text": "We need to create a vertical of power.",
+          "context": "普京核心的执政理念，强调建立层级清晰的权力结构来稳定俄罗斯"
+        },
+        {
+          "text": "Russia is a country that is always being discussed, but for some reason no one ever wants to listen to us.",
+          "context": "体现了普京对俄罗斯国际地位的执念，驱动他采取更强硬的外交政策"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2344"
+}
