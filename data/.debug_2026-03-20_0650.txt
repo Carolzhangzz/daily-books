@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "费马大定理",
+      "title_en": "Fermat's Last Theorem",
+      "author_zh": "辛格",
+      "author_en": "Simon Singh",
+      "year": "1997",
+      "category": "数学/传记",
+      "one_liner": "困扰人类358年的数学难题，和一个数学家30年的执着追求",
+      "deep_dive": "这本书把一个超硬核的数学问题讲成了冒险故事。费马在400年前随便留下一句话说自己证明了某个定理但没空写出来，就这一句话把全球数学家折磨了三个多世纪。真正精彩的是Andrew Wiles的故事——10岁看到这个定理就痴迷了，长大后虽然搞其他研究，但一直没放下，最后在1993年真的证明出来。你能想象，被论文漏洞卡了一年多，突然灵感闪现的那一刻，这个人得有多开心。书里不仅讲数学，更讲古代数学家的故事、学术竞争的刺激，以及一个人对梦想的执着能有多疯狂。看完你会明白，某些时刻的纯粹追求是多么值钱。",
+      "quotes": [
+        {
+          "text": "I knew that moment, I knew that the answer was right. It was so beautiful... it was so simple and so elegant.",
+          "context": "Wiles发现证明之后的感受，面对308页的计算突然找到关键突破口的那一刻"
+        },
+        {
+          "text": "The proof of Fermat's Last Theorem is a triumph of 20th century mathematics.",
+          "context": "对这个数学成就的评价，体现了358年执着的终极回报"
+        }
+      ]
+    },
+    {
+      "title_zh": "奈飞文化手册",
+      "title_en": "No Rules Rules: Netflix and the Culture of Reinvention",
+      "author_zh": "哈斯廷斯 & 梅耶尔",
+      "author_en": "Reed Hastings & Erin Meyer",
+      "year": "2020",
+      "category": "商业/管理",
+      "one_liner": "一个把自由与责任当DNA的公司，如何改写了娱乐产业的游戏规则",
+      "deep_dive": "Netflix的文化手册其实挺反直觉的。大多数公司层层把关流程为王，但Netflix反其道而行——给员工巨大自由度和信任。核心理念就是招最厉害的人，然后让他们自己决定做什么、怎么做。听起来乌托邦对不对？但他们真的这么干，而且真的有效。代价是什么呢？如果你不够优秀或没跟上公司节奏，你就出局了。这不是温和公司，但超高效。最精彩的部分是讲全球扩张时怎么面对文化冲突——比如在日本，直言不讳怎么和文化相融？这种思考本身就值得琢磨。一堆初创公司抄他们的流程，但没几个真的能复制这种文化信心。",
+      "quotes": [
+        {
+          "text": "We are a team, not a family.",
+          "context": "Netflix最著名的文化宣言，强调高效和绩效而非温情脉脉的家族感"
+        },
+        {
+          "text": "Act in Netflix's best interest.",
+          "context": "给员工最高的自主权框架，核心是信任员工的判断力和自我驱动"
+        }
+      ]
+    },
+    {
+      "title_zh": "沉思录",
+      "title_en": "Meditations",
+      "author_zh": "马可·奥勒留",
+      "author_en": "Marcus Aurelius",
+      "year": "约170-180年",
+      "category": "哲学/自我修养",
+      "one_liner": "两千年前一个罗马皇帝的日记，却是全人类最真实的心灵指南",
+      "deep_dive": "这本书就是个古代哥们的笔记本——他白天要管理帝国，晚上在军营帐篷里反思人生。最疯的是他根本没想出版，纯粹自我提醒。正因为没有包装没有表演，反而最诚实最有力。讲的都是朴素智慧：别过度在意别人看法、接纳你控制不了的事、把注意力放在真正能控制的东西（想法、行动、态度）。读起来你会发现，两千年过了，人的本质困扰一点没变——还是琢磨什么生活值得、怎么面对死亡、怎么处理关系。厉害的是他讲这些时不是以皇帝高高在上，而是用\"我也是有弱点的普通人\"的口吻。这种谦逊感其实比很多心灵鸡汤都有力得多。",
+      "quotes": [
+        {
+          "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+          "context": "斯多葛哲学的核心，强调内在掌控力而非外部环境"
+        },
+        {
+          "text": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+          "context": "提醒我们对他人言论和外界信息保持警惕，承认自己认知的局限"
+        }
+      ]
+    }
+  ]
+}
+```
