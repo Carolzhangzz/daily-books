@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记",
+      "one_liner": "一部关于天才画家梵高充满激情与孤独的艺术人生的传记小说。",
+      "deep_dive": "这本书真的太绝了，读完之后对梵高有了完全不同的认识。很多人只知道梵高割掉了耳朵，但欧文·斯通用小说化的笔法把梵高的一生写得非常生动——从他在比利时的挣扎，到在巴黎的贫困艺术家生涯，再到在南法的那段最富创造力的岁月。你能感受到他对色彩的执着、对艺术的绝对信念，以及那种与生俱来的孤独感。\n\n最让人动容的是，梵高当时根本没有被承认，画卖不出去，经济上靠弟弟提奥的接济。但他从不放弃。他不是为了成名而画画，他是真的想表现内心的感受，想把世界的美表现出来。这种纯粹的艺术精神在商业化的今天显得特别珍贵。书里还有很多他的信件摘录，能看到他对艺术、对生活、对爱情的想法。他是个很敏感、很深情的人，这与他粗粝的笔触形成了巨大的反差。读这本书能理解，一个天才为什么往往那么孤独，那么容易陷入绝望——因为他看到的世界和常人不一样，他感受的强度太大了。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高对艺术创作本质的理解——艺术不是对现实的再现，而是内心梦想的表达。"
+        },
+        {
+          "text": "I am always doing what I cannot do yet, in order to learn how to do it.",
+          "context": "体现了梵高不断探索、永不满足的艺术态度，也是他能不断突破自我的原因。"
+        },
+        {
+          "text": "What am I in the eyes of most people a nonentity, an eccentric, or an unpleasant person? Somebody who has no position in society and never will have; in short, the lowest of the low. All right, then—I want to show through my work what such an eccentric, such a nobody, has in his heart.",
+          "context": "梵高对自身处境的诚实面对，以及将这份孤独转化为艺术力量的决心。"
+        }
+      ]
+    },
+    {
+      "title_zh": "正念的奇迹",
+      "title_en": "The Miracle of Mindfulness",
+      "author_zh": "一行禅师",
+      "author_en": "Thich Nhat Hanh",
+      "year": "1975",
+      "category": "哲学",
+      "one_liner": "一位越南禅师关于如何通过正念修行在日常生活中获得内心平静和生活智慧的实修指南。",
+      "deep_dive": "这本书有点神奇，它很薄，也不复杂，但真的改变了不少人对冥想和生活的理解。一行禅师写得很亲切，不像有些禅学书那么玄乎，他就是在告诉你：正念其实很简单，就是全心全意地做你正在做的事。\n\n他的例子都来自日常生活——洗碗、走路、喝茶。洗碗的时候，不要想着洗完碗之后干什么，就专注于感受肥皂的香气、水的温度、盘子的纹理。这听起来简单，但很多人一辈子都做不到。我们总是活在过去的悔恨或未来的焦虑里，很少真正活在当下。一行禅师告诉你，正念就是把心拉回来，活在这一刻。\n\n这本书写于越南战争时期，禅师本人经历过战争、流亡、痛苦，所以他讲的不是空洞的哲学，而是真实的、从苦难中领悟出来的智慧。他说和平不只是不战争，而是每一刻的内心平静。如果你感到生活压力大、心烦意乱，这本书会教你一个很简单但很有力的方法：回到当下，回到呼吸。",
+      "quotes": [
+        {
+          "text": "The miracle is not to walk on water. The miracle is to walk on the green earth in the present moment.",
+          "context": "一行禅师对真正的奇迹的重新定义——不是超自然的力量，而是在平凡的此刻保持清醒和感谢的能力。"
+        },
+        {
+          "text": "If while washing the dishes one only thinks of the cup of tea that awaits in the future, then one will not be able to enjoy washing the dishes.",
+          "context": "说明了正念的核心——专注当下任务能带来真正的快乐，而不是总想着下一件事。"
+        },
+        {
+          "text": "Mindfulness is the path to the Deathless. Heedlessness is the path to death.",
+          "context": "强调了清醒觉察的重要性，提醒我们无意识的生活就是在浪费生命。"
+        }
+      ]
+    },
+    {
+      "title_zh": "伟大的博弈",
+      "title_en": "The Great Game: The Struggle for Empire in Central Asia",
+      "author_zh": "彼得·霍普柯克",
+      "author_en": "Peter Hopkirk",
+      "year": "1992",
+      "category": "历史",
+      "one_liner": "一部关于19世纪英俄两大帝国在中亚地缘政治竞争的精彩历史著作。",
+      "deep_dive": "这本书讲的是一场看不见的战争——英国和沙俄为了争夺中亚控制权而进行的长期竞争。你可能从没听说过这段历史，但它深刻影响了今天中东和中亚的地缘局势。\n\n最有意思的是，这不是传统的军事战争，而是充满了间谍、探险家、商人、军官的故事。有些人是英勇的，有些人是狡诈的，有些人就是为了荣耀和冒险。霍普柯克用纪实性的手法把这些人物栩栩如生地写出来了——那些孤身进入中亚腹地的探险家用最原始的工具绘制地图；那些帝国特工在异域他乡上演的谍报战；那些为了帝国利益牺牲的士兵。\n\n中亚为什么这么重要？因为它连接了欧亚大陆，控制了贸易路线，有丰富的资源。英国不想俄国染指中亚，俄国也在不断扩张。这个竞争过程中，中国、阿富汗、伊朗这些国家都被卷了进去。你读完会明白，为什么今天美国会那么关心阿富汗，为什么中亚的稳定对全球影响这么大。霍普柯克的笔法很有张力，每一章都像冒险小说一样激动人心，但又完全是历史事实。",
+      "quotes": [
+        {
+          "text": "To the British, the Great Game had seemed a far more orderly affair. But to the Russians it had never been a game at all, but a serious and long-term strategy to advance their own imperial interests.",
+          "context": "揭示了两个帝国对这场竞争理解的根本差异——英国将其视为游戏，俄国视之为生死攸关的国家战略。"
+        },
+        {
+          "text": "The Great Game was ultimately won by geography, not by any military superiority or political cunning.",
+          "context": "强调了在大国博弈中，地理位置和自然资源的决定性作用，超越了人为的策略。"
+        },
+        {
+          "text": "An empire's reach is ultimately limited by the strength of its supply lines and the courage of its soldiers.",
+          "context": "对帝国主义扩张本质的深刻反思——再强大的帝国也受制于现实的军事和经济约束。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2005"
+}
