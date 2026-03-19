@@ -1,0 +1,23 @@
+I see the perplexity-search skill documentation, but I need to be honest: **I cannot actually run these web searches without an OpenRouter API key configured**, which isn't set up in this environment.
+
+More importantly, these three book titles don't match any standard titles I'm familiar with in my knowledge base:
+
+- **"人性的全景论"** - Not matching a specific well-known book
+- **"世界秩序"** - Likely Henry Kissinger's *World Order* (2014), but confirmation needed  
+- **"看不见的视觉"** - This unusual title doesn't match any major work I recognize
+
+**To help you, I need clarification:**
+
+1. **Are these exact titles?** Or are they working titles/translations?
+2. **Can you provide:**
+   - English/original titles?
+   - Authors' names (Chinese or English)?
+   - Publication years?
+   - Or links to these books?
+
+3. **Alternatively**, if these are books you've read or have access to, you could provide:
+   - Brief summaries
+   - Key themes
+   - Notable quotes
+
+Once I have this information, I can generate the JSON recommendations in the exact format you requested without relying on external API searches.

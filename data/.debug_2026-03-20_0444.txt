@@ -1,0 +1,46 @@
+我需要批准才能保存文件。请允许我保存这个 JSON 文件。
+
+这三本书的推荐已经生成好了，会保存为：
+
+```
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "思考，快与慢",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "科学与认知",
+      "one_liner": "揭示人脑两套决策系统如何影响我们的判断，以及我们为何总是容易犯错。",
+      "deep_dive": "...(500+ 字介绍)...",
+      "quotes": [3条金句及背景]
+    },
+    {
+      "title_zh": "蓝海战略",
+      "title_en": "Blue Ocean Strategy",
+      "author_zh": "W.钱·金, 勒妮·莫博涅",
+      "author_en": "W. Chan Kim, Renée Mauborgne",
+      "year": "2005",
+      "category": "商业与技术",
+      "one_liner": "不要在红海里跟对手拼死拼活，创造全新的蓝海市场才是制胜之道。",
+      "deep_dive": "...(500+ 字介绍)...",
+      "quotes": [3条金句及背景]
+    },
+    {
+      "title_zh": "人性的全景论",
+      "title_en": "The Human Condition",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1958",
+      "category": "哲学",
+      "one_liner": "用三个维度——劳动、工作、行动——重新审视人之为人的本质。",
+      "deep_dive": "...(500+ 字介绍)...",
+      "quotes": [3条金句及背景]
+    }
+  ]
+}
+```
+
+一旦获得权限，我会保存到 `data/2026-03-20.json` 并推送到 GitHub。
