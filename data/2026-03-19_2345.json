@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记与回忆录",
+      "one_liner": "一部虚实交织的文学传记，用梵高本人的视角讲述他苦难而炽热的艺术人生。",
+      "deep_dive": "这本书突破了传统传记的框架。斯通不是简单地堆砌梵高的生平事实，而是用文学的笔触把你拉进梵高的内心世界。你会经历他在矿区做传教士时的困顿，感受他在巴黎被无数画廊拒绝的屈辱，然后看他在阿尔小镇疯狂创作的日子。最打动人的部分是，书里的梵高不是遥远的大师，而是一个活生生的、矛盾的、充满激情的人——他渴望爱却被伤害，渴望认可却长年无人理睬，但就是这些痛苦的经历，烧灼出了那些震撼人心的画作。读这本书，你会理解为什么梵高说「我梦想着绘画，我绘画我的梦想」。它让你看到，伟大的艺术背后往往是伟大的苦难，而这种苦难的转化需要多么坚定的灵魂。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高对艺术本质的深刻理解，生活与艺术在他这里完全融为一体"
+        },
+        {
+          "text": "What am I in the eyes of most people a nonentity, an oddity, a disagreeable person — somebody who has no position in society and never will have. Well, even if that is true, I should like my work to show that I have some human value and feeling.",
+          "context": "梵高在被社会拒绝时对自我价值的执着坚守，这种信念支撑他度过最黑暗的时刻"
+        }
+      ]
+    },
+    {
+      "title_zh": "众病之王：癌症传",
+      "title_en": "The Emperor of All Maladies",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "一部恢宏的医学史诗，将癌症从单纯的疾病叙述升华为人类与死亡的永恒对话。",
+      "deep_dive": "这不是一本冰冷的医学教科书。穆克吉用讲故事的手法，从古埃及时期人类对癌症的最早认识开始，一直追溯到现代分子生物学的突破。你会看到19世纪的医生在显微镜下第一次看到癌细胞时的震惊，见证化疗之父出现的偶然机遇（一个军队中的化学武器泄露事件），理解为什么癌症这么难对付——它本质上是人体细胞的背叛，一场由我们自己的基因编织的内战。书中最深刻的是，穆克吉把癌症比作一个狡猾的对手，它不仅能进化适应我们的药物，还能欺骗免疫系统。但这本书也充满希望，因为每一次失败都让人类离真相更近。读完你会明白，与其说我们在治疗癌症，不如说我们在学会与人体的黑暗面共存。",
+      "quotes": [
+        {
+          "text": "Cancer is, in essence, a disease of genes gone awry—a disease of the genome.",
+          "context": "揭示癌症的本质不是外来入侵，而是细胞内部的遗传背叛"
+        },
+        {
+          "text": "We have not discovered a single magic bullet, but a hundred different caliber ones.",
+          "context": "癌症治疗没有简单答案，需要多元化、个性化的方法"
+        }
+      ]
+    },
+    {
+      "title_zh": "三体",
+      "title_en": "The Three-Body Problem",
+      "author_zh": "刘慈欣",
+      "author_en": "Liu Cixin",
+      "year": "2008",
+      "category": "文学",
+      "one_liner": "一部宏大的科幻史诗，把冷战年代的历史命运与外星文明的入侵交织在一起，展现人类面对未知时的绝望与挣扎。",
+      "deep_dive": "《三体》之所以伟大，在于它不仅仅讲述一个外星人入侵的故事。它从文革时期的红岸基地开始，当天文学家叶文洁在绝望中向宇宙发出呼声时，一切都改变了。刘慈欣巧妙地把人性的黑暗面放大：三体文明收到信号后决定入侵地球，但他们为什么敢？因为他们看透了人类的自相残杀。你会看到一个个普通人被卷入这场宇宙级的陰谋，最后发现人类最大的敌人其实是自己——我们自相残杀，我们互相猜疑，这比任何外来威胁都更致命。这部小说最恐怖的地方不是外星舰队，而是那种无能为力的宇宙孤独感和人性的绝望。它让科幻文学上升到了哲学高度，问出了最终极的问题：在无垠的宇宙面前，个人和文明的价值何在？",
+      "quotes": [
+        {
+          "text": "宇宙很大，地球很小。",
+          "context": "简洁有力的宇宙观，隐喻人类在宇宙中的渺小与孤独"
+        },
+        {
+          "text": "这是一场永远不会终结的游戏。",
+          "context": "对于三体文明不可预测的轨道运行和人类永恒困境的深刻概括"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2345"
+}
