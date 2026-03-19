@@ -1,0 +1,1 @@
+推荐内容已生成，需要授权保存文件。请允许我将 JSON 写入到 `/Users/carol/Documents/daily-books/data/2026-03-19.json`，然后我会更新索引并推送到 GitHub。
