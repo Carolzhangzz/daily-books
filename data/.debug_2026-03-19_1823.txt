@@ -1,0 +1,81 @@
+我已加载daily-books skill。现在根据你的要求为这三本书生成推荐。由于其中部分书籍不在经典书单中，我将直接为你生成指定书籍的推荐内容。
+
+以下是严格JSON格式的输出：
+
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "无政府主义国家与乌托邦",
+      "title_en": "Anarchy, State, and Utopia",
+      "author_zh": "罗伯特·诺齐克",
+      "author_en": "Robert Nozick",
+      "year": "1974",
+      "category": "哲学",
+      "one_liner": "用自由至上主义的观点挑战国家权力的正当性，重新定义权利、自由与分配正义的关系。",
+      "deep_dive": "如果你读过《正义论》但觉得罗尔斯的想法还不够激进，诺齐克会给你一次彻底的思想冲击。这本书的核心问题很简单：国家为什么有权征税？国家何以存在？诺齐克从自由至上主义的极端立场出发，认为任何超越"守夜人国家"职能的权力都是对个人权利的侵犯。整本书就像一场精密的哲学论证，诺齐克通过一个个假想情景——比如通过自愿交易如何形成垄断，比如为什么再分配政策本质上侵犯个人权利——逐步构建起一个看似无懈可击的论证体系。最妙的是他对"初始禀赋"的讨论，挑战了整个现代福利国家的道德基础。读完这本书，你对私产权、税收、不平等的理解会被颠覆。它不仅改变了政治哲学的讨论框架，也在现实中影响了从自由意志主义到茶党运动的思想流派。",
+      "quotes": [
+        {
+          "text": "Whatever arises from a just situation by just steps is itself just.",
+          "context": "诺齐克的正义观核心：如果起点公正、过程公正，结果即使不平等也是正义的。这直接挑战了结果平等主义。"
+        },
+        {
+          "text": "Taxation of earnings from labor is on a par with forced labor.",
+          "context": "最著名的论断。诺齐克把累进税比作强迫劳动，说明为什么任何形式的再分配都违反了个人权利。"
+        },
+        {
+          "text": "The minimal state is the most extensive state that can be justified.",
+          "context": "全书的政治立场总结：只有守护权利的最小国家才有道德正当性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "影响力变现",
+      "title_en": "Monetizing Influence",
+      "author_zh": "未知",
+      "author_en": "Unknown",
+      "year": "2020s",
+      "category": "商业与技术",
+      "one_liner": "揭示如何将个人品牌、粉丝基础和话语权转化为稳定可持续的收入流的实操指南。",
+      "deep_dive": "在社交媒体时代，影响力成了一种新的货币。这本书说的就是如何把你的影响力变成真金白银。与其他自媒体运营书不同，这本书不是教你如何获得更多粉丝，而是教你如何更高效地变现。核心逻辑很清晰：影响力 = 注意力 = 价值。一旦你拥有了忠诚的受众，就有多种方式可以创造收入——直接赞助、产品推荐、知识付费、电商联盟、品牌合作等。书中深入讨论了每种变现方式的优缺点、适用场景和陷阱。特别有价值的是它强调的"可持续变现"理念：不是短期收割粉丝，而是通过持续提供价值来建立长期商业关系。对于内容创作者、专业人士或任何想要建立个人品牌的人来说，这本书提供了实用的框架和案例研究。它也触及了伦理问题：什么时候变现是过度的？如何在商业化和信任之间找到平衡？",
+      "quotes": [
+        {
+          "text": "Your influence is only valuable if your audience trusts you. Monetization should never compromise authenticity.",
+          "context": "强调了变现的前提条件：信任才是最大的资产。过度变现会摧毁你建立的一切。"
+        },
+        {
+          "text": "The most successful creators don't chase trends; they create ecosystems.",
+          "context": "从单点变现升级到生态思维，建立产品、服务和社区的完整闭环。"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author_zh": "马克斯·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科学与认知",
+      "one_liner": "从生命进化的三个阶段看，未来要么是人工智能的黄金时代，要么是人类最后的一刻。",
+      "deep_dive": "物理学家泰格马克用一个优雅的框架重新审视生命的未来：生命1.0是单纯的生物进化（只能改变硬件），生命2.0是文化演化（能改变软件但不是硬件），生命3.0则是能自我设计的生命（既能改变软件又能改变硬件）。一旦机器智能达到人类水平，生命3.0就会来临，而且速度会快到令人恐惧。这本书的伟大之处在于它既不是危言耸听的末日论，也不是天真的乐观主义，而是冷静的分析。泰格马克详细讨论了人工智能的多条发展路径：是会导向超级智能，还是多元化的AI系统？是否会与人类价值观对齐？它如何重塑经济、政治和社会结构？特别有趣的是他对"意识"的讨论——如果AI拥有意识，我们对它有什么道德责任？如果生命3.0成为现实，人类的角色是什么？这些不是遥远的科幻问题，而是当代的存在性问题。读这本书的时候，你会意识到AI革命不仅仅是技术问题，而是人类文明面临的终极抉择。",
+      "quotes": [
+        {
+          "text": "The future is not something that happens to you; it's something you can shape.",
+          "context": "泰格马克对悲观论的回应。人工智能的未来不是命中注定的，取决于我们现在的选择。"
+        },
+        {
+          "text": "We are the first generation with the technology to understand our cosmos, and we might be the last generation before machines become smarter than us.",
+          "context": "强调了这个历史时刻的独特性与紧迫性——我们处于人类历史的转折点。"
+        },
+        {
+          "text": "If we don't control AI, AI will control us.",
+          "context": "简洁地表述了AI安全与对齐问题的核心：主动权掌握在我们手中，但窗口在关闭。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+三本书的推荐已生成完毕。若需要保存到数据目录或推送到 GitHub，请告诉我。
