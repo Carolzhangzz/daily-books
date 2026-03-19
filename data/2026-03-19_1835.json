@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "象与骑象人",
+      "title_en": "The Happiness Hypothesis",
+      "author_zh": "乔纳森·海特",
+      "author_en": "Jonathan Haidt",
+      "year": "2006",
+      "category": "心理学",
+      "one_liner": "用大象和骑象人的比喻讲述理性与直觉的关系如何影响我们的幸福。",
+      "deep_dive": "你有没有发现自己有时候知道什么是对的，但就是控制不住地做错了？海特用了一个特别聪明的比喻来解释这个现象：我们的大脑就像一只大象背上坐着一个骑象人。大象代表我们的直觉、本能和情感，而骑象人代表我们的理性思维。问题是，这只大象力量巨大，骑象人实际上没有那么强的控制力。\n\n这本书不是在说理性无用，而是在说理性往往被我们的情感和直觉绑架了。海特用十个幸福假说来讨论什么真正能让我们快乐——从爱情、工作、宗教信仰，到道德与成长。他发现最幸福的人往往不是那些大脑最聪明的，而是那些能够让大象和骑象人和谐相处的人。\n\n这本书特别有趣的地方在于，海特不是在讲枯燥的心理学理论，而是在讲故事。他会举一些日常生活的例子，让你恍然大悟：哦，原来我就是这样被我的大象牵着鼻子走的。读完之后你会更理解自己，也更温和地对待自己的那些非理性时刻。如果你想理解自己为什么有时候理性，有时候又那么感性，这本书必读。",
+      "quotes": [
+        {
+          "text": "The righteous mind is like a rider on an elephant. The rider represents our conscious reasoning, but the elephant represents our intuitions, emotions, and automatic processes.",
+          "context": "这是海特对人类理性与直觉关系的核心论述，说明了为什么我们总觉得理性无力。"
+        },
+        {
+          "text": "Happiness comes from between.",
+          "context": "海特认为真正的幸福来自于连接——与他人的连接、与工作的连接、与更大事物的连接，而不是单纯的物质追求。"
+        },
+        {
+          "text": "We are 90 percent chimp and 10 percent bee.",
+          "context": "海特比喻人既有自私的动物本能，也有为集体服务的社会本能，这两种本能的平衡决定了我们的幸福。"
+        }
+      ]
+    },
+    {
+      "title_zh": "纯粹理性批判",
+      "title_en": "Critique of Pure Reason",
+      "author_zh": "伊曼纽尔·康德",
+      "author_en": "Immanuel Kant",
+      "year": "1781",
+      "category": "哲学",
+      "one_liner": "康德开创性的哲学著作，重新定义了人类理性的能力和局限。",
+      "deep_dive": "《纯粹理性批判》是哲学史上最难的书之一，但我试着给你讲个容易理解的故事。在康德之前，哲学家们有两派人在争论：一派说我们通过理性认识世界（理性主义），一派说我们通过感觉认识世界（经验主义）。康德看了这场争论，说：你们都对，也都错了。\n\n康德的核心观点是：我们认识世界不是因为世界被动地印在我们脑子里，而是因为我们的大脑主动地建构了我们对世界的理解。我们不是在被动地照相，而是在主动地绘画。换句话说，空间、时间、因果律这些东西，不是客观存在于世界上的，而是我们大脑先天具有的认知框架。\n\n这样一来，康德就解决了一个巨大的哲学问题：为什么数学和物理学这么可靠？因为它们是在我们大脑的框架内运作的。但这也带来了一个令人谦卑的结论：我们永远无法认识物自体——那个独立于我们认知之外的真实世界。我们只能认识我们能认识的东西。这本书改变了整个西方哲学的方向。黑格尔、叔本华、尼采、马克思——这些大家都在回应康德。如果你想理解现代哲学，康德是绕不过去的。",
+      "quotes": [
+        {
+          "text": "Sapere aude! Dare to know!",
+          "context": "康德对启蒙精神的呼喊，也是《纯粹理性批判》的精神核心——人应该勇敢地运用自己的理性，不要被权威和传统束缚。"
+        },
+        {
+          "text": "Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above and the moral law within.",
+          "context": "这是康德对人类处境的深刻思考——我们既是自然的一部分，又有理性和道德的能力，这赋予了人类独特的地位和尊严。"
+        },
+        {
+          "text": "The understanding does not derive its laws from nature, but prescribes them to nature.",
+          "context": "康德的革命性观点：我们的理性不是被动地反映自然，而是主动地为自然规定法则，这彻底改变了认识论的基础。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论美国的民主",
+      "title_en": "Democracy in America",
+      "author_zh": "亚历克西斯·德·托克维尔",
+      "author_en": "Alexis de Tocqueville",
+      "year": "1835",
+      "category": "社科与历史",
+      "one_liner": "法国贵族托克维尔对美国民主制度的深刻观察，至今仍是理解民主的经典之作。",
+      "deep_dive": "托克维尔是个很特殊的观察者。他是法国贵族，出身于一个随时可能在法国大革命中被送上断头台的家族。但他没有固执地维护贵族特权，反而怀着好奇心去美国，花了将近一年的时间走遍这个新兴国家，想要理解民主制度到底是怎么运作的。\n\n他发现的东西既让他钦佩，也让他警惕。美国民主的活力令人惊叹——人人都有参政的热情，地方自治充满生机，私人组织和社团繁荣发展。但托克维尔也看到了隐藏的危险：多数人的暴政。在民主制度下，少数派的权利可能被多数人压倒；平等的渴望可能导致专制；个人主义可能侵蚀公共精神。\n\n最有意思的是，托克维尔写这本书的时候，还没有看到20世纪的种种民主危机。但他的警告后来一次又一次被验证了。他关于民主如何退化成专制、关于多数人压制少数派、关于个人主义的双刃剑性质的论述，至今仍然适用。这本书不是在歌颂民主，也不是在反对民主，而是在清醒地、诚实地分析民主是什么、它的优势和危险在哪里。如果你想理解美国，或者想理解民主本身，这本书必读。",
+      "quotes": [
+        {
+          "text": "Americans are so enamored of equality that they would rather be equal in slavery than unequal in freedom.",
+          "context": "托克维尔对美国民主中平等精神的批评性观察——有时候人们对平等的追求可能会导致对专制的接受，这是民主制度隐藏的危险。"
+        },
+        {
+          "text": "The Americans combine the notions of religion and liberty so intimately in their minds that it is impossible to make them conceive of one without the other.",
+          "context": "托克维尔对美国宗教传统与民主制度关系的观察，这也解释了为什么宗教在美国政治和社会中扮演如此重要的角色。"
+        },
+        {
+          "text": "There is indeed a manly and lawful passion for equality that incites every member of the community to wish to be strong and respected.",
+          "context": "托克维尔区分了两种平等的追求：一种健康、有益，促进人的尊善和自由；另一种则是对绝对平等的执着，可能导致专制。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_1835"
+}
