@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "自私的基因",
+      "title_en": "The Selfish Gene",
+      "author_zh": "理查德·道金斯",
+      "author_en": "Richard Dawkins",
+      "year": "1976",
+      "category": "科学与认知",
+      "one_liner": "从基因的视角重新解释生物进化，认为生物只是基因自我复制的工具",
+      "deep_dive": "这是一部真正改变了人们思维方式的科普经典。道金斯提出的观点听起来有点颠覆：我们理解的生命、进化、自私和利他，统统要从基因的角度重新解读。他的核心论点是，基因，而非生物个体或物种，才是自然选择的真正单位。生物的所有行为——照顾后代、竞争资源、合作甚至牺牲——本质上都是基因在确保自己被复制的概率。这听起来冷酷，但恰恰因为它揭示了生命最底层的逻辑，所以特别有启发性。道金斯用简洁优雅的语言，配合清晰的例子，让你理解为什么父母会为孩子冒生命危险，为什么我们会对陌生人的不公正行为感到愤怒，甚至为什么宗教信仰会传播。这个思维框架一旦装进脑子里，你就再也回不到之前对生命的理解了。读这本书，你会持续地发出"原来如此"的感叹。",
+      "quotes": [
+        {
+          "text": "A gene could increase in frequency in the gene pool not by being good for the organism, but simply by being a good replicator.",
+          "context": "这是道金斯最核心的论点——基因成功的标准不是让生物活得更好，而是自我复制的效率"
+        },
+        {
+          "text": "We are survival machines – robot vehicles blindly programmed to preserve the selfish molecules known as genes.",
+          "context": "开篇的著名论述，颠覆了人们对生命和自由意志的传统理解"
+        },
+        {
+          "text": "Once in a while, an idea comes along that turns the world of science on its head and changes the way we think about ourselves and our place in nature.",
+          "context": "说明这本书本身对科学界的深远影响和革命意义"
+        }
+      ]
+    },
+    {
+      "title_zh": "未来简史",
+      "title_en": "Homo Deus: A Brief History of Tomorrow",
+      "author_zh": "尤瓦尔·赫拉利",
+      "author_en": "Yuval Noah Harari",
+      "year": "2015",
+      "category": "社科与历史",
+      "one_liner": "从人类过去推演未来，探讨科技、权力和人性在新世纪的命运",
+      "deep_dive": "赫拉利在《人类简史》成功后的这部作品里，野心更加宏大。他问的问题是：既然人类已经战胜了饥荒、瘟疫和战争这三大天敌，我们接下来要追求什么？答案既迷人又有点令人不安——我们要成为神。赫拉利认为，用生物工程、人工智能和纳米技术，我们可能将超越人类生物的限制，实现永恒生命、无限权力和极乐幸福。但在这个过程中，一个更深层的问题浮现了：权力和数据掌握在少数人手中，算法和AI可能比我们更懂我们自己，个人意志和自由可能成为奢侈品。书中最可怕的洞察不是技术有多强大，而是权力集中和数据垄断可能带来的人文危机。赫拉利用优雅而严谨的论述方式，让你既感到兴奋又感到不安——这就是好的思想作品的威力。",
+      "quotes": [
+        {
+          "text": "In the twenty-first century, the main commodity that governments and corporations are competing for is data.",
+          "context": "前瞻性地指出数据时代的核心竞争焦点，已被现实验证"
+        },
+        {
+          "text": "To acquire really deep new information, you have to leave your comfortable mental cocoon and expose yourself to hardship and chaos.",
+          "context": "赫拉利强调学习和成长必须突破舒适区，这对当代人尤其重要"
+        },
+        {
+          "text": "We are more powerful than ever before, but we have very little idea what to do with this power.",
+          "context": "对人类现状的深刻反思——技术进步超越了智慧进步"
+        }
+      ]
+    },
+    {
+      "title_zh": "穷查理宝典",
+      "title_en": "Poor Charlie's Almanack",
+      "author_zh": "查理·芒格",
+      "author_en": "Charlie Munger",
+      "year": "2005",
+      "category": "商业与技术",
+      "one_liner": "伯克希尔副总裁查理·芒格的智慧格言和投资人生哲学集萃",
+      "deep_dive": "这不是一本传统的商业书。它是一个聪慧到近乎狡黠的老人的思维方式展览。芒格没有写成体系化的投资手册，而是把数十年来的演讲、采访、信件摘录汇编在一起，就像一本智慧的拼贴画。最吸引人的部分是他的"逆向思考法"——不要问怎样才能成功，先想清楚怎样会失败。他深信复利的力量，更深信耐心的力量。他说"永远不要不必要地中断复利"，这句话听起来简单，却是他投资哲学的核心。芒格特别喜欢讲失败的故事——某个聪明人为什么做了蠢决定，某家好公司为什么衰落了。从反面学习，这是他智慧的一大特征。书中关于心理学陷阱、跨学科学习、极端理性的讨论，对想要做出更好决策的人来说是无价的参考。这是一本需要反复读、反复思考的书。",
+      "quotes": [
+        {
+          "text": "The first rule of compounding: Never interrupt it unnecessarily.",
+          "context": "芒格对长期复利的强调，看似简单实则深刻，是他一生成功的核心法则"
+        },
+        {
+          "text": "It is remarkable how much long-term advantage people can get from being stupid in a handful of ways.",
+          "context": "幽默而有力地强调专注的价值——避免特定关键性的错误比什么都重要"
+        },
+        {
+          "text": "You must know the big ideas in the big disciplines, and you must know them well enough that you can use them routinely, almost without thinking.",
+          "context": "芒格倡导的跨学科学习和多元思维框架，是他超越常人的核心竞争力"
+        }
+      ]
+    }
+  ]
+}
+```
