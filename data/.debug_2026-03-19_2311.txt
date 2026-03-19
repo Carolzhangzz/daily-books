@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "思考，快与慢",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "心理学/行为经济学",
+      "one_liner": "揭示人类决策中两个思维系统的运作机制与深层认知偏差。",
+      "deep_dive": "这本书真的能改变你对自己大脑的理解。卡尼曼花了几十年研究，发现我们的脑子里装着两套系统。系统1是快速思考——直觉反应，几乎不费力；系统2是慢速思考——需要专注的逻辑分析。问题是我们经常让系统1去做不该它做的决定。你过度自信吗？系统1在捣乱。你因为最近看过某个词就高估它的重要性？又是系统1的可用性偏差。书里全是真实的心理学实验，读着读着你就开始怀疑自己的每个决定了。最妙的是卡尼曼没有假装给完美解决方案，就是实话实说：认识到这些偏差，你能做的就是慢下来，让系统2接管真正重要的决定。这不是理论堆砌，而是一场关于你自己思维方式的对话。",
+      "quotes": [
+        {
+          "text": "Nothing in life is as important as you think it is while you are thinking about it.",
+          "context": "关于焦点幻觉——我们倾向于高估当前关注问题的重要性，这往往导致错误判断"
+        },
+        {
+          "text": "The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see.",
+          "context": "解释为什么我们对自己编织的故事过度自信，即使那个故事可能完全错误"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥德尔、艾舍尔、巴赫",
+      "title_en": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author_zh": "道格拉斯·霍夫施塔特",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "数学/哲学/艺术",
+      "one_liner": "通过数学、艺术和音乐的交织，探索意识、自指和递归的本质。",
+      "deep_dive": "这是一部特别的作品。如果你期待一本书直线从A走到B，这本会让你发疯——因为它本身就像一首赋格曲，主题在循环，观点互相应答。霍夫施塔特用哥德尔的数学定理、艾舍尔的错觉艺术和巴赫的对位法，编织出一个关于意识如何从物质产生的论述。递归、自指、反馈循环……这些看似抽象的概念无处不在。为什么你能意识到自己在思考？可能跟巴赫如何把旋律变成自己伴奏的方式一样。这不是能快速翻完的书，它要求你坐下来，让大脑跟上节奏，在数学和艺术之间来回舞蹈。读完之后，你会用新眼光看待音乐、艺术，甚至看待自己的思维。这是一本会重塑你思考方式的书。",
+      "quotes": [
+        {
+          "text": "The same kind of self-reference that leads to paradoxes in logic appears ubiquitously in the study of consciousness.",
+          "context": "书的核心论点——自指现象不仅存在于数学悖论中，也是理解意识的关键"
+        },
+        {
+          "text": "Strange loops arise when, by moving upward through the levels of some hierarchical system, we unexpectedly find ourselves right back where we started.",
+          "context": "奇异环的定义——解释自我意识如何通过循环但又上升的结构实现"
+        }
+      ]
+    },
+    {
+      "title_zh": "东方化：亚洲崛起与美国衰退",
+      "title_en": "Easternization: Asia's Rise and America's Decline",
+      "author_zh": "吉迪恩·拉赫曼",
+      "author_en": "Gideon Rachman",
+      "year": "2016",
+      "category": "地缘政治/国际关系",
+      "one_liner": "分析亚洲经济军事崛起如何重塑全球权力格局，西方相对衰退的地缘政治含义。",
+      "deep_dive": "拉赫曼在这本书里很坦率地说了一件事：美国主导的国际秩序结束了。不是今天，也不是明天，而是正在进行中。亚洲的总GDP已经超过西方，中国在技术投资上在追赶，印度的人口红利释放中……这不是阴谋论，就是数字。但他的视角不是说西方完蛋了，而是说全球秩序正在从西方中心化向多极化转变。这意味着那些曾经理所当然的规则要重新协商，亚洲国家开始按自己的价值观而不是西方价值观行事。对全球稳定、经济、外交、军事意味着什么？拉赫曼没给你标准答案，但给了你思考这些问题的框架。读完你会发现许多当下的国际冲突，其实都能从这个大转变的视角理解。",
+      "quotes": [
+        {
+          "text": "The return of Asia to international preeminence is one of the biggest geopolitical facts of our time.",
+          "context": "开篇核心观点——亚洲重新获得国际影响力是当今地缘政治最重要的现实"
+        },
+        {
+          "text": "The West took about 300 years to establish its global predominance. The non-Western world cannot be expected to accept Western dominance with the same acquiescence.",
+          "context": "解释为什么亚洲对西方秩序的挑战是长期的、深层的，而不仅仅是短期经济波动"
+        }
+      ]
+    }
+  ]
+}
+```
