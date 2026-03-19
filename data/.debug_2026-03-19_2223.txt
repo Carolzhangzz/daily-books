@@ -1,0 +1,75 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "凯恩斯传",
+      "title_en": "The Life of John Maynard Keynes",
+      "author_zh": "罗伯特·斯基德尔斯基",
+      "author_en": "Robert Skidelsky",
+      "year": "1992",
+      "category": "传记与经济学",
+      "one_liner": "经济学大师凯恩斯的完整生平和思想演变，见证20世纪经济秩序的构建者",
+      "deep_dive": "凯恩斯是20世纪最伟大的经济学家之一，他的理论彻底改变了现代经济学和政府政策。这部传记详细记录了凯恩斯从剑桥大学天才数学家到国际金融大师的成长历程。你会看到一个复杂的人物形象：既有严谨的学术精神，又有对艺术和人文的深厚热情；既塑造了战后经济政策，又经历了个人感情和身体的挑战。特别是1944年布雷顿森林会议那一段，你会感受到凯恩斯如何在战后国际金融体系的构建中发挥了关键作用。读这本书，你不仅会理解他革命性的经济学理论，更会明白一个顶级思想家是如何通过在现实政策中的实践，改变了整个世界。这是关于思想的力量如何改变历史的最好例证。",
+      "quotes": [
+        {
+          "text": "In the long run we are all dead",
+          "context": "凯恩斯最著名的经济学箴言，说明了他为什么关注短期和中期的经济政策而不仅仅是长期理论，体现了他对现实人类困境的深刻关怀"
+        },
+        {
+          "text": "The best way to destroy capitalism is to debauch the currency",
+          "context": "反映了凯恩斯对经济稳定性的深刻理解，以及他对货币政策如何深刻影响社会结构的洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "愤怒的葡萄",
+      "title_en": "The Grapes of Wrath",
+      "author_zh": "约翰·斯坦贝克",
+      "author_en": "John Steinbeck",
+      "year": "1939",
+      "category": "文学",
+      "one_liner": "大萧条时期美国贫民的生存挣扎，人类尊严和爱的力量的终极赞歌",
+      "deep_dive": "这是美国文学中最具力量的社会现实主义作品之一。故事跟随由贫困和自然灾害引发的"尘碗"现象，迫使乔德一家离开俄克拉荷马农场向西迁移。他们怀抱着加州"应许之地"的梦想，却发现那里有的只是更深的贫困、剥削和失望。斯坦贝克用诗意而愤怒的笔触，描绘了底层人民在绝望中如何坚守尊严，在不公正中如何选择反抗。书中最让人难忘的是传教士吉姆·凯西的人物弧线，他从宗教救赎的迷茫中觉醒到对社会正义的追求。这部作品之所以永恒，不仅因为它是对经济大萧条的历史记录，更因为它触及了一个永恒的人类困境：当制度和社会抛弃了最底层的人们时，人的尊严、相互的爱与帮助，如何成为最后的救赎。",
+      "quotes": [
+        {
+          "text": "We're the people that live. They can't wipe us out, they can't lick us",
+          "context": "乔德妈妈说的这句话，是对人类不屈精神和韧性的终极宣言，代表了底层人民在绝望中的坚定信念"
+        },
+        {
+          "text": "I'll be in the way guys yell when they're mad - I'll be in the way kids laugh when they're hungry and know supper's ready",
+          "context": "吉姆·凯西对精神永恒存在的诗意想象，反映了对人性中善与爱的永不磨灭的相信"
+        },
+        {
+          "text": "There is a crime here that goes beyond denunciation",
+          "context": "斯坦贝克对系统性不公正的直接控诉，揭示了个人悲剧背后的社会结构性罪恶"
+        }
+      ]
+    },
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记与艺术",
+      "one_liner": "天才艺术家梵高的悲剧人生，探索痛苦、疯狂与伟大之间的边界",
+      "deep_dive": "如果你想真正理解梵高这个艺术天才的内心世界，这本传记会是最好的入口。欧文·斯通用小说化的笔法，让梵高的生命在你眼前鲜活地展开。从年轻时做传教士的赤诚理想，到转向绘画的坚定决心；从困顿贫穷中对色彩和光线的执着追求，到与高更共同生活时那场经典的精神危机——每一段都让人感受到梵高内心那种既绝望又燃烧的光。读这本书最打动人的，不是梵高最终的悲剧结局，而是他对艺术的信念超越了现实的所有打击。他卖不出一幅画，与世界格格不入，经历精神的折磨，但他从未停止描绘那些向日葵和星空。这是一个关于追求、关于痛苦、关于一个天才如何在被世界否定中坚持自己的故事。它让你明白，伟大的艺术往往诞生于最深的痛苦中。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream",
+          "context": "梵高最经典的自白，诠释了他如何把内心的狂野和想象转化为艺术的永恒，是他整个艺术哲学的核心"
+        },
+        {
+          "text": "The more I think about it, the more I realize that there is nothing more artistic than to love people",
+          "context": "体现了梵高艺术背后对人性的执着关怀，说明他的每一笔触都源于对他人的深切热爱"
+        },
+        {
+          "text": "I am always doing what I cannot do yet, in order to learn how to do it",
+          "context": "梵高对自我超越的执着追求，解释了为什么他的艺术风格不断演进，为什么他永远感到不满足"
+        }
+      ]
+    }
+  ]
+}
+```
