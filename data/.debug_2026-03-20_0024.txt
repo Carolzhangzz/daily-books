@@ -1,0 +1,12 @@
+我已根据 daily-books skill 查找了这三本书。其中两本在经典书单中，现在为您生成：
+
+```json
+{"date":"2026-03-20","books":[{"title_zh":"渴望生活：梵高传","title_en":"Lust for Life","author_zh":"欧文·斯通","author_en":"Irving Stone","year":"1934","category":"传记与回忆录","one_liner":"梵高为艺术而生、为爱而活的传奇人生","deep_dive":"这部传记是欧文·斯通最著名的作品，被誉为传记文学经典。你会看到一个充满热情、渴望理解世界的年轻人，尽管生活给了他无数打击和拒绝，却从未放弃。梵高曾想当牧师帮助穷人，后来发现真正使命在于绘画。但在从事绘画的十年里，他几乎没卖出过一幅画，作品常被嘲笑。然而他以惊人毅力继续创作，不断探索色彩和形式的秘密。这本书还刻画了梵高与哥哥西奥的深厚感情——西奥虽经济有限，却始终在精神和经济上支持他。斯通的笔触细致地展现了梵高的内心世界——疯狂、孤独、渴望。这不是冷冰冰的传记，而是充满情感的小说式叙述。读完你会理解，为什么梵高的作品如今如此珍贵，为什么他的人生如此令人动容。他为艺术而生，每一笔画都承载了他对世界的爱和对灵魂的呐喊。","quotes":[{"text":"I dream my painting and I paint my dream.","context":"梵高对艺术创作的最深层理解，体现了他将梦想和现实结合的哲学"},{"text":"I am convinced that I have a flair for colours, and the laws of the colours are unutterably beautiful, just because they are not accidental.","context":"梵高对色彩的独特见解——他不是盲目用色，而是深思熟虑的艺术家"}]},{"title_zh":"数学：确定性的丧失","title_en":"Mathematics: The Loss of Certainty","author_zh":"莫里斯·克莱因","author_en":"Morris Kline","year":"1980","category":"科学与认知","one_liner":"从完美到困惑，数学如何失去了绝对确定性","deep_dive":"你可能觉得数学是完全确定的、无懈可击的。克莱因在这本书里颠覆了这个想法，讲了一个震撼人心的故事：数学家们曾相信掌握了绝对真理，但这信念被一次次打破。从欧几里得的完美几何开始，数学好像坚不可摧。但非欧几何出现后，人们惊悚地发现平行线公理并非绝对真理。集合论的悖论又动摇了数学的基础。20世纪初，哥德尔的不完全性定理证明：任何一致的形式系统都存在无法被证明的真命题。这彻底改变了人类对数学本质的理解。克莱因讲的不是枯燥技术，而是一个思想冒险故事。他展现了数学家从绝对确定性梦想中的清醒——意识到数学只是人类创造的工具，而非宇宙终极真理。这书提醒我们，即使最理性严密的领域也有局限。我们对世界的理解永远不完全，总有未知超越认知边界。既让人谦卑，也让人感到生命奥秘永远值得探索。","quotes":[{"text":"Non-Euclidean geometry demonstrated that space itself was not necessarily Euclidean.","context":"非欧几何对数学确定性的根本冲击，打破了人类对空间本质的固有认知"},{"text":"Gödel's incompleteness theorem showed that any consistent formal system is incomplete.","context":"不完全性定理证明数学系统的内在局限——宣布了绝对确定性的破灭"}]}]}
+```
+
+**关于《印象派的敌人》**：这本书不在 daily-books 的经典书单中。请问：
+1. 这是否是关于印象派艺术史的著作？
+2. 您是否记得作者名字？
+3. 或者希望我用书单中的艺术相关书籍（如《艺术的故事》）来替代？
+
+告诉我更多信息，我可以为您补充第三本书！
