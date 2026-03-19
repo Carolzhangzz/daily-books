@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "刻意练习",
+      "title_en": "Peak: Secrets from the New Science of Expertise",
+      "author_zh": "安德斯·艾利克森",
+      "author_en": "Anders Ericsson",
+      "year": "2016",
+      "category": "自我提升/认知",
+      "one_liner": "天才不是天生的，而是通过科学的、有针对性的练习方法打造出来的。",
+      "deep_dive": "这本书从心理学和神经科学的角度，彻底推翻了\"1万小时定律\"的简单理解。艾利克森经过几十年的研究，发现真正能让人成为专家的不是盲目地重复1万小时，而是\"刻意练习\"——有目标、有反馈、不断突破舒适区的高强度训练。这就像健身一样，随便跑步1万小时不会让你成为运动员，但科学设计的训练计划会。书中用网球、医学、音乐等各领域的实例说明，即使是看似有天赋的人（比如莫扎特），也是通过父亲的系统化教学和大量刻意练习才成为大师的。最有意思的是，书里揭示了一个反直觉的真相：不是\"喜欢做什么就能做好\"，而是\"只有通过正确的练习才能做好，然后才会真正喜欢\"。这对任何想进阶的人都是当头一棒——改变你的学习和训练方式，才能真正突破瓶颈。",
+      "quotes": [
+        {
+          "text": "The key to improvement is to focus on technique, performance, and intelligent practice.",
+          "context": "改进的关键不是盲目重复，而是有针对性地关注技术、表现和聪慧的训练方式。"
+        },
+        {
+          "text": "Experts are not born, they are made through deliberate practice.",
+          "context": "专家不是天生的，是通过刻意练习打造出来的，这颠覆了人们对天才的传统认知。"
+        },
+        {
+          "text": "Physiological adaptation occurs when the body is pushed beyond its normal limits.",
+          "context": "身体只有被推到极限之外，才会做出适应性改变，这是进步的生物学基础。"
+        }
+      ]
+    },
+    {
+      "title_zh": "弗兰肯斯坦",
+      "title_en": "Frankenstein",
+      "author_zh": "玛丽·雪莱",
+      "author_en": "Mary Shelley",
+      "year": "1818",
+      "category": "文学",
+      "one_liner": "一个科学家用自己的野心和知识创造了生命，却无法承受由此带来的道德和情感代价。",
+      "deep_dive": "这部小说远比通常的\"怪物恐怖片\"复杂得多。故事的核心其实不是那个被创造出来的怪物有多可怕，而是维克多·弗兰肯施泰因本身的悲剧——他被科学的无限可能性所诱惑，变成了一个执迷于创造生命的疯子，却在成功后陷入了彻底的绝望。那个通常被称为\"怪物\"的被造物其实是个受害者，他天生聪慧，能说会读，充满对世界的好奇心，却因为被造物的身体而遭到所有人的厌恶和暴力。这正是玛丽·雪莱的天才之处——她让我们同情那个\"怪物\"，而对那个\"科学家\"既敬畏又厌恶。小说问的是：人类是否有权利创造生命而不承担责任？科学的进步是否需要伦理的底线？这些问题在今天的基因工程、AI等领域更显得紧迫而沉重。两百多年前的这本书，仍然是思考科技伦理的最佳入口。",
+      "quotes": [
+        {
+          "text": "I ought to be thy Adam, but I am rather the fallen angel.",
+          "context": "被造物对维克多说出这句话时，表达了他本该成为新人类的亚当，却反而成了被诅咒的堕落天使的悲愤。"
+        },
+        {
+          "text": "It is true, we shall be monsters, cut off from all the world; but on that account we shall be more attached to one another.",
+          "context": "怪物提议与维克多一起离开文明世界，道出了被放逐者的悲凉哲学——孤独反而使人更加紧密相连。"
+        },
+        {
+          "text": "Beware; for I am fearless, and therefore powerful.",
+          "context": "这是被造物最具威胁性的宣言，恐惧被剥夺时，力量就变得无限。"
+        }
+      ]
+    },
+    {
+      "title_zh": "定位",
+      "title_en": "Positioning: The Battle for Your Mind",
+      "author_zh": "艾·里斯、杰克·特劳特",
+      "author_en": "Al Ries, Jack Trout",
+      "year": "1981",
+      "category": "商业/市场营销",
+      "one_liner": "不是你的产品有多好，而是你在消费者心智中的位置决定了成功。",
+      "deep_dive": "这本书彻底改变了营销的思考方式。在这之前，营销人员努力让产品更好、更便宜、更全能，但艾·里斯和杰克·特劳特指出了一个残酷的事实：消费者的心智空间有限，他们对每个品类只会记住几个品牌，而且这个位置一旦被占据，就很难改变。所以真正的竞争不是在工厂里，而是在消费者的心智里。这就是\"定位\"的核心——你不是在做一个产品，而是在做一个符号，一个心智中的形象。可口可乐不是在卖糖水，而是在卖\"经典\"和\"幸福\"。Apple不是在卖电脑，而是在卖\"不同凡响\"。书中用大量案例说明，那些成功的品牌都深刻理解自己在竞争中的位置，知道自己是\"第一\"（可口可乐）、\"第二但更好\"（百事可乐）、还是某个细分市场的专家（七喜）。对创业者和营销人员来说，这本书的价值是让你停止自欺欺人地堆砌产品特性，而是冷静地思考：我在消费者心智中到底占据了什么位置？",
+      "quotes": [
+        {
+          "text": "Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.",
+          "context": "定位的本质不在产品本身，而在于改变和占据消费者的心智，这是整本书最核心的洞察。"
+        },
+        {
+          "text": "To position a product, you must first enter the mind. And the only way in is through the mind of the prospect.",
+          "context": "要给产品定位，必须先进入消费者的心智，没有其他入口，这强调了心智竞争的绝对性。"
+        },
+        {
+          "text": "The basic issue in marketing is creating a position in the prospect's mind.",
+          "context": "营销的终极目标不是让产品更多功能或更低价格，而是在消费者心中站稳一个独特位置。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0608"
+}
