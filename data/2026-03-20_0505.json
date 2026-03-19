@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "史蒂夫·乔布斯传",
+      "title_en": "Steve Jobs",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2011",
+      "category": "传记与回忆录",
+      "one_liner": "深入苹果之心，揭示天才创业家的人生轨迹和创造哲学",
+      "deep_dive": "这部传记是艾萨克森在乔布斯临终前花了数年时间与他及其家人反复沟通的结果，绝对是迄今为止最权威、最深入的人生记录。书里呈现的乔布斯和新闻里看到的形象完全不同——既有美学天才的高洁追求，也有性格中的专制和冷酷。整本书最核心的逻辑就是\"简约\"——这不仅是他对产品的理解，更是人生哲学。从Macintosh到iPod、iPhone、iPad，再到Apple Store的设计，他追求的都不是功能堆砌，而是用户打开就能直觉明白的感受。但这部传记最让人印象深刻的，是它不避讳乔布斯的黑暗面。他对员工很严苛，对创意的妥协一点不容忍，有时伤人的话脱口而出。养父母、亲生父母的关系、健康问题，这些个人细节都被记录下来。最后的部分特别触动人心——乔布斯在生命最后日子里对后代、对遗产、对死亡的思考，是这部传记最深层的人文价值。",
+      "quotes": [
+        {
+          "text": "The only way to do great work is to love what you do.",
+          "context": "这反映了乔布斯对工作本质的理解，他认为职业生涯的意义不在于谋生，而在于创造价值。"
+        },
+        {
+          "text": "Simplicity is the ultimate sophistication.",
+          "context": "这句话贯穿了他所有的创意决策，简约意味着深思熟虑和对细节的极致追求。"
+        },
+        {
+          "text": "Stay hungry, stay foolish.",
+          "context": "在斯坦福大学演讲中的著名论述，强调了对学习的永恒渴望和保持初心的重要性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数字化生存",
+      "title_en": "Being Digital",
+      "author_zh": "尼葛洛庞蒂",
+      "author_en": "Nicholas Negroponte",
+      "year": "1995",
+      "category": "商业与技术",
+      "one_liner": "一部预见了数字时代本质的先知之作，阐述了比特比原子更重要的未来",
+      "deep_dive": "如果想理解互联网为什么会这样深刻地改变我们的生活，一定要读这本书。尼葛洛庞蒂在1995年就写下了这部著作，那时大多数人还在用拨号上网，但他已经看清楚了整个时代的轮廓。这本书之所以伟大，不仅因为它准确地预测了很多东西，更重要的是它解释了\"为什么\"。书的核心观点特别简洁有力：从原子经济向比特经济的转变。过去我们的生活由物理的、固定的东西组成——看电影得去电影院，听音乐得买CD，看书得去书店。但在数字世界里，这些东西都变成了信息，可以自由流动、即时传输、个性化定制。更有意思的是，他不是唱赞歌，而是冷静地思考这种转变对人性、对社会结构的深层影响。讨论了隐私、身份、个性化推荐的两面性，讨论了数字世界如何可能加剧社会分裂，也讨论了它如何能够赋权给普通人。现在回头看，他有些预测惊人地准确，有些需要调整，但重要的是这本书教会你如何思考技术变革——不是从功能层面，而是从人类生活方式层面去理解。",
+      "quotes": [
+        {
+          "text": "The digital revolution is not about e-mail and e-commerce. It is about living differently.",
+          "context": "这句话抓住了数字化的本质，不是工具升级，而是生活方式的彻底改变。"
+        },
+        {
+          "text": "Being digital is about being alive in a new way.",
+          "context": "强调了技术背后的人文意义，数字不仅仅是数据和效率。"
+        },
+        {
+          "text": "Bit by bit, atoms are being replaced by information.",
+          "context": "整本书的核心隐喻，巧妙地将物理经济向信息经济的转变可视化。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学与猜想",
+      "title_en": "Mathematics and Plausible Reasoning",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1954",
+      "category": "数学与逻辑",
+      "one_liner": "一部揭示数学思维本质的经典著作，展现了严密逻辑如何从合理的猜想演化而来",
+      "deep_dive": "大多数人觉得数学就是一堆公式和定理，非黑即白，完全没有创意空间。但波利亚这部著作会完全颠覆这个认识。他说，数学其实和诗歌、艺术、科学一样，需要猜想、直觉、探索，然后才是严密的证明。一个伟大的数学家不是只会按步骤推导的机器，而是一个充满想象力的发明家。这本书特别之处在于，它不是讲高深的数学理论，而是教你怎样像数学家一样思考。波利亚分析了数学家怎样形成猜想——通过类比、通过部分情况的归纳、通过对特殊例子的观察。他用大量案例展示，比如一个看似平凡的观察怎样慢慢演化成深刻的定理。这个过程看起来就像侦探破案，充满了推理和假设。有趣的是，书里讨论的这些思维方式完全适用于科学研究、工程问题，甚至生活决策。所有涉及复杂问题求解的领域，人们都在用类似的方法——先猜想，再验证。最深层的启发是，这本书让你理解创造力和逻辑不是对立的，而是辩证的关系。",
+      "quotes": [
+        {
+          "text": "A mathematician's work is mostly a tangle of guesswork, analogy, wishful thinking and frustration, and proof, only when completed and simplified, is made to look too easy.",
+          "context": "这句话揭示了数学创新的真实样貌，破除了\"数学是纯粹理性\"的幻觉。"
+        },
+        {
+          "text": "To understand mathematics is to be equipped with a tool for understanding the world.",
+          "context": "强调了数学不是抽象的符号游戏，而是认识现实的方法。"
+        },
+        {
+          "text": "The patterns of plausible reasoning are the most important for mathematicians but also for scientists and all of us.",
+          "context": "说明了这本书所讨论的思维方式的普遍性和实用性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0505"
+}
