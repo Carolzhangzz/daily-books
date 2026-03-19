@@ -1,0 +1,22 @@
+Looking at the skill requirements, I need to clarify something before generating the content:
+
+## 问题：书籍匹配
+
+我在书单中成功找到了两本书：
+1. ✅ **《正义的理念》**(*A Theory of Justice*) - 约翰·罗尔斯 - 哲学类
+2. ✅ **《设计心理学》**(*The Design of Everyday Things*) - 唐纳德·诺曼 - 商业与技术类
+
+但 **《如何看一幅画》** 在我的书单中没有精确匹配。
+
+## 可能的替代方案：
+
+你可能指的是以下几本艺术相关的书籍之一：
+- **《看见》**(*Ways of Seeing*) - 约翰·伯格 - 关于视觉文化和艺术鉴赏
+- **《艺术的故事》**(*The Story of Art*) - 贡布里希 - 艺术史入门经典
+- **《艺术与视知觉》**(*Art and Visual Perception*) - 鲁道夫·阿恩海姆
+
+请告诉我：
+1. **《如何看一幅画》** 的英文书名是什么？或者是哪位作者的作品？
+2. 或者，你希望我用上面哪本书来替代？
+
+一旦确认，我会立即生成严格的JSON格式内容，包括300-500字的深度介绍（聊天口吻）和2-3条金句。
