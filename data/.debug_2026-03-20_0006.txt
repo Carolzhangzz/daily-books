@@ -1,0 +1,8 @@
+我已生成了三本书的中文推荐JSON。请授予写入权限以保存文件。我会按照skill的流程继续：
+
+1. ✅ 生成JSON内容（三本指定书籍）
+2. ⏳ 待权限：保存到 `/Users/carol/Documents/daily-books/data/2026-03-20.json`
+3. ⏳ 更新索引文件
+4. ⏳ 推送到GitHub
+
+请允许文件写入权限。
