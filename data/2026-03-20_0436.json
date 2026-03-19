@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "纳瓦尔宝典",
+      "title_en": "The Almanack of Naval Ravikant",
+      "author_zh": "纳瓦尔·拉维坎特",
+      "author_en": "Naval Ravikant",
+      "year": "2020",
+      "category": "商业与技术",
+      "one_liner": "一本关于如何通过思维方式获得财富和幸福的箴言集",
+      "deep_dive": "这本书其实不是传统意义的书，而是由Eric Jorgenson整理的Naval Ravikant在播客、推特和各种采访中对人生智慧的总结。Naval是硅谷天使投资人和企业家，他的想法直白而深刻。\n\n全书分为财富和幸福两部分。财富部分讲的不是如何快速发财，而是心态问题——要具备专业知识、杠杆和判断力。他强调专业知识是不可替代的，杠杆可以是资本、劳动力或媒体，但判断力是最稀缺的。最有趣的是他对\"赚钱\"和\"有钱\"的区分，前者是你为金钱工作，后者是金钱为你工作。\n\n幸福部分更像是人生哲学。Naval反复强调心态、自我接纳和长期思维的重要性。他认为幸福不是目标，而是副产品，来自于减少欲望和增加自我认知。这部分有点像斯多葛主义，但用现代人的语言重新诠释了。\n\n这本书的魔力在于它很短、很精悍，没有废话。每一条箴言都能引发思考，而且Naval的观点常常与直觉相反，这正是它有价值的地方。很多硅谷人把它当成工作和人生的指南针。",
+      "quotes": [
+        {
+          "text": "Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you.",
+          "context": "Naval强调在信息时代，可被替代的技能价值下降。只有你独有的、难以复制的专业知识才是真正的财富来源。"
+        },
+        {
+          "text": "You don't want to be rich. You want to be free. The most important thing is that you're not compelled to do anything.",
+          "context": "这是全书最核心的观点。财富的真正目标不是拥有更多东西，而是获得自由——自由地选择做什么，而不是被迫做任何事。"
+        },
+        {
+          "text": "The most important thing is that you're not compelled to do anything. You have freedom.",
+          "context": "自由是终极的奢侈品。一旦你有了足够的被动收入，你就能按自己的意愿生活，这比任何奢侈品都更值钱。"
+        }
+      ]
+    },
+    {
+      "title_zh": "局外人",
+      "title_en": "The Stranger",
+      "author_zh": "阿尔贝·加缪",
+      "author_en": "Albert Camus",
+      "year": "1942",
+      "category": "文学",
+      "one_liner": "一个无动于衷的男人面对母亲之死和社会审判，拷问人生存在的荒诞本质",
+      "deep_dive": "这是加缪最著名的小说，也是存在主义文学的里程碑。故事很简单：主人公莫尔索母亲去世，他该哭却没哭，该悲伤却无动于衷。之后他杀了一个阿拉伯人，被逮捕、审判、最终被判死刑。听起来是个犯罪悬疑，但实际上是在拷问人生存的荒诞。\n\n莫尔索这个人物非常奇特。他对任何事都不在乎——母亲的死、工作的失落、被判死刑，他都用一种冷漠的口吻讲述。他不是坏人，也不是无情，他只是用一种\"真实的\"方式活着。而法庭和社会无法接受这种真实，他们要求他表现出应有的情感——哭、悔恨、绝望。当他拒绝表演这些情感时，他就成了\"局外人\"。\n\n加缪通过这个故事告诉我们：生活本身是荒诞的。我们生来就被抛入一个没有意义、没有理由的世界，却被迫创造意义。社会规则、道德标准，所有这些都是人为的虚构。莫尔索的罪不在于他杀了人，而在于他拒绝按照社会的剧本生活。他是局外人，因为他诚实。\n\n这本书改变了文学，也改变了哲学。它问了一个永恒的问题：如果生活没有意义，我们为什么还要活？加缪的答案是：正因为没有意义，所以我们要创造自己的意义。这不是悲观，而是勇敢。",
+      "quotes": [
+        {
+          "text": "Mother died today. Or maybe yesterday, I don't know. I had a telegram from the nursing home.",
+          "context": "小说的开篇就奠定了莫尔索冷漠的基调。他甚至不确定母亲何时去世，这种漠不关心会贯穿全书，并最终葬送他的生命。"
+        },
+        {
+          "text": "It occurred to me that anyway one more Sunday was over, that Maman was buried now, that I was going back to work, and that, all things considered, nothing had changed.",
+          "context": "莫尔索无法理解人类对死亡应有的悲伤。他只能注意到生活继续，一切照旧，这种局外的观察角度是他悲剧的根源。"
+        },
+        {
+          "text": "I had only a little time left and I didn't want to waste it on God.",
+          "context": "在监狱的最后时刻，莫尔索拒绝了神父提供的精神慰藉。他选择直面荒诞，而不是躲进信仰。这体现了加缪对人应如何面对生活荒诞性的答案。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0436"
+}
