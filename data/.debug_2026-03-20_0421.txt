@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "第六次大灭绝",
+      "title_en": "The Sixth Extinction: An Unnatural History",
+      "author_zh": "伊丽莎白·科尔伯特",
+      "author_en": "Elizabeth Kolbert",
+      "year": "2014",
+      "category": "科学/生态学",
+      "one_liner": "人类活动如何推动地球进入新的大灭绝时代",
+      "deep_dive": "这本书的厉害之处在于，科尔伯特用记者的敏锐眼光和科学家的严谨态度，把一个沉重的话题讲得引人入胜。她不是在吓唬我们，而是在说一个正在发生的事实——我们这一代人正在见证地球历史上第六次物种大灭绝。想象一下，从恐龙灭绝以来，地球自我修复了那么多次，但这一次不同，因为导演是我们人类。科尔伯特走访了从太平洋岛屿到亚马逊雨林的各个地方，采访了一线的生物学家和古生物学家，把数据、故事和个人观察完美融合在一起。读到后面，你不是在读一部学术著作，而是在跟一位智慧的朋友聊天，聊我们如何在无意中改变了整个地球的生物圈。这种危机感不会让你绝望，反而会让你思考自己的责任。",
+      "quotes": [
+        {
+          "text": "The current extinction is being driven by humans, which makes us the equivalent of the asteroid that killed the dinosaurs.",
+          "context": "比喻人类在当代灭绝事件中的角色"
+        },
+        {
+          "text": "We're not just changing one species or one ecosystem; we're rewriting the rules of evolution itself.",
+          "context": "强调人类活动的深远影响"
+        }
+      ]
+    },
+    {
+      "title_zh": "追风筝的人",
+      "title_en": "The Kite Runner",
+      "author_zh": "卡勒德·胡赛尼",
+      "author_en": "Khaled Hosseini",
+      "year": "2003",
+      "category": "文学/小说",
+      "one_liner": "关于背叛、救赎与成长的阿富汗故事",
+      "deep_dive": "这本书就像一杯浓茶，初入口苦涩，但越品越有回味。胡赛尼把一个关于友谊、背叛和救赎的故事放在战争撕裂的阿富汗背景下，让人物的成长变得更加触目惊心。那两个男孩放风筝的场景多简单啊，但后来发生的事却改变了他们的一生。小说最黑暗的地方，也是最能触动人心的地方——当一个人意识到自己的懦弱给他人造成的伤害有多大时，那种内疚感是无法逃脱的。但这不仅是一个悲伤的故事，它也讲了什么叫真正的救赎。阿米尔为了成为"好人"所做的努力，虽然来得很晚，却闪闪发光。这本书让我想起，我们永远不会太晚去改正自己的错误，去为曾经的伤害承担责任。",
+      "quotes": [
+        {
+          "text": "There is a way to be good again.",
+          "context": "阿米尔发现救赎的可能性"
+        },
+        {
+          "text": "It may be unfair, but what happens in a few days, sometimes even a single day, can change the course of a whole lifetime.",
+          "context": "反思人生的转折点"
+        }
+      ]
+    },
+    {
+      "title_zh": "呐喊",
+      "title_en": "Call to Arms",
+      "author_zh": "鲁迅",
+      "author_en": "Lu Xun",
+      "year": "1923",
+      "category": "文学/短篇小说集",
+      "one_liner": "鲁迅对黑暗社会的尖锐批判与精神唤醒",
+      "deep_dive": "鲁迅的《呐喊》就像一把尖锐的刻刀，他用这把刀解剖了旧中国的黑暗。读这本书的时候，你会觉得他不仅在讲故事，更在用故事戳你、问你："你看清楚了吗？"从《狂人日记》那疯子的视角去看中国的"吃人"社会，到《孔乙己》笔下那个拿不起放不下的知识分子形象，再到《故乡》里满是遗憾的乡村——每一篇都是一场精神的碰撞。鲁迅写得很冷，很刺骨，因为那个时代本身就很冷。但这种冷恰恰是他最深的热情——他在用这种无情的笔触唤醒民众，呼吁人们反思、改变。一百多年过去了，这些故事依然像镜子一样，让我们看清一些永远存在的人性问题。",
+      "quotes": [
+        {
+          "text": "希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，也便成了路。",
+          "context": "《故乡》中关于希望与改变的哲思"
+        },
+        {
+          "text": "不是很大的鞭子是赶不动的。",
+          "context": "对社会现实的尖锐讽刺"
+        }
+      ]
+    }
+  ]
+}
+```
