@@ -1,0 +1,8 @@
+我需要您授权来保存这个JSON文件。请允许我写入 `/Users/carol/Documents/daily-books/data/2026-03-19.json`。
+
+一旦您授权，我将：
+1. ✅ 保存 JSON 文件（含三本书的推荐）
+2. ⏳ 更新 `index.json` 索引
+3. ⏳ 推送到 GitHub Pages
+
+请您批准权限后，我会完成后续步骤。
