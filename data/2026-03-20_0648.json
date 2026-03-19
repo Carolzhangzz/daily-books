@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "看不见的视觉",
+      "title_en": "The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us",
+      "author_zh": "克里斯托弗·查布里斯、丹尼尔·西蒙斯",
+      "author_en": "Christopher Chabris & Daniel Simons",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "我们看不到的，比看得到的更多——揭开注意力的秘密。",
+      "deep_dive": "你听说过那个著名的大猩猩实验吗？受试者专注于观看篮球比赛时，竟然没人看到穿过人群的大猩猩。这听起来不可思议，但它精确地说明了一个真相：我们的大脑不是摄像机。看不见的视觉讲的就是人类感知的这些惊人局限。查布里斯和西蒙斯通过一系列精妙设计的实验，证明了我们对自己认知能力的信心是多么虚幻。我们倾向于看到期望看到的东西，对意外信息视而不见。这个洞察有点扎心——意味着你的第一印象、你对他人的判断、你对世界的理解，都可能因为注意力的偏盲而偏离真相。书中触及的从记忆欺骗到信心过度，从性格假象到领导力迷思，都指向同一个结论：人类远没有我们想象的那么理性。这本书就像打开了一盏灯，让你看到自己思维中有多少个死角。",
+      "quotes": [
+        {
+          "text": "The most important insight is that we are blind to what is not attended to.",
+          "context": "说明注意力的局限性，我们的感知被关注的内容严格限制"
+        },
+        {
+          "text": "People tend to see what they expect to see, and often miss what they aren't looking for.",
+          "context": "揭示期望如何塑造感知，这也解释了为什么我们这么容易被误导"
+        }
+      ]
+    },
+    {
+      "title_zh": "病毒星球",
+      "title_en": "Spillover: Zoonotic Diseases in the Rise of Civilization",
+      "author_zh": "大卫·昆门",
+      "author_en": "David Quammen",
+      "year": "2012",
+      "category": "科学与认知",
+      "one_liner": "病毒从未停止跨越物种边界，而我们正在加速这个过程。",
+      "deep_dive": "想象病毒学家在西非丛林中追踪埃博拉的起源，或在中国蝙蝠洞穴里采集样本——这就是《病毒星球》的故事线。昆门是位天才叙述者，他把流行病学变成了一部冒险史诗。从HIV到SARS、从汉坦病毒到尼帕病毒，每一个案例都遵循同样的剧本：病毒原本蜷缩在某种动物身体里，直到人类活动打破了那道屏障。我们砍伐森林，捕猎野生动物，建立工业农场，挤压生物多样性——这些行为就像在敲打潘多拉的魔盒。最让人震撼的是，这本书不是在吓唬你，而是在说一个事实：下一场大流行病就在那儿等着，只要条件合适就会出现。读完你会明白，气候变化不仅威胁我们的气候，还在改变病毒的地理分布。这本书出版于2012年，但在2020年后读它，你会感到一种不安的先知感。",
+      "quotes": [
+        {
+          "text": "The next plague is waiting in nature, and we are going to find it.",
+          "context": "昆门对未来疾病威胁的警告，强调新病毒的出现不是是否，而是何时"
+        },
+        {
+          "text": "Viruses have been spilling over for thousands of years. What's new is that we've become much better at facilitating the process.",
+          "context": "指出人类行为正在加速病毒跨物种传播，这是当代文明的独特风险"
+        }
+      ]
+    },
+    {
+      "title_zh": "植物的欲望",
+      "title_en": "The Botany of Desire: A Plant's-Eye View of the World",
+      "author_zh": "迈克尔·波伦",
+      "author_en": "Michael Pollan",
+      "year": "2001",
+      "category": "自然与生态",
+      "one_liner": "我们以为在驯化植物，其实植物早就驯化了我们。",
+      "deep_dive": "这是一个会改变你看待花园和超市方式的想法。波伦提出了一个简单却颠覆性的视角：不是人类征服了植物，而是植物利用人类的欲望来传播自己。他通过苹果、郁金香、大麻和土豆四个故事来讲述这个演化的舞蹈。苹果树通过提供甜美的果实，让人类愿意种植它、运输它，最终传播到全世界。郁金香则通过其炫目的颜色激发了人类的审美渴望，甚至在17世纪引发了一场经济狂热。大麻利用了人类对改变意识的永恒渴望。土豆则用饱足感改变了欧洲的社会结构。波伦的笔触既诗意又科学，他让你看到农业和园艺不是人类对自然的单向控制，而是一种复杂的共进化。每一种植物都演化出了吸引人类的特征，每个人类也在被这些特征改造。读完这本书你会明白，你的花园、你餐盘里的食物，甚至你的整个物质文明，都是这个古老交易的产物。",
+      "quotes": [
+        {
+          "text": "The gardener is not the only one doing the gardening—the plant is too.",
+          "context": "揭示植物与人类的互动不是单向的，而是一场相互塑造的关系"
+        },
+        {
+          "text": "We think we are choosing these plants, but perhaps they are choosing us.",
+          "context": "道出了《植物的欲望》的核心悖论——演化的过程中谁真正掌握话语权"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0648"
+}
