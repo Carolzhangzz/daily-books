@@ -1,0 +1,8 @@
+使用 **daily-books** 技能为这三本书生成推荐内容。
+
+正在为以下书籍生成：
+- 《无政府主义国家与乌托邦》(*Anarchy, State, and Utopia*)
+- 《大国的兴衰》(*The Rise and Fall of the Great Powers*)
+- 《地下铁道》(*The Underground Railroad*)
+
+请稍候，技能正在处理...

@@ -1,0 +1,3 @@
+我已生成三本书的推荐内容（严格 JSON 格式）。现在需要您授权将文件保存到 `/Users/carol/Documents/daily-books/data/2026-03-20.json` 并推送到 GitHub。
+
+请确认是否继续？
