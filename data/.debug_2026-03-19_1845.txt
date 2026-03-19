@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "动物解放",
+      "title_en": "Animal Liberation",
+      "author_zh": "彼得·辛格",
+      "author_en": "Peter Singer",
+      "year": "1975",
+      "category": "伦理学/哲学",
+      "one_liner": "用理性武器挑战人类中心主义，重新定义我们与动物世界的道德关系。",
+      "deep_dive": "这本书改变了我对待动物问题的整个思维方式。辛格用一个简单但致命的逻辑：如果痛苦就是坏的，那么谁能感受痛苦，痛苦就应该被道德考量。听起来简单对吧？但这直接冲击了我们每天的消费选择。他把物种歧视和历史上的种族歧视、性别歧视并列，这在1975年是何等激进。有趣的是，这本书并不是在简单地说你必须吃素，而是强调每一个选择都应该有伦理觉醒。你会反复问自己：为什么我认为狗值得保护，但猪就不呢？这不是道德绑架，而是拿起镜子照自己。读完这本书，你即使不改变行为，也再也无法假装不知道。",
+      "quotes": [
+        {
+          "text": "The capacity for suffering and enjoyment is a prerequisite for having interests, a condition that must be satisfied before we can speak of interests in a meaningful way.",
+          "context": "核心论点：能感受痛苦才是道德考量的基础"
+        },
+        {
+          "text": "If a being suffers, there can be no moral justification for refusing to take that suffering into account.",
+          "context": "直指伦理决策的本质——不能因为物种身份就忽视痛苦"
+        }
+      ]
+    },
+    {
+      "title_zh": "维多利亚女王传",
+      "title_en": "Queen Victoria: A Life",
+      "author_zh": "塞西尔·伍德姆-史密斯",
+      "author_en": "Cecil Woodham-Smith",
+      "year": "1972",
+      "category": "历史传记",
+      "one_liner": "从孤独少女到帝国女皇，一个真实的女人如何在权力与爱情之间塑造了一个时代。",
+      "deep_dive": "读这本书我才明白，维多利亚女王远比教科书描写的要复杂得多。她不是那个冷漠的权力象征，而是一个倔强、热情、甚至有点任性的女人。伍德姆-史密斯的厉害之处在于，她把维多利亚还原成血肉之躯——那个被权力游戏包围的孤独少女，那个疯狂爱上阿尔伯特的女人，以及丧夫后如何陷入深深的悲伤。而这一切都镶嵌在整个维多利亚时代的大背景中：工业革命、帝国扩张、社会巨变。你会惊讶地发现，这位统治了四分之一地球的女皇，最深的渴望其实是普通人的家庭幸福。这不仅是传记，更是一个时代的肖像，通过一个女人的眼睛展现了整个世界如何被改造。",
+      "quotes": [
+        {
+          "text": "It is you I wish to serve, there is no one but you in this world for me.",
+          "context": "维多利亚写给阿尔伯特王子的情书，显露她最温柔的一面"
+        },
+        {
+          "text": "I am very well satisfied with what has become of me.",
+          "context": "晚年的女皇对自己漫长人生的深刻评价"
+        }
+      ]
+    },
+    {
+      "title_zh": "地理与世界霸权",
+      "title_en": "Democratic Ideals and Reality",
+      "author_zh": "哈尔福德·麦金德",
+      "author_en": "Halford Mackinder",
+      "year": "1919",
+      "category": "地缘政治/地理学",
+      "one_liner": "用地理的眼光解读权力演变，揭示为什么某些地方注定成为世界竞争的中心。",
+      "deep_dive": "麦金德这部著作让我重新看地球地图时，不再只看地名和边界，而是看到了权力的几何学。他的核心洞见是：历史不是由伟人创造的，而是由地理塑造的。他提出的\"心脏地带\"理论——那个包括东欧和中亚的广大内陆——深刻改变了几代战略家的思考。为什么英国能成为海上帝国？为什么陆权和海权的冲突是现代国际关系的主线？这本书给你一个全新的视角。麦金德说，谁控制了欧亚大陆的心脏地带，谁就可能控制整个世界。这在一战后写成的理论，至今仍在塑造国家战略。这不是简单的地理决定论，而是一个理解资源竞争、战略位置和权力分布的思想框架。读完你会发现，历史地图的每一条皱褶都有其必然性。",
+      "quotes": [
+        {
+          "text": "Who rules the East European Plain commands the Heartland; who rules the Heartland commands the World-Island; who rules the World-Island commands the World.",
+          "context": "麦金德最著名的地缘政治公式，阐述地理位置与世界权力的直接关系"
+        },
+        {
+          "text": "The real issues between nations are decided by the geographical factors in the long run.",
+          "context": "强调地理环境对国家命运的长期决定性影响"
+        }
+      ]
+    }
+  ]
+}
+```
