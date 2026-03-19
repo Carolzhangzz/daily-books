@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "丧钟为谁而鸣",
+      "title_en": "For Whom the Bell Tolls",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1940",
+      "category": "文学",
+      "one_liner": "在西班牙内战硝烟中，一个美国志愿者为信念而赴死的史诗般故事。",
+      "deep_dive": "这部小说讲的是美国志愿者罗伯特·乔丹在西班牙内战期间执行一次危险炸桥任务的故事。看似简单的军事任务，却演变成了对生死、爱情、信念和人生意义的深刻思考。海明威用他一贯的冷静笔触，描绘了战争中人性的闪光——乔丹与玛丽亚之间短暂而炽烈的爱情，他与游击队员们的战斗友谊，还有在死亡来临前他对生命意义的终极反思。\n\n这部作品不仅是战争小说，更是关于承诺和牺牲的沉思录。乔丹知道自己可能活不过这场战役，但他依然坚守阵地，因为他明白自己的死亡可能为更大的事业做出贡献。"丧钟为谁而鸣"这个标题本身就是文豪约翰·多恩诗句的引用，暗示没有人是孤岛，任何人的死都应该触动我们的灵魂。整部小说弥漫着一种宿命的优雅，让人们在战火与死亡的背景下，重新审视活着的意义。",
+      "quotes": [
+        {
+          "text": "The world is a fine place and worth fighting for.",
+          "context": "在面对死亡时，乔丹仍然坚信这个世界值得为之奋斗，这是小说最深层的人生哲学。"
+        },
+        {
+          "text": "Today is only one day in all the days that will ever be. But what will happen in all the other days that ever come can depend on what you do today.",
+          "context": "强调当下行动的重要性，每一刻的选择都可能改变人生轨迹。"
+        }
+      ]
+    },
+    {
+      "title_zh": "大问题",
+      "title_en": "The Big Questions",
+      "author_zh": "西蒙·布莱克本",
+      "author_en": "Simon Blackburn",
+      "year": "2009",
+      "category": "哲学",
+      "one_liner": "用平易近人的语言，探讨困扰人类几千年的终极哲学问题。",
+      "deep_dive": "如果你曾在半夜问过自己"我们为什么活着""什么是道德""自由真的存在吗"，那么这本书就是为你而写的。布莱克本是当代最好的哲学普及者之一，他用聊天一样的方式，带你漫游在形而上学、认识论、伦理学的迷宫中。\n\n这本书的妙处在于它不装深奥。他不会用晦涩的术语把你吓跑，而是拿日常生活的例子来启发你思考。比如讨论因果关系时，他会问你"如果你能回到过去改变一件事会怎样"；讨论意识时，他会问"你确定你看到的红色和我看到的是同一种红色吗"。通过这些看似简单但深邃的问题，布莱克本引导你重新审视自己对世界的理解。\n\n读完这本书，你不会找到所有答案——其实哲学本身就没有简单答案。但你会获得一种思维方式，学会如何优雅地与人类最古老的疑问共处。这是一场与伟大思想家们的对话，他们的声音回荡在几个世纪，而你终于听清了。",
+      "quotes": [
+        {
+          "text": "We need to think carefully about what we really know, and what we just think we know.",
+          "context": "对知识本质的追问，提醒我们许多"常识"其实需要重新审视。"
+        },
+        {
+          "text": "Freedom is not simply the absence of constraints, but the presence of real alternatives.",
+          "context": "对自由的深刻理解，不仅仅是摆脱束缚，更是拥有真实的选择。"
+        }
+      ]
+    },
+    {
+      "title_zh": "门口的野蛮人",
+      "title_en": "Barbarians at the Gate",
+      "author_zh": "布莱恩·布罗、约翰·海利亚尔",
+      "author_en": "Bryan Burrough & John Helyar",
+      "year": "1990",
+      "category": "商业与技术",
+      "one_liner": "20世纪最大收购案背后的权力争夺、贪婪与野心的真实故事。",
+      "deep_dive": "1988年，美国商业界经历了一场令人瞠目结舌的权力大戏——KKR（科尔伯格-克拉维斯-罗伯茨）以250亿美元收购了烟草和食品帝国RJR纳比斯科。这不仅仅是一个数字游戏，而是一场真实的人性戏剧，展现了华尔街精英、董事会、投资人和企业高管之间的利益冲突与尔虞我诈。\n\n这本书的精妙之处在于它把这个复杂的金融交易写得像一部精彩的间谍小说。作者细致入微地刻画了每个关键人物：CEO罗斯·约翰逊的贪心与自信，KKR创始人亨利·克拉维斯的野心与手腕，还有各路投资者和顾问们的算计与退缩。你会看到在巨大利益面前，许多人的道德底线是如何一步步后退的。\n\n更重要的是，这本书揭示了一个问题：谁在为企业运营承担真实的代价？当数十亿美元在华尔街的会议室里易手时，数千名员工的生计正在改变。这是一部关于美国资本主义运作方式的启蒙读物，看完你对"商业"二字会有全新的认识。",
+      "quotes": [
+        {
+          "text": "If you want to understand modern American business, you have to understand the LBO.",
+          "context": "杠杆收购彻底改变了美国商业格局，这本书正是这个时代的最佳注脚。"
+        },
+        {
+          "text": "Money doesn't lie. It reveals what people really want.",
+          "context": "在金钱面前，人们的真实面目无所遁形，这是整个故事的核心洞察。"
+        }
+      ]
+    }
+  ]
+}
+```
