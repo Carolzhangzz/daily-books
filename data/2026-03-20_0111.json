@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记与回忆录",
+      "one_liner": "一个孤独而执着的艺术家为了艺术而放弃一切的人生故事",
+      "deep_dive": "你知道梵高吗？那个砍掉自己耳朵的疯狂艺术家？Irving Stone的《渴望生活》会完全改变你对他的理解。这不是学术研究，而是一场心灵对话。Stone用生动、亲密的笔调把你带进梵高的内心世界，让你感受他对艺术的极度渴望，以及那份渴望如何摧毁和拯救了他。梵高的一生就像持续的灵魂搏斗。他放弃了宗教信仰、家庭关系、社会地位，只为追求艺术。从挣扎的传教士，到失败的店员，再到最终的画家——每一步都是背水一战。更疯狂的是，驱动力不是金钱或名利，而是对美、对色彩、对人性的纯粹热爱。书中穿插的梵高写给弟弟Theo的信件充满了艺术的热血和人性的温度，让你理解为什么他的一生如此短暂却如此灿烂。不是因为他是疯子，而是因为他选择了比生命本身更重要的东西。这本书会让你重新思考什么叫做'活着'——是安稳度日，还是为信念而燃烧？对任何想要理解执着、理解创作、理解人性中那份最纯粹渴望的人来说，《渴望生活》都是必读之作。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高对Theo说的话，代表了他对艺术的终极理解——艺术不是工作，而是生命本身"
+        },
+        {
+          "text": "I am always doing what I cannot do, in order that I may learn how to do it.",
+          "context": "梵高关于艺术创作的信念，解释了为什么他的笔触、色彩始终在突破边界"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥德尔、艾舍尔、巴赫",
+      "title_en": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author_zh": "道格拉斯·侯世达",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "科学与认知",
+      "one_liner": "通过数学、艺术和音乐的对话，探索意识和自我指涉的本质",
+      "deep_dive": "这是一本会改变你思维方式的书。《GEB》不是普通的数学或艺术书，而是三个天才跨越时空的对话。Hofstadter用这三个名字象征三个领域的最高峰：哥德尔的不完备定理（数学的自指）、艾舍尔的悖论空间（艺术的自指）、巴赫的赋格音乐（音乐的自指）。这本书的核心洞察就是'自指'。当一个系统能够指向自己、能够自我描述和自我反思时，神奇的事情就发生了。哥德尔证明了任何足够强大的形式系统都无法完全自我描述；艾舍尔画出了不可能的楼梯和相互变换的世界；巴赫在有限的旋律中创造出无限的复杂性。而意识本身，或许就是这种自指达到的最高形式。Hofstadter用对话体、递归结构、谜语和双关语来讲述这一切。书中Achilles和乌龟的对话既是对古代哲学问题的重新审视，也展示了如何用语言本身来说明自指的问题。这种形式和内容的统一，本身就是《GEB》想要表达的东西。这本书非常深奥也很奇怪，但它会让你重新思考心灵、意识、艺术和数学之间的深刻联系。",
+      "quotes": [
+        {
+          "text": "Gödel's Incompleteness Theorem suggests that in any consistent formal system, there are true statements that cannot be proven within that system.",
+          "context": "代表了哥德尔定理的核心——完美的逻辑系统是不可能的，这个悖论打开了现代数学哲学的大门"
+        },
+        {
+          "text": "We are a way for the cosmos to know itself.",
+          "context": "Hofstadter对意识本质的经典表述，暗示自我意识可能是宇宙自我认知的方式"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学：确定性的丧失",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "数学与逻辑",
+      "one_liner": "一部揭示数学发展历史中不确定性和危机的深刻著作",
+      "deep_dive": "如果你以为数学是绝对确定、永恒不变的真理，Morris Kline的这本书会彻底颠覆你的想法。《数学：确定性的丧失》不仅是数学史，更是关于人类知识如何被持续质疑和重建的精彩故事。从古代欧几里得几何开始，数学家们相信自己掌握了终极真理。但随着非欧几何的发现、虚数的引入、无穷集合论的诞生，数学的基础开始动摇。19世纪末，当数学家试图用集合论为所有数学提供统一基础时，却发现了令人震撼的悖论——康托尔对角线论证、罗素悖论。Kline巧妙地引导你走过这场知识危机。他展示了数学家如何试图修补这些洞穴，又如何不得不接受一个令人不安的事实：数学不是发现的绝对真理，而是人类创造的符号系统。它的有效性不来自于超越的确定性，而来自于内部的自洽性和与现实的一致性。这对科学哲学的影响是深远的。如果连最'确定'的学科都充满了不确定性和假设，那么其他科学又如何能声称掌握绝对真理？这本书会让你更加谦虚地看待人类的知识体系。",
+      "quotes": [
+        {
+          "text": "Mathematics is not a creation of physical reality; it is a creation of the human mind.",
+          "context": "关于数学本质的根本洞察，意味着数学是人类概念创造而非客观发现"
+        },
+        {
+          "text": "The loss of certainty in mathematics has opened new possibilities rather than closed them.",
+          "context": "Kline的核心论点——不确定性的发现反而推动了数学的发展，证明了约束的消除往往带来创新"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0111"
+}
