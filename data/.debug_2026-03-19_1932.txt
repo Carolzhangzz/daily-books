@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "心理学导论",
+      "title_en": "Introduction to Psychology",
+      "author_zh": "戴维·迈尔斯",
+      "author_en": "David Myers",
+      "year": "2014",
+      "category": "科学与认知",
+      "one_liner": "用最简洁的语言讲清楚人类心理的运作逻辑，从大脑神经到社会互动的全景图。",
+      "deep_dive": "如果你想理解自己和他人的行为，这本书就像是一本心理学的通俗百科。迈尔斯把心理学从冷硬的学术语言翻译成日常语言，讲得特别亲切。\n\n这本书的妙处在于它的框架。你会依次了解：我们的大脑如何工作（神经科学基础）、我们如何感知世界（感觉和知觉）、我们怎样学习和记忆、什么驱动我们的行为（动机和情绪），以及我们如何在社会中与他人互动。每一章都像是打开一扇新的窗户，让你看到人类行为背后的原理。\n\n最引人入胜的部分是关于认知偏差和思维错误的章节。你会惊讶地发现自己有多经常被大脑"欺骗"——为什么我们容易记住负面事件、为什么我们总是高估自己的能力、为什么群体压力能改变我们的判断。这不是说这很糟糕，而是说一旦你了解了这些，你就能更理性地做决策。\n\n对于学生、父母或任何想要更懂人性的人，这本书都是绝佳的起点。它既不会让你感到被学术淹没，也不会过度简化复杂的心理现象。迈尔斯的风格就是：简明、有趣、实用。",
+      "quotes": [
+        {
+          "text": "Our minds consist of two parts: conscious and unconscious. We're not passive victims of our impulses—we're active agents who can shape our behavior once we understand what drives it.",
+          "context": "强调理解心理学的实际意义——知识可以帮助我们更好地掌控自己的人生"
+        },
+        {
+          "text": "We are both creatures of evolution and products of our experience. Nature loads the gun, but nurture pulls the trigger.",
+          "context": "核心观点：先天与后天的互动塑造了我们是谁，不是非此即彼的二元论"
+        },
+        {
+          "text": "The mind's tendency to maintain consistency means we often see what we expect to see, not what is objectively there.",
+          "context": "解释认知偏差的成因，说明为什么我们的感知往往与现实有偏差"
+        }
+      ]
+    },
+    {
+      "title_zh": "论摄影",
+      "title_en": "On Photography",
+      "author_zh": "苏珊·桑塔格",
+      "author_en": "Susan Sontag",
+      "year": "1977",
+      "category": "艺术与美学",
+      "one_liner": "摄影不仅是记录现实的工具，它改变了我们看世界的方式，甚至改变了现实本身。",
+      "deep_dive": "《论摄影》是一部关于看和被看的哲学思辨。桑塔格在1977年写下这本书时可能没想到，数十年后每个人都拿着手机成为摄影师，她的论点会变得更加尖锐和深刻。\n\n这本书的核心观点是：摄影改变了我们对世界的理解。在摄影出现之前，人们体验现实是直接的、主观的。但相机的出现给了我们一个似乎"客观"的记录——一张照片看起来就是现实的映射。然而桑塔格要说的是，这其实是一种幻觉。摄影本质上是一种选择和诠释：你选择拍什么、从哪个角度、在什么光线下。摄影「捕捉」现实，同时也「构造」了现实。\n\n她还深入讨论了摄影对我们心理的影响。当我们用相机看世界时，我们变成了猎手——不断地寻找值得记录的瞬间。这种心态改变了我们的体验方式。我们变得更加疏离，更加冷漠，因为隐藏在镜头后面让我们感到安全。同时，摄影给了普通人以前只有艺术家才有的权力——记录和诠释现实的权力。\n\n在当下的社交媒体时代，这本书显得尤其预言性。桑塔格关于影像泛滥、审美疲劳、真实的不可触及性的论述，在Instagram和抖音的时代达到了新的高度。这本书会让你重新思考你拿起手机时的每一个动作。",
+      "quotes": [
+        {
+          "text": "To photograph is to appropriate the thing photographed. It means putting oneself into a certain relation to the world that feels like knowledge—and, therefore, like power.",
+          "context": "摄影赋予人权力，但这种权力是通过"掌握"和"占有"对象来实现的——这是一种有问题的关系"
+        },
+        {
+          "text": "In America, the photographer is not simply the person who records the world, but the one who decides what the world looks like.",
+          "context": "指出摄影师的诠释权，以及这种权力如何塑造集体的现实认知"
+        },
+        {
+          "text": "Photographs are evidence. But evidence of what? And for whom?",
+          "context": "质疑摄影的所谓'客观性'，指出照片需要被诠释，没有纯粹的客观记录"
+        }
+      ]
+    },
+    {
+      "title_zh": "癌症传",
+      "title_en": "The Emperor of All Maladies: A Biography of Cancer",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "把癌症当作一个角色来讲述，600年的医学对抗史变成了一部你舍不得放下的传记。",
+      "deep_dive": "这是一本把医学史写成悬念小说的书。穆克吉用「癌症传」这个角度重新审视人类与这种疾病的对抗，而不是单纯地堆砌医学事实。\n\n他从16世纪开始讲起。当时的医生根本不知道什么是癌症，他们能做的就是切除、烧灼、放血。然后是漫长的黑暗时代——19世纪和20世纪初，医学进步缓慢，病人不断死亡。直到显微镜的出现，科学家才看清了癌细胞的真面目：一种失去控制的、无限增殖的细胞。\n\n但最有意思的不是科学发现本身，而是人性的故事。有些医生执迷于激进的治疗，比如切除整个乳房、胸肌甚至肋骨，基于一个错误的理论——癌症是从中心向外扩散的，所以要彻底清除。这个理论统治了医学界半个多世纪，造成了多少不必要的伤害？还有那些在化疗和放疗的研发中犯过错误、走过弯路的科学家，他们的故事一样令人唏嘘。\n\n穆克吉最棒的地方在于，他不会让你觉得现代医学已经战胜了癌症。相反，他展现了这是一场永不会终结的战争。每当医学觉得找到了治疗方案，癌症就会以新的方式进化。他讨论了为什么某些癌症更难治疗，为什么某些病人对治疗有反应而另一些没有——这些问题的答案涉及遗传学、进化论、甚至社会学。\n\n读完这本书，你对癌症、对医学、对科学本身的理解都会改变。它不会让你恐惧，反而会让你敬畏——敬畏人类面对未知的坚持。",
+      "quotes": [
+        {
+          "text": "Cancer is, in essence, a disease of genes—but it is a disease of mutated genes, not inherited genes. The difference is crucial.",
+          "context": "澄清了一个常见的误解，癌症大多不是遗传的，而是由基因突变引起的"
+        },
+        {
+          "text": "The history of cancer is not a straight march forward. It is a chronicle of serendipity, genius, and folly, often indistinguishable from one another.",
+          "context": "强调医学进步的非线性特质，成功往往伴随着失败和意外发现"
+        },
+        {
+          "text": "A mutated cell is cancer waiting to happen, not cancer itself. The transformation from latency to actuality is what we're really trying to prevent.",
+          "context": "揭示了癌症预防的本质——在细胞发生癌变之前就要干预"
+        }
+      ]
+    }
+  ]
+}
+```
