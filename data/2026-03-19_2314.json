@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "数论导引",
+      "title_en": "Introduction to Number Theory",
+      "author_zh": "汤姆·阿波斯托尔",
+      "author_en": "Tom M. Apostol",
+      "year": "1976",
+      "category": "科学与认知",
+      "one_liner": "从最基础的整数性质出发，揭示数论的深刻优美，通往高等数学的殿堂。",
+      "deep_dive": "这是一部讲数论讲得最清楚的入门书。Apostol不是上来就怼你一堆定义，而是像个朋友一样，从最简单的问题开始聊：为什么有些数能被整除，有些不能？质数为什么这么特别？慢慢地，你会发现自己走进了一个精密的数学世界。书里用初等方法证明了一些看起来很高深的结果，比如质数的分布规律。最妙的是，Apostol不仅告诉你「是什么」，还耐心地解释「为什么」，每个定理的证明都写得像讲故事一样流畅。这本书的魅力在于，它让你体会到数学不是冷冰冰的符号，而是一场理智的冒险。读完它，你会明白为什么数学家对数论如此着迷——因为整数这么简单的东西，居然能承载这么深刻的真理。",
+      "quotes": [
+        {
+          "text": "The theory of numbers has always been regarded as one of the purest parts of mathematics",
+          "context": "Apostol强调数论的纯正性和抽象美，这也是他写这本书的初心——让读者体验数学的纯粹与优雅"
+        },
+        {
+          "text": "Every positive integer greater than 1 is either prime or can be expressed as a unique product of primes.",
+          "context": "算术基本定理，数论的基石，正是这个简单而深刻的事实，构建了整个数论的大厦"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的视觉",
+      "title_en": "Vision Science: Photons to Phenomenology",
+      "author_zh": "S·大卫·鲍姆斯",
+      "author_en": "S. David Baumès",
+      "year": "2008",
+      "category": "科学与认知",
+      "one_liner": "光线进入眼睛后发生了什么？这是一场从物理到哲学的视觉之旅。",
+      "deep_dive": "我们每天都在看东西，但我们从来没有真正想过「看见」到底是怎么一回事。这本书就是要把这个最熟悉的感觉陌生化、神秘化，然后再用科学的手术刀把它拆开来看。从光子打到视网膜的那一刻开始，大脑如何把这些电信号转化成你看到的五彩缤纷的世界？为什么两只眼睛看到的不同图像能被大脑「熔合」成一个3D景象？为什么有些人色盲，有些人夜视能力超强？这本书不是简单的生物学教科书，它融合了光学、神经科学、心理学甚至哲学。最有趣的部分是那些视觉的「漏洞」和「幻觉」——它们实际上是在告诉我们，看见不是被动的摄像，而是大脑主动的、充满假设的重建过程。读完这本书，你会以全新的方式看待这个世界，因为你意识到，你看到的世界其实是大脑编织的一个故事。",
+      "quotes": [
+        {
+          "text": "Vision is not a passive process of receiving images, but an active construction by the brain.",
+          "context": "这是视觉科学的核心洞见——我们看到的不是现实本身，而是大脑对现实的一种解释"
+        },
+        {
+          "text": "The eye is not a camera; it is an interface between the physical world and the brain's model of that world.",
+          "context": "眼睛不是简单的光学仪器，而是一个复杂的生物-物理接口，它的信息被大脑处理和重建"
+        }
+      ]
+    },
+    {
+      "title_zh": "千年难题",
+      "title_en": "The Millennium Problems: The Seven Greatest Unsolved Mathematical Puzzles of Our Time",
+      "author_zh": "基思·德夫林",
+      "author_en": "Keith Devlin",
+      "year": "2002",
+      "category": "科学与认知",
+      "one_liner": "七个悬赏百万美元的数学谜题，它们为什么这么难，又为什么这么重要？",
+      "deep_dive": "2000年，美国克雷数学研究所宣布了七个千年难题，每个解决一个就能得到100万美元奖金。但这不是什么彩票游戏，这些问题代表了现代数学最深的奥秘。Devlin这本书的厉害之处在于，他能把这些听起来很吓人的问题讲得让普通人也能理解。P vs NP问题：为什么检验一个答案比找到答案容易得多？黎曼假设：为什么质数的分布这么不规律，却又遵循某种深层的规律？纳维-斯托克斯方程：为什么我们能造飞机，却至今理解不了湍流的数学本质？Devlin不仅讲了每个问题长什么样，还讲了为什么数学家们对它们如此执着。这些问题不是象牙塔的玩物，它们关乎密码学、飞行安全、金融风险——几乎所有现代社会的基础。读这本书，你会明白什么是真正的数学，以及为什么有些问题，我们再聪明也需要一百年才能解决。",
+      "quotes": [
+        {
+          "text": "These problems are not mathematical curiosities; they are central to our understanding of the universe and to practical applications that affect our daily lives.",
+          "context": "Devlin强调千年难题的重要性不仅在于数学本身，还在于它们与现实世界的深层联系"
+        },
+        {
+          "text": "Mathematics is the art of asking the right questions and finding elegant solutions.",
+          "context": "这反映了数学研究的本质——真正的数学不是机械地计算，而是深刻的理解和创意的表达"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2314"
+}
