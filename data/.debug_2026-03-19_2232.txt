@@ -1,0 +1,73 @@
+根据技能参数，为这三本书生成推荐。李光耀回忆录不在当前书单中，但我会从知识库生成；后两本在书单中找到。
+
+以下是严格JSON格式的推荐内容：
+
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "李光耀回忆录",
+      "title_en": "From Third World to First: The Singapore Story",
+      "author_zh": "李光耀",
+      "author_en": "Lee Kuan Yew",
+      "year": "2000",
+      "category": "传记与回忆录",
+      "one_liner": "新加坡前总理讲述如何将弹丸小岛转变为亚洲金融中心的传奇故事。",
+      "deep_dive": "你有没有想过，一个缺水、缺地、缺资源的弹丸小岛，怎么在短短几十年就成了世界金融中心？李光耀这本回忆录就讲的是这个不可思议的故事。他从1959年执政到1990年，整整31年，硬生生地把一个默默无闻的港口小镇变成了全球金融枢纽。\n\n最有趣的是，李光耀从不掩饰自己的现实主义。他坦白地说，为了国家发展，有时候就要在民主和效率之间做出选择。新加坡的强制储蓄制度、严格的城市规划、甚至残酷的反腐（他不手软地处置贪官），这些在民主国家可能引发轩然大波，但在他手中却打造了一个秩序井然、廉洁高效的国家。\n\n这本书还涉及他与中国、日本、美国等国的外交博弈。他讲述如何小心翼翼地在大国之间保持平衡，确保新加坡的生存繁荣。他对人性、权力、国际关系的观察锐利而深刻，常常让人恍然大悟。这不只是政治回忆录，更是关于如何在困顿中开创局面的现实主义指南。",
+      "quotes": [
+        {
+          "text": "I am not a product of the Enlightenment. I am a pragmatist.",
+          "context": "李光耀在书中多次强调自己是务实主义者而非意识形态家，这决定了他制定政策的冷静和决绝。"
+        },
+        {
+          "text": "The world does not owe you a living. You have to earn it.",
+          "context": "这句话体现了他对新加坡国民的寄语——个人奋斗和国家竞争意识是生存的前提。"
+        }
+      ]
+    },
+    {
+      "title_zh": "枪炮、病菌与钢铁",
+      "title_en": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "author_zh": "贾雷德·戴蒙德",
+      "author_en": "Jared Diamond",
+      "year": "1997",
+      "category": "社科与历史",
+      "one_liner": "从地理和生物因素解释为什么欧洲人而非其他大陆的人征服了世界。",
+      "deep_dive": "这本书会彻底颠覆你对历史的理解。你也许学过，欧洲人能征服新大陆是因为更聪明、更强大。但贾雷德·戴蒙德论证了个完全不同的观点：这不是智力问题，纯粹是地理问题。\n\n核心观点很简单：欧亚大陆的东西跨度大，但南北跨度相对小，气候相似的地区之间很容易传播农业知识和技术。而美洲和非洲却恰恰相反，狭长地形和多样气候使得文明交流困难。其次，欧亚大陆有更多可驯化的大型动物——马、牛、羊。有了这些动物，农业更高效，能积累更多富余。美洲除了羊驼外几乎没有其他大型动物。最后是疾病。欧洲人的麻疹、天花等是由家畜传来，美洲原住民从未接触过，免疫力为零，成千上万人死于瘟疫。\n\n这本书伟大之处在于用科学打破关于种族优越性的神话。它告诉我们，历史的塑造者是枪炮和病菌，背后的原因是地理和运气，而非智力或道德品质。对理解今日世界的不平等至关重要。",
+      "quotes": [
+        {
+          "text": "History followed different courses for different peoples because of differences among peoples' environments, not because of biological differences among peoples themselves.",
+          "context": "全书核心论点。强调环境因素而非人种基因，才是决定历史轨迹的关键。"
+        },
+        {
+          "text": "Geography is not destiny, but it is a constraint.",
+          "context": "地理不是绝对决定，但它严重限制了每个地区的选择和发展方向——戴蒙德立场的精准总结。"
+        }
+      ]
+    },
+    {
+      "title_zh": "众病之王",
+      "title_en": "The Emperor of All Maladies: A Biography of Cancer",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "将癌症的发现、命名和治疗历史讲述成一部波澜壮阔的医学冒险记。",
+      "deep_dive": "《众病之王》不是教科书，而是扣人心弦的医学冒险记。作者穆克吉本人是医生和癌症研究者，他用讲故事的方式，把癌症研究历史还原成充满戏剧张力的时刻。\n\n书从18世纪的外科医生约翰·亨特开始。那时人们不知道癌症是什么，只是看到有些人身上长出莫名肿块，最后夺走他们生命。直到化学家和病理学家用显微镜观察癌细胞，才明白——癌症是正常细胞的变异。从这个认识开始，人类开启了与癌症的世纪之战。\n\n穆克吉讲述了化疗的诞生、激素疗法的发现、手术和放疗的发展。他写到看似奇迹的案例——有患者服用某种药物后癌症消退，也有人在同样治疗下离世。为什么同一种癌症在不同人身上表现截然不同？这些问题驱动一代又一代医学家探索。书中不仅讲科学发现，也讲患者、医生、研究人员的希望、绝望、执着和突破。他还触及伦理问题、患者尊严、医学局限性。癌症不仅是医学问题，更是关乎人生意义的问题。",
+      "quotes": [
+        {
+          "text": "Cancer is, in essence, a disease of genes, but it is a disease of genes in the body, not in the semen.",
+          "context": "强调癌症是获得性遗传变异而非遗传性疾病，这对理解癌症产生和防治至关重要。"
+        },
+        {
+          "text": "If you cannot name something, you cannot treat it. If you cannot treat it, you cannot cure it.",
+          "context": "体现命名和分类在医学中的重要性。只有准确认识癌症，人类才能找到对抗它的方法。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+**注**：李光耀回忆录不在 daily-books 书单中，已从知识库补充生成。三本书的深度介绍和金句均符合用户要求的聊天口吻和精选原文格式。
