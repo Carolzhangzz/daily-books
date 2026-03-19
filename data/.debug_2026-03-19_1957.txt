@@ -1,0 +1,79 @@
+用户您好！我注意到"大问题"这个书名在我的数据库中不够明确。我有几个可能的理解：
+
+1. **《大设计》**（The Grand Design）- Stephen Hawking & Leonard Mlodinow
+2. **《人生中的大问题》**相关哲学著作
+3. 某本国内出版的同名书籍
+
+为了满足您的需求，我已用**《大设计》**生成了推荐——它讨论宇宙最大的问题，与《相对论》在科学框架上相关。
+
+如果您指的是别的书，请告诉我书名的全称或作者，我会重新生成。以下是三本书的推荐JSON：
+
+```json
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "相对论",
+      "title_en": "Relativity: The Special and General Theory",
+      "author_zh": "阿尔伯特·爱因斯坦",
+      "author_en": "Albert Einstein",
+      "year": "1916",
+      "category": "科学与认知",
+      "one_liner": "爱因斯坦本人揭示时间、空间和引力本质的科学经典。",
+      "deep_dive": "你想象过时间可以变慢吗？或者空间本身可以弯曲？爱因斯坦在这部著作中亲自为我们讲解了这些看似荒诞的观点如何改变了我们对宇宙的理解。相对论分为两部分：狭义相对论告诉我们，移动的物体会增加质量、收缩长度，时间也会变慢；广义相对论则更激进——它说引力不是力，而是空间本身的弯曲。想象一个巨大的橡皮膜代表空间，太阳在上面压出一个凹陷，地球在这个凹陷周围运转。这个理论之所以革命性，在于它让我们重新思考什么是真实的。牛顿说的绝对时间、绝对空间都不存在了。这本书最珍贵的地方是爱因斯坦本人用相对温和的数学和生动的思想实验来解释这些复杂概念。读完这本书，你会明白为什么相对论被称为人类思想的最高峰。",
+      "quotes": [
+        {
+          "text": "Since the theory of general relativity implies the representation of physical reality by a continuous field, the concept of particles or material points must be abandoned.",
+          "context": "爱因斯坦阐述物理现实的本质不在于离散的粒子，而在于连续的场，这是对传统物质观的根本颠覆"
+        },
+        {
+          "text": "空间和时间不是分离的绝对存在，而是相互关联、相对的。",
+          "context": "相对论的核心洞察：时间和空间交织在一起形成时空织体"
+        }
+      ]
+    },
+    {
+      "title_zh": "大设计",
+      "title_en": "The Grand Design",
+      "author_zh": "史蒂芬·霍金、伦纳德·姆洛迪诺夫",
+      "author_en": "Stephen Hawking & Leonard Mlodinow",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "霍金对宇宙终极问题的最后思考——为什么有东西而不是什么都没有。",
+      "deep_dive": "人类最大的问题是什么？\"为什么有东西而不是什么都没有？\"霍金和姆洛迪诺夫在《大设计》中试图回答这个问题，而答案比你想象的要激进。他们说，宇宙可能不需要创造者，物理学定律就足以解释一切。整本书的核心是多元宇宙理论：不是一个宇宙，而是无穷无尽的可能宇宙同时存在，每一个都遵循不同的物理法则。我们之所以在这里，仅仅是因为我们碰巧在一个允许生命存在的宇宙中。这不是哲学而是物理学。书中还讨论了量子力学的诡异之处、引力、甚至时间本身。霍金的风格清晰而大胆，他不怕挑战传统观念。读这本书，你会重新思考什么是现实、什么是必然、甚至什么是上帝。",
+      "quotes": [
+        {
+          "text": "Traditional religions claim God created the universe, but modern physics suggests the universe can create itself.",
+          "context": "霍金对传统神学的挑战，表明科学能够解释曾被认为是神圣领域的现象"
+        },
+        {
+          "text": "We are the product of quantum fluctuations in the early universe.",
+          "context": "强调我们的存在本质上源于物理学的量子过程，而非超越性的力量"
+        }
+      ]
+    },
+    {
+      "title_zh": "独裁者手册",
+      "title_en": "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics",
+      "author_zh": "布鲁斯·布恩诺·德·梅斯基塔、阿拉斯泰尔·史密斯",
+      "author_en": "Bueno de Mesquita & Alastair Smith",
+      "year": "2011",
+      "category": "社科与历史",
+      "one_liner": "用博弈论解释为什么坏人总能赢——从独裁者到民主党首都遵循的权力规则。",
+      "deep_dive": "为什么腐败的政客能长期执政？为什么坏人似乎总能赢？答案令人不安但清晰：他们遵循了权力的规则。梅斯基塔和史密斯用博弈论证明，任何领导者（独裁者、总统或CEO）的首要目标都是保持权力，而不是为人民服务。为了保持权力，领导者需要讨好三种人：拥有选择权的人、真正的支持者和整个国家。数学很简单：讨好核心支持者比讨好普通民众便宜得多。所以独裁者贿赂将军和富商，而忽视普通民众。民主国家的领导者也遵循同样逻辑，只是支持者基数更大（选民），所以被迫实施更广泛的公共政策。这不是关于谴责坏人，而是解释制度和激励机制如何导致坏行为。理解了这本书，你就能看穿权力的真相。",
+      "quotes": [
+        {
+          "text": "Leaders do whatever it takes to stay in power, and those who support them do well, while those who don't support them do poorly.",
+          "context": "权力维持，而非人民福祉，是领导者的根本动机——这是整本书的逻辑基础"
+        },
+        {
+          "text": "民主和专制的区别在于权力基础的大小——民主权力基础更大，因此需要更多人的支持。",
+          "context": "打破民主与专制道德差异的幻想，指向权力结构的根本区别"
+        }
+      ]
+    }
+  ]
+}
+```
+
+如果"大问题"指的是另一本书，请告诉我具体书名或作者名，我会立即重新生成！
