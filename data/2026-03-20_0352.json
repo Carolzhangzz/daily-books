@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "硅谷钢铁侠",
+      "title_en": "Elon Musk",
+      "author_zh": "阿什利·万斯",
+      "author_en": "Ashlee Vance",
+      "year": "2015",
+      "category": "商业与技术",
+      "one_liner": "从南非男孩到硅谷钢铁侠，一个改变世界的梦想家如何重新定义未来。",
+      "deep_dive": "这部传记把埃隆·马斯克的人生像一部史诗般呈现出来。从童年在南非受到科幻小说的启蒙，到年轻时对互联网的痴迷，再到三番五次地创办企业——PayPal、Tesla、SpaceX——马斯克的故事就像一部关于坚持和梦想的纪录片。\n\n最打动人的是他在绝境中的决心。当SpaceX濒临破产，当Tesla几乎要倒闭时，大多数人早就放弃了。但马斯克不一样，他投入自己的最后积蓄,坚持到天亮。这不是普通的商人传记,而是关于一个人如何用执行力把疯狂的想法变成现实。电动车曾被嘲笑为玩具，而今成了工业方向；太空火箭可以回收复用曾被认为不可能，如今已成常态。\n\n读这本书，你会理解什么叫「第一性原理思维」——马斯克不问「别人怎么做」，而问「物理学允许什么」。他对技术细节的执着、对完美的苛求、甚至那些在董事会面前的激烈争执，都在这本书里生动地再现了。如果你想知道一个真正的创新者是如何思考的，想看现实中的梦想如何实现，这本书值得一读再读。",
+      "quotes": [
+        {
+          "text": "When something is important enough, you do it even if the odds are not in your favor.",
+          "context": "马斯克的核心哲学。在一切看起来不可能的时刻,他用这句话激励自己和团队前行。"
+        },
+        {
+          "text": "I think it is possible for ordinary people to choose to be extraordinary.",
+          "context": "这个信念贯穿了他整个人生。他相信意志和执行力可以改变一切,这也是为什么他能激励千万追随者。"
+        },
+        {
+          "text": "The first step is to establish that something is possible; then probability will follow.",
+          "context": "这句话解释了他为什么敢于尝试别人认为不可能的事。他总是先证明可能性,再去优化概率。"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命的跃升",
+      "title_en": "Life Ascending: The Ten Greatest Inventions of Evolution",
+      "author_zh": "尼克·莱恩",
+      "author_en": "Nick Lane",
+      "year": "2009",
+      "category": "科学与认知",
+      "one_liner": "从DNA到意识,进化史上十大关键创新如何把无生命物质变成了思考的生灵。",
+      "deep_dive": "这本书打破了你对进化的常规理解。尼克·莱恩不是在讲达尔文的自然选择,而是在讲生命的十大「发明」——DNA、光合作用、有氧呼吸、复杂细胞、性、感官、大脑、意识、死亡和文化。每一个看似理所当然的生命特征,背后都隐藏着一场数十亿年的进化竞争。\n\n最精妙的是莱恩如何解释这些发明的因果链。比如,有氧呼吸这个「小小发明」,不仅给生命带来了能量,还因为产生了活性氧,激发了细胞核和线粒体的共生关系,最终才有了复杂生命的出现。没有它,就没有动物、没有植物、没有我们。性的出现也不是为了快乐,而是为了加速遗传多样性,这种多样性才是应对环境变化的终极武器。\n\n这本书用优美的文笔讲述深刻的科学,让你在翻页中一次次产生「啊,原来如此」的顿悟。最后几章关于意识和文化的讨论,更是把科学和哲学完美融合。你会开始思考:意识是如何从物质产生的?为什么我们会衰老和死亡?答案都在生命的进化历史中。",
+      "quotes": [
+        {
+          "text": "Life is not an accident, but a necessary consequence of chemistry and physics.",
+          "context": "莱恩用这句话挑战了「生命神奇」的浪漫观点,但反而让生命变得更加不可思议——它遵循自然法则,却创造了万千奇迹。"
+        },
+        {
+          "text": "Every feature of life is a solution to a problem solved long ago.",
+          "context": "这个视角让你重新审视身体的每一部分。你的眼睛、心脏、大脑,都是几十亿年进化的杰作,为了解决当时最紧迫的生存问题。"
+        },
+        {
+          "text": "We are not the pinnacle of evolution, but one more chapter in an unfinished story.",
+          "context": "这句话充满了谦逊和敬畏。我们是生命进化的一个环节,而非终点,这也提醒我们去尊重自然的复杂性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0352"
+}
