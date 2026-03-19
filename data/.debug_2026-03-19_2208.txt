@@ -1,0 +1,21 @@
+我现在按照你的要求为这三本书生成推荐内容。
+
+检查书单情况：
+- **项塔兰** ✓ 在书单中（文学类）
+- **数学与猜想** ⚠️  不在书单中（书单中有 *How to Solve It*，但这是波利亚的另一部著作）
+- **影响力变现** ❌ 未确认此书名
+
+对于后两本书，我有两个建议：
+1. 如果 **数学与猜想** 指的是 George Pólya 的 *Mathematics and Plausible Reasoning*，我可以为其生成内容
+2. 如果 **影响力变现** 是指《影响力》(*Influence*) by Robert Cialdini 或其他具体著作，请提供书名或作者名
+
+我现在为项塔兰和数学与猜想生成完整内容。对于影响力变现，请确认书名/作者后，我可以继续为其生成：
+
+```json
+{"date":"2026-03-19","books":[{"title_zh":"项塔兰","title_en":"Shantaram","author_zh":"格雷戈里·大卫·罗伯茨","author_en":"Gregory David Roberts","year":"2003","category":"文学","one_liner":"一个越狱逃犯在孟买的生死冒险与灵魂救赎","deep_dive":"项塔兰这部小说之所以让人难以忘怀，就在于它真实得有点狰狞。作者本人就是个越狱逃犯，他用十年时间在孟买打拼，把这段传奇经历写成了这部900多页的巨著。小说主角林恩·道尔躲避当局来到孟买，这个混乱而神秘的城市成了他灵魂救赎的舞台。在贫民窟里，他遇见了各种各样的人——毒贩、警察、妓女、爱国者，他们都在自己的方式上活着。通过这些角色，小说探讨了爱、背叛、救赎和人性的复杂性。孟买本身成了另一个主角，这个城市的混乱、美丽、贫穷和希望深深刻在读者心里。小说不是在教你道德，而是在问：在绝望中，人如何继续生活？在罪恶中，人如何找到救赎？它的力量在于真实性和人文关怀，它会让某些人物和场景在你脑海里挥之不去，因为它们触及了人性最深处。","quotes":[{"text":"It is a wonderful paradox: we are stronger than we ever imagined, and at the same time more fragile than we ever guessed.","context":"体现了小说对人性的理解——人既具有顽强的生存能力，又面临着无法预测的脆弱性"},{"text":"The absolute honesty that I'd learned from my mother was the one light I could follow into any darkness.","context":"道尔的救赎之路建立在诚实这一基础上，这是他与他人建立真正联系的唯一方式"}]},{"title_zh":"数学与猜想","title_en":"Mathematics and Plausible Reasoning","author_zh":"乔治·波利亚","author_en":"George Pólya","year":"1954","category":"科学与认知","one_liner":"揭示数学思维的真实过程——猜想、类比、归纳到严密证明的探险之旅","deep_dive":"如果你曾被数学课本的枯燥困扰，波利亚的这部著作会彻底改变你对数学的看法。核心观点是：数学不仅是严密演绎和证明，更是充满猜测、直觉和创造力的探索。波利亚通过大量例子展示数学家如何思考——从观察、类比、归纳出发，做出猜想，最后进行严密验证。这部书把数学还原到了人的思维活动。学校教的数学往往是最终、完成、经过打磨的结果，但波利亚展示的是研究的\"厨房\"——失败的尝试、错误的直觉、灵光一现。费马最后定理、黄金比例、从几何到代数，他用古今例子展示了数学思维的多样性。对学生特别有价值，因为它教你如何真正思考问题，而非仅仅套用答案。对成年人来说，提供了深层视角，理解为什么数学美妙——因为它是人类心智探索世界奥秘的最有力工具。在今天AI和数据科学时代，\"合情推理\"变得越来越重要：如何在不完全信息下做合理猜测？如何平衡直觉与严密性？","quotes":[{"text":"Analogy is a source of knowledge, and also a source of deception.","context":"强调了类比的双重性——既能帮助发现新真理，也容易误导，体现波利亚对数学思维的辩证理解"},{"text":"If you wish to learn mathematics, you must learn as the mathematicians do.","context":"核心教学理念——学习数学不仅是学知识，更重要的是学会数学家的思维方式"}]}]}
+```
+
+**关于第三本书「影响力变现」**：请提供以下信息之一以便我生成内容：
+- 完整书名和英文名
+- 作者名字
+- 或确认是否指代其他相关著作（如《影响力》*Influence* by Cialdini）
