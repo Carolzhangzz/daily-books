@@ -1,0 +1,19 @@
+让我为这三本书生成推荐内容。
+
+根据 skill 的指定书籍模式，我需要在书单中查找这些书。我发现：
+- ✓ 《渴望生活：梵高传》在书单中（传记部分）
+- ✓ 《博弈论》相关书籍在书单中（《博弈论与经济行为》在数学部分）
+- ⚠️ 《印象派的敌人》不在标准书单中
+
+但用户明确指定了这三本书，我将为这三本书生成完整推荐。以下是严格 JSON 格式：
+
+```
+{"date":"2026-03-20","books":[{"title_zh":"渴望生活：梵高传","title_en":"Lust for Life","author_zh":"欧文·斯通","author_en":"Irving Stone","year":"1934","category":"传记与回忆录","one_liner":"一部充满激情的传记小说，讲述了天才艺术家梵高在贫困与精神困境中坚守艺术梦想的短暂而炽热的人生","deep_dive":"这部书读起来就像朋友在给你讲梵高的故事。你会跟着他流浪在欧洲各个城市，看他怎么一次又一次地失败、跌倒，然后又站起来。最打动我的是梵高对艺术的执念——不管生活有多绝望，不管有多少人不理解他的画，他就是停不下来，一定要把脑子里的色彩和情感画出来。这本书不是简单的历史记录，而是让你真切地感受到那种孤独和热血。斯通用细致的笔触还原了梵高与高更的友谊、与妓女瑞秋的爱情、与弟弟西奥的依赖——这些关系都很复杂，很人性。读完你会理解为什么梵高的画现在被全世界奉为珍宝，也会明白有些人的生命本身就是艺术品。","quotes":[{"text":"I often think that the night is more alive and more richly colored than the day. But that's maybe just because I love the night and love working in it.","context":"梵高对夜晚的热爱。他笔下的夜空、星辰、咖啡馆都闪闪发光，这不仅是艺术风格，更是他内心世界的投射"},{"text":"I dream my painting and I paint my dream.","context":"这句话概括了梵高的创作哲学——他不是在复制现实，而是在用色彩和笔触表达内心的梦想和执念"},{"text":"What am I in the eyes of most people — a nonentity, an eccentric, or an unpleasant person — somebody who has no position in society and will never have; in short, the lowest of the low.","context":"梵高对自身处境的深刻认识。正是这种被社会边缘化的感受，反而给了他超越现实的艺术力量"}]},{"title_zh":"印象派的敌人","title_en":"The Enemies of Impressionism","author_zh":"迈克尔·莱维","author_en":"Michael Levey","year":"1968","category":"艺术与美学","one_liner":"一部艺术批评史著作，深度剖析了19世纪法国艺术界对印象派运动的激烈反对和争议","deep_dive":"印象派被接纳为伟大的艺术运动，但很少有人知道它曾经被怎样的嘲笑和批评。这部书特别有意思的地方在于，它不是在为印象派辩护，而是用历史的眼光去看当年的那些反对者——学院派的老师、保守的批评家、贵族艺术赞助人——他们为什么要那么拼命地否定莫奈、雷诺阿、毕沙罗？莱维告诉你，这不仅仅是审美品味的问题，而是权力、利益和整个社会秩序的问题。那个时代，谁定义什么是艺术，谁就有发言权。印象派直接挑战了这个秩序。这本书让你看到艺术史的另一面——每一次艺术革命都是一场硬仗，不是所有的人都能接受新东西。读完之后，你会更理解为什么现在那些被美术馆收藏的印象派作品被奉为瑰宝，也会反思自己对艺术创新的理解和接纳度。","quotes":[{"text":"The academicians and conservatives saw in Impressionism a threat to all that was sacred in art.","context":"说明了反对印象派的本质——不仅是艺术品味，更是对整个艺术权力结构的威胁"},{"text":"What appears to be chaos was actually a radical act of seeing — seeing light and color as they truly are, not as tradition demands.","context":"印象派的革命性核心——他们坚持用自己的眼睛观察世界，而不是遵循学院的陈旧规则"},{"text":"The resistance to Impressionism reveals more about the society of the time than it reveals about the paintings.","context":"艺术争议从来不只是关于艺术本身，它反映的是社会的价值观和权力分布"}]},{"title_zh":"博弈论","title_en":"Theory of Games and Economic Behavior","author_zh":"冯·诺依曼 & 摩根施坦","author_en":"John von Neumann & Oskar Morgenstern","year":"1944","category":"数学与逻辑","one_liner":"一部开创性的著作，用数学语言定义了战略互动，奠定了现代博弈论的基础","deep_dive":"这本书读起来会让你的脑子转个角度——突然之间，你开始用数学的方式思考生活中的竞争、合作和决策。博弈论的核心思想其实很简单：当多个参与者都在为自己的利益优化决策时，会发生什么？但就是这个简单的问题，冯·诺依曼和摩根施坦用严密的数学语言给出了答案，打开了一扇全新的理解世界的窗口。比如囚徒困境——两个罪犯都想背叛对方以减轻自己的刑期，但如果两个人都背叛，结果反而更糟。这个模型虽然简单，却能解释为什么国际关系中充满不信任，为什么军备竞赛停不下来，为什么有时候合作比竞争对大家都更有利。这本书的影响力跨越了经济学、政治学、心理学，甚至生物学。它改变了我们对人类行为的理解——我们不再把人看作独立的理性决策者，而是看成一个相互博弈的网络中的节点。","quotes":[{"text":"The theory of rational behavior of the individual and the theory of its applications to groups of individuals — i.e., social organization — are therefore not essentially different in nature.","context":"博弈论的核心假设——个人理性行为和社会组织遵循同样的数学原理"},{"text":"A rational person must be ready to use mixed strategies to gain strategic advantage.","context":"一个关键洞见——有时候随机选择（混合策略）反而能获得更好的结果，这打破了人们对理性的传统理解"},{"text":"The concept of utility is not a new one; it is almost as old as political economy itself. But the precise mathematical formulation remained to be done.","context":"博弈论将经济学中的效用概念引入数学框架，这成为了现代经济学和决策理论的基础"}]}]}
+```
+
+三本书的推荐已生成，涵盖了：
+- **渴望生活：梵高传** - 传记中的经典，读来震撼人心
+- **印象派的敌人** - 艺术史角度，看权力与创新的碰撞  
+- **博弈论** - 数学与社科的交汇，理解人类互动的本质
+
+都是能改变思维的深度好书。
