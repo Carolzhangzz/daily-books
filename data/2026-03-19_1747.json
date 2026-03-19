@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "别闹了费曼先生",
+      "title_en": "Surely You're Joking, Mr. Feynman!",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard P. Feynman",
+      "year": "1985",
+      "category": "传记与回忆录",
+      "one_liner": "诺贝尔物理学家费曼的人生故事集，记录了他如何以纯粹的好奇心和独立思考精神探索世界。",
+      "deep_dive": "费曼是个有趣的家伙，这本书不是严肃的物理传记，而是他自己娓娓道来的故事——不修饰、很真实、有时还挺搞笑。你会看到一个天才怎样玩转科学：他在康奈尔、加州理工这些顶级大学教物理，同时又去打鼓、画画、学葡萄牙语。书里的故事五花八门：他怎么破译个保险柜，怎么在酒吧里赢了打赌，怎么在巴西大学跟官僚体制周旋。最打动人的是他对\"为什么\"的执着——他不是为了论文或奖项而做科研，纯粹就是想理解这个世界怎么运作的。这种好奇心是有感染力的，读着读着你也会开始问自己：我是在真的思考，还是在装样子？我是在做自己感兴趣的事，还是在做别人期望的事？费曼的故事其实是在说，要成为一个真正有趣的人，秘诀就是保持不管他人眼光的好奇心和独立精神。对任何想理解科学本质、或者想找回对生活热情的人，这都是一本值得反复读的书。",
+      "quotes": [
+        {
+          "text": "The pleasure of finding things out.",
+          "context": "费曼对科学的终极定义。他说之所以做物理，不是为了获奖或名利，就是为了那种发现新事物的快乐感。这反映了他整个人生哲学的核心。"
+        },
+        {
+          "text": "You have no responsibility to live up to what other people think you ought to accomplish. I have my life to live, and I don't have the responsibility to do what other people expect.",
+          "context": "讲的是如何独立思考和生活的本质。费曼强调个人自由和真实性，这也是为什么他敢于挑战权威、拒绝随波逐流。"
+        },
+        {
+          "text": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
+          "context": "这是他对科学方法的深刻理解，也是对人生的忠告。提醒我们要保持诚实，特别是对自己诚实，这是智慧的开始。"
+        }
+      ]
+    },
+    {
+      "title_zh": "黑客与画家",
+      "title_en": "Hackers & Painters",
+      "author_zh": "保罗·格雷厄姆",
+      "author_en": "Paul Graham",
+      "year": "2004",
+      "category": "商业与技术",
+      "one_liner": "深入探讨编程的艺术性和创业精神，揭示了优雅代码与艺术创作的共通之处。",
+      "deep_dive": "保罗·格雷厄姆在这本书里讲的最核心的东西就是：编程其实是一种艺术。很多人看编程就是一堆技术细节和逻辑运算，但格雷厄姆说，真正优秀的程序员和优秀的画家、音乐家的思维方式其实是一样的——都在追求一种优雅、对问题本质的深层理解。书里既有黑客文化的历史渊源，也有他对为什么要学Lisp的深入讨论，还有关于创业的独特见解。格雷厄姆挺看不起那种为了钱而创业的人，他觉得真正的黑客精神是为了做出好东西。整本书弥漫着一种信念：好代码就像好艺术，它们都有一种内在的美感，这不是装逼，而是真的有区别。如果你是程序员，这本书会让你重新思考自己在干什么，以及什么是真正值得追求的；如果你不是程序员，也能从中看到什么叫专业精神、工匠精神，以及为什么创意工作需要这样的态度。特别有意思的是，格雷厄姆用对比的方式展示了美丽和丑陋的代码、优雅和笨拙的解决方案之间的鸿沟。",
+      "quotes": [
+        {
+          "text": "The best programmers are not moderately better than mediocre ones. They are vastly, dramatically better.",
+          "context": "格雷厄姆指出，编程领域里的天才和平庸者之间的差距远比其他行业要大。这说明了品质、创意和深度思考在技术工作中的重要性。"
+        },
+        {
+          "text": "It's hard for big companies to be innovative... The way to have good ideas is to have a lot of ideas, and throw away the bad ones.",
+          "context": "涉及创意工作的本质。对应了小团队、创业公司为什么往往比大公司更有活力——自由和实验的文化。"
+        },
+        {
+          "text": "When you have a choice between two designs, the right answer is whichever one doesn't try to guess what the programmer needs.",
+          "context": "强调设计的本质是为用户服务，而不是设计者想象用户需要什么。这个原则适用于代码设计、产品设计乃至生活哲学。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_1747"
+}
