@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记/艺术",
+      "one_liner": "一部关于荷兰印象派大师梵高短暂而激情人生的传记小说",
+      "deep_dive": "这本书讲的不是某个遥远的天才，而是一个充满矛盾、充满渴望、充满痛苦的普通人。梵高出身于牧师家庭，一开始想做传教士，后来才转向绘画——这不是什么灵光一闪，而是一种对精神的永恒追求。斯通用小说的笔法让你走进梵高的内心世界，你会看到他如何在贫困中坚持创作、如何在被人嘲笑时仍然相信自己的艺术、如何用颜色和笔触去表达内心那些无法用言语表达的感受。最打动人的是梵高的孤独——他的作品在生前几乎无人欣赏，但他从未停止创作。这种执着不是为了成功，而是一种近乎宗教般的信念：用艺术来拯救自己，用颜色来拯救世界。读这本书，你会明白什么叫真正的\"渴望\"——不仅仅是对成功的渴望，更是对真理、对美、对生命本身的深深渴望。",
+      "quotes": [
+        {
+          "text": "I often think that the night is more alive and more richly colored than the day.",
+          "context": "梵高对夜晚的描写，体现了他对自然中被忽视之美的独特感受"
+        },
+        {
+          "text": "I am always doing what I cannot do yet, in order to learn how to do it.",
+          "context": "梵高关于学习和创作的信念，说明他的艺术追求是一个不断探索的过程"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学：确定性的丧失",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "数学/科学哲学",
+      "one_liner": "一部揭示数学如何从绝对确定性走向不确定性的知识史",
+      "deep_dive": "如果你以为数学自古以来就是绝对确定的真理，这本书会彻底颠覆你的认知。克莱因生动地讲述了一个惊人的转折：从欧几里得的完美几何体系，到非欧几何的出现打破了数学的唯一性；从康托尔的无穷集合论引发的悖论，到哥德尔不完备定理证明即使最严密的系统也有无法证明的真命题。这个过程中，数学家们经历了深刻的困惑和危机。这些发现的意义远超数学本身——如果连被认为最纯粹、最确定的知识体系都不是绝对的，那么什么是真理？什么是确定性？人类的理性有什么本质的局限？这不仅是一次数学革命的记录，更是一个关于知识、真理和人类认识论的深刻反思。",
+      "quotes": [
+        {
+          "text": "Mathematics is not a collection of theorems proved once and for all, but rather a living, evolving discipline.",
+          "context": "克莱因核心观点，说明数学是动态发展的，而非静止的完美体系"
+        },
+        {
+          "text": "The loss of certainty in mathematics mirrored the loss of certainty in the larger world.",
+          "context": "指出数学危机与20世纪人类精神危机的深层呼应"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥德尔、艾舍尔、巴赫：一条永恒的金色编带",
+      "title_en": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author_zh": "道格拉斯·侯世达",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "认知科学/哲学/数学",
+      "one_liner": "一部融合数学、艺术、音乐的跨学科杰作，探讨自指、递归和人工智能的终极奥秘",
+      "deep_dive": "这本书有点疯狂——侯世达用数学、艺术和音乐编织了一个庞大的知识迷宫。表面上看是三个看似无关的天才：哥德尔的不完备定理、艾舍尔的自我指涉画作、巴赫的音乐结构。但深层的联系是\"自指\"和\"递归\"。书里充满了对话、悖论、视觉游戏和双关语，读起来既像做智力游戏，又像进行哲学冥想。侯世达想回答的大问题是：意识是什么？自我是什么？机器可能拥有意识吗？这些问题在书的多个层次上反复出现——在数学中、在艺术中、在对话中。有人读完会茅塞顿开，有人会感到晦涩难懂，但无论如何，你会开始以全新的方式思考人类心智和人工智能的可能性。",
+      "quotes": [
+        {
+          "text": "Consciousness is a high-level description of brain activity.",
+          "context": "侯世达对意识本质的核心观点，认为意识是物理过程的高层描述"
+        },
+        {
+          "text": "Strange loops and tangled hierarchies are related to self-awareness and consciousness.",
+          "context": "书的中心思想，通过\"奇怪循环\"的概念来解释自我意识的产生机制"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0109"
+}
