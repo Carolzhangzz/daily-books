@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "人性论",
+      "title_en": "A Treatise of Human Nature",
+      "author_zh": "大卫·休谟",
+      "author_en": "David Hume",
+      "year": "1739-1740",
+      "category": "哲学",
+      "one_liner": "用经验和观察来解释人类心智和道德，挑战理性至上的哲学传统。",
+      "deep_dive": "你知道吗，休谟写这本书的时候只有26岁，简直天才少年。《人性论》干了一件大事：他说我们以为的「理性」其实是建立在感受和习惯之上的。换句话说，你的逻辑推理？那不是什么高高在上的精神活动，而是一种重复出现的经验产生的习惯。\n\n这个想法在18世纪简直是炸弹级别的。休谟观察人怎么思考、怎么做道德判断，发现我们根本不是笛卡尔说的那种纯粹理性的生物。我们是由感官印象、情感、习惯组成的复杂体。他甚至说，你所谓的「自我」，其实就是各种知觉不断流动的集合——没有什么永恒不变的灵魂。\n\n最疯的是，休谟用这套理论去解释道德。他说善恶不是什么理性推导出来的绝对真理，而是人类同情心和社会需要的产物。你觉得帮助别人是好的？那是因为你能同情他人的痛苦，这是动物本能。这思想跟传统伦理学完全不同。\n\n读这本书会让你质疑很多东西——你的思维是真的「理性」吗？你的道德判断真的是经过推导的吗？如果你想理解现代哲学、心理学、甚至科学方法论的源头，《人性论》绕不开。虽然他的写法有点啰嗦，但创意是真的闪闪发光。",
+      "quotes": [
+        {
+          "text": "If we take in our hand any volume... let us ask, Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames.",
+          "context": "休谟的著名结论：如果书既不是逻辑推理也不是经验观察的记录，那就烧了它。这体现了他对有意义知识的严格标准。"
+        },
+        {
+          "text": "Reason is, and ought only to be the slave of the passions.",
+          "context": "他颠覆了理性优于情感的传统观点，认为理性其实是为情感服务的。这句话改变了西方哲学对人性的理解。"
+        },
+        {
+          "text": "Custom, then, is the great guide of human life.",
+          "context": "习惯才是引导人生的力量，不是什么崇高的理性原则。这个观点至今影响着心理学和行为经济学。"
+        }
+      ]
+    },
+    {
+      "title_zh": "凯恩斯传",
+      "title_en": "Keynes: A Life",
+      "author_zh": "罗伯特·斯基德尔斯基",
+      "author_en": "Robert Skidelsky",
+      "year": "2018",
+      "category": "传记与回忆录",
+      "one_liner": "追踪20世纪最有影响力经济学家的生平，看他如何重塑世界对经济的理解。",
+      "deep_dive": "斯基德尔斯基用三卷本的雄心壮志为凯恩斯立传，这不只是讲一个经济学家的故事，更像是看一个知识分子怎么改变整个世界。凯恩斯这个人很迷人——他是剑桥的数学天才，转身成了经济学家，然后一步步成为左右各国政策的顾问。\n\n最有意思的是凯恩斯的矛盾之处。他一手策划了一战后的赔款方案（后来发现太苛刻了），又因为预见到这会导致灾难而公开反对。他既是局内人，又是批评者。既信仰市场，又在大萧条时提出政府干预理论，直接挑战了当时的经济学正统。\n\n读这部传记，你会看到凯恩斯如何在实战中检验理论——金本位、失业、通胀——这些不是课本里的抽象概念，而是实实在在摧毁人们生活的力量。他的大胆假设「政府可以通过支出来刺激经济」在当时简直是离经叛道，但最后改变了全世界的宏观经济政策。\n\n斯基德尔斯基还挖掘了凯恩斯作为人的一面——他的同性恋身份（在那个时代很隐秘）、他的艺术品收藏品味、他作为知识精英的社交圈子。这让凯恩斯从一个经济理论的符号变成了一个活生生的、复杂的人。如果你想理解20世纪的经济历史和现代经济学怎么形成的，这部传记是必读。",
+      "quotes": [
+        {
+          "text": "The long run is a misleading guide to current affairs. In the long run we are all dead.",
+          "context": "凯恩斯最著名的一句话。他在反驳那些说「长期来看市场会自我调整」的人，指出在长期来临之前，短期的痛苦已经摧毁了经济。"
+        },
+        {
+          "text": "The difficulty lies not so much in developing new ideas as in escaping from old ones.",
+          "context": "凯恩斯深刻理解知识的惯性。推翻旧观念比创造新观念更难——这也解释了为什么他的理论虽然创新，但推行时却遭遇巨大阻力。"
+        },
+        {
+          "text": "I work for a government I despise, for ends I think criminal.",
+          "context": "凯恩斯在一战后的矛盾心情。他参与国家决策，但对所服务的目标感到绝望，这种张力驱动了他后来的理论创新和批评。"
+        }
+      ]
+    },
+    {
+      "title_zh": "美国大城市的死与生",
+      "title_en": "The Death and Life of Great American Cities",
+      "author_zh": "简·雅各布斯",
+      "author_en": "Jane Jacobs",
+      "year": "1961",
+      "category": "社科与历史",
+      "one_liner": "一个记者妈妈用常识摧毁了城市规划的象牙塔，拯救了城市社区的生命力。",
+      "deep_dive": "简·雅各布斯不是什么专业建筑师或城市规划师，她是个记者和母亲，住在纽约格林威治村。这个身份很重要，因为她观察城市的角度是最接地气的——不是从规划图纸上，而是从街道上。\n\n1960年代，城市规划的大人物们信奉「城市更新」——推倒破烂的旧房子，建造宽敞的现代小区、隔离的商业区，用汽车干道把城市分割成不同功能的区域。听起来理性吧？但雅各布斯看穿了这套理论的问题。她发现，真正活泼的城市街道——那些看起来有点混乱的地方，其实才是城市生命力的源头。\n\n她用观察和数据证明，多样性（不同用途的建筑混在一起）、短街区、老建筑、人口密度适中——这些规划师想要「清除」的特征，反而是让城市街道安全、活跃、充满生命力的关键。一个有不同年龄建筑、不同业态混合的街区，自然会有更多人在街上活动，形成非正式的监督，这反而减少了犯罪。\n\n更激进的是她对「社区」的理解。她说，不要被那种设计完美的新社区骗了，真正的社区是有机长成的，是邻里之间的无数次小互动堆积出来的。一条有好餐厅、杂货店、小酒吧的街道，比十个规划完美但死气沉沉的广场更值钱。\n\n这本书炸裂了整个城市规划行业。几十年过去了，我们都看到了——她说的对。那些现代主义规划摧毁的社区，被推倒的街道，留下的是贫民窟和废墟。反而是保留下来的混杂社区，后来成了城市最有生命力的地方。如果你想理解为什么你的城市是这样的，为什么有些街道活跃而有些死寂，这本书是必读启蒙。",
+      "quotes": [
+        {
+          "text": "Cities are not works of nature. They are works of art, and they respond to the effort directed at their preservation or distinctive character as do living work of art in other fields.",
+          "context": "雅各布斯把城市比作艺术作品，强调保护其多样性和独特性的重要性。这挑战了对城市进行激进改造的思想。"
+        },
+        {
+          "text": "The trust of a community is a freely given matter. Whoever would keep it has to earn it and re-earn it.",
+          "context": "她深刻理解社区信任的脆弱性。大的规划改造往往摧毁了几代人积累的社区纽带，而信任一旦破裂很难重建。"
+        },
+        {
+          "text": "Cities need all kinds of diversity... They need a most intricate and close-grained diversity... practically every block, every street and every building in a city should be thinking about diversity.",
+          "context": "她的核心论点：城市的活力来自细粒度的多样性，而不是大尺度的功能分区。这推翻了现代主义城市规划的基本假设。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0626"
+}
