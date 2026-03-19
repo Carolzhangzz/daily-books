@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "数学：确定性的丧失",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "科学与认知",
+      "one_liner": "揭示数学从欧几里得的完美幻想到20世纪基础危机的惊人转变",
+      "deep_dive": "你有没有想过，数学曾经被认为是绝对的、永恒的真理？这本书讲的就是这个幻想的破灭。克莱因用很accessible的方式带你走过数学的演进历程。从欧几里得开始，大家都认为几何学是完美的、无可挑剔的。二千多年里，人们把欧几里得几何当成绝对真理。但19世纪，数学家们开始探索\"如果平行线假设不成立会怎样？\"这个看似疯狂的问题，结果发现了非欧几何。这不就说明欧几里得可能是错的吗？\n\n然后，20世纪初又爆发了更大的危机。有些数学家发现集合论中存在悖论（比如罗素悖论），这让整个数学大厦的基础都动摇了。人们意识到数学可能根本不像我们想的那样确定和自洽。克莱因的贡献是，他用历史的视角让你明白，数学的发展并不是一条笔直的通往真理的道路，而是充满转折、矛盾和革新的。\n\n这对我们现在特别有意义。我们活在一个充满不确定性的时代，没有什么是绝对的。克莱因这本书的核心信息就是：学会接受知识体系的局限性，反而能让我们更清楚地理解什么是可靠的、什么是需要谨慎的。",
+      "quotes": [
+        {
+          "text": "The more progress mathematics made, the more it became clear that certainty was unattainable.",
+          "context": "反映了19-20世纪数学基础危机的核心悖论，数学越发展，人们越发现绝对确定性是幻想"
+        },
+        {
+          "text": "Mathematics has not been a static body of knowledge but has undergone profound changes.",
+          "context": "克莱因强调数学是动态演变的历程，而不是一成不变的教义"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥德尔、艾舍尔、巴赫",
+      "title_en": "Gödel, Escher, Bach",
+      "author_zh": "侯世达",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "科学与认知",
+      "one_liner": "用递归、对称和自指织就的三重奏，探索心智、意识和自我的神秘本质",
+      "deep_dive": "这本书读起来像是一场奇妙的旅行。侯世达把数学家哥德尔的不完备定理、艺术家艾舍尔的画作和音乐家巴赫的作品编织在一起，看似毫不相关的三个人，却在这本书里共鸣出关于自我指涉、递归和奇异循环的深刻主题。\n\n哥德尔的故事是这样的：他证明了任何足够复杂的形式系统都存在真但不可证明的命题。换句话说，完全的逻辑确定性是不可能的——这听起来有点绝望，但实际上它打开了一扇认识智能本质的窗户。艾舍尔的画也是这样——他画的楼梯、镜像和变换都在同一个平面上自我矛盾地存在。而巴赫的音乐体现了递归和自相似的结构，就像松果或蕨类植物一样。\n\n侯世达的天才之处在于，他用\"奇异循环\"这个概念说明了一个可能的深层真理：意识本身可能就是这样一种奇异循环。我们的脑子能够想到自己，能够形成对自我的认识，这看起来似乎应该导致无限递归或矛盾，但我们就是能做到。这正是这本书的威力所在——它不是在宣称已解决意识难题，而是在揭示意识可能就是通过自指、递归和想象力运作的。",
+      "quotes": [
+        {
+          "text": "I am a strange loop.",
+          "context": "侯世达对意识和自我的最简洁而深刻的表述，说明自我的自指性本质"
+        },
+        {
+          "text": "A strange loop arises when, by moving upwards or downwards through the levels of some hierarchical system, we unexpectedly find ourselves right back where we started.",
+          "context": "解释了自我指涉和意识的悖论性质，这是理解心智的关键"
+        },
+        {
+          "text": "The self comes into being at the moment it has a concept of self.",
+          "context": "说明自我意识的形成是一个自我认识的过程"
+        }
+      ]
+    },
+    {
+      "title_zh": "博弈论与经济行为",
+      "title_en": "Theory of Games and Economic Behavior",
+      "author_zh": "冯·诺伊曼, 摩根斯坦",
+      "author_en": "John von Neumann, Oskar Morgenstern",
+      "year": "1944",
+      "category": "科学与认知",
+      "one_liner": "用数学语言解读竞争、合作和理性决策的深层逻辑，奠定现代经济学的基石",
+      "deep_dive": "如果你看过《美丽心灵》，就知道约翰·纳什因为博弈论而获得诺贝尔奖。但博弈论的起点其实是冯·诺伊曼和摩根斯坦在1944年合著的这部经典著作。这本书就像是一个新世界的钥匙，打开了用数学方法研究人类互动、竞争和决策的大门。\n\n博弈论的核心想法很简单：在任何涉及多方参与者的情境中，每个人的最优选择都取决于其他人会做什么。这听起来不起眼，但其影响深远。它定义了什么是\"博弈\"，什么是\"策略\"，什么是\"均衡\"。它试图用冷硬的逻辑来描述人在面对不确定性和竞争时会如何理性地思考。\n\n为什么这很重要？因为从宏观经济政策到微观的商业谈判，从政治联盟到军事战略，从生物进化到社交网络，博弈论都找到了应用。它改变了我们理解经济、政治、甚至生物学的方式。世界不仅仅是由物理法则驱动的，也是由参与者之间的战略互动驱动的。\n\n当然，现代的批评者指出，博弈论假设所有人都是完全理性的，这在现实中往往不成立。但即使有这些局限，博弈论仍然提供了一个强大的框架来思考竞争和合作的本质。读这本书，你能感受到20世纪知识界的一次重大转变——从描述自然规律，转向用数学语言描述人类行为的逻辑。",
+      "quotes": [
+        {
+          "text": "A rational person can be described by his preferences, and all his actions are consistent with maximizing something.",
+          "context": "这是博弈论关于理性行为的基本假设，为经济学提供了数学基础"
+        },
+        {
+          "text": "The problem of a rational behavior in n-person games is a most natural one to consider.",
+          "context": "强调多方参与者的互动是经济和社会系统的关键，开创了博弈论研究的新方向"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2339"
+}
