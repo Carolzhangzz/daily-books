@@ -1,0 +1,7 @@
+我已生成了三本书的推荐内容（严格JSON格式，无markdown代码块）。需要您授权写入文件后，我会：
+
+1. 保存 JSON 到 `/Users/carol/Documents/daily-books/data/2026-03-19.json`
+2. 更新 `index.json` 索引
+3. 推送到 GitHub Pages
+
+请授权这个文件写入操作。
