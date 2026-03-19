@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记/艺术",
+      "one_liner": "一部关于艺术天才梵高如何在绝望中坚持创作、以生命诠释艺术的伟大传记",
+      "deep_dive": "这是一部虚实相间的传记文学杰作，将梵高的人生转化为一场酣畅淋漓的精神漂泊。斯通通过细致入微的笔触，让我们看到梵高不仅仅是那个割掉耳朵、生活拮据的狂人，而是一个真实的灵魂——他有对人生的困顿，有对爱的渴望，有对艺术近乎宗教般的执着。这本书最打动人的地方在于它展现了创造的代价。梵高每一幅画背后都是他对生活的深度思考和灵魂的碰撞，他用笔触诠释着什么叫做\"带着伤口舞蹈\"。读这本书，你会发现艺术不是高高在上的奢侈品，而是一个孤独灵魂与世界对话的方式。梵高的故事告诉我们，有时候坚持本身就是胜利，即使你看不到它。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高对艺术创作的理念——他的绘画就是他内心世界的映照"
+        },
+        {
+          "text": "If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.",
+          "context": "鼓励那些质疑自己的人迎难而上，追求梦想的勇气"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学：确定性的丧失",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "数学史/科学哲学",
+      "one_liner": "一部揭示数学如何从完美的真理殿堂蜕变为充满矛盾和不确定性的学科的知识史诗",
+      "deep_dive": "如果你以为数学是绝对真理的象征，这本书会彻底改变你的认知。克莱因用深入浅出的笔调，讲述了数学两千多年来如何一次次被自己的悖论击倒，又一次次绝地重生。从欧几里得的完美几何被非欧几里得几何颠覆，到康托尔的无穷大理论引发的危机，再到哥德尔不完全定理的致命一击，数学失去了它宣称的绝对确定性。但这不是黑暗，反而是觉醒。这本书的精妙之处在于它让我们看到，数学的\"不确定\"不是缺陷，而是它的真相——数学是人类心智的产物，反映的是我们对世界的理解方式，而不是世界本身的样子。这对任何想理解现代思想的人都至关重要。",
+      "quotes": [
+        {
+          "text": "Mathematics has not been handed down to us by the gods; it is the work of men and hence bears the marks of human frailty.",
+          "context": "提醒我们数学是人类创造，不是永恒的真理"
+        },
+        {
+          "text": "数学充满了自我否定的历史，每一次否定都是对理解的深化",
+          "context": "强调数学进步的曲折性和人类思想的局限性"
+        }
+      ]
+    },
+    {
+      "title_zh": "癌症传",
+      "title_en": "The Emperor of All Maladies: A Biography of Cancer",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "医学/科学/传记",
+      "one_liner": "一部把癌症当作人物来传记，讲述人类与这个终极敌人数百年对抗的科学冒险史",
+      "deep_dive": "穆克吉做了一件绝妙的事——他把癌症当作一个角色，一个活着的、不断进化的、狡猾而顽强的对手，来讲述这场人类与疾病的终极之战。这本书不是冷冰冰的医学教科书，而是一个又一个真实的、令人心碎或鼓舞的故事：一个母亲对抗乳腺癌的勇气，科学家在黑暗中摸索的坚持，错误治疗带来的伤痛，突破性发现闪耀的时刻。你会看到化疗如何从一个毒气武器变成救命的药物，如何一代代的医学工作者在错误和成功之间蹌跚前行。更重要的是，这本书让你理解一个颠覆性的真相：癌症不是一种疾病，而是人体细胞本身的反叛，是生命机制的极端扭曲。读完这本书，你对生命、对科学、对人类的韧性会有完全不同的体悟。",
+      "quotes": [
+        {
+          "text": "Cancer is, in essence, a disease of miscommunication, of cells that no longer heed the signals that instruct them when to die.",
+          "context": "揭示癌症的本质——是细胞间信号系统的彻底崩坏"
+        },
+        {
+          "text": "The real enemy of mankind is not cancer, but ignorance.",
+          "context": "强调知识和理解在对抗疾病中的核心力量"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0005"
+}
