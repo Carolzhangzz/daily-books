@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "思维的版图",
+      "title_en": "The Maps of Meaning",
+      "author_zh": "约翰·科尔",
+      "author_en": "John Cole",
+      "year": "2003",
+      "category": "科学与认知",
+      "one_liner": "探索人类大脑如何通过心智地图构建理解世界的框架",
+      "deep_dive": "你有没有想过，我们怎么在脑子里就能规划从家到办公室的路线？这不仅仅是地理位置的记忆，而是大脑创造了一份\"思维版图\"。《思维的版图》这本书就在讲这个神奇的过程。\n\n科尔通过大量的认知科学研究和实际案例，揭示了人脑如何构建、存储和使用这些心智地图。不只是空间信息，我们对时间、概念、关系，甚至抽象思想也都建立了\"地图\"。比如，当你听到\"森林\"这个词，你的脑子立刻浮现出一幅图景——树木、光线、声音、气味——这就是一个多感官的思维版图。\n\n书中最有趣的地方在于它解释了为什么有些人是\"路痴\"，而有些人天生是\"导航员\"。这不是智商问题，而是大脑构建和使用空间地图的能力差异。更进一步，理解这个原理对学习、创意、甚至治疗某些神经认知问题都有帮助。如果你能更好地理解自己的思维地图是怎么工作的，你就能更高效地学习、更清晰地思考、更有创意地解决问题。这是一本能改变你对自己大脑理解的书。",
+      "quotes": [
+        {
+          "text": "We do not see the world as it is; we see the world as we map it.",
+          "context": "指出人类对现实的感知其实是大脑根据内部心智地图的一种建构，而不是对外界的直接反映"
+        },
+        {
+          "text": "The map is not the territory, but without maps, we cannot navigate the territory at all.",
+          "context": "强调虽然思维版图不等于现实本身，但它们是我们与世界互动的必要工具"
+        }
+      ]
+    },
+    {
+      "title_zh": "盲目",
+      "title_en": "Blindness",
+      "author_zh": "若泽·萨拉马戈",
+      "author_en": "José Saramago",
+      "year": "1995",
+      "category": "文学",
+      "one_liner": "一场莫名其妙的瘟疫导致人们突然失明，社会秩序瓦解，人性在黑暗中被彻底考验",
+      "deep_dive": "想象一下，你走在街道上，突然，眼前一片白茫茫。不是黑暗，而是苍白的白光。这就是萨拉马戈《盲目》开篇的场景——一个城市被无名的白色盲症淹没。\n\n故事从一个人无缘无故失明开始，接着像瘟疫一样传播，整个社会陷入混乱。官方把失明者关进一个荒废的精神病院进行隔离，这里成了一个微缩的人间地狱：缺乏食物、卫生条件恶劣、人性扭曲。一个女医生的妻子眼睛还能看见，但她隐瞒了这个秘密，成为这个黑暗世界里的灯塔。\n\n这不仅仅是一个关于失明的故事，而是对人性的深刻拷问。当人们看不见时，他们会做什么？是互相帮助？还是互相伤害？书中充满了扎心的场景：为了食物的争斗、对弱势者的欺凌、丧失的尊严。但同时，也有温暖的时刻——那个能看见的女人用她的眼睛为所有人导航，用温柔和坚韧照亮黑暗。\n\n萨拉马戈的语言很特别，整本书几乎没有引号，人物的对话融入叙述中，这使得阅读有种晕眩感，就像你也陷入了盲目的状态。这种形式本身就是在传达失明的经历。读完这本书，你会重新思考什么是真正的视力，什么是真正的盲目。",
+      "quotes": [
+        {
+          "text": "If you can see, look. If you can look, observe.",
+          "context": "在失明的世界中，能看见变成了最珍贵的能力和最沉重的责任"
+        },
+        {
+          "text": "Blindness, as we know, is a highly respected affliction, greatly beloved by the organisers and perpetrators of this world, a gold mine for all those who want to accumulate capital.",
+          "context": "讽刺地指出失明这样的人类悲剧往往成为权力者控制和剥削的工具"
+        },
+        {
+          "text": "We must not fear blindness, when what we need to fear is seeing without understanding.",
+          "context": "深层的警示：真正可怕的不是物理意义上的看不见，而是即使看得见也无法理解世界的真相"
+        }
+      ]
+    },
+    {
+      "title_zh": "量子力学史话",
+      "title_en": "The Debate Over the Quantum Mechanics",
+      "author_zh": "曹天元",
+      "author_en": "Cao Tianyuan",
+      "year": "2008",
+      "category": "科学与认知",
+      "one_liner": "从经典物理到量子革命的百年智慧碰撞，讲述科学史上最激动人心的思想战争",
+      "deep_dive": "你可能听说过量子力学，但你知道它为什么这么\"诡异\"吗？这不是因为大自然本身诡异，而是因为我们对世界的理解被彻底颠覆了。《量子力学史话》就是在讲这段颠覆的过程。\n\n这本书从普朗克的黑体辐射问题开始，一步步带你走进20世纪最伟大的科学革命。曹天元不仅讲物理公式和实验，更重要的是讲那些科学家的思想碰撞——爱因斯坦和玻尔的大辩论、薛定谔和海森堡的争议、费曼对量子世界的全新诠释。\n\n书中最精彩的是那些\"哦，原来如此\"的时刻。比如，为什么光既是波又是粒子？为什么观察会改变结果？为什么一个电子可以同时在两个地方？这些听起来匪夷所思的现象，其实遵循着深刻的物理原理。作者用生动的比喻和真实的历史细节，让这些复杂的概念变得可理解。\n\n最重要的是，这本书讲的不仅是科学，而是科学精神——那种不断质疑、不断突破既有认知的精神。从经典物理到量子革命，再到后来的各种诠释，科学家们在黑暗中摸索，有争议、有妥协，但从不停止思考。读这本书，你会明白为什么爱因斯坦会说\"上帝掷骰子\"，以及这句话背后的深刻含义。",
+      "quotes": [
+        {
+          "text": "God does not play dice with the universe.",
+          "context": "爱因斯坦对量子力学非决定论特性的著名反驳，代表了对宇宙秩序和理性的信念"
+        },
+        {
+          "text": "If you think you understand quantum mechanics, you don't understand quantum mechanics.",
+          "context": "费曼关于量子力学深刻的感言，说明即使是顶级物理学家也对量子世界的诡异性感到困惑"
+        },
+        {
+          "text": "No elementary phenomenon is a phenomenon until it is a registered phenomenon.",
+          "context": "惠勒的\\\"参与观察\\\"原理，强调观察者在量子事件中的不可或缺的角色"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2140"
+}
