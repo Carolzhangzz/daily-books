@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-19",
+  "books": [
+    {
+      "title_zh": "第六次大灭绝",
+      "title_en": "The Sixth Extinction: An Unnatural History",
+      "author_zh": "伊丽莎白·科尔伯特",
+      "author_en": "Elizabeth Kolbert",
+      "year": "2014",
+      "category": "科学/生态学",
+      "one_liner": "人类正在导致的生物大灭绝事件，是地球历史上第六次灾难。",
+      "deep_dive": "科尔伯特用她标志性的优雅笔触把一个恐怖的故事讲得引人入胜。她不是在吓唬你，而是一步步用证据告诉你：我们现在确实处于第六次大灭绝中。她先带你了解过去五次灭绝是怎么发生的——恐龙、三叶虫、森林象——然后指出区别在于，这一次是我们人类导致的。你会看到金色青蛙如何在巴拿马消失，珊瑚礁如何在海洋酸化中白化，一个接一个的物种在我们的影响下走向灭绝。最聪明的地方是，科尔伯特没有陷入末世论，而是冷静地呈现事实，让你自己去思考。读完后你会明白，这不仅仅是生物学问题，而是一个关乎所有人的存在问题。",
+      "quotes": [
+        {
+          "text": "The rate of extinction is now estimated to be between 100 and 1,000 times higher than the background rate.",
+          "context": "揭示当前物种灭绝速度的加速度"
+        },
+        {
+          "text": "We are now in the midst of the sixth extinction, this time caused entirely by us.",
+          "context": "关于第六次灭绝根本区别的核心论述"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术哲学",
+      "title_en": "The Philosophy of Art",
+      "author_zh": "朱光潜",
+      "author_en": "Zhu Guangqian",
+      "year": "1945",
+      "category": "哲学/美学",
+      "one_liner": "用哲学之光照亮艺术的本质，揭示人类精神中美的规律。",
+      "deep_dive": "朱光潜是那种能把高深理论讲得特别亲切的大师。这本书不会让你觉得晦涩，反而像在跟一位有智慧的朋友聊天。他用大量具体的艺术作品来说明抽象的美学原理——为什么一幅画能打动人？为什么某些旋律会让你流泪？艺术创作的秘密在哪？朱光潜认为，艺术不是闲人的消遣，而是人类精神生活的核心。审美能力的培养能让我们的灵魂得到升华。这本书成书于上世纪四十年代，却融合了西方美学和中国传统思想，具有独特的启发力。读它的时候，你会开始重新看待身边的美，重新理解艺术在人生中的位置。",
+      "quotes": [
+        {
+          "text": "艺术是人生的一种高级形式的享受，也是人生的一种重要的精神创造。",
+          "context": "对艺术在人生中根本地位的定义"
+        },
+        {
+          "text": "审美是一种超越实利的精神活动，通过它我们的心灵得到净化和升华。",
+          "context": "阐释艺术欣赏的精神价值"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥德尔、艾舍尔、巴赫",
+      "title_en": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author_zh": "道格拉斯·霍夫施塔特",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "哲学/认知科学",
+      "one_liner": "用数学、艺术、音乐的和声探讨智能和自我意识的奥秘。",
+      "deep_dive": "这本书读起来就像在进行一场智力冒险。霍夫施塔特的天才之处在于，他把三个看似毫无关联的人物——数学家、画家、作曲家——的工作织成一体，向你展示什么是思维，什么是自我意识。他用递归、自指、形式系统这些概念，以一种全新的方式追问人类最深层的问题：心灵是什么？它如何从物质的大脑中产生？这不是一本干巴巴的学术著作，反而充满了机智的对话、巧妙的视觉谜题、诙谐的讽刺，让哲学问题变得活生生。每读一章，你都会被引发新的思考。这本书获得了普利策奖，改变了无数人对AI、创造力和人类意识的理解方式。",
+      "quotes": [
+        {
+          "text": "A strange loop is a phenomenon that occurs in systems with a hierarchical, self-referential structure.",
+          "context": "对自我意识本质的关键概念阐述"
+        },
+        {
+          "text": "The fundamental question is: what is mind? And the paradoxical answer is: mind is what brains do.",
+          "context": "对心灵与大脑关系的哲学思考"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-19_2315"
+}
