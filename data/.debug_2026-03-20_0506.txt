@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "了不起的盖茨比",
+      "title_en": "The Great Gatsby",
+      "author_zh": "菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1925",
+      "category": "文学",
+      "one_liner": "美国梦的幻灭寓言——一个富豪为爱燃烧生命，最终被命运无情吞没的悲剧",
+      "deep_dive": "这部1925年的经典其实是对美国梦最讽刺、最深刻的反思。故事看起来简单得不行：神秘富豪盖茨比为了赢回失去的爱人，费尽心力积累巨万财富，最后落得悲剧收场。但菲茨杰拉德的厉害之处在于，他用华丽的笔触描绘了1920年代美国上层社会的繁华与虚无。你会看到豪宅、派对、美酒，然后突然意识到，这一切都只是幻觉。盖茨比象征的是一代人对理想的执着——以为财富和成功能填补内心的空洞，能重回过去。但真正打动人的是那种无力感：无论多成功，你都改变不了命运的轨迹。这本书为什么一直被重读，不仅因为它是文学杰作，还因为它问了个永恒的问题：我们追求的到底是什么？是幸福，还是用成功去掩盖对失败的恐惧？读完这本书，你会对\"梦想\"有全新的理解，也会更能体谅那些为理想奋不顾身的人。",
+      "quotes": [
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+          "context": "小说最后的句子，象征着人生无奈的循环——我们再努力也逃不出命运之河"
+        },
+        {
+          "text": "They're a careless bunch ... they smashed up things and creatures and then retreated back into their money.",
+          "context": "对上层社会道德虚伪的尖锐批评，金钱成了逃避责任的盾牌"
+        },
+        {
+          "text": "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+          "context": "盖茨比对梦想的执着与绝望，绿灯代表永远无法抵达的理想"
+        }
+      ]
+    },
+    {
+      "title_zh": "竞争战略",
+      "title_en": "Competitive Strategy",
+      "author_zh": "迈克尔·波特",
+      "author_en": "Michael Porter",
+      "year": "1980",
+      "category": "商业与技术",
+      "one_liner": "揭示企业如何通过识别竞争力量、选择正确战略来获得持久竞争优势的经典框架",
+      "deep_dive": "波特的《竞争战略》出版于1980年，但今天读起来仍然是所有商学院和企业战略部的教科书。这本书最核心的贡献是\"五力模型\"——你的生意面临来自供应商、买家、竞争对手、替代品和潜在进入者的五股力量。波特告诉我们，赚钱不是靠努力和热情，而是靠理解这些力量，然后找到自己的位置。书里最有洞见的部分是关于三种竞争战略：成本领导（做得最便宜）、差异化（做得最独特）、聚焦（服务特定人群）。你会发现，真正成功的企业从不是什么都做，而是狠狠聚焦在一个方向。苹果选择差异化，沃尔玛选择成本领导，精品店选择聚焦——各有各的道理。这本书改变了我们理解商业的方式，从模糊的\"竞争\"变成了具体可行的战略框架。无论你是创业者还是职业经理人，这本书的思维模型都能帮你看清自己的位置，做出更明智的决策。",
+      "quotes": [
+        {
+          "text": "The goal of competitive strategy is to find a position in the industry where the company can best defend itself against competitive forces.",
+          "context": "波特对战略的核心定义——战略就是找到最好的防守位置，而不是盲目扩张"
+        },
+        {
+          "text": "Differentiation is a viable strategy for earning above-average returns in an industry.",
+          "context": "强调与众不同的价值——你不需要做得最便宜，做得最与众不同也能赚钱"
+        },
+        {
+          "text": "Focus strategy works when the firm can serve its chosen segment more effectively or efficiently than competitors.",
+          "context": "聚焦的力量——深耕细分市场往往比全面竞争更能成功"
+        }
+      ]
+    },
+    {
+      "title_zh": "论自由",
+      "title_en": "On Liberty",
+      "author_zh": "约翰·斯图亚特·密尔",
+      "author_en": "John Stuart Mill",
+      "year": "1859",
+      "category": "哲学",
+      "one_liner": "为个人自由和少数派权利进行哲学辩护的永恒之作，揭示自由为何是人类进步的基础",
+      "deep_dive": "密尔的《论自由》写于1859年，但它处理的问题——个人自由与社会秩序的关系——放到今天仍然是最重要的政治哲学问题。密尔主张，个人的行为自由应该被最大化保护，除非这种自由伤害他人。这听起来简单，但其实深刻得不行。他反对多数派对少数派的压迫，反对\"我们认为对你更好\"这种家长式专制。他相信，人类进步来自于思想的自由碰撞，来自于容许\"异端邪说\"存在的社会。读这本书的时候，你会被密尔的理性与优雅打动。他不是在写激进的呼声，而是在用逻辑论证为什么压迫个人是愚蠢的——它损伤社会的创造力和道德。这本书影响了从宪法到互联网治理的一切。在当今这个被算法包围、信息茧房处处的时代，密尔的思想显得特别珍贵。",
+      "quotes": [
+        {
+          "text": "The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs.",
+          "context": "密尔对自由最核心的定义——真正的自由是按自己的方式追求幸福，前提是不伤害他人"
+        },
+        {
+          "text": "That mankind are not infallible; that their truths are not all settled questions but disputes still in progress.",
+          "context": "反驳多数派的绝对性——社会需要质疑的声音来进步，而非一致的沉默"
+        },
+        {
+          "text": "He is perpetually putting fetters upon himself, and taking out a new license under them, by his custom.",
+          "context": "对被压迫者处境的深刻观察——长期压抑会让人主动放弃自由，这是压制最可怕的结果"
+        }
+      ]
+    }
+  ]
+}
+```
