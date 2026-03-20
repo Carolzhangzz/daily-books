@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "万物简史",
+      "title_en": "A Short History of Nearly Everything",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2003",
+      "category": "科学与认知",
+      "one_liner": "用诙谐幽默的笔调讲述宇宙、地球和人类的演化故事，将复杂的科学知识转化为引人入胜的叙事",
+      "deep_dive": "比尔·布莱森这个家伙真的厉害，他把科学变成了一场说书，让你不知不觉就学了那么多。这本书就是他走遍世界、采访科学家、翻阅无数资料的结果——他想回答一个简单但疯狂的问题：我们从哪里来，世界是怎样的？\n\n你看，从宇宙大爆炸开始，到地球的形成，再到生命的出现和人类的进化，布莱森用一种闲聊的口吻把这些大问题讲得很清楚。最棒的是，他不会让你觉得被教育了，反而像是在和一个爱讲故事的朋友聊天。他会在讲述星系如何运行的同时，忽然插入一个有趣的冷知识，比如某个科学家的奇葩经历，让你既学到了东西，又被逗笑了。\n\n书里特别有意思的部分是关于地球本身的。他讲了地壳如何移动，为什么会有地震和火山，为什么恐龙会灭绝。他还讲了冰河时代，讲了人类是怎样一步步进化的，以及我们是多么幸运——如果历史上某个时刻发生了一点点不同的事情，我们就可能不存在了。这种幸存感读完以后，你会对生命的脆弱和宝贵有全新的认识。\n\n最重要的是，布莱森一直在强调：科学不是那种枯燥的公式和数字，而是人类的好奇心在驱动。每一次重大发现的背后，都有科学家们的执着、犯错、甚至是幸运。他让你看到了科学的人性化一面。读完这本书，你会发现自己对周围的世界有了全新的理解——那些看起来很平常的东西，其实背后都有着几十亿年的故事。",
+      "quotes": [
+        {
+          "text": "We are, in fact, built from the heavy elements that were forged in the hearts of dying stars.",
+          "context": "强调人类和宇宙的深刻联系，提醒我们其实是星尘组成的"
+        },
+        {
+          "text": "To be honest, I don't understand why you people don't find it all infinitely more interesting.",
+          "context": "布莱森对人类对科学兴趣缺缺的感叹，带着幽默和遗憾"
+        },
+        {
+          "text": "The most important human endeavor is the striving for morality in our actions. Our inner balance depends upon it, and our very existence depends on it.",
+          "context": "讲述生命的意义和人类如何选择生活的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "费曼物理学讲义",
+      "title_en": "The Feynman Lectures on Physics",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard P. Feynman",
+      "year": "1963",
+      "category": "科学与认知",
+      "one_liner": "物理学大师费曼用独特的视角和方法论教授物理，强调理解本质而非死记硬背",
+      "deep_dive": "费曼是个天才，但更重要的是，他是个真正会教书的人。这套讲义是他在加州理工学院教物理的课堂记录，老实说，这可能是有史以来最好的物理教科书，虽然它不是传统意义的教科书。\n\n费曼的魔力在哪里？他不是简单地告诉你答案，而是引导你去思考为什么。他会从最基础的观察开始，比如为什么天是蓝的，为什么磁铁能吸铁，然后逐步深入到更复杂的原理。他坚持认为，如果你不能用简单的语言解释某个概念，那就说明你还没真正理解它。这种哲学改变了整个物理教育。\n\n书里最厉害的地方是，费曼会不断地问为什么，然后推翻那些似乎理所当然的假设。他讲力、讲能量、讲热力学，但都是从这意味着什么这个角度出发，而不是公式是什么。他会用日常生活中的例子来类比复杂的物理现象，让你忽然明白原来是这样。\n\n费曼还有个特点：他非常诚实。如果物理学还不能解释某个现象，他会坦白说出来。他讨厌装神弄鬼，讨厌人们假装理解他们其实不懂的东西。这种诚实的态度，让他的教学充满了智慧和谦逊。读这本讲义的过程就像跟费曼本人坐在一起聊天。你会发现物理不是一堆公式，而是一种看世界的方式。",
+      "quotes": [
+        {
+          "text": "The principle of science, its only principle, is: the only way to find out if something is true is to experiment; if it disagrees with experiment, it is wrong. That's all.",
+          "context": "费曼对科学方法的核心定义，强调实验的重要性"
+        },
+        {
+          "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
+          "context": "展现费曼对探索未知、批判性思维的推崇"
+        },
+        {
+          "text": "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical.",
+          "context": "费曼对量子力学本质的深刻认识，带着他标志性的直率风格"
+        }
+      ]
+    },
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "传记与回忆录",
+      "one_liner": "一部充满激情的梵高传记，描绘了这位伟大艺术家的内心世界、艺术创作历程和悲剧人生",
+      "deep_dive": "欧文·斯通写的这本梵高传，真的是传记类书籍的典范。它不是干巴巴地陈述事实，而是像小说一样把你拉进梵高的世界——那个充满痛苦、渴望和天才的世界。\n\n梵高的人生其实就是一场不断追寻的旅程。他年轻时想当传教士，失败了；想成为画家，最初也没人认可他。但他就是有这种疯狂的热情，不管遭受多少打击，都要继续画画。斯通把梵高这种执着刻画得特别生动——你能感受到他的孤独、他的挣扎、他对艺术的近乎宗教般的信仰。\n\n书里梵高最让人心碎的地方，就是他活着的时候，世界不认可他。他一度穷得要吃稀汤，他的兄弟西奥是他仅有的支持者。但正是在这种绝望的处境下，梵高创作了他最伟大的作品——《星月夜》《向日葵》《麦田》那些现在被全世界热爱的画作。\n\n斯通的笔触让你不仅看到梵高是个天才，更重要的是，你看到了他的人性。他的渴望不只是艺术成就，而是想被爱、被理解、被接纳。这种渴望贯穿他整个人生，最后以悲剧告终。读到他最后的日子，你会感到一种深深的悲伤——一个如此才华横溢的人，却活得如此痛苦。但这也是这本书的魅力所在：它让你看到了艺术和人性的复杂关系。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高对艺术创作过程的深刻描述，体现了他对梦想和现实的融合"
+        },
+        {
+          "text": "I am always doing what I cannot do yet, in order to learn how to do it.",
+          "context": "梵高对自我突破和不断学习的执着，反映了他作为艺术家的成长心态"
+        },
+        {
+          "text": "If I feel deeply, I think the whole secret lies there.",
+          "context": "梵高强调情感在艺术创作中的核心地位，解释了为什么他的作品如此动人"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1924"
+}
