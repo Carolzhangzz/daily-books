@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "人类简史",
+      "title_en": "Sapiens: A Brief History of Humankind",
+      "author_zh": "尤瓦尔·赫拉利",
+      "author_en": "Yuval Noah Harari",
+      "year": "2011",
+      "category": "社科与历史",
+      "one_liner": "跨越7万年的人类演化史，揭示我们如何从平凡动物成为地球统治者",
+      "deep_dive": "我刚读完《人类简史》，真的有点被震撼了。这本书不是传统历史书，而是用全新视角看人类整个发展历程。赫拉利把人类历史分成了几个重要革命：认知革命、农业革命和科学革命。最有意思的是认知革命部分。他说大约7万年前，我们的祖先大脑发生了某种神秘变化，突然可以讲故事、想象不存在的东西，这才是把我们和其他动物区分开的真正原因。这种讲故事能力让我们能相信宗教、民族、公司这些虚构的故事，也正是这个能力让我们能大规模合作。\n\n后来的农业革命把我们从狩猎采集生活方式束缚了起来。你可能以为农业是伟大进步，但赫拉利说不一定——农民虽然养活了更多人，但个人生活质量其实下降了，要长时间劳动，还得依赖某种特定农作物。我们为了生存而被植物奴役了，这个观点挺有意思。\n\n然后是科学革命。从16世纪开始，人类开始承认自己的无知，开始做实验观察而不是只靠古籍。这种诚实和谦虚反而让我们获得了前所未有的力量。现代科学、工业革命、资本主义都由此而生。\n\n整本书最深刻的地方是它问了根本性问题：所有这些进步真的让我们更快乐吗？我们有更多东西、更多权力，但幸福感呢？这是我们很难直面的问题。这本书像一面镜子，让你重新审视自己所在的整个文明。",
+      "quotes": [
+        {
+          "text": "We are the only animal that believes things that don't exist",
+          "context": "论述人类独特的讲故事能力，如何让我们能够大规模合作并建立虚拟秩序"
+        },
+        {
+          "text": "You can never convince a monkey to give you a banana by promising it unlimited bananas after death in monkey heaven",
+          "context": "说明人类独特之处在于能够相信无法证实的故事和概念，这是我们超越其他物种的根本"
+        },
+        {
+          "text": "History is something that very few people have been allowed to participate in",
+          "context": "讨论权力的不平等和历史的制造者往往是极少数人，挑战我们对历史进程的理解"
+        }
+      ]
+    },
+    {
+      "title_zh": "遗落的南境",
+      "title_en": "Annihilation",
+      "author_zh": "杰夫·范德米尔",
+      "author_en": "Jeff VanderMeer",
+      "year": "2014",
+      "category": "文学",
+      "one_liner": "一支神秘女性小队进入危险诡异的禁区，探索一个不断扩张且令人不安的异常地带",
+      "deep_dive": "《遗落的南境》是一部很难分类的书——看起来像科幻，但更多像是心理恐怖加生态灾难的混合体。故事围绕一个叫X区域的地方展开。这是一个被某种神秘力量改变的区域，它不断在扩张，政府早就用高墙围了起来。但一支由女性生物学家、测量员、心理学家和战士组成的小队决定进去探索。这四个女性各有各的秘密，各有各的伤痛，这正是政府选择她们的原因——因为她们都有理由不想活了。\n\n范德米尔的诡异之处在于他的描写方式。X区域里没有传统意义的怪物，但一切都错得很厉害——植物以奇怪的方式生长，比如有人形的树，或者植物和动物混杂的东西。整个环境充满了压抑的、令人不安的美感。故事主要从生物学家视角讲述，但她精神在崩溃，你永远不确定她观察到的东西是真实的还是幻觉。\n\n这本书最聪慧的地方是对改变的描写。X区域不是摧毁生命，而是不断改变、融合它。故事最后才真正恐怖——不是因为有什么怪物出现，而是主人公开始怀疑自己是否还是自己。这种身份认同的丧失，对自我的怀疑，比任何物理威胁都要恐怖。这也是很好的比喻——关于改变如何悄悄进行，关于我们对环境的恐惧，关于人类的傲慢。",
+      "quotes": [
+        {
+          "text": "The lighthouse had become a home, the swamp an unknown country",
+          "context": "在X区域内，熟悉的地点也变得陌生危险的不安感，环境本身成为敌人"
+        },
+        {
+          "text": "What had I been before the Change? What would I become?",
+          "context": "主人公开始怀疑自我身份的核心时刻，反映整个故事的哲学主题"
+        },
+        {
+          "text": "There is no knowing, only being or not being",
+          "context": "在无法理解的X区域中，传统的知识和逻辑失效，存在本身成为唯一的真实"
+        }
+      ]
+    },
+    {
+      "title_zh": "喧哗与骚动",
+      "title_en": "The Sound and the Fury",
+      "author_zh": "威廉·福克纳",
+      "author_en": "William Faulkner",
+      "year": "1929",
+      "category": "文学",
+      "one_liner": "一个衰落的南方家族的精神和道德崩溃，通过四个人的视角讲述一个破碎的故事",
+      "deep_dive": "《喧哗与骚动》是我读过的最难的现代小说，但也是最奖励人的。乍一看很令人困惑，因为福克纳用不同意识流风格来呈现四个不同视角的故事。前三部分分别从三个康普顿家族儿子的角度讲述——班吉是个智力迟滞的人，昆丁是自杀前的年轻人，杰森是道德沦丧的商人。最后一部分才是旁观者视角。整个故事围绕一个女儿凯迪的堕落展开，但你永远看不到凯迪本人讲述自己的故事。\n\n最有名的恐怖第一部分从班吉角度讲。班吉是个白痴，没有时间感，他的思想在不同时刻间跳跃，完全打乱了叙事顺序。你得一步步拼凑发生了什么。福克纳故意把你放在班吉的位置上——混乱、困惑、无助。这不是简单技巧，这是真正的艺术。\n\n第二部分昆丁的自我毁灭最绝望。他对妹妹凯迪的处女性痴迷到疯狂程度，反映了南方衰落和对失去贵族过去的执念。他的意识流更有逻辑但更绝望，你能感受到一个年轻人走向死亡的每一步。第三部分杰森最冷血。他是唯一活着的儿子，但被金钱和控制所驱使，完全失去人性，虐待家人，对什么都充满仇恨。\n\n故事伟大之处在于福克纳对美国南方衰落的描写。这个家族就像美国南方本身在崩溃——失去经济基础，失去道德方向，被过去所拖累，无法适应新时代。这不仅仅是家族故事，而是文明的故事。",
+      "quotes": [
+        {
+          "text": "When the shadow of the sash appeared on the curtains it was between seven and eight oclock and then I was in time again, hearing the watch",
+          "context": "班吉的意识中，时间碎片化和感官记忆的交织，体现这个智力障碍人物独特的知觉方式"
+        },
+        {
+          "text": "I have not broken my word. But I have come to believe that no man ever does, while he lives",
+          "context": "昆丁对承诺和道德的绝望思考，反映南方衰落时代的道德真空"
+        },
+        {
+          "text": "The year from which I have spent my life, never looking before me, which was a terrible mistake",
+          "context": "杰森对自己被金钱驱使人生的反思，代表道德沦丧的意识和懊悔"
+        }
+      ]
+    }
+  ]
+}
+```
