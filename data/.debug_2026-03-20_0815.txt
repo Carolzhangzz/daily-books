@@ -1,0 +1,69 @@
+我来为这三本书生成中文推荐内容。根据你的要求生成JSON：
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "逻辑的引擎",
+      "title_en": "Engines of Logic",
+      "author_zh": "马丁·戴维斯",
+      "author_en": "Martin Davis",
+      "year": "2000",
+      "category": "科学与认知",
+      "one_liner": "从古代逻辑到现代计算机，一部计算思想的迷人演变史",
+      "deep_dive": "这本书就像一部侦探小说，而主角是人类试图理解什么是可计算的这个终极问题。戴维斯带你穿越两千多年，从亚里士多德的三段论开始，经过布尔的符号逻辑革命，再到图灵那个天才的数学机器。你会发现，计算机的诞生其实不是电子工程师的突然灵感，而是几代数学家和逻辑学家在纸上已经完成的伟大思想实验。特别有意思的是，书里讲的这些逻辑之争和计算能力的界限问题，到了今天依然在塑造我们的人工智能和量子计算研究。读这本书时你会不断发出\"哦，原来是这样\"的感叹——计算不仅是工程学，它首先是哲学和数学的故事。戴维斯写得很平易近人，不会让你淹没在复杂的符号中，反而让你感到这段思想史有多么优雅和深刻。",
+      "quotes": [
+        {
+          "text": "The real miracle is that our abstractions are so well adapted to describing the world.",
+          "context": "强调了数学和逻辑抽象能力的神奇之处——它们竟然能如此精确地描述现实"
+        },
+        {
+          "text": "A machine that can perform any calculation that any mathematician could perform.",
+          "context": "图灵机的核心定义，让人意识到计算的通用性和权力"
+        }
+      ]
+    },
+    {
+      "title_zh": "观看之道",
+      "title_en": "Ways of Seeing",
+      "author_zh": "约翰·伯格",
+      "author_en": "John Berger",
+      "year": "1972",
+      "category": "艺术与美学",
+      "one_liner": "打破你对图像的所有假设，重新学会用眼睛思考",
+      "deep_dive": "这本书改变了几代人看待视觉文化的方式。伯格有个大胆的观点：我们以为自己用眼睛看世界，其实是文化在教我们怎么看。他从一个经典问题开始——为什么我们看到一幅画和看到一个人，有完全不同的反应？然后他逐层剥开广告、摄影、电视、绘画这些视觉媒介背后的权力和意识形态。最震撼的是那个关于裸体艺术的章节，他论证了女性裸体在艺术中的呈现方式如何深刻反映了男性凝视的权力结构。这不是抽象的理论——而是用最具体的视觉例子让你看到，你眼睛捕捉到的每一帧都被文化预写了。读完这本书，你会发现自己面对任何图像时都会多想一步：这是谁拍的，为什么这样拍，背后想让我看什么？从广告到新闻摄影，从古典绘画到Instagram，你会看得更清醒。",
+      "quotes": [
+        {
+          "text": "Seeing comes before words. The child looks and recognizes before it can speak.",
+          "context": "提醒我们视觉认知的原始性，以及语言如何后来塑造了我们的视觉理解"
+        },
+        {
+          "text": "Women are depicted in quite a different way from men not because the feminine is different from the masculine—but because the 'ideal' spectator is always assumed to be male.",
+          "context": "揭示了视觉文化中的性别权力结构，影响深远的观点"
+        }
+      ]
+    },
+    {
+      "title_zh": "白牙",
+      "title_en": "White Fang",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1906",
+      "category": "文学",
+      "one_liner": "一只半狼半狗的生物在原始丛林和文明世界之间寻找生存和救赎",
+      "deep_dive": "这是一部关于适应、残酷和最终救赎的史诗冒险小说。故事跟随一只名叫白牙的动物——它有狼的野性却又有狗的能力去爱——从加拿大的冻原荒野一直到加州的文明社会。伦敦不是在讲一个简单的动物故事，他在用白牙的经历比喻人类的生存处境。那个关键的洞察是：适者生存不意味着最强者赢，而是那些能够学会改变、能够学会在新环境中生存的生物。白牙最初被人类虐待和利用，被训练成一个无情的斗犬，但最后它遇到了一个真正爱它的人，这改变了一切。这个转变不是软弱，而是一种更高级的适应——学会信任，学会温柔。书的后半段有些格局拓宽了，不再只是动物的视角，而是让你看到人类社会的虚伪和野蛮不亚于丛林。读这本书时你会被伦敦充满力量的散文风格吸引，他笔下的加拿大荒野和阿拉斯加冻土都活了起来。这不是儿童读物，虽然也有少年可读的版本，但成年人会读到更深的人生哲学。",
+      "quotes": [
+        {
+          "text": "He was a killer, a thing that preyed, living on the things that lived, unaided, alone, by virtue of his own strength and prowess.",
+          "context": "描写白牙在野生状态下的本质，展现了自然界的残酷法则"
+        },
+        {
+          "text": "Love was a fever in him that burned him to the heart, and it did not matter in what manner it was induced.",
+          "context": "揭示了爱对白牙——以及所有生物——的变革力量，是整部小说的主题核心"
+        }
+      ]
+    }
+  ]
+}
+```
