@@ -1,0 +1,71 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "长尾理论",
+      "title_en": "The Long Tail",
+      "author_zh": "克里斯·安德森",
+      "author_en": "Chris Anderson",
+      "year": "2006",
+      "category": "商业与技术",
+      "one_liner": "互联网时代，小众产品的集合能创造与热销品一样甚至更大的商业价值",
+      "deep_dive": "这本书完全改变了我对市场结构的理解。安德森敏锐地发现，互联网消除了实体店的空间限制和流通成本，让那些曾经因为赚不到钱而被淘汰的"冷门"产品有了生存空间。\n\n想象Netflix或Spotify，它们的收入大头不来自大片和热门歌手，而是那些看起来无人问津的作品加起来。传统唱片公司靠少数超级巨星赚钱，但互联网平台让每个艺术家都有展示的机会。这对整个商业格局的意义巨大——你不需要追求最大众，而是让所有产品都能找到付费的人。\n\n印象最深的是，这本书解释了为什么YouTube和独立创作者能颠覆传统媒体。电视台被迫追逐最大观众，互联网却让小众内容找到了自己的受众。这也说明了为什么今天创业者有那么多机会——再小众的产品，网络上也能找到愿意买单的人。\n\n现在回头看，有些预测被完全验证了，有些则演变成不同形式。但核心洞察——聚沙成塔，小众也能成为大生意——依然适用。无论你是创业者还是内容创作者，这本书都会改变你看待市场的方式。",
+      "quotes": [
+        {
+          "text": "The future of business is selling less of more.",
+          "context": "长尾理论的终极洞察——不追求单品爆款，而是让所有产品都有机会被发现"
+        },
+        {
+          "text": "When products aren't constrained by physical shelf space, the number of products available will be nearly infinite.",
+          "context": "说明了为什么互联网能促进长尾经济，打破了传统的稀缺模型"
+        },
+        {
+          "text": "In a world of unlimited selection, the true value lies in helping people find what they want.",
+          "context": "强调推荐系统和内容发现的重要性，这也是今天算法推荐的理论基础"
+        }
+      ]
+    },
+    {
+      "title_zh": "道德形而上学基础",
+      "title_en": "Groundwork of the Metaphysics of Morals",
+      "author_zh": "伊曼努尔·康德",
+      "author_en": "Immanuel Kant",
+      "year": "1785",
+      "category": "哲学",
+      "one_liner": "道德的基础不在于后果或感受，而在于理性本身和人的尊严",
+      "deep_dive": "这本书我读过好几遍，每次都像在重新认识道德是什么。康德想回答的问题很简单：为什么某些行为是对的，某些是错的？答案不在于它们带来多少快乐，而在于理性。\n\n他最著名的贡献是"绝对命令"——你的行为准则应该能成为普遍法则。听起来抽象，但用例子就清楚了。假设你很穷，想通过欺骗赚钱。康德会问：如果全世界每个人都这样，会怎样？社会信任就会崩溃，欺骗本身也就失效了。所以欺骗是错的，不是因为不道德，而是因为在逻辑上自相矛盾。\n\n更深层的是他关于人的尊严的论述——永远把人当作目的本身，而不是手段。这在今天讨论AI伦理、商业伦理时仍然是最有力的武器。当公司想利用用户数据时，康德会问：你把这些人当目的还是当工具？\n\n老实说，这本书很难读。康德的德文风格本身就复杂，翻译过来更绕，句子长得能绕三圈。但花时间读透它会彻底改变你思考道德问题的方式，从感受层升到理性层。",
+      "quotes": [
+        {
+          "text": "Act only according to that maxim whereby you can at the same time will that it should become a universal law.",
+          "context": "绝对命令的最核心表述，道德判断的黄金标准——你的行为准则能否普遍化"
+        },
+        {
+          "text": "Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.",
+          "context": "人的尊严原则，说明为什么某些行为本质上是错的，因为它贬低了人的价值"
+        }
+      ]
+    },
+    {
+      "title_zh": "永别了武器",
+      "title_en": "A Farewell to Arms",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1929",
+      "category": "文学",
+      "one_liner": "一战背景下的爱情悲剧，用极简笔触讲述个人在战争机器前的无奈与坚持",
+      "deep_dive": "我第一次读这本书时不太懂海明威的写法，总觉得他太冷漠了，对话也简得离谱。但再读一遍就明白了——这种冷漠本身就是绝望的表现，用最少的言语表达最深的痛。\n\n故事很简单：一战期间，美国救护车司机亨利爱上了英国护士凯瑟琳。但这不是温暖的爱情故事。战争在背景中无情地进行，不断摧毁着一切——战友、梦想、秩序。海明威有句名言总结了这本书的精髓："世界粉碎了所有人，之后，许多人在破碎处最坚强。"爱能拯救人吗？不能。但人能在爱中学会接受无法改变的东西。\n\n印象最深的是他的对话方式。大部分名著用华丽的语言堆砌情感，但海明威就是简单句子接简单句子——"天气很好。我们走吧。"这种风格看似冷淡，其实是一种高级的表达，让读者自己去感受角色的沉默和麻木。\n\n特别是结尾，我不想剧透，但就说吧，它不是好莱坞式的圆满。战争摧毁了梦想，爱也无力拯救现实。这听起来很悲观，但读完反而有种释然感。也许我们要学的不是如何赢，而是如何在绝望中保持清醒和尊严。在今天信息爆炸的时代，重读海明威会让人想起什么叫真正的简洁有力。",
+      "quotes": [
+        {
+          "text": "The world breaks everyone, and afterward, some are strong at the broken places.",
+          "context": "整本书最著名的句子，关于人的韧性和在苦难中的成长——不是战胜，而是在破碎处重新坚强"
+        },
+        {
+          "text": "I know the night is dark and that things have been worse, but we have a new world, but we cannot make it so.",
+          "context": "在绝望中仍然坚持希望的矛盾感，反映了人物在战争中的两难——既看不到出路，又无法放弃相信"
+        }
+      ]
+    }
+  ]
+}
+```
