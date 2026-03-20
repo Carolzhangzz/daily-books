@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "大外交",
+      "title_en": "Diplomacy",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "1994",
+      "category": "社科与历史",
+      "one_liner": "从文艺复兴到冷战，深入剖析国际关系的智慧与权力游戏",
+      "deep_dive": "基辛格的《大外交》是一部宏大的国际关系历史著作。这本书不是简单的历史书，而是通过独特视角看待国际政治演变——即大国如何通过外交和权力平衡来塑造世界秩序。基辛格从文艺复兴时期的意大利开始讲起，详细描述了欧洲列强如何通过精妙的权力平衡外交维持相对和平与稳定。威斯特伐利亚条约确立了现代国际关系基础——主权国家体系的诞生。书中对梅特涅和俾斯麦这两位外交天才的分析既深入又生动。梅特涅通过维持欧洲力量平衡，在拿破仑战争后维持了相对和平。俾斯麦则通过巧妙的联盟和战争，重塑了欧洲政治格局。当代部分尤其是对冷战的分析，反映了基辛格本人的实际外交经验。他讨论了美苏两个超级大国如何在核威胁阴影下进行外交博弈。这本书的核心启示是国际关系不是道德问题，而是关于如何维持稳定的权力结构。基辛格强调'均势'的重要性——当没有任何一个国家能够主宰世界时，通常能维持相对的和平。阅读这本书会让你对国际新闻有全新理解，为什么某些国家联盟看起来很奇怪，为什么大国间的合作总是有条件的，这本书给了你答案。",
+      "quotes": [
+        {
+          "text": "Peace is not the absence of conflict but the presence of a legitimate order",
+          "context": "强调和平不是没有冲突，而是存在一个合法的秩序，这是国际稳定的基础"
+        },
+        {
+          "text": "The statesman must balance his judgment of foreign policy interests with an assessment of what the public will support",
+          "context": "外交官需要在理想与现实之间、国家利益与民众支持之间找到平衡"
+        },
+        {
+          "text": "The art of diplomacy is not to show the world your strength, but to show your wisdom",
+          "context": "外交的真正艺术在于展现智慧而非力量，这是长期国际关系的秘诀"
+        }
+      ]
+    },
+    {
+      "title_zh": "林肯传",
+      "title_en": "Lincoln: A Life",
+      "author_zh": "多林·卡恩·古德温",
+      "author_en": "Doris Kearns Goodwin",
+      "year": "2013",
+      "category": "传记与回忆录",
+      "one_liner": "从肯塔基贫农到美国总统，一个关于韧性、道德勇气和伟大领导力的史诗",
+      "deep_dive": "林肯是美国历史上最伟大的总统之一，他的生平故事既充满戏剧性又令人鼓舞。从肯塔基州一个贫苦家庭的孩子，到带领美国度过内战危机的总统，林肯的人生是一个关于韧性、智慧和道德勇气的史诗。他自学成才，几乎没有接受正规教育，但通过不懈的学习成为了出色的律师和政治家。这个背景使他能理解普通美国人的困境和渴望，是他后来政治成功的基础。作为总统，林肯面临的最大挑战是如何保持联邦统一。当南方各州为维护奴隶制而分离时，林肯坚定地认为联邦必须保留。他的真正伟大之处在于不仅赢得了内战，还发布了《解放奴隶宣言》，改变了战争的性质，使其成为一场为自由而战的战争。林肯是一个复杂的人物——既是坚定的领导者，又富有同情心。他保留了许多与自己政治观点不同的人在内阁中的职位，这显示了他的政治智慧和开放心态。他的葛底斯堡演讲是人类历史上最伟大的演讲之一，短短几分钟内重新定义了美国的含义。林肯的个人生活充满了悲剧，他失去了几个孩子，但这些苦难让他更加同情他人的痛苦。他的道德勇气——在极大政治压力下仍坚持自己信念——是最令人敬佩的品质。",
+      "quotes": [
+        {
+          "text": "A house divided against itself cannot stand",
+          "context": "这句名言强调了国家统一的重要性，对于一个被内战撕裂的国家来说尤其深刻"
+        },
+        {
+          "text": "It is rather for us to be here dedicated to the great task remaining before us... that these dead shall not have died in vain",
+          "context": "葛底斯堡演讲中的名言，表达了对牺牲者的尊重以及后人继续他们未竟事业的使命感"
+        },
+        {
+          "text": "I am a slow walker, but I never walk back",
+          "context": "体现了林肯的坚定和决心，即使步伐缓慢，也不会改变方向或放弃信念"
+        }
+      ]
+    },
+    {
+      "title_zh": "爱的艺术",
+      "title_en": "The Art of Loving",
+      "author_zh": "埃里希·弗洛姆",
+      "author_en": "Erich Fromm",
+      "year": "1956",
+      "category": "心理学",
+      "one_liner": "爱不是偶然的感觉，而是一门需要学习和实践的艺术",
+      "deep_dive": "弗洛姆的《爱的艺术》是一部关于爱的本质和如何学会爱的深刻著作。这本书挑战了一个常见观点——许多人认为爱是一种感觉或情感，是偶然发生的。相反，弗洛姆认为爱是一种艺术，需要知识、能力和实践。就像绘画或音乐一样，爱也需要学习。书中分析了爱的不同类型：母爱、父爱、兄弟姐妹之爱、性爱和对上帝的爱。弗洛姆强调真正的爱不仅仅是性吸引力或浪漫感觉，而是一种深层的连接和理解，意味着关心他人的幸福和成长，即使这意味着做出牺牲。弗洛姆认为在现代社会中，我们经常将爱误解为拥有或控制他人，将爱与依赖混淆。真正的爱是尊重他人的自由和独立性，同时与他人建立深层的精神和情感联系。这是激进的观点，因为它挑战了许多关于爱和关系的浪漫化观念。书中讨论了性爱和爱之间的关系，认为许多人试图通过性接触实现爱，但性和爱是两个不同的东西。性是生物学的，但爱是心理学的和精神的。弗洛姆还强调自我认识的重要性——要爱他人，你首先必须了解自己。许多人之所以在爱中失败，是因为他们不了解自己，因此无法真正了解或爱他人。另一个重要主题是现代社会如何破坏了我们爱的能力。在消费主义和竞争社会中，我们倾向将他人视为手段而不是目的。要学会爱，我们首先需要改变对生活的态度，远离消费主义的逻辑。",
+      "quotes": [
+        {
+          "text": "To love somebody is not just a strong feeling — it is a decision, it is a judgment, it is a promise",
+          "context": "爱不仅仅是强烈的感觉，更是一种有意识的选择和承诺，这颠覆了浪漫爱情的常见理解"
+        },
+        {
+          "text": "Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the world as a whole",
+          "context": "真正的爱是一种生活态度和性格取向，不限于特定的人，而是影响我们对整个世界的关系方式"
+        },
+        {
+          "text": "The capacity to love depends on one's capacity to think, to feel, to understand, and to imagine",
+          "context": "爱的能力建立在思考、感受、理解和想象的能力之上，强调爱不是本能而是需要培养的能力"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1242"
+}
