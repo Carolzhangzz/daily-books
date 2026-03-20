@@ -1,0 +1,83 @@
+我来为这三本书生成完整的推荐内容。
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "看见：视觉如何塑造意义",
+      "title_en": "Ways of Seeing",
+      "author_zh": "约翰·伯格",
+      "author_en": "John Berger",
+      "year": "1972",
+      "category": "艺术与美学",
+      "one_liner": "一部颠覆传统艺术欣赏方式的经典著作，教你用全新的眼光重新看待艺术和日常视觉。",
+      "deep_dive": "你有没有想过，我们看待一幅画的方式其实是被教会的？Berger在这本书里彻底颠覆了我们对艺术的理解。他没有教你某种「正确」的审美标准，反而问了个更根本的问题：我们的眼睛到底看到了什么，我们的观看方式如何被文化和社会塑造？\n\n这本书最精妙的地方在于，它把艺术从神圣的殿堂拉回到日常生活。通过讨论广告、摄影、电影和古典绘画，Berger让你意识到，视觉文化无处不在，而我们总是在被无形的逻辑所引导。他特别深入探讨了透视法的发明如何改变了人类看世界的方式——这不是技术进步的故事，而是权力和权利的故事。\n\n如果你曾在美术馆里茫然不知所措，或者觉得艺术评论家说的话莫名其妙，这本书会像打开一扇窗。它不会给你答案，但会教你如何提问。最重要的是，它让你理解到：看见不是被动接收，而是一种主动的、充满政治性的行为。",
+      "quotes": [
+        {
+          "text": "Seeing comes before words.",
+          "context": "开篇就说明了视觉的优先性和独立性，我们的视觉经验不必依赖语言来验证"
+        },
+        {
+          "text": "The relation between what we see and what we know is never settled.",
+          "context": "强调观看是动态的、不断变化的，没有固定的「正确」方式"
+        },
+        {
+          "text": "Publicity is the culture of consumer society.",
+          "context": "切中要害地揭示了现代广告和消费文化如何重塑我们的视觉和欲望"
+        }
+      ]
+    },
+    {
+      "title_zh": "诺桑觉寺",
+      "title_en": "Northanger Abbey",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1817",
+      "category": "文学",
+      "one_liner": "一部聪慧而温暖的青春小说，通过讽刺和幽默戳破少女的浪漫幻想，却始终相信爱与理性的力量。",
+      "deep_dive": "《诺桑觉寺》是奥斯汀最轻松、最有趣的作品，也是最被低估的一部。它的女主角凯瑟琳·莫兰是文学里最可爱的「问题少女」——她沉迷于哥特小说，脑子里尽是幽灵城堡和被囚禁的女伯爵的故事，结果把现实世界也幻想化了。\n\n这部小说的妙处在于奥斯汀对凯瑟琳的态度。她既嘲笑这个女孩的天真和矫情，又深深同情她。当凯瑟琳把她新认识的朋友伊莎贝拉的经历和爱情故事编织成哥特冒险时，当她误会蒂尔尼先生的家族隐藏着黑暗秘密时，你既会为她的傻气笑出声，又会为她的诚恳而感动。奥斯汀在讽刺浪漫主义小说的同时，也在为它们的魅力所着迷——这是一种很高级的、充满智慧的戏谑。\n\n最让人喜爱的是，这部小说并没有因为嘲笑浪漫梦想就变得冷酷。凯瑟琳最终确实得到了爱情，不是因为她放弃了想象力，而是因为她遇见了蒂尔尼——一个足够聪慧和温柔的男人，可以和她一起笑，也可以帮她区分小说和生活。这是一个关于成长的故事，但绝不是关于幻灭的。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "context": "这是小说中最著名的开场，用调侃的语气暗示社会对婚姻的虚伪态度"
+        },
+        {
+          "text": "Catherine was not inaccurate in her observation; Henry Tilney's eyes were immediately withdrawn from Margaret, and with an expression of some amusement, he turned to Catherine.",
+          "context": "展现了两个聪慧人物之间的那种眼神交流，暗示了他们的相互理解和好感"
+        },
+        {
+          "text": "Heroine in a novel is an all-important personage, and that it is scandalous for her to be anybody of consequence in real life.",
+          "context": "奥斯汀对小说传统的直接讽刺，也反映了凯瑟琳的困境"
+        }
+      ]
+    },
+    {
+      "title_zh": "陶哲轩实分析",
+      "title_en": "Analysis I and II",
+      "author_zh": "陶哲轩",
+      "author_en": "Terence Tao",
+      "year": "2006",
+      "category": "科学与认知",
+      "one_liner": "一部严谨又易懂的实分析教材，由菲尔兹奖得主从零开始重建微积分的基础，让你真正理解数学为什么是这样的。",
+      "deep_dive": "如果你在学校学过微积分，但对「为什么导数这样定义」、「为什么实数要这样构造」这样的问题感到困惑，陶哲轩的《Analysis》会给你完全不同的体验。这不是一本概念堆砌的书，而是一部关于数学思维如何逐步建立的叙事作品。\n\n陶哲轩的天才之处在于，他完全抛弃了传统教科书的做法——不是从定理和证明开始，而是从最基本的东西开始：自然数是什么？实数为什么要用柯西序列或戴德金分割来定义？为什么极限和连续这样定义才能避免逻辑漏洞？他一步步地重建了整个微积分的大厦，每一块砖都放得很清楚。\n\n这本书的独特之处还在于它的坦诚。陶哲轩会告诉你哪些定义看起来很奇怪，为什么非得这样不可。他解释为什么某个引理很关键，为什么直觉有时候会骗你。这是一个顶级数学家教你如何像数学家一样思考的过程。对于想真正理解微积分、而不仅仅是学会计算的人来说，这是必读的。同时，即使你从未接触过严格数学，陶哲轩清晰的讲解和大量的习题也会让你逐步掌握。",
+      "quotes": [
+        {
+          "text": "The purpose of rigorous proofs is not to convince, but to illuminate.",
+          "context": "强调了严格数学的本质——不是为了制造权威，而是为了让思想更清晰"
+        },
+        {
+          "text": "One should always start with the definitions and make sure one understands them, before moving on to the theorems.",
+          "context": "陶哲轩的教学哲学：真正的理解始于清晰的定义，而不是记住公式"
+        },
+        {
+          "text": "The key insight is that the real numbers can be constructed rigorously from the natural numbers using the axiomatic method.",
+          "context": "揭示了看似深奥的实数理论其实有坚实的逻辑基础，每一步都可以被验证"
+        }
+      ]
+    }
+  ]
+}
+```
+
+已生成三本书的推荐。如果你要自动部署到 Git，我可以帮你把这个 JSON 保存到 `data/2026-03-20.json` 并推送。需要吗？
