@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "枪炮、病菌与钢铁",
+      "title_en": "Guns, Germs, and Steel",
+      "author_zh": "贾雷德·戴蒙德",
+      "author_en": "Jared Diamond",
+      "year": "1997",
+      "category": "历史、人类学、社会科学",
+      "one_liner": "为什么欧洲人征服了美洲而非反之？地理而非种族决定了人类文明的轨迹。",
+      "deep_dive": "这本书真的很有意思，核心问题看似简单却深刻——为什么不同大陆的人类社会发展差异巨大？戴蒙德用13年的田野调查颠覆了我对历史的理解。他的答案不是什么种族优越论，而是指向更深层的客观因素：地理环境、可驯化的动物、植物资源这些条件决定了一个地区的发展轨迹。印象最深的是关于病菌的部分——欧洲人的征服，枪炮和刀剑其实没有病菌那么致命。美洲土著几千年没有接触过来自欧亚大陆的传染病，免疫系统完全无防御，结果大量人口因此丧生，甚至超过了战争造成的伤亡。这本书之所以伟大，在于它用科学的方法解释历史，把一个充满刻板印象的话题变成了理性的讨论，教会我们看待文明差异要用地理和环境的视角，而不是人种的视角。",
+      "quotes": [
+        {
+          "text": "History followed different courses for different peoples because of differences in their ancestral environments, not because of biological differences among peoples themselves.",
+          "context": "这是整本书的核心思想，地理决定了文明的走向"
+        },
+        {
+          "text": "Geography is destiny.",
+          "context": "用简洁有力的方式概括了环境如何塑造了人类的历史"
+        }
+      ]
+    },
+    {
+      "title_zh": "少有人走的路",
+      "title_en": "The Road Less Traveled",
+      "author_zh": "M·斯科特·派克",
+      "author_en": "M. Scott Peck",
+      "year": "1978",
+      "category": "心理学、自助、灵性",
+      "one_liner": "一本关于爱、心智和灵性成长的经典，在延迟满足的修行中找到生活的意义。",
+      "deep_dive": "这本书开篇就让人一震——\"人生苦难重重\"，这不是鸡汤而是真诚。派克是精神科医生，在几十年的临床工作中发现，大多数人的痛苦源于逃避现实和自我欺骗。我喜欢这本书的原因是它没有售卖快乐秘诀，反而坦白说成长是痛苦的，只有通过延迟满足才能实现真正的自我提升。书中讨论的规律、爱、精神和优雅四个主题都指向同一个方向：如何成为更完整的人。特别是关于爱的定义让我印象深刻——他说爱不是感受而是行动和承诺，这彻底打破了我对爱的浪漫幻想，让我看到真正的爱是日常的坚持和选择。这本书能经久不衰，因为它触及了人类永恒的困境，而且给出的不是虚假安慰，而是真正的智慧——我们需要面对自己的痛苦，才能实现成长。",
+      "quotes": [
+        {
+          "text": "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
+          "context": "论述自我价值与时间管理的内在逻辑，强调自我认知的重要性"
+        },
+        {
+          "text": "The only way to deal with an unfree world is to become so absolutely free that very existence of such a world is a matter of profound indifference to one.",
+          "context": "关于精神自由与心理成熟的深刻思考"
+        }
+      ]
+    },
+    {
+      "title_zh": "中国哲学简史",
+      "title_en": "A Short History of Chinese Philosophy",
+      "author_zh": "冯友兰",
+      "author_en": "Feng Youlan",
+      "year": "1948",
+      "category": "哲学、文化、历史",
+      "one_liner": "用温和的笔触带你漫游中国思想长河，从孔孟老庄到现代，感受哲学的生活智慧。",
+      "deep_dive": "冯友兰这本书就像和一位温和的智者喝茶聊天。他没有用晦涩的学术语言，而是讲故事的方式把孔子、老子、孟子这些伟大思想家还原成活生生的人物，让你理解他们为什么那么重要。最妙的地方是他不仅讲哲学观点，还揭示这些观点产生的历史背景——为什么乱世中出现了这样的思想，和平时代又怎样被发展演化。比如讲道家思想时，他不只说\"无为而治\"多么玄妙，而是解释了为什么在专制集权时代，这种思想对知识分子有那么大的吸引力——那是一种精神的逃脱和自由的追求。这本书另一个价值在于，冯友兰用一个贯穿始终的框架，让你看到从古代到现代，中国哲学思想的演变脉络，而不只是零散的知识点。读完这本书，你对中国文化的理解会上升到一个新的高度。",
+      "quotes": [
+        {
+          "text": "Philosophy is the wisdom of life; a philosopher is a person who has achieved wisdom and applies it to living.",
+          "context": "冯友兰对哲学本质的定义，强调哲学不是空洞的理论而是生活的智慧"
+        },
+        {
+          "text": "The great thing about the Chinese is their reconciliation between the material and the spiritual.",
+          "context": "评价中国文化的独特之处——在物质与精神之间的和谐统一"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1511"
+}
