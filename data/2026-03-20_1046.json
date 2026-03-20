@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "弗兰肯斯坦",
+      "title_en": "Frankenstein",
+      "author_zh": "玛丽·雪莱",
+      "author_en": "Mary Shelley",
+      "year": "1818",
+      "category": "科幻/哥特小说",
+      "one_liner": "一个科学家创造了生命，却为此付出了灵魂的代价",
+      "deep_dive": "你知道吗，《弗兰肯斯坦》其实是人类最早的科幻小说，比很多现代科幻都深刻得多。故事讲的是维克多·弗兰肯斯坦这个年轻天才，被知识欲望驱使，想要创造完美的生命。但他成功的那一刻反而开始了噩梦——他看到自己创造的东西是多么丑陋，内心的恐惧让他逃离了。真正有趣的是，这个被抛弃的生物其实充满了人性，他渴望爱、渴望被接纳，但世界的残忍让他变成了复仇者。玛丽·雪莱用这个故事问了一个终极问题：创造者对自己创造的东西有什么责任？科学突破到底是救赎还是诅咒？读这本书你会发现，真正的怪物不是那个被缝合的生物，而是人性中的冷漠和逃避。两百多年后重读它，关于AI和生命伦理的问题依然刺痛。",
+      "quotes": [
+        {
+          "text": "I am malicious because I am miserable; make me happy, and I shall again be virtuous.",
+          "context": "生物恳求他的创造者，说出了被抛弃者的无奈——不幸让他变成了恶魔"
+        },
+        {
+          "text": "If I cannot inspire love, I will cause fear.",
+          "context": "在绝望中，他做出了最后的选择，这是整部书最黑暗的转折点"
+        }
+      ]
+    },
+    {
+      "title_zh": "人性的弱点",
+      "title_en": "How to Win Friends and Influence People",
+      "author_zh": "戴尔·卡内基",
+      "author_en": "Dale Carnegie",
+      "year": "1936",
+      "category": "自助/人际关系",
+      "one_liner": "掌握人性规律，让别人主动想帮你",
+      "deep_dive": "《人性的弱点》是一本让人又爱又恨的书，因为它太有效了。卡内基在这里用大量真实案例告诉你，其实大多数人的行为没那么复杂——我们都想被认可、被重视、被记住。书里讲的最核心的东西就是：别总想改变别人，先学会欣赏和理解他们。比如怎么拒绝别人不显得尴尬，怎么说服人不让他们反感，怎么让别人觉得你真诚等等。乍一看这些都是操纵技巧，但其实反过来想，这不就是人与人相处的基本礼节吗？书里面每个章节都能直接用到生活里，工作谈判、家庭沟通、交朋友都管用。唯一的问题是，读完你会发现很多职场老油条其实早就在用这套招。但对于想改进人际关系的人来说，这绝对是一本实用手册。",
+      "quotes": [
+        {
+          "text": "Remember that a person's name is to that person the sweetest and most important sound in any language.",
+          "context": "最简单也最被忽视的窍门——记住别人的名字，就像记住了他存在的价值"
+        },
+        {
+          "text": "The only way to get the best of an argument is to avoid it.",
+          "context": "讽刺但真实——赢了争论，反而输了关系"
+        }
+      ]
+    },
+    {
+      "title_zh": "独裁者手册",
+      "title_en": "The Dictator's Handbook",
+      "author_zh": "布鲁斯·布埃诺·德梅斯基塔、阿拉斯泰尔·史密斯",
+      "author_en": "Bruce Bueno de Mesquita and Alastair Smith",
+      "year": "2011",
+      "category": "政治学/权力分析",
+      "one_liner": "权力的运作不由意识形态决定，只由支持者的经济利益决定",
+      "deep_dive": "这本书有点黑暗，但刺激。作者用数学模型分析了权力的本质，结论是：不管是民主还是独裁，领导者做决定的逻辑都一样——维持最小必要联盟（那些真正能让你上台或保住位子的人）的利益。所以看起来很神秘的政治决策，其实就是在做权力游戏。作者通过大量历史案例说明，为什么独裁者要大肆贪污？因为他只需要贿赂关键少数人就能统治。为什么民主国家也会腐败？因为民主制度下的最小必要联盟也有黑幕。更有意思的是，他们解释了为什么改革很难，为什么有钱的人更容易获得权力，甚至为什么有些国家看起来总是陷入贫穷——因为权力结构本身就是这样运作的。这不是什么新鲜道德说教，而是冷冰冰的权力分析，会改变你看新闻的方式。",
+      "quotes": [
+        {
+          "text": "The fundamental problem of governance is not about being nice or mean, but about building and maintaining a coalition of support.",
+          "context": "打破了关于好坏领导人的所有幻想——制度的约束比个人品质重要得多"
+        },
+        {
+          "text": "Corruption is not a bug in authoritarianism; it is a feature.",
+          "context": "这个洞察很狠——贪污不是失败，而是权力维持的必要手段"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1046"
+}
