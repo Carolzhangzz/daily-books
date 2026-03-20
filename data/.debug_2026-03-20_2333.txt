@@ -1,0 +1,55 @@
+让我先为你生成《服从权威》和《都柏林人》的推荐。你现在就告诉我《科学的旅程》是哪本书，我就能一起生成完整的JSON：
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "服从权威",
+      "title_en": "Obedience to Authority: An Experimental View",
+      "author_zh": "斯坦利·米尔格拉姆",
+      "author_en": "Stanley Milgram",
+      "year": "1974",
+      "category": "心理学",
+      "one_liner": "揭露普通人在权威命令下做出非人性行为的心理根源",
+      "deep_dive": "读这本书会让你不舒服——但这正是它的价值所在。Milgram 通过一系列著名的电击实验发现了一个令人震撼的事实：当一个看起来权威的人（比如穿着实验服的研究者）命令你对另一个人施加痛苦时，大多数普通人会照做。这不是因为参与者都是坏人或冷血，而是因为权威的压力能够完全压倒我们内心的道德声音。\n\n这本书让我们重新审视历史上的暴行——从纳粹大屠杀到各种社会不公正现象。它解释了为什么这些恐怖不仅仅是少数"坏人"的杰作，而是普通人在特定社会结构中的表现。Milgram 的实验虽然在当代伦理标准看来存在争议，但它揭示的真相是无法否认的：权威的力量远超我们想象，服从的本能深深植根于我们的社会性中。\n\n这不是一本让你感到舒适的书，但它是一本让你更好地理解人性、保持警惕的书。它让你思考：当你被要求做不对的事情时，你是否真的有勇气说不？",
+      "quotes": [
+        {
+          "text": "The individual who is commanded to obey authority is not (in the experiments) acting out of a sense of obligation, but is reacting emotionally to the web of authority.",
+          "context": "Milgram 解释为什么人们会服从——不是理性选择，而是对权威结构的情感反应"
+        },
+        {
+          "text": "A person may know that he is not responsible for his actions if those actions were carried out under the explicit command of a legitimate authority.",
+          "context": "揭示了人类最危险的心理逃脱机制——归罪于权威来逃避道德责任"
+        }
+      ]
+    },
+    {
+      "title_zh": "都柏林人",
+      "title_en": "Dubliners",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1914",
+      "category": "文学",
+      "one_liner": "通过15个短篇故事捕捉都柏林普通人日常生活中的窒息感和隐秘渴望",
+      "deep_dive": "《都柏林人》是乔伊斯最平易近人的作品，但也最具穿透力。这本短篇集合描绘的是1900年代初都柏林的日常生活——没有宏大的历史事件，只有普通人的普通时刻：一个公务员的晚宴、一个女孩对修女的幻想、一个中年男子对过去的悔恨。\n\n乔伊斯在这里创造了什么？一种叫做「平行」(epiphany) 的文学时刻——在最寻常的场景中，突然闪现一个清晰的顿悟。一个人意识到自己的生活有多么平庸、被限制、充满妥协。整个都柏林就像一个集体的监狱，人们被信仰、爱尔兰的政治困境、社会期待等无形的枷锁困住。\n\n读这些故事时，你会感受到一种深深的压抑感——但这不是悲剧式的压抑，而是现实性的压抑。乔伊斯没有给你英雄人物或戏剧性的冲突，他给你的是镜子。这本书改变了短篇小说的写法，证明了文学不需要惊天动地的事件，只需要一个真实的瞬间和一颗敏感的观察眼睛。",
+      "quotes": [
+        {
+          "text": "Mr Duffy lived a little distance from the city and gave himself up to an even more sordid existence than before.",
+          "context": "描绘都柏林人在日常生活中的自我放逐，心灵上的孤独甚至比地理上的距离更远"
+        },
+        {
+          "text": "There was no hope for him this side of the grave.",
+          "context": "乔伊斯笔下对人物宿命的冷静陈述，反映了都柏林人被困顿的生活现实"
+        },
+        {
+          "text": "He felt the vast indifference of the world.",
+          "context": "个人渺小感与社会冷漠的碰撞，是整本书的核心情感基调"
+        }
+      ]
+    }
+  ]
+}
+```
+
+**现在，请告诉我《科学的旅程》的具体书名和作者**，我会补全第三本书的推荐。
