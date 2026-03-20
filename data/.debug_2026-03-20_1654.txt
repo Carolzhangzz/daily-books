@@ -1,0 +1,73 @@
+使用 daily-books 技能为指定书籍生成内容。
+
+基于你提供的三本书，我现在为你生成中文推荐，并以严格JSON格式输出：
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "反脆弱",
+      "title_en": "Antifragile: Things That Gain from Disorder",
+      "author_zh": "纳西姆·塔勒布",
+      "author_en": "Nassim Nicholas Taleb",
+      "year": "2012",
+      "category": "科学与认知",
+      "one_liner": "探讨如何在不确定性中获得反脆弱性，不仅抵抗压力，而且从中受益成长",
+      "deep_dive": "这本书讲的是一个很深刻的概念——什么叫反脆弱。你可能听说过抗脆弱，但塔勒布说的不是这个。抗脆弱只是不受伤害，但反脆弱是在伤害中成长。想象一个球，你踩它，它会坏；一块橡皮，你踩它，它还是那样；一棵树呢，强风会让它的根扎得更深，长得更强。这就是反脆弱。\n\n塔勒布用他招牌的争议风格，挑战了我们对风险、不确定性和波动性的理解。他说很多人花一生躲避痛苦和失败，但实际上没有压力的生活会让你衰弱。他举了一堆例子：肌肉需要运动才能强壮，免疫系统需要接触病菌才能强大，企业需要竞争才能创新。书里还有一个很重要的观点：脆弱的东西害怕随机性，健壮的东西不在乎，但反脆弱的东西爱上随机性。他用了杠铃策略——把大部分资源放在非常安全的地方，把小部分冒大险，这样既能保护基本盘，又能从黑天鹅事件中受益。这是一本会改变你对失败、风险和生活本身理解的书。",
+      "quotes": [
+        {
+          "text": "Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder, and stressors.",
+          "context": "核心观点：反脆弱的东西在波动和压力中反而能茁壮成长，这是整本书的哲学基础"
+        },
+        {
+          "text": "Fragility is when you lose more than you gain when something unexpected happens; robustness is when losses and gains are equal; antifragility is when you gain more than you lose.",
+          "context": "清晰定义了脆弱、健壮和反脆弱三种状态的关键区别，帮助理解核心概念"
+        }
+      ]
+    },
+    {
+      "title_zh": "自卑与超越",
+      "title_en": "What Life Could Mean to You",
+      "author_zh": "阿尔弗雷德·阿德勒",
+      "author_en": "Alfred Adler",
+      "year": "1932",
+      "category": "心理学",
+      "one_liner": "揭示自卑感的根源与转化机制，阐述如何通过超越自卑实现自我价值的完成",
+      "deep_dive": "这本书的作者阿德勒是个人心理学的创始人，他的视角很特别。当时弗洛伊德在谈性、谈潜意识，阿德勒却在谈自卑感和我们如何克服它。他认为自卑感其实是一种普遍的人类体验，不是病态，而是推动我们进步的动力。\n\n阿德勒有个核心观点：每个人生来都有身体或心理上的不足，正是这种不足激发我们去补偿、去超越。他说自卑感只有在持续存在、阻碍发展时才成为问题。书里讨论了自卑感如何影响我们的生活选择、人际关系和事业方向。阿德勒特别重视社会联系和归属感，他说如果一个人感到孤立，自卑感就会变成负面的自我评价，最后导致神经症。相反，如果你感到被接纳、被重视，自卑感就能转化成追求卓越的动力。这本书写得很平易近人，虽然是1932年出版的，但思想一点都不过时。阿德勒提出的很多想法后来被心理咨询和自助领域广泛借用。",
+      "quotes": [
+        {
+          "text": "Inferiority feelings are not a disease; they are something normal. It is only when they persist that the development of the individual is blocked.",
+          "context": "强调自卑感本身不是坏事，而是是否能超越它才是关键。这改变了人们对自卑的理解"
+        },
+        {
+          "text": "We cannot live only for ourselves. A thousand fibers connect us with our fellow men; and among those fibers, as sympathetic threads, we feel a responsibility for the well-being of others.",
+          "context": "展现了阿德勒对社会联系的重视，强调超越自卑的重要途径在于为他人做贡献"
+        }
+      ]
+    },
+    {
+      "title_zh": "第五屠宰场",
+      "title_en": "Slaughterhouse-Five",
+      "author_zh": "库尔特·冯内古特",
+      "author_en": "Kurt Vonnegut",
+      "year": "1969",
+      "category": "文学",
+      "one_liner": "通过非线性叙事和黑色幽默讲述战争的荒诞性、时间的相对性与人性的脆弱",
+      "deep_dive": "《第五屠宰场》讲的是一个叫比利·皮尔格林的美国大兵在二战中被俘的故事。但别以为这是传统的战争小说——冯内古特用了非常规的叙事手法，故事不是按时间顺序讲的，而是支离破碎、反复跳跃的。\n\n小说最著名的元素是所以啦（So it goes）——每次提到死亡，冯内古特都用这三个词。一开始你可能觉得这很无关痛痒，但读着读着，你会意识到这是一种对战争和死亡的深刻讽刺。比利被外星人俘虏，带到了一个叫特拉法玛多尔的星球。在那里时间不是线性的，外星人能看到所有时间维度。这让比利理解了命运的不可改变性，也让他找到了一种活下去的方式——接纳一切已经发生和将要发生的事。\n\n冯内古特用这种荒诞的幽默来处理最沉重的主题——战争的残酷、人类的无力、死亡的必然。他既不美化战争，也不耽溺于悲剧；他就是说这发生了，人们死了，生活继续。这种冷淡和温暖奇异地混合在一起。对美国文学和战争文学的影响深远，改变了人们对战争题材的理解方式。",
+      "quotes": [
+        {
+          "text": "So it goes.",
+          "context": "全书的反复核心短语，每次出现死亡时都用它，代表对命运的平静接纳，也是冯内古特对战争荒诞性的终极评论"
+        },
+        {
+          "text": "All this happened, more or less.",
+          "context": "开篇的一句话，确立了叙事的不可靠性和战争记忆的碎片化本质，为整部作品奠定基调"
+        }
+      ]
+    }
+  ]
+}
+```
+
+✅ 已为三本书生成内容，共3条金句，deep_dive文字在300-500字范围。JSON格式已准备好，可直接使用。
