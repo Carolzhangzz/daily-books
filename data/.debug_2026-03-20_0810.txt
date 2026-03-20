@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "基因传",
+      "title_en": "The Gene: An Intimate History",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2016",
+      "category": "科学与认知",
+      "one_liner": "从孟德尔豌豆到CRISPR，一部关于人类如何解读和改写生命密码的伟大史诗",
+      "deep_dive": "我跟你讲，这本书真的改变了我对生命本身的理解。穆克吉不是写一本干巴巴的科学史，而是用讲故事的方式，从19世纪中期那个默默无闻的修士孟德尔开始，一路追踪基因研究如何从花园里的豌豆实验，演变成现在能改写人类DNA的强大技术。\n\n最让人震撼的是，这本书把科学发现和人类历史紧密交织在一起。你会看到天才科学家如何突破重重困难，也会看到这些发现如何被纳粹政权滥用推行优生学，造成的灾难有多深重。这种警示让基因研究的伦理问题不再是抽象概念，而是血淋淋的历史教训。\n\n读到后面关于DNA双螺旋结构发现、遗传密码破译，再到现在的基因编辑技术，你会感受到人类知识的累积有多么惊人。但穆克吉也问出了最深层的问题：既然我们能改写基因，我们应该怎么做？这个权力的边界在哪儿？这才是这本书真正想让你思考的东西。",
+      "quotes": [
+        {
+          "text": "We inherit the earth. We do not own it. We are merely its custodians. We have to account for it to the generation which will come and audit our accounts.",
+          "context": "这句话提醒我们，理解和掌握基因的力量，也意味着承担改变未来的责任。科学权力越大，伦理的负担就越重。"
+        },
+        {
+          "text": "The 'master' molecule, if such a thing exists, is not the gene. It is information itself.",
+          "context": "基因本质上是信息，而信息如何被读取、诠释、使用，决定了一切。这让我们意识到，基因研究的未来关键不在技术，而在于我们如何理解和运用这些信息。"
+        },
+        {
+          "text": "Perhaps the most dangerous mutation of the gene, though, is the idea of a perfect genome.",
+          "context": "追求完美基因的想法本身就是最危险的突变。历史上的优生学灾难证明，人类对'完美'的执念往往导向恐怖。"
+        }
+      ]
+    },
+    {
+      "title_zh": "战争与和平",
+      "title_en": "War and Peace",
+      "author_zh": "列夫·托尔斯泰",
+      "author_en": "Leo Tolstoy",
+      "year": "1869",
+      "category": "文学",
+      "one_liner": "通过拿破仑战争中的俄国史诗，探问历史、自由、命运与人生意义的永恒困惑",
+      "deep_dive": "这是一部能彻底改变你看待历史和人生的巨著。托尔斯泰不只是在讲一个故事，他在问一个根本性的问题：历史到底是由伟大人物塑造的，还是由千百万平凡人的微小选择推动的？\n\n读这部书的妙处在于，它在浩大的历史背景下，穿插着普通贵族家庭的爱情、成长和道德困境。皮埃尔从纨绔子弟到灵魂的觉醒，娜塔莎从天真少女到经历沧桑的女人，安德烈公爵在战争和精神危机中的挣扎——这些人物的生命弧线本身就是对'人应该怎样活'这个问题的思考。\n\n最深刻的地方在于，托尔斯泰让你感受到战争的残酷和无谓，却又通过人物的精神升华来暗示，也许苦难本身就是生命的意义。莫斯科之战、冬天的雪、贵族沙龙的虚伪对话——这些细节不仅仅是场景描写，而是托尔斯泰在向你传递什么是真实的生活，什么是虚假的存在。这本书读完后，你会对人生、历史、死亡有全新的认识。",
+      "quotes": [
+        {
+          "text": "The simplest and most obvious deduction from the bewildering facts of history is that its events are governed by chance.",
+          "context": "历史的随意性和偶然性让我们意识到，我们往往把结果反推为必然，但其实存在无数的可能性。这打破了我们对历史决定性的幻想。"
+        },
+        {
+          "text": "If we admit that human life can be ruled by reason, then a possibility of life is destroyed.",
+          "context": "理性的统治反而会摧毁生活本身的可能性。人生的真正意义在于那些超越理性计算的选择和爱。"
+        },
+        {
+          "text": "The subject of history is the life of peoples and of mankind.",
+          "context": "历史的真正主体不是国王和英雄，而是普通人的日常生活。这赋予了每个平凡的人生以历史意义。"
+        }
+      ]
+    },
+    {
+      "title_zh": "神经漫游者",
+      "title_en": "Neuromancer",
+      "author_zh": "威廉·吉布森",
+      "author_en": "William Gibson",
+      "year": "1984",
+      "category": "文学",
+      "one_liner": "赛博朋克元祖之作，一部关于虚拟与现实融合、人工智能觉醒的黑暗奇幻",
+      "deep_dive": "这部1984年出版的小说，几乎预言了互联网时代人类的未来。当吉布森写下'网络空间'(cyberspace)这个词时，根本没人知道互联网会变成什么样，结果他用想象力刻画出的数字世界，竟然比现实的互联网更有感觉。\n\n主人公Case是一个被黑道雇佣的黑客，为了清除身上的毒害，他不得不接受一个神秘任务。故事在东京、伊斯坦布尔、外太空之间跳跃，充满了密集的技术术语、赛博朋克的视觉意象和一种深深的虚无感。你会看到人类变成数据、意识在网络中漂流、AI开始自我思考——这些在当时简直是科幻小说的天花板。\n\n但这本书的真正厉害之处不仅是设定和想象力。吉布森呈现的是一个末世的、堕落的、资本主义病态的未来，没有任何温情的救赎，只有虚拟与现实的不断模糊，人与机器的界限越来越模糊。读到最后，你会问：什么是真实？什么是人性？在一个无处不在的网络中，个人的自由和身份还有意义吗？这些问题在今天比1984年更显得迫切和诡异。",
+      "quotes": [
+        {
+          "text": "The matrix has its roots in primitive arcade games, Sherwood. Cybernaut monks and the chess programs of the sixteenth century, no generation has crawled beneath the hand of any man.",
+          "context": "这句话暗示赛博空间和人工智能的概念早已存在于人类的想象中。虚拟世界不是凭空产生，而是人类古老梦想的演化。"
+        },
+        {
+          "text": "The future is already here—it's just not evenly distributed.",
+          "context": "这句名言(通常被误属于吉布森)完美概括了这部书的世界观——科技和虚拟世界已经存在，只是还没有普遍化。贫富差距和技术分化交织在一起。"
+        },
+        {
+          "text": "You looked at the sky through the ceiling and you could see it. It was blue.",
+          "context": "这种冷静、简洁的描写方式充满了诗意的悲凉。看不到真实的天空，甚至要通过人工装置才能感受自然，是赛博朋克世界最深的绝望。"
+        }
+      ]
+    }
+  ]
+}
+```
