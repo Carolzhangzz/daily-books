@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "皇帝新脑",
+      "title_en": "The Emperor's New Mind",
+      "author_zh": "罗杰·彭罗斯",
+      "author_en": "Roger Penrose",
+      "year": "1989",
+      "category": "科学哲学",
+      "one_liner": "诺奖物理学家对人工智能、意识和物理定律的深刻反思",
+      "deep_dive": "这是一部思想碰撞的奇作。彭罗斯用他深厚的物理学背景，大胆质疑计算机能否真正实现人工智能。他认为人类意识涉及某种非计算的量子过程，这超越了图灵机的能力范围。读这本书就像和一位天才思想家对话——他既谦虚又执着，既承认当代科学的局限，又坚信还有更深层的真理等待发现。书中涉及哥德尔不完备定理、量子力学、脑神经学等多个领域，虽然专业术语不少，但作者努力用通俗的例子说明。最吸引人的地方在于他对\"机器能思考吗\"这个古老问题的全新视角。他不是简单地说能或不能，而是指出问题本身可能需要重新定义。这是一部会让你重新思考人类智能本质的作品。",
+      "quotes": [
+        {
+          "text": "Minds are not machines.",
+          "context": "彭罗斯对人工智能乐观主义的核心回应，体现了他关于意识不可计算性的核心观点"
+        },
+        {
+          "text": "The physical world may not be the only reality.",
+          "context": "涉及他对物理定律局限性的思考，为量子意识论奠定哲学基础"
+        },
+        {
+          "text": "Understanding is a process that goes beyond computation.",
+          "context": "全书的主旨论述，指向人类理解力的非机械性质"
+        }
+      ]
+    },
+    {
+      "title_zh": "茶花女",
+      "title_en": "The Lady of the Camellias",
+      "author_zh": "小仲马",
+      "author_en": "Alexandre Dumas (fils)",
+      "year": "1848",
+      "category": "文学/爱情小说",
+      "one_liner": "用鲜血浇灌的玫瑰，讲述一个交际花在爱情中的陨落与救赎",
+      "deep_dive": "这个故事就像一部优美的悲剧。茶花女玛格丽特是巴黎最绚烂的交际花，却在与贫困青年阿芒的爱情中找到了灵魂的寄托。两人逃离巴黎，在乡间寻找短暂的幸福，但现实的残酷最终粉碎了这个梦想。最讽刺的是，阿芒的父亲让她做出选择——是爱情还是家族尊严。她选择了牺牲自己。这部作品的天才之处在于它打破了当时的道德偏见。作者没有把交际花妖魔化，而是赋予她人性、温度和尊严。她不仅是风尘女子，更是一个渴望真爱、敢于付出的女性。小说式的细腻笔触让读者进入她的内心世界，体会那份既绝望又倔强的爱。这是一部让你相信爱情能改变一切，又让你明白爱情改变不了一切的作品。",
+      "quotes": [
+        {
+          "text": "I love you... but I do not have the right to love you.",
+          "context": "玛格丽特在被迫离开阿芒时的绝望独白，道出了阶级与命运的残酷"
+        },
+        {
+          "text": "There are women who would sell their souls for a camelia.",
+          "context": "对交际花虚荣生活的讽刺，也暗示了玛格丽特内心的不同"
+        },
+        {
+          "text": "Everything about her was a lie, except her tears.",
+          "context": "阿芒对玛格丽特的最终评价，指向她虽身陷泥沼却保留的一抹真诚"
+        }
+      ]
+    },
+    {
+      "title_zh": "呼啸山庄",
+      "title_en": "Wuthering Heights",
+      "author_zh": "艾米莉·勃朗特",
+      "author_en": "Emily Brontë",
+      "year": "1848",
+      "category": "文学/哥特小说",
+      "one_liner": "荒野中的灵魂碰撞，英国文学最狂野而深邃的爱恨纠葛",
+      "deep_dive": "这是一部会让你感到窒息的小说。英国约克郡的荒原上矗立着呼啸山庄，这座建筑见证了希斯克利夫和凯瑟琳之间最原始、最疯狂的爱。他们的爱不是诗一样的温柔，而是风暴一样的破坏力。希斯克利夫为了凯瑟琳，可以毁灭一切；凯瑟琳为了荣华，可以背弃爱情。这种背叛引发的复仇贯穿两代人。勃朗特的天才之处在于她刻画的人物都没有道德标签。没有绝对的坏人，只有被伤害、被扭曲的灵魂。小说的叙事结构也很特殊，通过仆人和房客的视角讲述，增加了距离感和神秘感。英国的荒原、幽暗的建筑、压抑的氛围都成了心理状态的外化。这不是一部舒服的书，它会让你在深夜感到不安，但这种不安恰恰是它的力量所在——它触及了人性中最黑暗、最真实的部分。",
+      "quotes": [
+        {
+          "text": "Whatever our souls are made of, his and mine are the same.",
+          "context": "凯瑟琳对希斯克利夫灵魂认同的终极表达，说明他们不仅仅是爱情，而是灵魂层面的共鸣"
+        },
+        {
+          "text": "He's more myself than I am. Whatever our souls are made of, we're the same.",
+          "context": "凯瑟琳关于自我认同和爱情的深刻思考，指向她对希斯克利夫的执念"
+        },
+        {
+          "text": "I am Heathcliff!",
+          "context": "凯瑟琳在临终前的呐喊，说明她对希斯克利夫的认同已经超越了自我"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2002"
+}
