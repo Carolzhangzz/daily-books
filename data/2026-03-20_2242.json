@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "史蒂夫·乔布斯传",
+      "title_en": "Steve Jobs",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2011",
+      "category": "传记/商业",
+      "one_liner": "一个改变了六个行业的完美主义者的传奇人生",
+      "deep_dive": "这本书就像在读一个天才的灵魂自白。乔布斯的故事从被领养开始，就充满了矛盾——他既是艺术家也是商人，既温暖又冷酷。我印象最深的是他对\"简洁\"的执着，不是为了简洁而简洁，而是为了触及事物的本质。他会因为一个按钮的位置而反复调整原型，会为了完美的弧线而延迟产品发布。书里记录了他如何在Apple、NeXT、Pixar三个公司之间左右逢源，在每个地方都留下深刻烙印。最让人动容的是他晚年对死亡的思考——当被诊断出胰腺癌后，这个曾经冷漠的商人开始反思什么才是真正重要的。乔布斯的人生告诉我们，完美主义和商业成功并不对立，伟大的产品来自于对细节的疯狂执着，以及打破行业规则的勇气。",
+      "quotes": [
+        {
+          "text": "The only way to do great work is to love what you do.",
+          "context": "乔布斯在斯坦福演讲中的经典开篇，强调热爱是伟大工作的基础"
+        },
+        {
+          "text": "Innovation distinguishes between a leader and a follower.",
+          "context": "乔布斯对创新的执念，解释了为什么Apple总是行业的引领者而非追随者"
+        },
+        {
+          "text": "Stay hungry, stay foolish.",
+          "context": "他在毕业演讲中的传奇结语，鼓励年轻人保持求知欲和不失天真"
+        }
+      ]
+    },
+    {
+      "title_zh": "清单革命",
+      "title_en": "The Checklist Manifesto",
+      "author_zh": "阿图尔·加万德",
+      "author_en": "Atul Gawande",
+      "year": "2009",
+      "category": "管理/实用",
+      "one_liner": "一份清单如何在复杂世界中拯救生命",
+      "deep_dive": "你可能会觉得这本书的主题太简单了——就是写清单嘛，有什么特别的？但加万德用医学、航空、建筑等领域的真实案例证明，清单不简单。书的核心故事很打动人：一份包含19个步骤的手术清单，在全球多家医院实施后，手术并发症下降了36%，死亡率下降了47%。这不是什么高科技，只是一张纸，但它拯救了数千条生命。作者深入分析了为什么复杂工作容易出错——不是因为医生不够聪明，而是因为人的记忆和注意力有限，即使是专家也会在压力下遗漏细节。一份好的清单不是流程表，而是一个思维工具，它帮助我们确保没有遗漏关键步骤，让团队保持同步。这个思想改变了我对工作和生活的看法——很多混乱不是因为我们不够努力，而是缺少结构化的思考工具。",
+      "quotes": [
+        {
+          "text": "The most dangerous thing is not to be wrong, but to be wrong with confidence.",
+          "context": "加万德强调盲目自信如何导致灾难，清单的作用是制约这种危险"
+        },
+        {
+          "text": "Complexity has limits to what the human brain can hold and what the human being can do well.",
+          "context": "解释为什么即使是聪明人也需要外部工具来对抗复杂性"
+        },
+        {
+          "text": "A checklist is not a to-do list. It is a tool to catch failures of memory and attention.",
+          "context": "定义清单的真正意义，不是管理任务，而是补偿人脑的局限"
+        }
+      ]
+    },
+    {
+      "title_zh": "建筑十书",
+      "title_en": "De architectura (On Architecture)",
+      "author_zh": "维特鲁威",
+      "author_en": "Vitruvius Pollio",
+      "year": "约公元前15年",
+      "category": "艺术与美学",
+      "one_liner": "古罗马建筑大师的设计原则与建筑哲学之书",
+      "deep_dive": "这是现存最古老的建筑理论著作，写于2000多年前，却至今影响力依然强大。维特鲁威不是在写工程手册，而是在阐述一个建筑哲学——建筑必须同时满足三个条件：firmness（坚固）、commodity（实用）、delight（美）。这三角形的思想虽然简洁，但包含了建筑的全部灵魂。最经典的是他对比例和和谐的论述，特别是人体比例在建筑中的应用——一个好的建筑应该像一个完美的人体一样和谐。书中充满了对建筑师职责的思考：一个建筑师必须懂数学、几何、音乐（用来理解和谐）、医学（为了确保建筑的卫生性），甚至要懂法律。这种跨学科的思维在现代仍然有启发意义。书的后半部分是实践指南，详细讲述了各种建筑类型、材料选择和施工技巧。虽然很多具体的建筑技术已经过时，但他对建筑本质的思考——形式、功能、美学的统一——是永恒的。",
+      "quotes": [
+        {
+          "text": "Architecture is a science arising out of many other sciences, and adorned with much and varied learning.",
+          "context": "维特鲁威对建筑学地位的定义，强调它不是孤立的学科，而是综合性的知识体系"
+        },
+        {
+          "text": "The building must display that beauty which is called symmetry and proportion.",
+          "context": "他对建筑美学的核心要求，对称和比例不是装饰，而是建筑灵魂"
+        },
+        {
+          "text": "In the case of all buildings, we must attend to soundness, utility and beauty.",
+          "context": "著名的三角形原则，定义了优秀建筑的三个必要条件，至今仍是设计指南"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2242"
+}
