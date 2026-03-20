@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "使女的故事",
+      "title_en": "The Handmaid's Tale",
+      "author_zh": "玛格丽特·阿特伍德",
+      "author_en": "Margaret Atwood",
+      "year": "1985",
+      "category": "文学",
+      "one_liner": "在极权社会中，一个被剥夺自由的女性如何在绝望中保持人性和反抗精神。",
+      "deep_dive": "《使女的故事》设定在一个名叫吉列德的压制性神权国家，讲述了主人公Offred作为一个'使女'的生活——在这个社会中，女性被分为不同等级并强制进行生育。故事以第一人称的回忆和现在时交织进行，我们看到Offred如何在执政官的家中挣扎求生，她的思维成了唯一的自由堡垒。\n这部作品最震撼的地方不是末日设定本身，而是那种熟悉感——在虚构的吉列德中发生的压制女性身体、剥夺女性选择权、将女性工具化的制度，在我们的真实历史中都有迹可循。阿特伍德没有凭空想象，而是从真实的历史事件中提炼出来。\n小说通过Offred的内心独白展现了一个人在极权统治下如何保留自我——她通过记忆、想象、黑色幽默和对细节的观察来抵抗制度的非人化。这不仅是关于性别压迫的故事，更是关于权力、记忆、语言和人性尊严的深刻思考。三十多年后的今天，这部作品仍然显得紧迫而不过时。",
+      "quotes": [
+        {
+          "text": "Nolite te bastardes carborundorum（不要让混蛋磨灭你）",
+          "context": "这是Offred在浴室镜子上发现的秘密拉丁文信息，代表了在压制中仍然存在的秘密抵抗和人与人之间的连接。"
+        },
+        {
+          "text": "Better never means better for everyone. It always means worse for some.",
+          "context": "深刻揭示了吉列德社会的本质——任何制度的'改进'都是建立在某个群体的压制之上，没有真正的'更好'只有权力的重新分配。"
+        },
+        {
+          "text": "I am not a handmaid. I am a human being.",
+          "context": "虽然Offred的身份被不断否定和简化，但这种内心的坚守——宣称自己的人性而不是社会给予的标签——是整部作品的精神核心。"
+        }
+      ]
+    },
+    {
+      "title_zh": "谁说大象不能跳舞",
+      "title_en": "Who Says Elephants Can't Dance?",
+      "author_zh": "路易·格斯特纳",
+      "author_en": "Louis V. Gerstner Jr.",
+      "year": "2002",
+      "category": "商业与技术",
+      "one_liner": "IBM前CEO讲述如何将一个衰落的科技巨人转变为适应新时代的创新企业。",
+      "deep_dive": "1993年路易·格斯特纳接管IBM时，这家曾经的科技帝国正在快速衰落。PC革命已经来临，IBM的大型主机业务被蚕食，公司内部派系众多，官僚气息沉重，员工士气跌到冰点。很多人都认为IBM应该被分拆成若干小公司。\n格斯特纳没有进行激进的分拆，而是做出了大胆选择：将IBM转向IT服务和解决方案业务。这不仅是商业策略的转变，更是企业文化和思维方式的革命。他必须与强大的内部利益集团对抗，推动组织扁平化，建立跨部门协作，让一个僵化的机构重新灵活起来。\n这本书最有价值的地方在于呈现了转型过程中的真实细节——不仅是成功故事，也包括失败、妥协和艰难选择。格斯特纳强调了转型的关键要素：清晰的战略愿景、强有力的执行、与利益相关者的沟通，以及领导者的决心和韧性。对任何面临行业变革的领导者都是宝贵参考。",
+      "quotes": [
+        {
+          "text": "When you are changing a culture of a major institution, the amount of sweat and effort and political capital that is required to move it is enormous.",
+          "context": "格斯特纳深刻认识到文化变革的成本，需要领导者投入巨大的个人精力和政治资本。这对所有推动组织变革的人都是重要提醒。"
+        },
+        {
+          "text": "If you don't understand the fundamentals of what you're doing, you can't create a strategy.",
+          "context": "强调战略思维的重要性。理解业务本质和市场变化是制定有效战略的前提，比忙于日常战术操作要重要得多。"
+        },
+        {
+          "text": "The key to IBM's future was not the hardware business, but services.",
+          "context": "这个战略洞察是IBM转型的关键——认识到时代在变，市场需求在变，公司必须跟随变化而不是坚守过去的成功模式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的视觉",
+      "title_en": "Deviate: The Science of Seeing Differently",
+      "author_zh": "博·洛托",
+      "author_en": "Beau Lotto",
+      "year": "2017",
+      "category": "科学与认知",
+      "one_liner": "神经科学家揭示我们的大脑如何以非线性方式感知世界，以及这如何改变我们对现实的理解。",
+      "deep_dive": "我们通常认为视觉是被动过程——光线进入眼睛，大脑就接收信息。但神经科学家博·洛托的研究表明，视觉实际上是充满创意和预测的主动过程。我们看到的并不是客观现实，而是大脑基于过往经验和环境线索不断预测和构建的内部模型。\n书中通过一系列令人惊奇的视觉错觉、科学实验和日常例子，展示了我们的感知系统有多容易被'欺骗'，以及这种'欺骗'实际上是大脑的聪明之处。比如，同一个颜色在不同背景下看起来完全不同，不是因为光线变化，而是因为大脑根据环境推断出了不同的'真实'。\n洛托进一步论证，这个发现有深远的哲学和实践意义：如果感知不是客观的，那么'看不见'的东西同样存在；如果大脑总在根据假设构建现实，那么改变假设就能改变我们看待世界的方式。这是创新、学习和个人成长的基础——需要挑战既有假设，用不同方式看待熟悉事物。",
+      "quotes": [
+        {
+          "text": "We don't see with our eyes, we see with our brains.",
+          "context": "整本书的核心观点——视觉不是眼睛被动接收光线的过程，而是大脑主动参与、基于预测和经验的复杂过程。"
+        },
+        {
+          "text": "Colors don't exist until the brain decides they do.",
+          "context": "说明了大脑在感知中的主动性。看到的颜色不是物体的客观属性，而是大脑在特定环境条件下的一种构建。"
+        },
+        {
+          "text": "To see differently, you must deviate from the norm.",
+          "context": "书的标题含义所在——要获得新的视角和创意，需要敢于偏离常规思维和既有假设，这是创新的本质。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1751"
+}
