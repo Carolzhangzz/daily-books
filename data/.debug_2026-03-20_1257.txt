@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "飞越疯人院",
+      "title_en": "One Flew Over the Cuckoo's Nest",
+      "author_zh": "肯·克西",
+      "author_en": "Ken Kesey",
+      "year": "1962",
+      "category": "文学小说",
+      "one_liner": "一个反抗者在精神病院里用幽默和勇气挑战压抑的制度体系",
+      "deep_dive": "这部经典小说讲述了麦克墨菲这样一个桀骜不驯的人物进入精神病院后与医疗体系的激烈冲突。我特别喜欢的是，作者用幽默和人性化的视角揭示了制度如何压制个性——麦克墨菲本身并不是真正的\"疯子\"，他代表的是那些不愿被驯化的自由精神。小说通过他的经历，让我们看到精神病院这个系统如何通过各种微妙的方式控制患者，从表面的规则到深层的心理压迫。克西用这个故事问了个永恒的问题：谁才是真正的疯狂——是那些真实、有激情的人，还是那些麻木遵守制度的人？这部作品的伟大之处在于，它不仅是文学杰作，更是对人性、自由和权力关系的深刻揭露，读完之后会让你重新审视很多我们习以为常的东西。",
+      "quotes": [
+        {
+          "text": "But he's got courage, that Randle McMurphy. Jesus, I have to say that. In the old days I'd of had him cut up and distributed around the ward...",
+          "context": "护士长对麦克墨菲的评价，反映了制度对个性和勇气的恐惧"
+        },
+        {
+          "text": "One Flew Over the Cuckoo's Nest",
+          "context": "书名本身就是隐喻——打破束缚，飞向自由的象征"
+        }
+      ]
+    },
+    {
+      "title_zh": "信息简史",
+      "title_en": "The Information: A History, A Theory, A Flood",
+      "author_zh": "詹姆斯·格雷克",
+      "author_en": "James Gleick",
+      "year": "2011",
+      "category": "科技史",
+      "one_liner": "一部追溯信息如何改变人类文明进程的壮阔历史著作",
+      "deep_dive": "格雷克的这部作品简直是一场思想的盛宴。它不仅讲述了从鼓音信号、印刷术到互联网的技术发展，更重要的是展示了\"信息\"这个概念本身的演变。我觉得最吸引人的地方，在于他如何把看似分散的历史片段——非洲的鼓语言、古代信使系统、莫尔斯电码、香农的信息论——串联起来，揭示出一个统一主题：人类一直在试图打破距离和时间的限制，以更高效的方式传递思想和知识。这本书让我重新理解了什么是信息——它不仅仅是数据和比特，更是秩序、知识、权力和意义本身。在我们被信息淹没的时代，这本书像一盏灯，帮助我们理解当今世界的深层逻辑，以及我们为什么总是感到信息超载。",
+      "quotes": [
+        {
+          "text": "Information is physical. It always has been. Information is not some platonic ideal floating in space; it has to be instantiated in some physical medium and transmitted by physical means.",
+          "context": "格雷克阐述信息本质的核心观点，强调信息的物质性和可实现性"
+        },
+        {
+          "text": "We are the first human beings in history to exist in a state of continuous information overload.",
+          "context": "对现代社会特征的精准描述，揭示了信息时代独特的挑战和机遇"
+        }
+      ]
+    },
+    {
+      "title_zh": "论中国",
+      "title_en": "On China",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "2011",
+      "category": "政治历史",
+      "one_liner": "一位美国战略家对中国历史、文化和大国外交的深度思考",
+      "deep_dive": "基辛格这部著作其实是一本厚重的地缘政治教科书。他以一个曾直接参与美中外交的政治家身份，深入分析了中国如何在几个世纪的变化中保持文明的连续性，以及如何在现代国际关系中重新定位自己。我觉得这本书最有价值的地方，不是简单的政治评论，而是一种对话和理解的尝试。基辛格讨论了儒家哲学对中国政治文化的深远影响，探讨了中国如何平衡自身利益与区域稳定的永恒难题。他的观察既有历史纵深感，也有实际外交经验。通过这本书，你会明白为什么中国的决策者会那样思考，为什么历史在塑造当代中国外交时仍然如此重要。对任何想理解当代国际关系、特别是想真正理解中国战略思维的人来说，这都是一部必读之作。",
+      "quotes": [
+        {
+          "text": "Chinese history runs from dynasty to dynasty, but Chinese civilization continues.",
+          "context": "基辛格总结中国历史连续性的核心观点，强调文明血脉的不中断"
+        },
+        {
+          "text": "The Chinese believed they lived under heaven and that heaven's mandate could shift; but the civilization was continuous.",
+          "context": "解释中国政治制度虽会更替但文明延续的哲学和历史基础"
+        }
+      ]
+    }
+  ]
+}
+```
