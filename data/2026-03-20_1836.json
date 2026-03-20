@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "创新者的窘境",
+      "title_en": "The Innovator's Dilemma",
+      "author_zh": "克莱顿·克里斯坦森",
+      "author_en": "Clayton M. Christensen",
+      "year": "1997",
+      "category": "商业管理",
+      "one_liner": "优秀企业的理性决策如何成为被颠覆的根源",
+      "deep_dive": "这本书讲的是一个看似悖论的现象——那些做好事的公司反而会被市场淘汰。克里斯坦森通过硬盘、挖掘机、摄影等多个行业的案例，揭示了一个深刻的真理：成熟企业的理性决策和优秀管理，反而成了它们被颠覆的原因。当破坏性技术出现时，虽然初期性能不如现有产品，成本更高，市场更小，但它最终会彻底改变游戏规则。索尼被数码相机打败，柯达拥有专利却倒闭——这些都不是因为管理不善，而是因为它们的成功本身限制了它们的想象力。这本书对我触动最深的是，它让我理解了为什么创新这么难——不是因为我们不聪明，而是因为我们的成功会蒙蔽我们的眼睛。对于任何想要保持竞争力的企业或个人来说，这都是必读经典。",
+      "quotes": [
+        {
+          "text": "The most successful companies will see their market leadership erode as a new technology emerges that doesn't meet the current market's needs.",
+          "context": "解释为什么市场领导者反而最容易被破坏性创新击败"
+        },
+        {
+          "text": "Managers of established companies face a serious dilemma. The logical, competent decisions of management that are critical to the success of their traditional businesses actually sow the seeds of eventual failure.",
+          "context": "揭示了企业决策的根本矛盾——解决今天的问题会埋下明天的隐患"
+        }
+      ]
+    },
+    {
+      "title_zh": "开放社会及其敌人",
+      "title_en": "The Open Society and Its Enemies",
+      "author_zh": "卡尔·波普尔",
+      "author_en": "Karl R. Popper",
+      "year": "1945",
+      "category": "政治哲学",
+      "one_liner": "自由民主社会如何警惕历史主义幻想和专制主义诱惑",
+      "deep_dive": "这本书是20世纪最重要的政治哲学著作之一，波普尔在二战期间写下了对自由社会的深刻思考。他批判了历史主义——那种认为历史进程可以被预测和规划的幻想，将柏拉图、黑格尔和马克思列为\"历史主义\"的典范。波普尔的核心思想是，开放社会基于两个原则：第一，人类无法准确预知历史的发展方向；第二，我们应该建立制度来抵御权力的滥用，而非寄希望于贤明君主。这个思想在今天特别有意义——在人工智能、大数据时代，我们仍然容易被\"科学规划\"的承诺所诱惑，忽视了制度和个人自由的重要性。波普尔的论证严密而有力，读完会让你重新思考自由、民主和理性的真实含义。",
+      "quotes": [
+        {
+          "text": "The piecemeal engineer will make his way by small adjustments; he is not worried by the fact that his blueprint is a mere hypothesis, for he will attain his end by small adjustments which can be tested as he goes along.",
+          "context": "对比激进的历史规划者，波普尔倡导的增量式社会工程"
+        },
+        {
+          "text": "We must plan for freedom, and not only for security, if for no other reason than that freedom is necessary for the development of man to develop himself.",
+          "context": "强调自由不仅是道德价值，更是人类发展的必要条件"
+        }
+      ]
+    },
+    {
+      "title_zh": "千高原",
+      "title_en": "A Thousand Plateaus",
+      "author_zh": "吉尔·德勒兹、菲利克斯·瓜塔里",
+      "author_en": "Gilles Deleuze, Félix Guattari",
+      "year": "1987",
+      "category": "哲学",
+      "one_liner": "超越树状等级制，在无限延伸的根茎网络中探索差异与流动",
+      "deep_dive": "这是现代哲学最具挑战性的作品之一。德勒兹和瓜塔里用\"高原\"概念替代了传统的等级制思维——不再是从根部上升的树状结构，而是可以从任何一点开始、向各个方向延伸的根茎网络。这本书拒绝一切简化，拥抱复杂性和矛盾性。从游牧民族到音乐，从动物到城市，他们展示了万物如何通过非线性的方式相互连接。这个理论框架对艺术、文学批评、电影理论产生了深远影响。坦白说，读这本书很痛苦——文笔密集，概念抽象，似乎每一句话都需要反复思考。但正是这种难度，让人们持续地回到这部作品寻求新的理解。如果你想彻底跳出传统思维框架，这本书会像地震一样撼动你的思想。",
+      "quotes": [
+        {
+          "text": "A plateau is always in the middle, not at the beginning or the end. It is composed of and defined by a continuous, self-vibrating region of intensities whose development avoids any orientation toward a culmination point or external end.",
+          "context": "\"高原\"概念的核心——中间性、无终点、自我振动"
+        },
+        {
+          "text": "The tree is already the image and the rough draft of the root, but the rhizome as a map and not a tracing, must be produced by the root itself.",
+          "context": "用根茎（rhizome）对抗树的隐喻，表现多元、开放的思维方式"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1836"
+}
