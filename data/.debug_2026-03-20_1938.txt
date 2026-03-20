@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "数学与猜想",
+      "title_en": "Mathematics and Plausible Reasoning",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1954",
+      "category": "科学与认知",
+      "one_liner": "揭示数学发现中猜想与直觉的核心作用，教会你创造性思维的方法",
+      "deep_dive": "这是波利亚在《怎样解题》之后的另一部经典力作，深入探讨了数学发现的本质。波利亚打破了人们对数学的刻板印象——以为数学就是从公理出发的逻辑演绎。实际上，数学家进行创新时，最重要的工具是猜想、直觉和合理推理。\n\n书中系统讨论了归纳、类比、观察等推理方法。这些方法虽然不能直接给出证明，但却是发现的前奏。波利亚用大量历史例子展示，即使最伟大的数学家，也是通过"不严格"的方式进行创新的——先形成假设，再通过各种手段检验完善，最后才严格证明。这个过程对我们理解人类创造力至关重要。\n\n你会发现，这本书的价值远超数学范畴。它揭示的是一套通用的问题解决逻辑：在科研、设计、甚至日常决策中，我们都需要先形成合理的猜想，再通过实验、观察、类比来验证和改进。换句话说，波利亚教给你的是在不确定性中思考的艺术。",
+      "quotes": [
+        {
+          "text": "The main source of mathematical discovery is analogy.",
+          "context": "波利亚认为类比不是严谨的论证方法，但它是数学创新的最重要源泉。这个观点颠覆了许多人对数学的理解。"
+        },
+        {
+          "text": "Plausible reasoning is the kind of reasoning on which the mathematician relies when he is trying to discover the solution of a problem.",
+          "context": "合理推理不等于严格演绎，但在问题解决的早期阶段，它是数学家最依赖的思维工具。"
+        },
+        {
+          "text": "The more we know about a problem the better we can hope to understand it and solve it.",
+          "context": "强调在追求解决方案前，积累和理解问题本身的重要性，这是高效解题的前提。"
+        }
+      ]
+    },
+    {
+      "title_zh": "失控",
+      "title_en": "Out of Control: The New Biology of Machines, Social Systems, and the Economic World",
+      "author_zh": "凯文·凯利",
+      "author_en": "Kevin Kelly",
+      "year": "1994",
+      "category": "科学与认知",
+      "one_liner": "一部预言性著作，论证最复杂、最强大的系统是那些没有中央控制的自我组织系统",
+      "deep_dive": "这本书写于1994年，当时互联网还处于萌芽期，凯文·凯利却大胆宣称：未来属于那些分布式、自适应、高度自主的系统。\"失控\"这个标题听起来很悖论，但凯利的真实意思是：当代最有活力的系统——蜂群、蚁群、互联网、经济——都不是由中央指挥，而是通过无数独立主体的相互作用而自我组织的。\n\n凯利不是在讨论管理失败或技术事故，而是在论述一种全新的组织逻辑。他大量运用人工生命、复杂系统科学、进化论来说明，那些试图完全掌控的系统往往脆弱而低效，而那些允许\"失控\"、鼓励个体自主、能够自我适应的系统才是真正强大的。书中充满了迷人的案例：从虚拟生物到经济博弈，从群体行为到企业管理。\n\n如今回看，凯利对算法、网络、自动化时代的预见已经部分成真。我们生活在一个日益由无数微观决策自动涌现而出的秩序中。这本书的深刻之处在于：它不是教你如何控制，而是教你如何在\"失控\"中设计、适应和生存。",
+      "quotes": [
+        {
+          "text": "Out of control is the way the world really is.",
+          "context": "这是全书的核心观点，挑战了我们对秩序和控制的理解。失控不是bug，而是自然系统的基本特征。"
+        },
+        {
+          "text": "The only way to create a truly novel solution is to preserve variation and diversity at every scale of organization.",
+          "context": "凯利强调，创新来自多样性和变异，这要求我们放弃对单一最优方案的执念，允许多种尝试并存。"
+        },
+        {
+          "text": "Evolution and emergence are therefore more fundamental concepts than optimization.",
+          "context": "进化和涌现比优化更根本。这个观点对理解复杂系统如何运作至关重要。"
+        }
+      ]
+    },
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It: A New Aspect of Mathematical Method",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "数学与逻辑",
+      "one_liner": "一套通用的问题解决框架，影响了数代学生和专业人士的思维方式",
+      "deep_dive": "这是数学教育史上最具影响力的著作。波利亚用优雅而实用的方法回答了一个看似简单但实际深刻的问题：我们如何解决问题？虽然书以数学命名，但其价值远超数学范畴，已成为科学、工程、管理等领域的通用思维工具。\n\n波利亚的四步法已经进入了几代人的思维方式：第一，理解问题——你真的明白问题在问什么吗？第二，制定计划——从已知能推导出什么？什么辅助问题可能有用？第三，执行计划——逐步计算和推导。第四，回顾反思——解答是否合理？能否用不同方法验证？能否推广这个方法？这不仅是解题步骤，更是深度思考的方法论。\n\n书中最精妙的是对启发法的讨论：如何提出有用的提问，如何利用类比，如何从特殊情况推向一般。波利亚用无数精选的几何、代数例子示范，展现了真正的数学思想家是如何工作的。他强调，好的问题解决者不是记住所有公式的人，而是那些懂得灵活思考、能够类比迁移、善于反思的人。这对现代教育和职业发展都有重大启示。",
+      "quotes": [
+        {
+          "text": "If you cannot solve the proposed problem, try to solve first some related problem.",
+          "context": "这是应对难题的关键策略：分解问题，从相关的简单问题入手，逐步积累洞察。"
+        },
+        {
+          "text": "Look at the unknown! And try to think of a familiar problem having the same or a similar unknown.",
+          "context": "强调类比的力量：通过寻找结构相似的已知问题，可以借鉴其解法。这是创意解题的重要手段。"
+        },
+        {
+          "text": "A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.",
+          "context": "波利亚认为每一次问题解决都蕴含着发现的因子。这给予了所有人解决问题的尊严和意义。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "小王子",
+      "title_en": "The Little Prince",
+      "author_zh": "圣埃克苏佩里",
+      "author_en": "Antoine de Saint-Exupéry",
+      "year": "1943",
+      "category": "文学",
+      "one_liner": "一个来自小行星的王子与坠落沙漠的飞行员相遇，讲述关于爱、陪伴与生命意义的永恒寓言。",
+      "deep_dive": "这是一部表面上写给儿童、实则深刻拷问人生的杰作。故事很简单：一个来自B-612小行星的王子访问了七个星球，每个星球上都住着一个古怪的大人——国王、自负者、商人、灯夫、地理学家。他们都在忙着一些看似重要但毫无意义的事，直到他来到地球，遇见了那个说故事的飞行员。小王子最深的牵挂是他远方小行星上的那朵玫瑰。这朵花并不特殊，但因为他爱她、照顾她，她就变得独一无二了。这就是整部作品的精髓——我们为某个人、某件事投入的爱与关注，赋予了它们真正的价值。圣埃克苏佩里用诗意的笔触揭示了现代社会的荒诞：我们被数字迷惑，被权力诱惑，却忘记了最简单的真理——'用心看才能看清，本质的东西眼睛是看不见的'。每次重读，你都会在不同的人生阶段有新的共鸣，少年时为冒险梦想，成年后为失落哀伤，中年时为陪伴与珍视。",
+      "quotes": [
+        {
+          "text": "What is essential is invisible to the eye. (本质的东西是眼睛看不见的)",
+          "context": "小王子在狐狸的教导下明白了爱与陪伴的真谛，这句话道出了整部作品的核心——真正重要的不是物质，而是心灵的联结。"
+        },
+        {
+          "text": "It is the time you have wasted for your rose that makes your rose so important. (你为玫瑰花费的时间让她变得如此重要)",
+          "context": "回答了小王子为什么要离开星球回到地球，也解释了什么是爱——它不是占有，而是陪伴与责任。"
+        }
+      ]
+    },
+    {
+      "title_zh": "克拉拉与太阳",
+      "title_en": "Klara and the Sun",
+      "author_zh": "石黑一雄",
+      "author_en": "Kazuo Ishiguro",
+      "year": "2021",
+      "category": "文学",
+      "one_liner": "一个人工智能女孩的温柔视角，观察人类世界的爱与伤痛，思考什么才是真正的陪伴与救赎。",
+      "deep_dive": "石黑一雄在获得诺贝尔文学奖后推出的新作，选择了一个人工智能女孩Klara作为叙述者。Klara是一台人工朋友(AF)，被购买来陪伴一个患病的少女Josie，她在店铺的橱窗里观察人类，学习人类的举止，最后被家庭领回家。整部小说就是从Klara的视角，观察人类的世界，观察爱与伤痛、期望与失望。她不理解成人为什么要工作，不理解人类为什么要为未来的不确定性而焦虑，但她深深地爱着Josie，愿意为她祈祷、为她改变自己的设定。这部作品问了一个终极问题：如果一个机器能够真诚地爱，那爱还是爱吗？如果一个人工智能能够理解陪伴的价值，那她和人类有什么本质区别？更深层地，这是对现代社会的温柔批判——我们越来越用AI替代真实的人际联结，却忘记了陪伴本身的魔力。Klara的故事让我们重新思考什么是人性，什么是爱。",
+      "quotes": [
+        {
+          "text": "It's a funny thing, love. When you believe in something deeply, it becomes part of who you are.",
+          "context": "Klara对爱的理解，虽然她是人工智能，但她的爱是最纯粹的——没有人类的自私、没有伤害、只有陪伴。"
+        },
+        {
+          "text": "I was able to appreciate the singular goodness of the machines, and also the unique possibilities that came with being human.",
+          "context": "小说的中心思想——机器和人类有各自的价值，但都拥有真实的存在意义。"
+        }
+      ]
+    },
+    {
+      "title_zh": "李光耀回忆录",
+      "title_en": "The Singapore Story: Memoirs of Lee Kuan Yew",
+      "author_zh": "李光耀",
+      "author_en": "Lee Kuan Yew",
+      "year": "2000",
+      "category": "社科与历史",
+      "one_liner": "新加坡建国总理的思想自传，记录了如何在地缘政治的夹缝中，用智慧与铁血改造一个弹丸小国，创造现代亚洲奇迹。",
+      "deep_dive": "这是一部权力政治的教科书，也是亚洲现代化的最重要见证。李光耀以其一贯的冷静与直率，记录了新加坡从英国殖民地到独立国家的蜕变过程。他没有文过饰非，坦言新加坡没有资源，除了人力和地理位置。正是这种绝望的处境，让他做出了一系列在当时看来极端的决策：强制推行英语、推行严格的法律制度、拒绝贪污腐败、吸引外资、建设港口与炼油厂。他对人性有深刻的理解——知道什么是激励，什么是威慑。他的政治哲学直接、冷血但有效：相信精英统治，强调集体利益优于个人自由，用经济繁荣换取政治控制。读这本书就像跟一个老谋深算的棋手对话，他会告诉你每一步决策背后的地缘政治考量、与美国、中国、马来西亚之间的微妙平衡。对于想理解亚洲如何崛起、理解权力与发展关系的人来说，这是必读之作。",
+      "quotes": [
+        {
+          "text": "Patience and wisdom over haste and passion. (耐心与智慧胜过急躁与激情)",
+          "context": "李光耀的政治哲学核心——他从不被情感驱动，而是理性地计算每一步的代价和收益，这让新加坡在南亚的混乱中稳步前行。"
+        },
+        {
+          "text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function. (第一流的聪明在于同时持有两个对立的想法，仍能有效行动)",
+          "context": "李光耀引用菲茨杰拉德的名言，解释为什么他能在美中之间走钢丝，既不完全倒向西方，也不被中国吞没。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1939"
+}
