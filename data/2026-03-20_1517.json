@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "皇帝新脑",
+      "title_en": "The Emperor's New Mind",
+      "author_zh": "罗杰·彭罗斯",
+      "author_en": "Roger Penrose",
+      "year": "1989",
+      "category": "科学与认知",
+      "one_liner": "从物理学和数学角度探索意识、人工智能与人类思维的本质",
+      "deep_dive": "这本书是彭罗斯对一个大问题的深邃思考：为什么人类能做的事情，计算机却做不了？他用非常有趣的方式把你拉进来，从哥德尔的数学定理开始讲起，展示了为什么形式逻辑系统总是不完备的。然后他跳到物理学，讨论量子力学和黑洞，最后得出一个大胆的结论：人脑可能利用了某种量子过程，这使得我们的思维具有古典计算机不具备的性质。这本书的魅力在于它挑战了AI乐观主义——那种认为意识只是算法的想法。彭罗斯说，真正的理解、创意和自由意志不能被简化为计算机程序。无论你同意还是不同意他的结论，这本书都会让你对意识这个谜题有更深的敬畏感。",
+      "quotes": [
+        {
+          "text": "Imagination is more important than knowledge. Knowledge is limited to all we now know and understand. Imagination embraces the entire world and all there ever will be to discover.",
+          "context": "虽然这句话通常归于爱因斯坦，但彭罗斯在讨论人类创造力超越计算机能力时的核心观点"
+        },
+        {
+          "text": "The human mind is not capable of grasping the universe. We are like a little child entering a huge library.",
+          "context": "彭罗斯对人类认知局限性的谦逊观察，反映了他对科学探索永无止境的认识"
+        }
+      ]
+    },
+    {
+      "title_zh": "弗兰肯斯坦",
+      "title_en": "Frankenstein",
+      "author_zh": "玛丽·雪莱",
+      "author_en": "Mary Shelley",
+      "year": "1818",
+      "category": "文学",
+      "one_liner": "一部关于野心的代价、生命伦理和怪物灵魂的永恒悲剧",
+      "deep_dive": "这部小说远比流行文化中那个绿皮怪物的形象要深刻得多。玛丽·雪莱在才华横溢的丈夫和拜伦的陪伴下创作了这个故事，她笔下的维克多·弗兰肯斯坦是一个聪明却傲慢的科学家，被对知识和成就的渴望所吞噬。当他终于成功创造了生命时，他却被自己的创造物吓得逃离了。这才是悲剧的真正开始。被创造物不是邪恶的，他最初是纯真的，渴望爱和接纳，但被这个世界和他的创造者无情地拒绝。小说通过多层次的叙述视角展现了这个故事，让你既能感受到弗兰肯斯坦的绝望，也能感受到怪物的痛苦。它问出了一个永恒的问题：当我们创造出我们无法理解或无法驾驭的东西时，我们的责任是什么？这在AI时代更显得尖锐而紧迫。",
+      "quotes": [
+        {
+          "text": "I am malicious because I am miserable.",
+          "context": "怪物对自己的罪恶行为的解释，揭示了他的暴力来自于被遗弃的痛苦，而非天性邪恶"
+        },
+        {
+          "text": "The beauty of the dream vanished, and breathless horror and disgust filled my heart.",
+          "context": "弗兰肯斯坦第一次看到他创造的生物睁眼时的反应，标志着整个悲剧的起点"
+        }
+      ]
+    },
+    {
+      "title_zh": "米德尔马契",
+      "title_en": "Middlemarch",
+      "author_zh": "乔治·艾略特",
+      "author_en": "George Eliot",
+      "year": "1871-1872",
+      "category": "文学",
+      "one_liner": "英国中部小镇中四条交织的人生轨迹，是关于理想与现实碰撞的小说",
+      "deep_dive": "这是一部伟大的现实主义小说，乔治·艾略特用近乎社会学的精度刻画了维多利亚时代英国一个中等城镇的生活。小说交织了四个主要人物的故事：理想主义的学者卡苏邦与年轻聪慧的多罗西娅的婚姻、医学改革家莱德盖特的理想与实际的冲撞、温和的牧师费瑞斯的爱情、以及狡黠的商人布隆德的野心。艾略特的天才在于她不仅仅讲故事，她在分析人性。她展现了为什么聪明人也会做出愚蠢的选择，为什么最好的意图有时会导致最坏的结果。这不是一部快速阅读的书，它要求你停下来，思考每个人物的动机，理解他们的矛盾。但正是这种深度让它成为了文学史上最伟大的小说之一。当你读完后，你会对人性中的复杂性有更深的理解。",
+      "quotes": [
+        {
+          "text": "If we had a keen vision of all that is ordinary in human life, it would be like hearing the grass grow or the squirrel's heart beat, and we should die of that roar on the other side of silence.",
+          "context": "艾略特对日常人生的深思，说明了如果我们能真正看清生活的复杂性，我们会被其中的声音淹没"
+        },
+        {
+          "text": "One can begin so many things with a new person! Even mere friendship constitutes an opportunity for doing some unmapped thing.",
+          "context": "关于人类对新关系中无限可能性的渴望，反映了人物们对改变生活的永恒期待"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1517"
+}
