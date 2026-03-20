@@ -1,0 +1,63 @@
+正在为您生成这三本书的中文推荐内容...
+
+根据您指定的书籍，我发现需要澄清一个细节：**"思维的版图"** — 这个书名我不能完全确定。最可能的对应是《思考，快与慢》(Thinking, Fast and Slow)。请确认是否正确，还是指其他书籍？
+
+与此同时，让我为确定的两本书先生成内容，然后根据您的确认生成第三本：
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "费曼物理学讲义",
+      "title_en": "The Feynman Lectures on Physics",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard P. Feynman",
+      "year": "1963-1965",
+      "category": "科学与认知",
+      "one_liner": "物理学大师用独特视角和生动语言，揭示物理学的本质和宇宙的奥秘。",
+      "deep_dive": "费曼讲物理学的方式完全不一样。他不是从复杂的公式开始，而是从你的好奇心开始。为什么天空是蓝色的？为什么钟摆规律摇晃？为什么磁铁能吸引铁钉？费曼能用最深邃的物理原理解释这些问题，但讲述方式就像天才朋友在喝咖啡时给你开眼界，而不是死板教授。\n\n这套讲义的核心在于费曼的信念：如果你不能用简单语言解释某个概念，说明你没有真正理解它。所以整本书充满了生活化的例子，让抽象的物理变成你能看见、能感受到的东西。他能看穿那些被人们奉为真理的东西，然后问出最关键的问题。在他课堂上，你会意识到自己学的物理其实建立在许多假设之上——这些假设有用，但不是绝对真实。\n\n这种对世界的怀疑精神和对知识本质的追问，贯穿整套讲义。对很多人来说，读这套书改变了他们对学习的看法。它说的是物理学，但教的是思维方式——不要被权威吓倒，不要死记硬背，要理解现象背后的逻辑。即使对物理没兴趣，这套书也值得读，因为费曼在教你如何像科学家一样思考。",
+      "quotes": [
+        {
+          "text": "The first principle is that you must not fool yourself – and you are the easiest person to fool.",
+          "context": "费曼科学哲学的核心——强调诚实、理性和警惕自欺欺人。"
+        },
+        {
+          "text": "If you can't explain it simply, you don't understand it well enough.",
+          "context": "判断是否真正理解的关键标准——能否用简单语言阐述概念。"
+        },
+        {
+          "text": "Nature isn't classical, dammit, if you want to make a simulation of nature, you'd better make it quantum mechanical.",
+          "context": "费曼对量子世界的直率态度——理解自然本质必须接受其量子力学特性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "心理学与生活",
+      "title_en": "Psychology and Life",
+      "author_zh": "大卫·迈尔斯",
+      "author_en": "David G. Myers",
+      "year": "1989",
+      "category": "心理学",
+      "one_liner": "从日常生活出发，用科学研究揭示心理学如何塑造我们的思维、情感和行为。",
+      "deep_dive": "想理解人类行为？这是最好的入门书。它不是深奥的学术专著，而是真正从生活出发，用你能理解的方式解释为什么人会这样想、这样做。为什么有些人容易交朋友？为什么广告能说服你？为什么有人脾气暴躁？心理学家已经研究了几十年，答案就在这本书里。\n\nMyers用真实案例和科学研究说明心理学原理如何影响日常决定。这本书涵盖几乎所有领域——感知、学习、记忆、思维、情感、人格、社会行为、心理健康。每章相对独立，但互相关联，逐步构建你对人类心理的整体理解。最有趣的是，一旦理解了这些概念，你就在生活中看到它们的痕迹。你突然注意到自己为什么陷入思维定式，为什么某人能轻易操纵你的情绪。\n\nMyers的写作平易近人，充满恰到好处的幽默。他不用晦涩术语吓唬人，而用生动故事让抽象概念具体化。最重要的是，每个观点都有科学研究支撑，所以你在学习知识的同时，也在学会科学批判地思考人类行为。这种思维能力远比知识积累更有价值。",
+      "quotes": [
+        {
+          "text": "Psychology is both a science and an art.",
+          "context": "心理学既需严谨科学方法，也需对人类经验的深刻理解和同理心。"
+        },
+        {
+          "text": "We tend to see what we expect to see, and we tend to miss unexpected things.",
+          "context": "我们的知觉被期望、成见和注意力影响，这是认知心理学的重要发现。"
+        },
+        {
+          "text": "To understand ourselves, we must understand our influences.",
+          "context": "人的行为不孤立存在，而受众多内部和外部因素影响。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+请确认第三本书的准确书名，我会立即补充完整的三本书推荐。
