@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "基督山伯爵",
+      "title_en": "The Count of Monte Cristo",
+      "author_zh": "大仲马",
+      "author_en": "Alexandre Dumas",
+      "year": "1844",
+      "category": "冒险小说",
+      "one_liner": "被冤入狱的年轻水手越狱后寻宝复仇，用金钱和谋略瓦解背叛者的经典复仇传奇。",
+      "deep_dive": "讲的是埃德蒙·唐泰斯这哥们儿的奇特人生。本来是前途无限的年轻水手，却被几个混蛋陷害投进了坏蛋岛监狱。在那个暗无天日的日子里，他遇到了法里亚神父，学到知识和一笔宝藏的秘密。越狱后化身神秘的基督山伯爵，开始精心策划的复仇计划。这不是简单的打打杀杀，而是通过金钱、权力和人脉，让背叛者们一个接一个地掉进陷阱。整个故事像精密钟表，每一环都扣得很紧。最妙的是，书里既有快意恩仇的爽感，又有对人性的深刻思考。那些被复仇的人，有的该死，有的其实是被当棋子利用。到最后唐泰斯也醒悟了，无穷复仇欲望最终会吞噬自己的灵魂。这部小说能传承近两百年，就在于它既满足了幻想，又给了人们关于命运、救赎和人生的深刻启迪。",
+      "quotes": [
+        {
+          "text": "The whole of human wisdom is contained in these two words—Wait and Hope.",
+          "context": "神父法里亚在狱中教导唐泰斯的人生哲学"
+        },
+        {
+          "text": "We must wait and hope, and by waiting and hoping, we shall find salvation.",
+          "context": "唐泰斯在绝望中坚持下去的精神支撑"
+        }
+      ]
+    },
+    {
+      "title_zh": "从一到无穷大",
+      "title_en": "One, Two, Three... Infinity",
+      "author_zh": "乔治·伽莫夫",
+      "author_en": "George Gamov",
+      "year": "1947",
+      "category": "科普读物",
+      "one_liner": "诺奖级科学家用故事和类比，从数字漫游到宇宙，开启对世界本质的奇妙之旅。",
+      "deep_dive": "这是科普写作的典范之作。伽莫夫是20世纪伟大的物理学家，用超级亲民的方式把数学、物理和宇宙学讲得贼有趣。从最基础的数字概念开始，逐步引入无穷大、维度、相对论、原子物理这些听起来高深的玩意儿。但他绝不会让你困在公式里。反而用类比、故事和图解来破解复杂概念。讲四维空间时，让你想象二维小人看三维世界会咋样。讲宇宙膨胀时，用气球上的气泡做比喻。这种讲法既让复杂东西变得易懂，还能激发你对科学的热爱。读完这本书，你对自己生活的宇宙有了全新认识——从无穷小到无穷大，从地球到星辰，从经典物理到量子世界，一场真正能开阔视野的科学冒险。",
+      "quotes": [
+        {
+          "text": "The interesting thing about science is that you often get your greatest insights from unexpected quarters.",
+          "context": "强调科学发现的来源多样性和深层价值"
+        },
+        {
+          "text": "Gravitation cannot be held responsible for people falling in love.",
+          "context": "伽莫夫用幽默的方式阐述科学与生活的关系"
+        }
+      ]
+    },
+    {
+      "title_zh": "禅与摩托车维修艺术",
+      "title_en": "Zen and the Art of Motorcycle Maintenance",
+      "author_zh": "罗伯特·M·波西格",
+      "author_en": "Robert M. Pirsig",
+      "year": "1974",
+      "category": "哲学",
+      "one_liner": "父子俩骑摩托车穿越美国，在修车与冥想中探寻什么是生活的卓越品质。",
+      "deep_dive": "这不是教你怎么修摩托车的书，虽然确实有修车内容。作者用一场真实的摩托车之旅做框架，但真正的旅程在他的思想世界。波西格骑着摩托从明尼苏达到加州，一路在思考什么是'品质'。这听起来抽象，但他通过修车的实际经验来论证——当你认真维修摩托车时，你其实在追求完美，追求卓越，这就是品质。书里还涉及禅宗思想、科技与艺术的冲突、人与机器的关系。波西格写得很个人化，时不时会跳入奇妙的哲学思辨。有人说这本书改变了他们对生活的理解，有人说读起来有点晦涩。但这就是它的魅力——不追求简单答案，而是邀请你在阅读中进行深刻的自我反思，问自己真正关心什么。",
+      "quotes": [
+        {
+          "text": "The real cycle you're working on all the time is a cycle called yourself.",
+          "context": "强调自我完善和自我认知才是终极修行"
+        },
+        {
+          "text": "When you want to hurry something, that means you no longer care about it and want to get on to other things.",
+          "context": "对待工作态度的深刻反思，强调用心和专注的价值"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1309"
+}
