@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "宇宙的琴弦",
+      "title_en": "The Elegant Universe",
+      "author_zh": "布莱恩·格林",
+      "author_en": "Brian Greene",
+      "year": "1999",
+      "category": "科学与认知",
+      "one_liner": "弦论如何统一物理学的两大支柱，揭示宇宙的深层数学优雅",
+      "deep_dive": "你知道物理学最大的问题是什么吗？就是两个框架各自都完美，但放在一起就相互矛盾。一边是爱因斯坦的广义相对论，解释了大尺度的宇宙和重力；另一边是量子力学，完美描述了原子和次原子世界。但当你试图把它们结合起来解释黑洞或大爆炸时，一切就崩溃了。\n\n布莱恩·格林在《宇宙的琴弦》中提出了一个激进的想法：不是把粒子当成基本单位，而是想象整个宇宙由极其微小的振动弦组成。这些弦就像琴弦一样，不同的振动模式对应不同的粒子。听起来有点疯狂，对吧？但这个理论有着不可思议的优雅——它能同时容纳重力和量子力学。\n\n格林的天才之处在于他能把这些高深的物理学用我们能理解的比喻讲出来。他讲维度、讲时间、讲宇宙的形状，都用了精妙的类比。这本书改变了我对宇宙的看法，让我明白，我们脚下踩着的世界其实是由看不见的弦的舞蹈组成的。当然，弦论至今还没被实验证实，但正是这种未知的神秘感，让这本书如此迷人。",
+      "quotes": [
+        {
+          "text": "The perceivable world, we've learned, is built from a single type of entity: vibrating strings of energy.",
+          "context": "弦论的核心观点——宇宙的一切都是微小弦的振动，这是物理学追求统一性的大胆尝试"
+        },
+        {
+          "text": "String theory provides a framework for understanding all known forces and matter.",
+          "context": "说明弦论的野心：用一个单一框架解释宇宙的所有基本力和物质"
+        },
+        {
+          "text": "We are, in effect, exploring the melody universe that hums beneath the surface of everyday reality.",
+          "context": "优雅地比喻宇宙的深层结构——一切看似普通的现象背后都有复杂的数学规律"
+        }
+      ]
+    },
+    {
+      "title_zh": "论摄影",
+      "title_en": "On Photography",
+      "author_zh": "苏珊·桑塔格",
+      "author_en": "Susan Sontag",
+      "year": "1977",
+      "category": "艺术与美学",
+      "one_liner": "摄影如何改变了我们观看世界和理解现实的方式，成为现代性的核心",
+      "deep_dive": "摄影真的那么重要吗？当然。苏珊·桑塔格在《论摄影》中论证的是，摄影不只改变了我们拍照的方式，而是从根本上改变了我们看世界的方式。\n\n在摄影出现之前，我们依赖绘画、文字和记忆来理解世界。但摄影的出现创造了一个全新的现实观：世界可以被完全客观地记录。按下快门，瞬间永恒。这改变了一切。桑塔格认为，摄影给了我们一种'收集世界'的感觉——我们可以用照片来积累、储存、整理真实。但同时，她也尖锐地指出，照片不是真实本身，而是对真实的诠释。每张照片都是一种权力的运用——决定什么值得看，什么不值得看。\n\n这本书很挑战人，因为它让你重新思考你每天看到的那些图像。你开始意识到，Instagram、新闻照片、监控摄像头——这些都不仅仅是记录，而是塑造我们对世界的理解。桑塔格的文笔锐利、深刻，有些地方甚至有点冷酷，但正是这种冷酷让人惊醒。",
+      "quotes": [
+        {
+          "text": "To photograph is to confer importance.",
+          "context": "摄影不是中立的，拍照的决定本身就是权力的行使——决定了什么进入历史、什么被遗忘"
+        },
+        {
+          "text": "The camera doesn't just record reality. It transforms it, creates it.",
+          "context": "揭示摄影的根本悖论：虽然被视为真实的记录，但摄影本身就是对现实的创造和改造"
+        },
+        {
+          "text": "In a world of images, the photograph has become the strongest evidence of what is real.",
+          "context": "在我们这个被影像淹没的时代，照片已成为现实的最强证据——这正是摄影权力的体现"
+        }
+      ]
+    },
+    {
+      "title_zh": "纯粹理性批判",
+      "title_en": "Critique of Pure Reason",
+      "author_zh": "伊曼纽尔·康德",
+      "author_en": "Immanuel Kant",
+      "year": "1781",
+      "category": "哲学",
+      "one_liner": "康德通过'哥白尼革命'重塑认识论，改变了我们理解知识和现实的基础",
+      "deep_dive": "这本书真的会让你脑子爆炸。康德写得就像是在用密语一样，但一旦你破译了，你会明白为什么他被称为'哲学的哥白尼'。\n\n康德的问题是：我们怎么知道我们知道什么？听起来绕，对吧？但他提出了一个革命性的答案：也许问题不在于我们的思想如何适应世界，而在于世界如何适应我们的思想。这就是他的'哥白尼革命'。他论证说，我们不能直接认识'物自体'（世界本身），我们只能认识通过我们的认知结构（时间、空间、因果律等）过滤后的现象。\n\n换句话说，你的大脑不是一个被动的录像机，记录外部世界。相反，它积极地组织和结构化你所经历的一切。时间、空间、因果律——这些不是世界的特性，而是你思维的特性。这是一个彻底的转变，影响了之后所有的哲学。从黑格尔到尼采，从胡塞尔到海德格尔，没有人能绕过康德。\n\n这本书确实很难读，原文更难。但它的影响力不可估量。它让你意识到，我们称之为'现实'的东西，其实是我们的思维和世界之间一个复杂的舞蹈。一旦接受了这个观点，你就再也看不到世界了——你开始看到你自己看待世界的方式。",
+      "quotes": [
+        {
+          "text": "It is not our concepts which are fitted to things; it is our things which are fitted to our concepts.",
+          "context": "康德的核心洞见——这是他哥白尼革命的精髓，颠覆了从亚里士多德以来的认识论传统"
+        },
+        {
+          "text": "Space and time are not things in themselves, but forms of our intuition.",
+          "context": "康德最激进的主张之一，时间和空间不是世界的属性，而是我们认知的结构"
+        },
+        {
+          "text": "The understanding does not derive its laws from nature; rather nature must conform to our understanding.",
+          "context": "进一步阐释认知的主体性在知识生成中的基础作用，挑战了整个西方哲学传统"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1608"
+}
