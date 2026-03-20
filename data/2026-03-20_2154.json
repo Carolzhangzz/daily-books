@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "看得见风景的房间",
+      "title_en": "A Room with a View",
+      "author_zh": "E·M·福斯特",
+      "author_en": "E. M. Forster",
+      "year": "1908",
+      "category": "文学",
+      "one_liner": "年轻女性在维多利亚社会的道德压抑与真爱之间做出生命选择",
+      "deep_dive": "这是一部关于自我觉醒的经典之作。主角露西·哈尼特是个受过良好教育的中产女性,却被社会规范束缚得死死的。故事通过两次意大利之旅展开——第一次她邂逅了热情奔放的年轻人乔治,感受到了生命的真实跳动;第二次她被迫选择了体面但空洞的订婚生活。整部小说就在问:你会为了满足他人期待而放弃自己的幸福吗?\n\nForster的文笔太绝妙了,对人物心理的刻画精准得让人难受。他通过对比——意大利的诗意与英国的死板、热情与克制、真实与虚伪——让你能看清每个人物到底想要什么。那些关于意大利的段落充满了生命力,仿佛在说:人生本该如此自由澎湃。而英国社会就像一个精心设计的监狱,每条规则都是一根无形的锁链。\n\n有趣的是这部小说写于1908年,却像在和今天的我们对话。虽然表面条件改变了,但深层的困境没变——每个人都在某个时刻面临露西的抉择。这也是为什么它被尊为现代文学的开端:它不仅讲爱情,更讲人如何找到真实的自己。",
+      "quotes": [
+        {
+          "text": "\"It is so difficult to remember that here in the latest age and in the greatest nation, the traditional opinions of the educated classes have not yet conquered the world.\"",
+          "context": "对社会保守性的讽刺观察——尽管时代进步,旧观念仍像幽灵一样束缚人心"
+        },
+        {
+          "text": "\"Do you know what you are in the opinion of most people? You are in the opinion of most people a nonentity.\"",
+          "context": "对女性社会地位的犀利点评,反映了维多利亚时代女性的处境"
+        },
+        {
+          "text": "\"The heart does not break all at once,\" he said.",
+          "context": "关于人生的深刻洞察——真正的伤痛来自于漫长的妥协,而非突然的破裂"
+        }
+      ]
+    },
+    {
+      "title_zh": "引爆点",
+      "title_en": "The Tipping Point",
+      "author_zh": "马尔科姆·格拉德威尔",
+      "author_en": "Malcolm Gladwell",
+      "year": "2000",
+      "category": "商业与技术",
+      "one_liner": "用流行病学框架解释社会现象——小的变化如何引发滚雪球式的大规模社会变革",
+      "deep_dive": "读这本书像吃了一颗红药丸。Gladwell给了你一个全新的视角来看待为什么有些想法会传播得像瘟疫一样,而其他的则悄无声息地消亡。他的核心洞察很简单:社会流行现象有一个临界点,达到后就会指数级爆发。\n\n书里最有趣的是三个推动力。第一个是\"关键人物\"——那些天生的连接者、信息专家和有说服力的人。他们就像社交网络中的节点,通过他们,信息才能传播。第二个是\"粘性\"——信息本身有多容易被记住。为什么Hush Puppies鞋子突然流行了?不是因为营销,而是因为在东村和SoHo的少数年轻人开始穿,他们就像病毒源。第三个是\"环境\"——小环境的变化能引发大规模连锁反应。纽约地铁犯罪率下降的故事最能说明这点——不是通过大规模的警务改革,而是通过修复破窗、清理涂鸦这样的微观干预。\n\n最奇妙的地方在于,这个框架改变了你对世界的理解。为什么Netflix战胜了Blockbuster?为什么某条TikTok视频能获得千万浏览?为什么社会运动有时爆发如闪电,有时又如蜗牛?突然间,你开始意识到事物的传播不是线性的,而是指数的、非线性的。对任何想理解现代社会的人来说,这都是必读。",
+      "quotes": [
+        {
+          "text": "\"The success of Hush Puppies was not due to the popularity of the shoes among the general public. It happened among just one or two small groups of kids in the East Village and Soho.\"",
+          "context": "核心案例——说明流行往往从极小的圈子开始,通过关键人物扩散"
+        },
+        {
+          "text": "\"The best way to understand the emergence of fashion trends, the ebb and flow of crime waves, or, for that matter, the transformation of unknown books into bestsellers, is to think of them as epidemics.\"",
+          "context": "提出了用传染病模型解释社会现象的框架,这是整本书的理论基础"
+        },
+        {
+          "text": "\"Mavens are data brokers. They accumulate knowledge, especially about the rules and regulations of different fields, not for the sake of accumulating knowledge, but so they can tell it to other people.\"",
+          "context": "对\"信息专家\"的定义——他们不仅了解信息,更渴望分享,是观念传播的关键"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2154"
+}
