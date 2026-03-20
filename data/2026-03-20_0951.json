@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "项塔兰",
+      "title_en": "Shantaram",
+      "author_zh": "格雷戈里·大卫·罗伯茨",
+      "author_en": "Gregory David Roberts",
+      "year": "1996",
+      "category": "文学",
+      "one_liner": "一个逃犯在孟买的冒险和救赎之旅",
+      "deep_dive": "这是一部超级厚的书，一旦你开始读就完全停不下来。故事讲的是一个从澳洲监狱越狱逃出的主人公，流落到孟买这个混乱而生机勃勃的城市，试图开始新的人生。整部书就像孟买本身一样充满对比——黑帮、慈善、爱情、暴力、救赎混在一起。主角遇见各式各样的人，包括黑帮头目、医生，以及他深爱的女人。最打动人的是，这不仅仅是冒险故事，而是深入探讨人性、赎罪和自由的本质。主人公虽然逃离了监狱的物理束缚，但后来意识到真正的自由来自内心改变和与他人连接。书中对孟买的描写也令人印象深刻——贫富差距、街道混乱、人们的善良和残酷共存。作者用诗意语言把真实的地方变成了精神之旅的舞台。这不是典型的逃亡小说，更像是关于一个人如何在世界混乱中寻找意义和救赎的史诗。",
+      "quotes": [
+        {
+          "text": "It is the privilege of great men and women to accomplish great deeds; it is the task of philosophers to discover and write about them.",
+          "context": "开篇的哲学思考，为整部书关于生命意义的探寻定调"
+        },
+        {
+          "text": "The love you take is equal to the love you make.",
+          "context": "主角在爱情和牺牲中学到的终极真理"
+        },
+        {
+          "text": "I have learned that the universe is structured with grace and mercy at the centre of it.",
+          "context": "主角经历苦难后的精神觉醒"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的城市",
+      "title_en": "Invisible Cities",
+      "author_zh": "伊塔洛·卡尔维诺",
+      "author_en": "Italo Calvino",
+      "year": "1972",
+      "category": "文学",
+      "one_liner": "马可波罗向忽必烈讲述的55座城市，每一座都是想象力的杰作",
+      "deep_dive": "这是一部非常特别的书，读起来更像是做一个心灵实验。想象马可波罗不是讲历史上真实的城市，而是编织一些几乎是幻想的城市故事给忽必烈听。每一座城市都有奇特的特点——有的全是记忆，有的全是欲望，有的建立在死亡之上。卡尔维诺的天才在于用看似简短、诗意的描写让每座城市活灵活现。你不需要图片，光是文字就能在脑子里看到这些城市。比如有个城市所有建筑都是贝壳做的，有个城市的居民互相交易梦想，还有个城市完全由影子组成。这部书其实在问一个深层问题：城市是什么？是砖头和水泥吗？是人口统计吗？还是它由故事、记忆和想象构成？读这本书时，你会思考自己生活的城市，想象它背后的隐形结构。整部书的结构也很有意思，看似独立的故事，逐渐会发现一种模式和节奏，就像在听一首长诗。马可波罗和忽必烈之间的对话框架给了这部作品深层的哲学内核。",
+      "quotes": [
+        {
+          "text": "The city is not made of streets and houses; it is made of connections.",
+          "context": "城市本质的核心洞察，强调无形的网络比有形的建筑更重要"
+        },
+        {
+          "text": "It is the mood of the reader to decide if the cities described are happy or unhappy.",
+          "context": "强调读者想象力的重要性，每个人的看不见的城市都不同"
+        },
+        {
+          "text": "Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.",
+          "context": "旅行和想象的力量在于发现自己的不足和渴望"
+        }
+      ]
+    },
+    {
+      "title_zh": "千高原",
+      "title_en": "A Thousand Plateaus",
+      "author_zh": "德勒兹、瓜塔里",
+      "author_en": "Gilles Deleuze and Félix Guattari",
+      "year": "1980",
+      "category": "哲学",
+      "one_liner": "关于流动、连接和多元性的激进哲学著作，颠覆传统思维方式",
+      "deep_dive": "如果你听说过根茎这个概念，那可能就来自这本书。《千高原》非常难读但也非常有启发性。德勒兹和瓜塔里基本上在说：我们一直用树状结构思考世界——有根、有干、有分支。但实际上，世界更像根茎——多个中心，横向连接，随处生长，不需要统一起点。他们用高原这个比喻而不是峰，因为高原意味着没有最高点、没有目标，只有连续的动力。比起把所有东西指向终极目标，他们认为应该学会在高原之间游走、连接、变异。这本书涉及众多领域——音乐、政治、生物学、心理学。其中最著名的概念是光滑空间和条纹空间的区分。条纹空间就像城市，有秩序、有规划、有权力结构。光滑空间就像游牧民族的沙漠，自由流动，没有中心。虽然很难读，但读完之后会发现，这本书改变了你看待秩序、权力和创造力的方式。它告诉你并不是所有东西都需要组织成树状。反抗权力结构的一种方式就是学会思考和生活在根茎式、去中心化的方式中。",
+      "quotes": [
+        {
+          "text": "Arborescent systems are hierarchical systems with a center of power or memory. Rhizomatic systems are networks without beginning or end, without center.",
+          "context": "核心概念的阐述，对比树状和根茎两种思维方式的本质差异"
+        },
+        {
+          "text": "There are only lines.",
+          "context": "强调流动性和连接而不是固定的身份和位置"
+        },
+        {
+          "text": "A line of flight is traced when deterritorialization occurs.",
+          "context": "关于解放和逃逸的概念，强调打破既有秩序的可能性"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_0951"
+}
