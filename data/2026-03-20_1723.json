@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "物种起源",
+      "title_en": "On the Origin of Species",
+      "author_zh": "查尔斯·达尔文",
+      "author_en": "Charles Darwin",
+      "year": "1859",
+      "category": "自然与生态",
+      "one_liner": "通过自然选择解释了生物多样性的起源，颠覆了人类对生命的理解。",
+      "deep_dive": "《物种起源》是我读过的最具革命性的科学著作之一。达尔文花了20多年观察、收集数据，才敢发表这部著作。你能想象吗？他在加拉帕戈斯群岛看到那些鸟的喙因地制宜地进化，观察到岛屿上生物的细微差异，这些看似微小的变化累积起来，竟然能解释整个生命世界的多样性。最妙的是他提出的「自然选择」机制——那些更适应环境的生物存活下来，繁衍后代，把有利特征传递给子孙。没有什么神圣的设计，没有什么完美的计划，只有无数次的尝试和筛选。这个想法对19世纪来说简直是炸弹，它把人类从创世神话的中心拉了下来，告诉我们：你不过是演化链条上的一个环节。现在，无论你相信什么信仰，《物种起源》都已经深深融入了我们对世界的理解。",
+      "quotes": [
+        {
+          "text": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+          "context": "全书最著名的结尾段落，达尔文用诗一般的语言描绘了演化的宏大景象——从简单到复杂，从单调到绚丽。"
+        },
+        {
+          "text": "All the organic beings now living on this earth have descended from some one primordial form.",
+          "context": "所有生命出自一个共同祖先——这奠定了现代生物学的基础。"
+        }
+      ]
+    },
+    {
+      "title_zh": "社会契约论",
+      "title_en": "The Social Contract",
+      "author_zh": "让-雅克·卢梭",
+      "author_en": "Jean-Jacques Rousseau",
+      "year": "1762",
+      "category": "社科与历史",
+      "one_liner": "探讨人类从自由的自然状态如何进入有序的社会，以及权力的合法性基础。",
+      "deep_dive": "读《社会契约论》的时候，我才真正理解了为什么启蒙思想家们对这本书痴迷。卢梭开篇就说「人生而自由，却无往不在枷锁之中」，这句话现在听起来还是能刺痛人心。他问了一个简单却深刻的问题：如果我们本来是自由的，为什么要受制于法律？什么赋予了权力的合法性？他的答案是「社会契约」——我们主动同意放弃一些自然自由，换取有组织社会生活的便利。但这里有个关键转折：真正的权力应该来自「人民主权」，即所有人的共同意志。这个思想直接启发了后来的民主运动。你看美国宪法、法国大革命，那些革命者都拿着卢梭的思想当武器。卢梭还提出了「一般意志」的概念，区别于任何个人或少数人的意志。这个想法既深刻又危险，因为历史上很多独裁者都声称代表了「人民的真正意志」。但无论如何，这本书改变了人们对权力和自由的思考方式，影响深远。",
+      "quotes": [
+        {
+          "text": "Man is born free, and everywhere he is in chains.",
+          "context": "开篇最著名的一句，卢梭直指人类的根本矛盾——自然赋予的自由与社会现实的束缚之间的冲突。"
+        },
+        {
+          "text": "The general will is always right and tends invariably towards public utility.",
+          "context": "卢梭关于人民主权的核心论述，强调集体意志的正当性，这成为现代民主理论的基石。"
+        },
+        {
+          "text": "Whoever refuses to obey the general will shall be forced to be free.",
+          "context": "最具争议的一句——这个看似矛盾的表述背后是卢梭对自由和秩序的独特理解。"
+        }
+      ]
+    },
+    {
+      "title_zh": "金阁寺",
+      "title_en": "The Temple of the Golden Pavilion",
+      "author_zh": "三岛由纪夫",
+      "author_en": "Mishima Yukio",
+      "year": "1956",
+      "category": "文学",
+      "one_liner": "通过一个口吃少年对金阁寺的执念，探讨美与丑、理想与现实、创造与毁灭的终极问题。",
+      "deep_dive": "《金阁寺》是我读过最令人不安却最入迷的小说。主人公溶月是个口吃的少年，在父亲的诱导下，他对京都的金阁寺产生了一种病态的执着。这不仅仅是对建筑的欣赏，而是对绝对之美的饥渴。在他眼中，金阁寺完美得令人窒息，它代表了世间所有虚伪、丑陋事物的反面。三岛由纪夫用细腻得几乎残忍的笔触描绘了溶月内心的扭曲。一个口吃的孩子，看着完美的寺庙，看着年轻美貌的师兄和世间的美女，产生了一种不可名状的嫉恨。美好的东西会让丑陋更加刺痛，理想会让现实更加难堪。他甚至开始觉得，自己之所以丑陋而虚伪，就是因为金阁寺的存在。这本书最恐怖的地方在于，你会发现自己开始理解甚至同情主人公的疯狂。当现实永远无法达到理想，当美永远存在于可望而不可及的地方，人心中会产生什么样的扭曲？三岛用一场大火给了我们一个答案，但这个答案反而激发了更多的问题。这是部会让你彻夜难眠的小说。",
+      "quotes": [
+        {
+          "text": "从远古的时代起，就有人因为美而感到痛苦。",
+          "context": "全书的精神内核。溶月对金阁寺的执念正源于此——美不是救赎，反而成了诅咒，因为它突显了现实的丑陋。"
+        },
+        {
+          "text": "美本身并不存在，只存在于我们的想象中。",
+          "context": "溶月对美的理解——美不是客观的，而是主观的渴望与现实的碰撞。"
+        },
+        {
+          "text": "我憎恨美，因为美提醒我自己的丑陋。",
+          "context": "小说中最黑暗的独白，揭示了嫉恨与执念的真相。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1723"
+}
