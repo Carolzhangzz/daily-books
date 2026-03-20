@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "冰与火之歌",
+      "title_en": "A Song of Ice and Fire",
+      "author_zh": "乔治·R·R·马丁",
+      "author_en": "George R. R. Martin",
+      "year": "1996",
+      "category": "文学",
+      "one_liner": "一部结合中世纪奇幻、政治阴谋与复杂人性的史诗级奇幻小说，讲述七大王国为争夺铁王座而上演的权力游戏，以及即将降临的黑暗威胁",
+      "deep_dive": "很多人通过电视剧才认识《冰与火之歌》，但读小说是另一种体验。马丁的笔下，每个人物都有自己的动机、局限和矛盾，没有绝对的英雄或反派。你会爱上雪诺，然后他死了；你会支持史塔克家族，然后他们一个接一个地倒下。这就是现实的残酷，也是这部作品的魅力所在。故事发生在虚构的维斯特洛大陆，几个大家族为了铁王座互相残杀，同时一股神秘的黑暗势力从北方逼近。马丁不遵循传统奇幻的规则——主角不是金牌不死，骑士不总是高尚的，婚礼也可能变成屠杀。这种不可预测性让阅读体验既令人沮丧又令人着迷。更重要的是，这部作品探讨了权力的本质、政治的肮脏、家族的羁绊，以及个人欲望与时代洪流的冲突。虽然小说还没完结，但这并不妨碍它成为现代奇幻文学的里程碑。",
+      "quotes": [
+        {
+          "text": "A reader lives a thousand lives before he dies. The man who never reads lives only one.",
+          "context": "马丁强调阅读的力量，每个故事都让我们经历不同的人生"
+        },
+        {
+          "text": "When you play the game of thrones, you win or you die.",
+          "context": "权力游戏的残酷法则，没有中立、没有安全，只有胜负"
+        },
+        {
+          "text": "The night is dark and full of terrors.",
+          "context": "红神信徒的警句，暗示未知威胁与死亡的永恒主题"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术与错觉",
+      "title_en": "Art and Illusion: A Study in the Psychology of Pictorial Representation",
+      "author_zh": "E·H·贡布里希",
+      "author_en": "E. H. Gombrich",
+      "year": "1960",
+      "category": "艺术与美学",
+      "one_liner": "一部关于艺术创作与视觉认知的经典著作，探讨艺术家如何通过约定俗成的符号系统捕捉和表现世界",
+      "deep_dive": "你看到一幅画的时候，真的看到的是那个东西吗？贡布里希这部著作就在回答这个问题。他主张艺术不是对现实的简单复制，而是艺术家与观众之间的一场对话。艺术家使用的每一条线、每一个色彩，都是一个约定——一个视觉语言的符号。观众则需要学会读懂这个符号系统。比如，一条曲线不是真实的线条，而是代表空间深度的约定；一个阴影不是真实的阴影，而是暗示体积的符号。这本书通过大量历史例子证明，我们观看艺术作品的方式是经过学习的，而不是天生的。从古埃及艺术到文艺复兴，从印象派到现代艺术，贡布里希展示了艺术表现手法的演变过程。他的洞察力在于揭示了'风格'的形成——艺术家不是盲目遵循传统，而是在既定的约定基础上，通过选择、创新和突破，创造新的视觉语言。这本书对于想要理解现代艺术、摄影、平面设计的人来说是一盏明灯。",
+      "quotes": [
+        {
+          "text": "The artist must know not only what to represent but how to represent it.",
+          "context": "艺术的核心不仅是选择主题，更重要的是掌握表现的方法"
+        },
+        {
+          "text": "There is no innocent eye; all seeing is selective.",
+          "context": "我们的观看从不中立，总是被既往的经验和知识所塑造"
+        },
+        {
+          "text": "Art is not what you see, but what you make others see.",
+          "context": "艺术的力量在于与观众的沟通与启蒙，而非单向的展示"
+        }
+      ]
+    },
+    {
+      "title_zh": "动物农场",
+      "title_en": "Animal Farm",
+      "author_zh": "乔治·奥威尔",
+      "author_en": "George Orwell",
+      "year": "1945",
+      "category": "文学",
+      "one_liner": "一部讽刺寓言，通过农场动物推翻人类统治的故事，深刻批评了权力的腐蚀和革命理想的沦陷",
+      "deep_dive": "这是奥威尔最精妙的作品。表面上看，这是一个简单的故事：农场的动物在两匹聪慧的马的领导下，赶走了农场主，建立了一个动物自治的社会。但随着时间推移，猪逐渐掌握权力，最终变成了比从前的人类主人更残暴的统治者。故事的天才之处在于它的广泛适用性——不仅讽刺了苏联的专制，更揭露了所有权力体系的通病：权力会腐蚀，掌权者会为了维持统治而不断修改规则，理想主义在现实面前变得一文不值。那些最初的理想主义者，要么被消除，要么被同化。故事中最令人心寒的地方不是暴力，而是对历史的篡改和语言的扭曲。'所有动物都生而平等，但有些动物比其他动物更平等'——这一句话道尽了权力对真理的践踏。这部作品虽然只有一百来页，却比许多厚重的政治理论著作更有说服力，因为它把抽象的理论具体化为一个任何人都能理解的故事。",
+      "quotes": [
+        {
+          "text": "All animals are equal, but some animals are more equal than others.",
+          "context": "这句被修改后的七戒，讽刺了权力的虚伪与对平等的背离"
+        },
+        {
+          "text": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+          "context": "小说结尾，掌权者与被推翻的统治者已无区别，讽刺了革命的彻底失败"
+        },
+        {
+          "text": "Power tends to corrupt, and absolute power corrupts absolutely.",
+          "context": "虽然这句话不是奥威尔原创，但正是这部作品最深刻的内核"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2330"
+}
