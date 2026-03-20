@@ -1,0 +1,30 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "象与骑象人",
+      "title_en": "The Happiness Hypothesis",
+      "author_zh": "乔纳森·海特",
+      "author_en": "Jonathan Haidt",
+      "year": "2006",
+      "category": "心理学",
+      "one_liner": "用象和骑象人的隐喻揭示理性与直觉的冲突，探讨幸福的真谛。",
+      "deep_dive": "这本书用了一个绝妙的比喻：我们的思维就像一头大象和骑象人。象代表我们的直觉、情感和本能，骑象人代表我们的理性和逻辑。骑象人往往以为自己在完全掌控一切，但实际上，象才是真正的主宰。大多数时候，骑象人只是在事后为象的决定编造理由。这个隐喻解释了为什么我们明知某些事不对，还是会去做；为什么再多的事实和论证也改变不了一个人的想法——因为那不是理性能解决的问题。海特是社会心理学家，他通过大量研究和案例深入探讨了幸福的悖论：我们追求的快乐往往逃之夭夭，反而是经历困难、挑战和与他人的连接，才是真正的幸福之源。书中融合了心理学、神经科学、哲学和古老智慧传统的观点，比如佛教、斯多葛主义，让你明白幸福不是可以直接追求的目标，而是生活方式的副产品。如果你曾困惑于为什么人类这么不理性，为什么改变一个人的想法这么难，这本书会给你深刻的答案。",
+      "quotes": [
+        {
+          "text": "The rider and the elephant are in fact running in the same direction, but if they ever disagree, the elephant will win.",
+          "context": "这句话核心说明了直觉和情感的力量远超理性——我们不是纯粹的理性生物，情感往往才是最终的主宰者。"
+        },
+        {
+          "text": "Happiness is not something that can be directly pursued. It must ensue.",
+          "context": "追求幸福本身往往失败，真正的幸福来自于有意义的活动和与他人的连接——这打破了许多人对幸福的直观理解。"
+        },
+        {
+          "text": "We are 90 percent chimp and 10 percent bee. The chimp part drives our immediate self-interest. But humans also have a hive mind that makes us highly cooperative.",
+          "context": "说明了人类中自私本能和群体合作本能的双重特性，这两种力量的平衡决定了社会和个人的运作方式。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2141"
+}
