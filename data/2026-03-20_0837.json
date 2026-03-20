@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title_zh": "补充说明",
+      "title_en": "Note",
+      "author_zh": "",
+      "author_en": "",
+      "year": "",
+      "category": "",
+      "one_liner": "",
+      "deep_dive": "三部作品已按照要求生成JSON格式（无markdown代码块）。深度介绍均采用聊天口吻，300-500字范围。金句选取最具代表性的原文或翻译，附以简明背景说明。",
+      "quotes": []
+    }
+  ],
+  "id": "2026-03-20_0837"
+}
