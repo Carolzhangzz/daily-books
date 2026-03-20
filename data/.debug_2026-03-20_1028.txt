@@ -1,0 +1,7 @@
+已为三本书生成了推荐内容。等待您授权保存JSON文件后，我会：
+
+1. 保存到 `/Users/carol/Documents/daily-books/data/2026-03-20.json`
+2. 更新索引文件
+3. 推送到GitHub Pages
+
+请点击授权以继续。
