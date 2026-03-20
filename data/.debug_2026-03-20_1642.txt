@@ -1,0 +1,81 @@
+我来为这三本书生成中文推荐。根据你的参数，这是指定书籍模式。
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "野性的呼唤",
+      "title_en": "The Call of the Wild",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1903",
+      "category": "文学",
+      "one_liner": "一条被迫进入野外的家犬，在残酷的自然选择中回归本能，最终成为狼群之主的史诗。",
+      "deep_dive": "这是我最喜欢的冒险小说之一。故事从一条舒服的家犬巴克开始——它在加州一户富有人家过着衣食无忧的生活，直到被园丁偷走，卖给了淘金者。从那一刻起，巴克的整个世界崩塌了。它被迫学会如何在险恶的环境中生存，经历一个又一个主人，有些残忍，有些无能。但这个过程中，巴克身体里那份被驯化压抑的野性逐渐觉醒。伦敦写得太棒了——你能感受到那种肉体的疼痛、寒冷的咬噬、饥荒的折磨，还有随之而来的力量。最后当巴克遇到约翰·桑顿——唯一真正爱它的人——的时候，那种情感的释放让人泪目。但当桑顿去世，巴克终于完全融入野性，成为传说中的幽灵犬和狼群首领，你会觉得这不是悲剧，反而是某种解放。这部作品不仅是冒险故事，更是对文明与野性、驯化与自由之间那条微妙界线的终极思考。每个被生活驯化得疲惫的人，都该读读这个故事。",
+      "quotes": [
+        {
+          "text": "The domesticated generations fell from him. And in a way he came into his own again, responding to the call which had sounded in his blood long before he was born.",
+          "context": "巴克回归本性的关键时刻，说明有些东西根本压抑不住，那是来自祖先的召唤"
+        },
+        {
+          "text": "He had come to know on sight the breed and weight of a wolf by the feel of it and the set of its ears.",
+          "context": "描写巴克如何在野外学会生存技能，体现动物本能的强大与适应"
+        },
+        {
+          "text": "Love, genuine love, was his for the first time. This he had never experienced at the Judge's house down in the sun-kissed Santa Clara Valley.",
+          "context": "关于真爱与救赎的瞬间，约翰·桑顿对巴克的意义超越了物质舒适"
+        }
+      ]
+    },
+    {
+      "title_zh": "时间简史",
+      "title_en": "A Brief History of Time",
+      "author_zh": "斯蒂芬·霍金",
+      "author_en": "Stephen Hawking",
+      "year": "1988",
+      "category": "科学与认知",
+      "one_liner": "用最平易近人的语言，解释大爆炸、黑洞、时间的本质，以及我们如何理解宇宙。",
+      "deep_dive": "霍金这本书改变了我对宇宙的理解——不是通过深奥的数学，而是通过清晰的直觉。他从最基本的问题开始：宇宙有开始吗？会有结束吗？时间本身是什么？读这本书的妙处在于，霍金不会假装任何东西很简单，但他有能力用类比和故事让复杂的概念变得可触及。他讲黑洞时，你能感受到那种无法逃脱的绝对力量；讲膨胀的宇宙时，你能想象那种无限扩张的恐怖与壮美。最深刻的部分是他关于"时间之箭"的讨论——为什么过去和未来不对称，为什么我们只能记住过去。还有那个大胆的假设：也许宇宙没有边界，就像地球表面没有边界一样，它只是自己闭合。这本书不仅传递知识，更重要的是它唤醒了你对存在本身的好奇心。对任何想理解现代物理学基础、对宇宙充满敬畏的人来说，这是必读。",
+      "quotes": [
+        {
+          "text": "It is a bit like asking what is north of the North Pole. North itself does not exist north of the North Pole, so there is no point in asking what lies north of it.",
+          "context": "霍金用这个优雅的类比解释为什么问'大爆炸之前发生了什么'这个问题没有意义"
+        },
+        {
+          "text": "The universe doesn't allow perfection. If the universe was perfect, it wouldn't allow for any growth or potential.",
+          "context": "关于宇宙不完美性的哲学思考，说明了变化与演化的必然性"
+        },
+        {
+          "text": "Science predicts that many different kinds of universe will be spontaneously created out of nothing. Most will collapse back into nothing. Some expand.",
+          "context": "多元宇宙假说，霍金最激进的猜想，挑战我们对'宇宙唯一性'的想象"
+        }
+      ]
+    },
+    {
+      "title_zh": "成为波伏瓦",
+      "title_en": "Becoming Beauvoir",
+      "author_zh": "凯特·柯克帕特里克",
+      "author_en": "Kate Kirkpatrick",
+      "year": "2019",
+      "category": "传记与回忆录",
+      "one_liner": "追溯西蒙娜·德·波伏瓦如何从被束缚的小镇女孩，蜕变为20世纪最激进的女性主义哲学家。",
+      "deep_dive": "这本传记让我重新认识波伏瓦——不仅仅作为《第二性》的作者，而是作为一个人。柯克帕特里克没有写一本学术传记，而是写了一个女性如何一步步打破束缚、重塑自我的故事。波伏瓦出生在巴黎的资产阶级家庭，父亲破产后，她的人生轨迹完全改变。她本来应该嫁给一个'好男人'、安顿下来，但她有不同的计划。通过教育、哲学，最重要的是通过拒绝，她赢得了自由。这不是一场浪漫的胜利——有很多孤独、有经济的困顿、有来自社会的压力。特别有趣的是她与萨特的关系，那不是传统意义上的爱情关系，而是两个知识精英之间的伙伴关系，一种基于自由与相互尊重的联盟。书中也深入探讨了她如何写出《第二性》这部奠基性著作，那时女性甚至不被允许畅谈自己的身体和性。波伏瓦的一生是对'女性就是女人'的终极反驳——女性首先是人，是自由的存在，这个观点在1949年是革命性的，现在仍然是。",
+      "quotes": [
+        {
+          "text": "One is not born, but rather becomes, a woman.",
+          "context": "波伏瓦最著名的开场白，颠覆了性别本质主义，宣称女性身份是文化建构，而非天然属性"
+        },
+        {
+          "text": "I am my own woman, and I refuse to be defined by anyone else's expectations.",
+          "context": "体现了波伏瓦终身追求的核心主题——自由与自主，拒绝被标签化"
+        },
+        {
+          "text": "One cannot be deeply responsive to the world without being saddened very often.",
+          "context": "波伏瓦对深刻生活代价的诚实思考，说明选择自由与真实需要付出代价"
+        }
+      ]
+    }
+  ]
+}
+```

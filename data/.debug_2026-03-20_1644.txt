@@ -1,0 +1,1 @@
+我需要权限确认才能写入文件。请允许我将生成的书籍推荐内容保存到 `/Users/carol/Documents/daily-books/data/2026-03-20.json`。
