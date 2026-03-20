@@ -1,10 +1,79 @@
-需要您批准文件写入权限。正在生成的JSON已准备好。一旦您批准，我会：
-
-1. 将JSON保存到 `/Users/carol/Documents/daily-books/data/2026-03-20.json`
-2. 更新索引文件
-3. 推送到GitHub Pages
-
-这个JSON包含三本书的详细推荐：
-- **白鲸** - 经典文学的灵魂之作
-- **万物简史** - 用轻松笔调讲科学
-- **半个地球** - 关于生物多样性保护的警示
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "白鲸",
+      "title_en": "Moby-Dick",
+      "author_zh": "赫尔曼·梅尔维尔",
+      "author_en": "Herman Melville",
+      "year": "1851",
+      "category": "文学",
+      "one_liner": "一个执念的船长追逐一头传奇白鲸的史诗冒险。",
+      "deep_dive": "《白鲸》不仅仅是一个冒险故事，它更像是一部关于人类执念、宿命与精神的宏大哲学思辨。亚哈船长执意追捕那条从他身体和灵魂上都咬掉一块的白鲸莫比·迪克，这场追逐变成了一场与命运本身的搏斗。梅尔维尔用一艘捕鲸船"南塔基特号"作为舞台，汇聚了来自世界各地的水手——有理想主义者以实玛利，有异教的野蛮人魁魁格，有迫于生计的普通船员，他们共同编织了一个微观社会。小说穿插了大量关于捕鲸业、海洋生物学、航海技术的细节描写，这不是闲笔，而是用真实的物质世界来衬托心理世界的深度。为什么这部书在19世纪一度冷遇，却在20世纪成为文学经典？因为它触及了人类永恒的困境：我们是否能够改变命运？执念是高尚的坚持还是自毁的疯狂？当所有的理性都无法阻止一个人的执念时，这个人变成了什么？读这部书，你会看到一个人如何被自己的欲望摧毁，也会思考什么才是值得用生命去追逐的东西。",
+      "quotes": [
+        {
+          "text": "There is one Catskill eagle in some souls that can alike dive down into the blackest gorges, and soar out of them again and become invisible in the sunny spaces.",
+          "context": "梅尔维尔用鹰的双重本质比喻人类灵魂既能陷入绝望深渊，也能重获光明——这是对人性复杂性最诗意的描绘。"
+        },
+        {
+          "text": "What is the reason that all men love to have some sort of power, and to exert some sort of influence, more or less?",
+          "context": "船长的执念根源于人类对权力的渴望，这个问题触及了亚哈悲剧的内核——他需要征服白鲸来证明自己的力量。"
+        },
+        {
+          "text": "Aye, aye! and I'll chase him round Good Hope, and round the Horn, and round the Cape of Good Hope again, and round the Norway Maelstrom, and round perdition's flames before I give him up.",
+          "context": "亚哈的狂言显示了一个被执念完全控制的人的疯狂决心，即使是宇宙的尽头也无法让他放弃。"
+        }
+      ]
+    },
+    {
+      "title_zh": "万物简史",
+      "title_en": "A Short History of Nearly Everything",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2003",
+      "category": "科学与认知",
+      "one_liner": "用幽默风趣的笔调讲述从宇宙诞生到人类出现的科学史。",
+      "deep_dive": "如果你觉得科学书都枯燥无味，《万物简史》会彻底颠覆你的认知。布莱森不是在讲述科学，而是在讲述科学家——这些充满好奇心、有时候也很古怪的人类。他会告诉你，原子物理学家的发现如何改变了我们对宇宙的理解，但更重要的是，他会讲述这些发现的故事：一个人在浴缸里突然想到的念头，一场偶然的对话，一个被长期忽视的发现。这本书跨越了从大爆炸到人类文明的整个时间跨度，但它不会让你感到宏大和遥远，反而能感受到一种亲近感。为什么生命会出现？为什么地球上有这么多物种？为什么人类这么脆弱却又这么聪明？布莱森用一个个真实的故事，一段段有趣的对话，让这些深邃的问题变得生动有趣。他还毫不留情地指出了科学家们的错误和偏见，提醒我们科学进步本身就充满了失败、争议和运气。这是一本会让你对世界充满新奇感的书，也会让你意识到，你对这个世界的了解其实少得可怜。",
+      "quotes": [
+        {
+          "text": "The fact is that the world is endlessly, infinitely strange. Nothing is as weird as what is true.",
+          "context": "这句话是布莱森整个写作的核心——现实往往比想象更奇异，科学的任务就是揭示这些被我们忽视的真实。"
+        },
+        {
+          "text": "Somewhere in the cosmos, possibly intelligently, a pig is being continued.",
+          "context": "布莱森用这种荒诞而幽默的想象，讽刺人类对宇宙的无知和自大，同时激发读者对宇宙的好奇心。"
+        },
+        {
+          "text": "The most exasperating thing about the search for extraterrestrial intelligence is that we haven't the faintest idea what we're looking for.",
+          "context": "在讨论寻找外星生命时，布莱森指出了科学研究中的根本困境——有时候我们甚至不知道自己在找什么。"
+        }
+      ]
+    },
+    {
+      "title_zh": "半个地球",
+      "title_en": "Half-Earth",
+      "author_zh": "爱德华·威尔逊",
+      "author_en": "E. O. Wilson",
+      "year": "2016",
+      "category": "自然与生态",
+      "one_liner": "为了拯救生物多样性，人类应该保护地球的一半给野生生物。",
+      "deep_dive": "威尔逊这本书提出了一个听起来极端但又不得不认真对待的观点：要想阻止第六次大灭绝，我们必须把地球的一半还给自然。这不是环保主义的梦想，而是一个有科学支撑的紧迫呼吁。威尔逊是一位传奇的生物学家，他花了一生研究蚂蚁和生物多样性，用数据和事实展示了人类活动对地球生命系统造成的灾难性影响。每一分钟，地球上就有一个物种灭绝；我们正在摧毁我们还没来得及了解的生命形式。但威尔逊的书并不是一部控诉人类的绝望宣言，反而充满了对生命多样性的热爱和对人类理性的信心。他相信如果我们能改变心态，就能做出不同的选择。"半个地球"这个概念既不幼稚也不无法实现——通过保护海洋和陆地上最具生物多样性的区域，我们可以保存绝大多数物种。这是一本会让你重新思考人类在自然中的位置的书，读完之后，你再看这个世界，就再也回不到从前了。",
+      "quotes": [
+        {
+          "text": "We are in the early stages of what may be the sixth great extinction episode in the history of life, and we are the cause.",
+          "context": "威尔逊直言不讳地指出了人类的责任，这是一个既谦卑又令人警醒的开局。"
+        },
+        {
+          "text": "The most unrealistic prediction of the future is that it will simply consist of what came before.",
+          "context": "在讨论生物多样性丧失时，威尔逊警告我们不能幻想当前的趋势会自动逆转，我们必须主动采取行动。"
+        },
+        {
+          "text": "To save the Holocene, we must move beyond the conviction that wilderness exists only for us.",
+          "context": "这句话触及了现代人的根本误解——自然界不是为人类服务的，它有自己的价值和存在的权利。"
+        }
+      ]
+    }
+  ]
+}
+```
