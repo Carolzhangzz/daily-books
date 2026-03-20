@@ -1,0 +1,81 @@
+Looking at the three books you've provided, I'll generate the JSON recommendations for you now.
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "论确实性",
+      "title_en": "On Certainty",
+      "author_zh": "路德维希·维特根斯坦",
+      "author_en": "Ludwig Wittgenstein",
+      "year": "1969",
+      "category": "哲学",
+      "one_liner": "挑战笛卡尔式怀疑论，揭示人类知识的基础其实来自生活的实践框架，而非理性论证",
+      "deep_dive": "这本书是维特根斯坦生前最后的手稿，写于1950-1951年，讲的是一个看似简单但超深的问题：什么才是确实的？你可能会想起笛卡尔那个著名的"我思故我在"，维特根斯坦在这里跟笛卡尔有点"较劲"。笛卡尔说应该怀疑一切，但维特根斯坦觉得这逻辑有问题——在真正"怀疑之前"，我们已经接受了大量的东西，比如我现在坐在椅子上、我有两只手、世界存在……这些东西在哲学思辨之前，就已经是生活的基础了。\n\n维特根斯坦用的是个很实用的角度：我们不是通过论证来确立基础信念的，而是通过生活实践。知识就像由柱子撑起的建筑，下面那些最基础的柱子，我们甚至无法质疑它们——如果质疑一切，反而无法生活。所以真正的确实性，不是理性证明的结果，而是我们生活中不可动摇的框架。\n\n这本书的贡献是打破"确实性必须通过理性论证获得"这个迷思。有些东西我们根本不需要证明，因为它们本身就是我们思考和生活的前提。这对后来的认识论、科学哲学都产生了深远影响。读这本书时，你会不断问自己：我到底对什么有把握？我为什么有把握？这个看起来抽象的问题，其实关乎我们怎么理解知识、信念、甚至生活的意义。",
+      "quotes": [
+        {
+          "text": "If you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty.",
+          "context": "维特根斯坦指出怀疑这个动作本身就需要某些确实的前提，纯粹的怀疑是不可能的"
+        },
+        {
+          "text": "It is not that I have learned that I have two hands, but rather the certainty of it is part of my frame of reference.",
+          "context": "说明确实性是生活框架的一部分，而不是需要被学习或证明的知识"
+        },
+        {
+          "text": "A child could not learn those things which we grown-ups regard as the most certain of all.",
+          "context": "强调了某些知识在我们的社会实践和生活框架中是根本的、无法教授的"
+        }
+      ]
+    },
+    {
+      "title_zh": "渴望生活：梵高传",
+      "title_en": "Lust for Life",
+      "author_zh": "欧文·斯通",
+      "author_en": "Irving Stone",
+      "year": "1934",
+      "category": "文学/传记",
+      "one_liner": "追踪梵高跌宕起伏的人生和艺术追求，揭示这位孤独艺术家如何在痛苦中创造永恒之美",
+      "deep_dive": "《渴望生活》是欧文·斯通最著名的作品，讲的是荷兰画家文森特·梵高的一生。但这不是一般的传记——它更像是一部文学小说，把梵高的人生还原成了一个悲壮、炽热的故事。梵高年轻时想做牧师、帮助贫困的矿工，却被教会赶了出来，一度陷入绝望。但就在这时，他发现了绘画——这成了他生命的全部寄托。从那一刻起，他就像着了魔一样投入到艺术创作中，每一笔都充满激情。\n\n这本书厉害的地方在于，斯通不是冷冷地列举梵高的生平事件，而是让你切身感受到梵高内心的挣扎。你能感受到他面对贫穷和孤独时的绝望，他在创作时的狂热，他对色彩和形式的执着追求。梵高去巴黎、去阿尔勒，试图找到属于自己的艺术语言，同时寻找理解和接纳。但世界似乎总是拒绝他。最令人心碎的是，梵高在世时几乎没人欣赏他的作品——一生只卖出过一幅画，经济上一直被家人支持，精神上却极度孤独。\n\n但这本书的核心不是要你感到悲伤，而是问：什么样的渴望能让一个人在绝望中坚持？什么样的信念能让他在被世界否定后，依然为艺术的纯粹性而活？梵高就是这样的人——他"渴望生活"，不是为了成功或被认可，而是纯粹为了创造。读完这本书，你会重新审视什么是成功、什么是有意义的人生。梵高的失败、孤独和疯狂，恰恰成了他艺术永恒的源泉。",
+      "quotes": [
+        {
+          "text": "I dream my painting and I paint my dream.",
+          "context": "梵高的艺术哲学——绘画不是对现实的模仿，而是内心世界的外化"
+        },
+        {
+          "text": "What am I in the eyes of most people? A nonentity, an eccentric, or an unpleasant person. But I know my own work and I know the direction I'm going.",
+          "context": "梵高面对世界的否定时，仍坚守对艺术的信念"
+        },
+        {
+          "text": "Great things are done by a series of small things brought together.",
+          "context": "强调了持续的、微小的努力如何最终成就伟大"
+        }
+      ]
+    },
+    {
+      "title_zh": "万物的终结",
+      "title_en": "The End of Everything",
+      "author_zh": "凯蒂·莫根",
+      "author_en": "Katie Mack",
+      "year": "2020",
+      "category": "科学/宇宙学",
+      "one_liner": "探讨宇宙的各种末日情景，从大撕裂到热寂，用科学和诗学的方式揭示存在的终极问题",
+      "deep_dive": "凯蒂·莫根是一位真正的天体物理学家，她用科学、诗意和幽默的方式来讨论一个终极问题：宇宙的结局会是什么样的？宇宙会怎么死？这个问题听起来很绝望，但莫根把它处理得非常优雅。她列举了几种科学家目前认为可能的宇宙末日情景：首先是"大撕裂"——如果暗能量继续加速宇宙膨胀，最终会把所有原子都扯开；其次是"热寂"——宇宙不断膨胀和冷却，直到一切都陷入无尽黑暗；还有"大坍缩"——宇宙膨胀反转，一切都向内坍缩；甚至还有"虚假真空衰变"这样的科幻级末日。\n\n但这本书的魅力不在于吓唬你，而在于它提供了全新的视角。当我们谈论宇宙的终结时，我们其实在问：一切意味着什么？如果宇宙终将消亡，我们的存在有意义吗？莫根用了个巧妙的框架：宇宙的不同末日情景反映了我们对宇宙本质的不同理解。通过探讨这些末日，我们学到的是宇宙如何演化、暗物质和暗能量的作用、时间和空间的本质。科学成了诗学的工具，让我们能够思考最深层的存在问题。\n\n另一个值得注意的是，莫根讨论这些宏大的宇宙问题时，始终保持亲切感。她会突然插入个人观察，或用日常比喻来解释复杂的物理学概念。最后的信息不是绝望，而是奇异的自由：如果一切都终将结束，那我们现在能做的就是充分地活在当下，去追求知识，去联结彼此。末日的思考，反而让我们更加珍惜生命。",
+      "quotes": [
+        {
+          "text": "The universe might not end in a bang or a whimper, but in an exceedingly long, slowly-stretching kind of fade.",
+          "context": "莫根在描述热寂情景下宇宙的最终命运——一个漫长的冷却过程"
+        },
+        {
+          "text": "Contemplating our cosmic insignificance can actually be profoundly liberating. It means we're free to make meaning in the present.",
+          "context": "思考宇宙终结的哲学意义——认识到自己的微小，反而赋予了我们在当下创造意义的自由"
+        },
+        {
+          "text": "The study of how the universe might end is, in some sense, the ultimate application of physics.",
+          "context": "强调了宇宙论的极限问题如何推动我们对物理学根本法则的理解"
+        }
+      ]
+    }
+  ]
+}
+```
