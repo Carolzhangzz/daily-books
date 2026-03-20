@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "人工智能简史",
+      "title_en": "Artificial Intelligence: A Brief History",
+      "author_zh": "尼尔斯·J·尼尔松",
+      "author_en": "Nils J. Nilsson",
+      "year": "2009",
+      "category": "科学与认知",
+      "one_liner": "从早期逻辑推理到现代机器学习，追溯人工智能半世纪的探索与突破",
+      "deep_dive": "这本书就像是AI领域的一段亲密对话。Nilsson是AI的见证者，他从20世纪50年代的图灵测试和逻辑推理开始讲起，带你走过Lisp时代、专家系统的繁荣与寒冬、再到今天深度学习的复兴。最吸引人的是，他不是站在高处俯视这段历史，而是以一种很个人化的方式回忆了那些关键时刻——达特茅斯夏季研讨会怎样点燃了整个领域的梦想，为什么当时的人们对AI的预期那么高，又怎样陷入了一次次的失望。书里讲到搜索、启发式方法、神经网络这些核心概念时，Nilsson用的是讲故事的方式。你能感受到AI研究者从最初的乐观，到遭遇真实世界复杂性而产生的困顿，再到新方法带来的重生。读完这本书，你会明白现在流行的很多AI概念其实都有深远的历史根源，而那些\"失败\"的方向也并非毫无价值。这本书帮助你理解为什么AI很难，以及为什么有些看似简单的任务反而可能先被攻克。",
+      "quotes": [
+        {
+          "text": "The central challenge of AI is to figure out how to represent knowledge about the world.",
+          "context": "Nilsson强调知识的获取和表示一直是AI最核心的难点，这在今天的研究中仍然关键"
+        },
+        {
+          "text": "We should not be disappointed by the limitations of AI; instead, we should be amazed by how much has been accomplished.",
+          "context": "反映了对AI研究的务实态度，既承认困难，也肯定进展"
+        }
+      ]
+    },
+    {
+      "title_zh": "国富论",
+      "title_en": "The Wealth of Nations",
+      "author_zh": "亚当·斯密",
+      "author_en": "Adam Smith",
+      "year": "1776",
+      "category": "社科与历史",
+      "one_liner": "经济学的奠基之作，用看不见的手解释市场如何创造财富与繁荣",
+      "deep_dive": "说起《国富论》，很多人第一反应就是\"看不见的手\"这个概念，但这本1776年出版的巨著其实远比这个名言丰富。斯密是个特别务实的思想家，他不是坐在书房里凭空想象，而是走出去观察真实的生产和贸易。书的开头，他用整章讲述针厂的例子——通过分工让产量从每天不足20根飙升到几千根。这个观察成为整本书的基础：分工如何提高生产效率，进而创造财富。然后他层层推进，讲劳动是衡量财富的真正标准，讲价格如何在供给和需求的平衡中波动，讲自由贸易为什么能互利。那个\"看不见的手\"其实就是市场的自我调节能力——当你追求自己的经济利益时，反而在无意中促进了社会的整体福祉。妙处在于，斯密虽然是资本主义的理论奠基人之一，但他从不天真地认为市场是完美的。他也讨论垄断的危害、劳资对立、政府的必要角色。所以今天读《国富论》，既能理解现代经济学的根源，又能发现它远比后来被简化的版本要复杂、要有人性得多。",
+      "quotes": [
+        {
+          "text": "The real price of everything is the toil and trouble of acquiring it.",
+          "context": "斯密的核心观点——劳动才是衡量财富的真正标准，这颠覆了当时流行的重金属贸易观"
+        },
+        {
+          "text": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.",
+          "context": "优雅地说明了为什么自利的行为可以创造公共利益，是全书最著名的洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "钟形罩",
+      "title_en": "The Bell Jar",
+      "author_zh": "西尔维亚·普拉特",
+      "author_en": "Sylvia Plath",
+      "year": "1963",
+      "category": "文学",
+      "one_liner": "一个天才少女在光鲜社会的压力下逐渐陷入精神危机，以自传小说的笔触探讨了现代女性的困境",
+      "deep_dive": "《钟形罩》很容易被误读。很多人知道它因为作者的悲剧而赋予它预言的色彩，但这部作品远比传记事实复杂迷人。它讲的是埃丝特，一个19岁的天才女孩，看起来拥有一切——聪慧、美貌、杂志实习机会、富有家庭的支持。但在1950年代的纽约，她逐渐感到窒息。那个\"钟形罩\"就是这种压抑感——她被困在看不见但无法打破的玻璃罩里，外面是闪闪发光的世界，但所有期待都不是来自她自己，而是来自社会对女性应该是什么样那些固执的想象。普拉特的笔法既有黑色幽默，又有令人不安的诗意。埃丝特的精神分裂不是突然发生的，而是累积——来自男性的期望、社会对女性身体和身份的控制、对自我认同的深刻困惑。读的时候，你不会觉得埃丝特是\"疯了\"，反而会怀疑：也许是这个世界太疯狂了？这部小说在女性主义历史上极其重要，因为它直言不讳地说出了很多女性的内心独白——关于身体、性、事业、自由的困顿。普拉特的文字技巧让你即使在最黑暗的时刻也无法转移视线。这也是为什么它在今天仍然有力量——女性在期待与自我之间的冲突从未过时。",
+      "quotes": [
+        {
+          "text": "I felt very still and very empty, the way the eye of a tornado must feel, moving dully along in the middle of the surrounding hullabaloo.",
+          "context": "普拉特对抑郁和解离的最精确描写，那种被压抑感包围但内心却麻木冷漠的感受"
+        },
+        {
+          "text": "If you expect nothing from somebody you are never disappointed.",
+          "context": "埃丝特试图通过降低期待来保护自己，但这个逻辑也反映了她的困境——无法相信自己或他人"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1320"
+}
