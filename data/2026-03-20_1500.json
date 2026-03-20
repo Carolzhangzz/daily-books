@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "象与骑象人",
+      "title_en": "The Happiness Hypothesis",
+      "author_zh": "乔纳森·海特",
+      "author_en": "Jonathan Haidt",
+      "year": "2006",
+      "category": "心理学",
+      "one_liner": "用心理学和哲学视角解读幸福本质，象征感性与理性的永恒对话",
+      "deep_dive": "这本书用了个特别的比喻——我们的大脑就像骑象人骑着大象。那头象是我们的直觉、感性和习惯，骑象人是理性和思维。核心观点是，大多数时候象（感性）才是真正的决策者，骑象人（理性）只是事后补充解释。这解释了为什么我们常违背理性判断去做事。\n\n海特从古代哲学、现代心理学和自己研究中汲取灵感，讨论幸福、正义、道德等深层问题。他认为幸福不来自追求快乐，而是通过建立关系、投身社区、追求目标获得。书中触及冥想、婚姻、为何总觉不公平、如何找到生活意义等议题。\n\n最妙处在于风格。海特不写高高在上的学术著作，而像和你聊天，用故事传递洞察。他既非冷冰冰的理性主义，也非盲目乐观，而在两者平衡。如果你困惑于'为什么我知道该做什么但还是做不到'，这本书给你答案，帮你理解自己和他人的真实模样。",
+      "quotes": [
+        {
+          "text": "We are 90 percent chimp and 10 percent bee.",
+          "context": "说的是我们既有自私本能，也有利他倾向，两者都深植于本性中。"
+        },
+        {
+          "text": "The mind is divided, like a rider on an elephant, and the rider holds the reins but has little strength.",
+          "context": "形象表达理性与感性的复杂关系，是全书核心隐喻。"
+        },
+        {
+          "text": "Happiness comes from within—it is the realization of what makes us human, what gives life meaning.",
+          "context": "揭示幸福真正来源不是外在物质，而是内在精神追求和人际连接。"
+        }
+      ]
+    },
+    {
+      "title_zh": "大脑传",
+      "title_en": "The Brain: The Story of You",
+      "author_zh": "大卫·伊格曼",
+      "author_en": "David Eagleman",
+      "year": "2015",
+      "category": "科学与认知",
+      "one_liner": "揭示大脑神秘力量，展示无意识如何塑造行为、决策和身份认同",
+      "deep_dive": "伊格曼是讲故事的天才，用最引人入胜的方式呈现神经科学。书揭露深刻真相：我们以为的'我'只是非常小的部分。大脑有大量无意识过程后台运行，决定了感知、情感、判断和行为，而我们浑然不觉。\n\n书里有令人惊讶的案例：有人看不见但能在房间走动不撞东西；有人无法识别母亲的脸但心率会改变；患者做决定前大脑活动信号已出现，暗示可能没有真正自由意志。\n\n伊格曼借此探讨自由意志、个人责任、刑事司法系统合理性等哲学问题。他问：如果行为由大脑生物学过程决定，如何看待犯罪和惩罚？这不是冷冰冰论文，而是关于什么是人性的深刻沉思。全书充满好奇心和对人类复杂性的敬畏，让你重新审视每个想法和感受。",
+      "quotes": [
+        {
+          "text": "The world you see is the world your brain creates.",
+          "context": "强调大脑构建现实的能力，我们看到的不是客观世界，而是大脑过滤演绎后的产物。"
+        },
+        {
+          "text": "You are a biological robot, and the robot doesn't know it.",
+          "context": "指出解放性真相：既然行为由无意识过程驱动，我们可以学会与之共处而不徒劳抵抗。"
+        },
+        {
+          "text": "The brain does not work like a computer. It works like a biological system.",
+          "context": "提醒不要过度简化对大脑的理解，其复杂性远超想象。"
+        }
+      ]
+    },
+    {
+      "title_zh": "第三波",
+      "title_en": "The Third Wave",
+      "author_zh": "阿尔文·托夫勒",
+      "author_en": "Alvin Toffler",
+      "year": "1980",
+      "category": "社科与历史",
+      "one_liner": "预言信息时代到来，揭示农业工业文明之后人类社会的深刻变革",
+      "deep_dive": "想象1980年托夫勒就预言互联网时代，这预见有多准。《第三波》是关于文明演进的宏大理论。人类历史经历两大波浪：农业革命和工业革命，第三波——信息革命——正来临。\n\n农业时代社会以家庭为中心，生产消费一体。工业时代打破这一切，大规模生产、城市化、标准化教育、核心家庭成主流，效率和规模是核心价值。第三波正在瓦解这一切。托夫勒预言未来社会将去中心化，知识和信息成最重要资源，小型企业和个人创业重新崛起，远程工作和居家办公成可能。\n\n最引人深思处在于，托夫勒指出这种转变带来的混乱和冲击——当不同波浪的人活在同一社会时，冲突和误解产生。他的预测在2026年看起来惊人准确：互联网、电视文化、能源危机、家庭结构变化等。虽然细节可能过时，但整个框架仍有助理解当代社会深层变化和未来方向。",
+      "quotes": [
+        {
+          "text": "If industrial civilization was the great revolutionary force of the past 300 years, then information civilization will be the great revolutionary force of the next century.",
+          "context": "点出信息和知识在塑造未来社会中的核心角色，预示数字革命重要性。"
+        },
+        {
+          "text": "The truly revolutionary influence of the computer lies not in its calculating ability but in its power to simulate and clarify the consequences of human choice.",
+          "context": "说明计算机和信息技术真正价值不在计算速度，而在帮助理解复杂因果关系。"
+        },
+        {
+          "text": "You can use all the quantitative data you can get, but you still have to distrust it and use your intelligence and judgment.",
+          "context": "提醒在信息爆炸时代，数据不等于智慧，批判性思维仍至关重要。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1500"
+}

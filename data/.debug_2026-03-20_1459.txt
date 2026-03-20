@@ -1,0 +1,71 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "功利主义",
+      "title_en": "Utilitarianism",
+      "author_zh": "约翰·斯图尔特·密尔",
+      "author_en": "John Stuart Mill",
+      "year": "1861",
+      "category": "哲学/伦理学",
+      "one_liner": "用最大幸福原则来重新定义什么是道德的生活。",
+      "deep_dive": "密尔的《功利主义》是西方伦理学中的经典之作。在这本书里，他试图用一个简单的原则来解释什么是道德的：最大化幸福。但这不是简单的及时行乐，而是对人类福祉的深思熟虑。你知道吗，密尔最精妙的地方在于，他区分了低级快乐和高级快乐。他说过一句著名的话：做一个不满足的人总比满足的猪好。这意味着精神上的满足、知识的追求、艺术的欣赏——这些才是真正值得追求的。这本书问的是：我们怎样才能建立一个更好的社会？答案不在于极端的自利，而在于找到个人幸福和集体福祉之间的平衡。现代社会中，从政策制定到个人决策，功利主义的思想无处不在——虽然我们不一定意识到它的存在。这是一本薄薄的书，但思想之深足以让你重新审视自己的人生选择。",
+      "quotes": [
+        {
+          "text": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.",
+          "context": "密尔关于快乐质量而非数量的核心观点，区分高级和低级快乐"
+        },
+        {
+          "text": "Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.",
+          "context": "功利主义的基本伦理原则，定义了道德行为的标准"
+        }
+      ]
+    },
+    {
+      "title_zh": "思考快与慢",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "心理学/认知科学",
+      "one_liner": "揭示人脑两套思维系统如何影响我们的每个决策。",
+      "deep_dive": "卡尼曼这本书改变了我对人脑的理解方式。他用"系统1"和"系统2"这两个概念把我们的思考分开了——一个是快速、直觉、自动的，一个是缓慢、理性、需要努力的。在日常生活中，我们大多时候依赖系统1，这很高效，但也容易出错。你在超市里快速做的决定，你对人的第一印象，你那些"直觉告诉我"的判断，都是系统1在工作。但系统1会犯错——比如认知偏差、框架效应、锚定效应。卡尼曼通过大量的实验和例子，让你看到自己思维中的盲点。这不是在批评人类智慧，而是在解释我们为什么会这样思考。最有趣的是，即使你知道这些陷阱的存在，你仍然会掉进去。这本书改变了心理学、经济学、甚至公共政策制定的方式。读完它，你会对自己每天做的决定有全新的认识。",
+      "quotes": [
+        {
+          "text": "The confidence that individuals have in their beliefs is not a reliable guide to the truth of those beliefs.",
+          "context": "关于过度自信偏差，说明我们对自己的判断往往过于自信"
+        },
+        {
+          "text": "Nothing in life is as important as you think it is when you are thinking about it.",
+          "context": "心理学中的焦点错觉，揭示思维聚焦如何扭曲事物的重要性"
+        },
+        {
+          "text": "We are prone to overestimate how much we understand about the world.",
+          "context": "知识的错觉，解释为什么我们对自己的知识和能力水平常常高估"
+        }
+      ]
+    },
+    {
+      "title_zh": "钟形罩",
+      "title_en": "The Bell Jar",
+      "author_zh": "西尔维亚·普拉斯",
+      "author_en": "Sylvia Plath",
+      "year": "1963",
+      "category": "文学/心理小说",
+      "one_liner": "一个天才女性陷入精神危机的坦诚自白，也是对女性身份的深刻反思。",
+      "deep_dive": "普拉斯的《钟形罩》是关于精神崩溃的最诚实的描写。主人公艾丝特是一个聪慧的女性，她似乎拥有一切——才华、美貌、机会。但她陷入了深度的抑郁和迷茫中。这不仅仅是一个关于心理健康的故事，更是对女性身份、社会期待和自我认同的深刻探讨。普拉斯用了一个非常形象的比喻——钟形罩——来描写那种被隔离、被困的感觉。她不能真正与外界连接，即使在人群中也感到孤独。这本小说在20世纪60年代出版时是革命性的，因为它打破了对抑郁症的沉默。今天读它，你会惊讶于其中的现代性。普拉斯的笔触既尖锐又脆弱，既充满黑色幽默又令人心碎。这是一本关于挣扎、自我发现和生存意义的书。",
+      "quotes": [
+        {
+          "text": "If you expect nothing from somebody you are never disappointed.",
+          "context": "艾丝特对人与期待的反思，揭示了她内心的虚无和自我保护机制"
+        },
+        {
+          "text": "I felt very still and very empty, the way the eye of a tornado must feel, moving dully along in the middle of the surrounding hullabaloo.",
+          "context": "普拉斯对抑郁症体验的经典描写，暗示内心的虚空与外界的喧嚣形成的对比"
+        }
+      ]
+    }
+  ]
+}
+```
