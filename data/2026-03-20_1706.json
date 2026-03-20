@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "秦腔",
+      "title_en": "Qin Opera",
+      "author_zh": "贾平凹",
+      "author_en": "Jia Pingwa",
+      "year": "2004",
+      "category": "文学",
+      "one_liner": "一部用秦腔的调子讲述陕西农村大家族悲喜交织的时代变迁史",
+      "deep_dive": "这部小说以陕西农村为舞台，用一种独特的叙述方式——仿佛秦腔戏曲般的重复、婉转、包容——讲述了十来户人家的日常生活和人生悲欢。小说打破时间线性叙述，通过夜晚的鼓音串联起整个村庄的故事。贾平凹用温暖而略带悲悯的笔触，描绘了底层民众在现代化冲击下的困惑、抗争和妥协。这部作品最迷人的地方在于，它既记录了陕西方言文化和农村生活的细节，又通过个人的悲欢离合反映了一个时代的变迁。书中没有绝对的善恶，只有人在生活中的真实模样——有些无奈，有些倔强，更多时候只是随波逐流。读这部小说就像听一支悠长的秦腔，哀乐相生，悲喜交织，让人对生活有了更宽容的理解。",
+      "quotes": [
+        {
+          "text": "日子就是这样过的，一年又一年，一代接一代。",
+          "context": "道出了时间流逝的宿命感，也表达了生活的循环性和普遍性"
+        },
+        {
+          "text": "像秦腔一样，生活既悲又喜，既哀又乐。",
+          "context": "小说的核心哲学，用方言艺术诠释人生的复杂性"
+        },
+        {
+          "text": "村子里的人就像一出秦腔戏，各自扮演着自己的角色。",
+          "context": "揭示了小说的意象系统，把平凡的生活与古老的艺术形式联系在一起"
+        }
+      ]
+    },
+    {
+      "title_zh": "债：第一个5000年",
+      "title_en": "Debt: The First 5,000 Years",
+      "author_zh": "大卫·格雷伯",
+      "author_en": "David Graeber",
+      "year": "2011",
+      "category": "社科与历史",
+      "one_liner": "一部颠覆经济学常识的经典著作，用5000年的历史证明债务才是人类文明的真正纽带",
+      "deep_dive": "这本书打破了经济学教科书中那套关于物物交换→货币→信用的简化进化论。格雷伯通过海量的历史和人类学案例，证明人类社会自古以来就存在着复杂的记账系统和债务关系。他从古代美索不达米亚开始，穿越中世纪、殖民地时期，直到当代资本主义社会，追溯债务概念如何塑造了人类文明。这部作品的真正价值在于揭示了一个被长期忽视的真相：经济关系的本质从来不是冰冷的市场交易，而是嵌入在权力、道德和社会关系之中。格雷伯让我们看到，理解债务的历史就是理解人类如何被束缚、被解放、再被束缚的历史。读完这本书，你会重新审视你对金钱、工作甚至自由的所有假设，会明白为什么金融危机本质上是道德危机。",
+      "quotes": [
+        {
+          "text": "Debt is the most important, and least understood, relation that binds human societies together.",
+          "context": "点出了全书的核心洞见，债务不仅是经济概念，更是社会组织的基础"
+        },
+        {
+          "text": "In the end, we are not creatures of the market. We are creatures of society, and the market is merely one social institution among many.",
+          "context": "挑战了新自由主义的世界观，强调社会性优于经济性"
+        },
+        {
+          "text": "History is not evolving in a single direction, but rather consists of a series of competing systems.",
+          "context": "阐述了对历史的多元理解，反驳了单线进步论"
+        }
+      ]
+    },
+    {
+      "title_zh": "图灵传",
+      "title_en": "Alan Turing: The Enigma",
+      "author_zh": "安德鲁·霍奇斯",
+      "author_en": "Andrew Hodges",
+      "year": "1983",
+      "category": "传记",
+      "one_liner": "一部深刻而悲剧的传记，讲述了计算机科学之父如何在天才和苦难之间被撕裂",
+      "deep_dive": "这部传记讲述的是艾伦·图灵短暂而充满悲剧色彩的一生——一个在30多岁就对计算机科学做出革命性贡献的天才，却在战后的社会压力下逐渐被摧毁。霍奇斯不仅记录了图灵令人惊叹的科学成就：图灵机的概念、停止问题的证明、对人工智能的深刻思考，以及他在二战中破译恩尼格玛密码机对战争进程的影响，更重要的是，他深刻探讨了这个天才为自己的身份而承受的系统性压迫。这部作品的伟大之处在于它呈现了一个完整的人：既是改变世界的科学家，也是被这个世界伤害的个体。读这本书，你会看到天才与绝望如何共存，会思考社会如何浪费人才，会为一个人的天赋和苦难都感到震撼。",
+      "quotes": [
+        {
+          "text": "I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.",
+          "context": "图灵在1950年的论文中对人工智能未来的大胆预言，比他的时代提前了几十年"
+        },
+        {
+          "text": "The question 'Can machines think?' I believe is too meaningless to deserve discussion.",
+          "context": "展现了图灵思想的深刻性——他超越了表面的哲学问题，指向更本质的科学议题"
+        },
+        {
+          "text": "Do you know why people like Auden and Isherwood go to America?",
+          "context": "图灵在极度痛苦中写给朋友的话，反映了他寻求逃离社会压迫的内心绝望"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1706"
+}
