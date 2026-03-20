@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "长尾理论",
+      "title_en": "The Long Tail",
+      "author_zh": "克里斯·安德森",
+      "author_en": "Chris Anderson",
+      "year": "2004",
+      "category": "商业与技术",
+      "one_liner": "互联网时代，小众市场的聚合力量足以撼动主流经济格局。",
+      "deep_dive": "想象一下亚马逊的书店、Netflix的电影库，这些平台为什么能存活得这么好？传统零售只能放最畅销的商品，但互联网不同。克里斯·安德森在这本书里提出了一个颠覆性的想法：那些销售量不大、但种类繁多的"小众"产品，加起来的市场规模足以与热销品抗衡，甚至超过它们。这就是"长尾"的概念。在互联网年代，由于搜索、推荐算法和低廉的存储成本，我们不再被迫只消费热门的东西。你可以找到世界上任何一个角落的小众音乐、小众书籍，这些看似"冷门"的东西，聚合起来的购买力惊人。这改变了整个商业生态——为什么亚马逊能打败传统书店？为什么Netflix能颠覆电影院？答案就在长尾。这本书让我们理解，互联网的本质是去中心化、多元化，让小众变成大市场。对于创业者、营销人和任何想理解现代商业的人来说，这都是必读的。",
+      "quotes": [
+        {
+          "text": "The future of commerce and culture isn't at the head of the demand curve, where the biggest hits are. It's in the tail.",
+          "context": "长尾理论的核心观点——互联网时代的利润来源于众多小众产品的聚合，而非少数热门产品的垄断。"
+        },
+        {
+          "text": "A hit is a hit is a hit. But a miss is not a miss. And that changes everything.",
+          "context": "在互联网无限货架容量面前，'小众'不再是'失败'，而是一个待开发的金矿。"
+        }
+      ]
+    },
+    {
+      "title_zh": "在路上",
+      "title_en": "On the Road",
+      "author_zh": "杰克·凯鲁亚克",
+      "author_en": "Jack Kerouac",
+      "year": "1957",
+      "category": "文学",
+      "one_liner": "一场横贯美洲大陆的疯狂冒险，追寻自由、狂喜与生命的真义。",
+      "deep_dive": "这本书就像一次巨大的摇滚乐，从第一个音符就把你击中。凯鲁亚克写的是他和朋友在1950年代穿越美国的故事，但这不是一部普通的旅行日记。它是关于渴望、灵魂搜寻、和对既有秩序的彻底拒绝。主角萨尔和迪恩的关系是这部作品的核心——迪恩代表了无限可能和疯狂热情，他驾车狂奔，喝酒、吸毒、换女人，仿佛在用行动挑战整个社会的规则。萨尔跟在后面，既被迪恩的活力迷住，又对这种生活感到困惑和疲惫。全书充满了关于人生意义的哲学思考——我们在路上究竟在寻找什么？是自由吗？是爱情？是某种无法名状的超越？这部作品对后世影响深远，激励了几代人去追求非主流的生活方式。但仔细读，你也会看到这种不羁生活的代价——伤害、失望、永远的不满足。这是60年代反文化运动的精神源头，是垮掉的一代的圣经。",
+      "quotes": [
+        {
+          "text": "Nothing behind me, everything ahead of me, as is ever so on the road.",
+          "context": "凯鲁亚克对路途和未来的态度——永远向前，不回头，拥抱所有的可能性和不确定性。"
+        },
+        {
+          "text": "Because in the end you won't remember the time you spent working in an office or mowing a lawn. Climb that goddamn mountain.",
+          "context": "这是对常规生活的激烈批评，呼唤人们去追寻真正让心灵活跃的事物，而非被日常琐碎所困。"
+        }
+      ]
+    },
+    {
+      "title_zh": "服从权威：有关服从与不服从的实验调查",
+      "title_en": "Obedience to Authority",
+      "author_zh": "斯坦利·米尔格拉姆",
+      "author_en": "Stanley Milgram",
+      "year": "1974",
+      "category": "心理学",
+      "one_liner": "一场扭曲人性的实验，揭示了权威对人的可怕影响力。",
+      "deep_dive": "这本书源自米尔格拉姆的一系列著名心理学实验，问题很简单但可怕：一个普通人，在权威人物的命令下，会有多大的可能性去伤害无辜者？实验的设计是这样的：参与者被告知要参加一个'学习与惩罚'的研究，他们需要向另一个人（其实是演员）施加电击作为'惩罚'。每当对方答错问题，参与者就要增加电击强度。那些演员会呼救、尖叫、说自己有心脏病，但权威人物（研究者）会坚定地说'你必须继续'。结果令人震惊：大多数参与者，即使听到尖叫声，也继续执行了命令。这本书让我们看到，普通人在权威压力下有多脆弱。我们不是生来就是邪恶的，但制度、权威、心理压力会把我们推向伤害他人。这对理解历史上的大规模暴力（从纳粹到其他独裁政权）至关重要。米尔格拉姆的研究让人类不得不正视一个可怕的真相：每一个你我都可能在'跟随命令'的名义下犯下暴行。这本书读起来令人不安，但这种不安是必要的。",
+      "quotes": [
+        {
+          "text": "The most fundamental lesson of our study: ordinary people, simply doing their jobs, and without any particular hostility on their part, can become agents in a terribly destructive process.",
+          "context": "米尔格拉姆对实验结果的核心总结——权威和命令能够将普通人转变为暴力的执行者，这是对人性的深刻警示。"
+        },
+        {
+          "text": "Obedience is not a sin, but a virtue. But it is virtue only when it operates within the framework of justice and mercy.",
+          "context": "这反思了服从本身的道德两面性——盲目服从权威就成为了罪恶的帮凶。"
+        }
+      ]
+    }
+  ]
+}
+```
