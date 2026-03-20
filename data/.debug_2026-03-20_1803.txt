@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "达·芬奇传",
+      "title_en": "Leonardo da Vinci",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2017",
+      "category": "传记/艺术",
+      "one_liner": "一部深入达·芬奇内心世界的传记，展现天才如何在艺术与科学之间自由穿梭。",
+      "deep_dive": "这本书就像是一场跨越500年的对话，艾萨克森把达·芬奇还原成了一个真实的人。他不仅是那位创作《蒙娜丽莎》和《最后的晚餐》的天才，更是一个充满好奇心、永远不满足的灵魂。最迷人的地方，就是看他如何在艺术、科学、工程之间自由穿梭，写满了1.3万页笔记，却只完成了很少的作品。你会发现，他的天才并非来自某个闪现的灵感，而是源于对细节的执着观察——能花几个月去研究一块肌肉在运动中的样子，为了让画中人物更真实。这本传记其实在讲述一个问题：什么样的人生才算完整？是完成许多大作品，还是在探索的过程中找到意义？读着读着，你会开始反思自己的好奇心是否还活着。",
+      "quotes": [
+        {
+          "text": "Learning never exhausted the mind.",
+          "context": "达·芬奇对知识的永恒渴望，这正是他一生不懈追求知识的信条"
+        },
+        {
+          "text": "Acquire knowledge of the arts of drawing and measure.",
+          "context": "强调掌握绘画和测量的艺术是理解世界的基础方法"
+        }
+      ]
+    },
+    {
+      "title_zh": "世界秩序",
+      "title_en": "World Order",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "2014",
+      "category": "政治/国际关系",
+      "one_liner": "一位资深外交家对国际政治秩序演变的深刻剖析，揭示大国冲突的真实根源。",
+      "deep_dive": "基辛格这本书读起来就像是一个老外交家在讲述世界政治的演变。他从欧洲的威斯特伐利亚体系开始，带你看西方如何建立了一套国家主权平等的国际秩序，然后这套秩序又如何面临东方和非西方国家的挑战。最有意思的是，他不是在灌输某种意识形态，而是在分析每个大国都在追求什么——美国想要什么，中国想要什么，俄罗斯想要什么。他说这些不同的秩序观正在相互碰撞，这就是当今世界紧张关系所在。读这本书时，你会突然明白为什么国际新闻那么复杂，不是因为事件本身，而是每个国家都在按照自己对"秩序"的理解在行动。这对理解地缘政治特别有帮助。",
+      "quotes": [
+        {
+          "text": "Order does not come about by accident or is achieved by accident.",
+          "context": "国际秩序的建立需要有意为之，这是他对历史的深刻认识"
+        },
+        {
+          "text": "The statesman's duty is to conceive of international relations as a strategic exercise.",
+          "context": "强调国家领导人必须从战略角度思考国际关系的本质"
+        }
+      ]
+    },
+    {
+      "title_zh": "窗边的小豆豆",
+      "title_en": "Totto-chan: The Little Girl at the Window",
+      "author_zh": "黑柳彻子",
+      "author_en": "Tetsuko Kuroyanagi",
+      "year": "1981",
+      "category": "教育/自传",
+      "one_liner": "一个被标签为"坏孩子"的女孩在巴学园的成长故事，展现真正的教育如何改变人生。",
+      "deep_dive": "这是一部温暖到让人想哭的自传。作者黑柳彻子回忆自己在巴学园的日子，那是一所非常特殊的学校——校长坚持每个孩子都是天才，教室是改装的电车，考试可以考任何科目。这不是什么"素质教育"的理论著作，而是真实的故事——一个被前校园标签为"坏孩子"的女孩，在这里被看见、被理解、被允许成长。书里没有说教，只有细节：校长是怎么和孩子们一起坐在地上吃饭的，老师们怎么处理那些"特殊"的孩子，为什么有残疾小孩能和大家一起欢笑。读完你会重新思考教育的本质——也许最重要的不是学多少知识，而是被爱和被相信。这本书对所有人都有疗愈作用，尤其是那些曾经觉得自己"不够好"的人。",
+      "quotes": [
+        {
+          "text": "Every child is a genius.",
+          "context": "校长的教育信念，强调每个孩子都有天才的潜力"
+        },
+        {
+          "text": "If a child is to keep alive his inborn sense of wonder, he needs the companionship of at least one adult who can share it with him.",
+          "context": "体现书中对成人陪伴和理解对孩子成长的重要意义"
+        }
+      ]
+    }
+  ]
+}
+```
