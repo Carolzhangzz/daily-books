@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "科学与认知",
+      "one_liner": "教你用系统方法解决任何问题的经典思维工具书",
+      "deep_dive": "这是一本薄但深刻得不可思议的书。波利亚本是匈牙利数学家，但他讲的不只是数学问题怎么解，而是一个通用的问题解决框架：理解问题、制定计划、执行计划、回顾反思。听起来像废话？但真正读懂了，你会发现这套方法无处不在。\n\n最精妙的地方在于书里充满启发式的提问。当你卡住时，波利亚不直接给答案，而是问你\"你见过类似的问题吗？能简化吗？能反面考虑吗？\"这些问题像训练肌肉一样训练你的思维。每章都围绕一个常见思维陷阱展开——只钻牛角尖、忽视显而易见的东西。\n\n伟大之处在于通用性。无论写代码、谈判、设计产品还是做人生决策，这套框架都适用。很多硅谷工程师和产品经理都把它当作思维工具。读完后你会明白，很多人的成功其实是因为他们的问题解决方法更系统、更缜密。这就是波利亚想教给我们的。",
+      "quotes": [
+        {
+          "text": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+          "context": "当陷入困境时，向下寻找更简单的子问题——这是所有高效问题解决者的共同策略"
+        },
+        {
+          "text": "A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.",
+          "context": "强调了问题解决的普遍价值：每次认真解决问题都是一次小的发现和成长"
+        }
+      ]
+    },
+    {
+      "title_zh": "傲慢与偏见",
+      "title_en": "Pride and Prejudice",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1813",
+      "category": "文学",
+      "one_liner": "一部关于爱情、判断与自我认知的永恒杰作",
+      "deep_dive": "如果你只把《傲慢与偏见》当言情小说读，就太浪费了。这部作品的真正妙处在于，两百多年后今天，我们仍在犯伊丽莎白和达西犯过的同样错误——因为第一印象就判断一个人，在成见中越陷越深。\n\n故事表面很简单：小镇女孩伊丽莎白对傲慢的达西先生有偏见，达西因她的身世而自尊受伤。但奥斯汀的天才在于，她不是用意外事件或别人干预来化解矛盾，而是让两个人各自看清自己的缺点。伊丽莎白意识到自己的判断有多武断，达西意识到骄傲有多伤人。这是真正的成长。\n\n最迷人的是奥斯汀的笔法——用讽刺和微妙观察，在每个茶话会、每次散步中暴露人性矛盾。她笔下没有绝对的坏人，每个人都在社会处境和心理偏差中行动。伊丽莎白的姐妹、父母各有缺点但都活生生。这是为什么读了200年还没过时——不是故事本身，而是对人性的理解。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "context": "开篇第一句，用反讽讽刺了整个社会对婚姻和财富的执念"
+        },
+        {
+          "text": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+          "context": "伊丽莎白关于友谊和爱的真挚宣言，道出了她热烈而真诚的本质"
+        }
+      ]
+    },
+    {
+      "title_zh": "规模",
+      "title_en": "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies",
+      "author_zh": "杰弗里·韦斯特",
+      "author_en": "Geoffrey West",
+      "year": "2017",
+      "category": "社科与历史",
+      "one_liner": "用物理学的眼光看待社会、城市和生命，揭示隐藏在复杂现象背后的数学规律",
+      "deep_dive": "这本书会让你重新看待整个世界的运作方式。韦斯特是圣塔菲研究所前所长，他用物理学思维解释为什么城市、公司、生物体都遵循同样的数学规律——分形和幂律。\n\n核心观点很震撼：无论是城市基础设施、公司管理结构，还是生物体血管系统，它们的增长和衰退都遵循相同数学模式。这不是巧合，而是深层物理和进化原理的必然结果。比如，城市越大，人均基础设施投入反而越少（因为效率更高）；但也正因为这种超线性增长，城市越大反而犯罪率越高。这些看似矛盾的现象其实都可以用数学解释。\n\n韦斯特的论证非常有说服力，因为不是纯理论，而是用大量真实数据支撑。从城市人口密度、公司寿命、生物体代谢率，到创新频率，一切都可用幂律描述。更有趣的是，他揭示了一个令人不安的趋势：公司平均寿命在缩短，城市失去创新力。这本书不仅改变对世界的理解，也让你明白为什么小企业和大企业逻辑完全不同，为什么有些城市保持活力而有些衰落。",
+      "quotes": [
+        {
+          "text": "The properties of cities and companies and biological organisms are all determined by universal principles underlying the sublinear, linear, and superlinear scaling of their constituent parts.",
+          "context": "韦斯特的核心论点：所有复杂系统的行为都由通用的数学缩放法则支配，这揭示了表面上毫不相关的事物之间的深层联系"
+        },
+        {
+          "text": "Innovation in cities is not random—it follows laws and can be understood and predicted.",
+          "context": "强调创新不是神秘莫测的，而是遵循可量化的规律，这对理解经济和社会发展至关重要"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1917"
+}
