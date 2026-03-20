@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "数学/思维方法",
+      "one_liner": "教你用系统的方法解决任何问题的数学思维圣经",
+      "deep_dive": "你有没有遇过那种看起来无法解决的问题，却不知道从何下手？波利亚这本书简直是救命稻草。他不是在教你某个具体的数学技巧，而是教你怎么思考、怎么逼近一个陌生问题。他把解题分成四个阶段：理解问题、制定计划、执行计划、回顾反思。听起来简单，但一旦你开始按这个框架思考，你会发现自己在处理任何问题时都变得清晰多了。特别牛的是，这个方法不仅适用于数学，编程、写文章、甚至生活中的决策都能用上。波利亚强调的是启发式思维，鼓励你提问、做类比、试着简化问题。这本书出版快80年了，还是那么实用，原因就是它抓住了问题解决的本质。如果你想训练自己的逻辑思维，培养面对陌生问题时的冷静和方法论，这绝对是必读之作。",
+      "quotes": [
+        {
+          "text": "A great discovery solves a great problem, but there is a grain of discovery in the solution of any problem.",
+          "context": "强调每个问题的解决过程都包含发现和创新的成分"
+        },
+        {
+          "text": "To understand a problem is the first step toward solving it.",
+          "context": "解题的第一步，也是最关键的一步"
+        },
+        {
+          "text": "If you cannot solve the proposed problem, try to solve first some related problem.",
+          "context": "面对难题时，从相关的简单问题入手"
+        }
+      ]
+    },
+    {
+      "title_zh": "傲慢与偏见",
+      "title_en": "Pride and Prejudice",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1813",
+      "category": "文学/爱情小说",
+      "one_liner": "爱情、社会阶级与自我认识在18世纪英格兰的精妙碰撞",
+      "deep_dive": "这部小说讲的是伊丽莎白·班内特和达西先生的爱情故事，但远不止如此简单。奥斯汀用她犀利的笔触描绘了一个等级森严的社会，在那里女性的未来几乎完全取决于是否能嫁个有钱的男人。伊丽莎白正是在这样的背景下闪闪发光——她聪慧、独立、有见地，拒绝为了物质安全而放弃自己的原则。达西一开始显得傲慢自大，但后来你会发现他的冷漠其实源于内向和被伤害。两个人各自被对方表面的样子蒙蔽了，直到他们放下偏见，才能看到彼此真实的样貌。这个故事之所以两百多年还在打动人心，是因为它讲的不仅是爱情，而是自我认识——承认自己的错误、改变自己对他人的看法需要多大的勇气。在那个女性几乎没有选择权的时代，伊丽莎白坚持嫁给爱的人，不仅是浪漫的，更是革命性的。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "context": "小说开篇的讽刺性论断，反映了当时的社会现实"
+        },
+        {
+          "text": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book!",
+          "context": "伊丽莎白对阅读的热爱，展现她的知识品味"
+        },
+        {
+          "text": "You have delighted us long enough.",
+          "context": "伊丽莎白的独立精神，敢于挑战权威和虚伪"
+        }
+      ]
+    },
+    {
+      "title_zh": "第二性",
+      "title_en": "The Second Sex",
+      "author_zh": "西蒙娜·德·波伏瓦",
+      "author_en": "Simone de Beauvoir",
+      "year": "1949",
+      "category": "哲学/女性主义",
+      "one_liner": "女性主义思想的奠基之作，揭示女性身份的社会建构本质",
+      "deep_dive": "波伏瓦那句名言"人不是天生就是女人，而是变成了女人"一出世就震撼了整个世界。这本书的核心观点是：女性不是生物学上的"他者"，而是被父权社会系统地建构成了"他者"。她用大量的历史、心理学、神话和文学分析来证明，女性被定义为男性的补充和映射，而不是独立的主体。更激进的是，她指出女性获得解放的唯一途径就是经济独立和精神自由。这不是关于争取什么权利的书，而是一部关于认识论的著作——它问的是，我们是如何看待和理解女性的，这种理解为何如此扭曲。即使放在今天看，她对女性身份、母性、性欲、工作的分析仍然尖锐而深邃。这是一本会改变你看待世界方式的书，它让你意识到很多我们以为"天然"的东西，其实都是被社会编织的故事。读完之后，你再也回不到之前对性别的理解了。",
+      "quotes": [
+        {
+          "text": "One is not born, but rather becomes, a woman.",
+          "context": "女性主义的最著名论断，颠覆了对女性本质的传统认知"
+        },
+        {
+          "text": "Woman is not born: she is made.",
+          "context": "强调女性身份的社会建构性，而非生物决定论"
+        },
+        {
+          "text": "To be a woman is to be condemned to wear one's flesh as a constraint.",
+          "context": "揭示女性身体在父权社会中被异化和禁锢的状况"
+        }
+      ]
+    }
+  ]
+}
+```
