@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "我们为什么要睡觉",
+      "title_en": "Why We Sleep",
+      "author_zh": "马修·沃克",
+      "author_en": "Matthew Walker",
+      "year": "2017",
+      "category": "科学与认知",
+      "one_liner": "睡眠不只是休息，它是生命维持的基本需求，决定着你的健康、智力和寿命。",
+      "deep_dive": "这本书完全改变了我对睡眠的理解。沃克是伯克利大学睡眠科学中心的主任，他用最新的脑科学研究告诉我们一个惊人的事实：睡眠并不是生活的浪费，而是人生中最重要的活动之一。书里讲了很多具体的例子，比如为什么缺乏睡眠会让你的免疫系统崩溃，为什么经常熬夜的人患癌症和心脏病的风险会大幅增加。最让我震惊的是，充足的睡眠可以帮助你学得更快、记得更牢、反应更敏捷。沃克还深入讲解了REM睡眠和非REM睡眠的区别，以及它们各自如何影响我们的记忆、情感和身体修复。他甚至指出，现代社会对睡眠的不重视，尤其是那些吹嘘「我一天只睡4小时」的文化，其实是一种自杀行为。这本书给了我一个全新的视角：睡眠不是奢侈品，而是必需品。读完之后，我开始认真对待自己的睡眠时间，就像对待工作一样。",
+      "quotes": [
+        {
+          "text": "Sleep is not negotiable. It is as essential as food and water.",
+          "context": "沃克强调睡眠的非协商性和基本重要性，与食物和水同等级别。"
+        },
+        {
+          "text": "The best sleep-promoting drug is melatonin, but it's not in tablet form. It's natural darkness.",
+          "context": "指出自然光暗周期对睡眠质量的决定性影响，比任何药物都有效。"
+        },
+        {
+          "text": "A lack of sleep is like a chronic poison.",
+          "context": "比喻长期睡眠不足对身体的持续伤害，强调其严重性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "额尔古纳河右岸",
+      "title_en": "The Right Bank of the Ergunahe River",
+      "author_zh": "迟子建",
+      "author_en": "Chi Zijian",
+      "year": "2011",
+      "category": "文学",
+      "one_liner": "一个鄂温克猎人女性的暮年独白，用沧桑的叙述织出少数民族的生存史诗。",
+      "deep_dive": "这是迟子建的代表作，也是一部非常特别的小说。整部作品就是一个老年女性——一个鄂温克人——在暮年时的独白，她坐在额尔古纳河畔，回忆起自己漫长而沧桑的人生。她讲述了狩猎、爱情、生育、丧失，以及整个鄂温克民族在现代社会中的缓慢消亡。最打动人的地方，是这种极其克制而深沉的叙事方式。主人公没有激烈的情感表现，而是用平淡得近乎冷漠的语气讲述最悲伤的故事——她失去的孩子、离弃的爱人、消失的传统。迟子建通过这部作品，记录了一个正在消亡的民族的尊严。整个叙述笼罩在一种深深的怀旧和无奈中，就像浓雾笼罩着那条北方的河流。读这部小说，你不会获得快乐，但会获得一种对人生和历史的深刻体悟——关于失去、关于坚持、关于什么是真正的生存。",
+      "quotes": [
+        {
+          "text": "我年纪大了，大地是我的摇篮。",
+          "context": "老年女性对生命终点的诗意描写，体现了与自然和解的智慧。"
+        },
+        {
+          "text": "有些东西，一旦失去，就永远回不来了。",
+          "context": "对民族传统消亡和人生不可挽回之事的深刻感悟。"
+        },
+        {
+          "text": "我们都是时间的孩子，最终会被时间吞没。",
+          "context": "面对历史洪流的个体渺小感，也是对人生无常的接纳。"
+        }
+      ]
+    },
+    {
+      "title_zh": "重新定义公司",
+      "title_en": "How Google Works",
+      "author_zh": "埃里克·施密特 & 乔纳森·罗森博格",
+      "author_en": "Eric Schmidt & Jonathan Rosenberg",
+      "year": "2014",
+      "category": "商业与技术",
+      "one_liner": "Google前CEO亲自揭秘如何打造世界上最成功的科技公司的管理哲学。",
+      "deep_dive": "这本书是埃里克·施密特和乔纳森·罗森博格根据他们在Google多年的管理经验写的。它不是一部枯燥的商业理论书，而是一个内部人士对Google如何成功的诚实讲述。书里的核心观点很清楚：在互联网时代，传统的管理方式已经过时了。Google的秘诀不在于聪明的CEO做出所有决策，而在于吸引最聪明的人才，给他们充分的自由和信息，让他们自己做出决策。施密特强调了\"天才密度\"的重要性——公司最值得投资的，就是吸引和保留最优秀的人。书里还讲了很多Google的具体实践，比如20%的自由时间、开放的办公环境、以及对失败的容忍。最有趣的地方是，他们不害怕讲述Google的错误——比如Google+的失败。读这本书，你会意识到，一个伟大公司的成功，往往不是因为有一个天才领导者做了完美的决策，而是因为建立了一个系统，让聪慧的人才能够发挥最大的创意和能力。",
+      "quotes": [
+        {
+          "text": "Ideas are the most important currency of a technology company.",
+          "context": "强调在科技公司中，想法比金钱更值钱，这决定了企业的创新能力。"
+        },
+        {
+          "text": "Hire people smarter than you are, then get out of their way.",
+          "context": "Google的人才管理哲学核心——信任和放权是激发天才的关键。"
+        },
+        {
+          "text": "The Internet is a strange place to do business because you can be a giant and become irrelevant very quickly.",
+          "context": "互联网时代的残酷现实，说明持续创新和适应变化的必要性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_0012"
+}
