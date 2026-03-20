@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "都柏林人",
+      "title_en": "Dubliners",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1914",
+      "category": "文学",
+      "one_liner": "通过15个短篇故事展现都柏林市民的平凡生活与隐秘心声，在每一刻的顿悟中捕捉人生的无奈",
+      "deep_dive": "你知道吗，乔伊斯的《都柏林人》就像是给你讲述一个城市的秘密故事集。这部1914年出版的作品包含15个短篇，每一个都发生在都柏林街头、酒吧、办公室——没有什么大事件，也没有英雄人物，只有普通人的日常烦恼：暗恋、失望、沉闷、梦想破灭。乔伊斯最厉害的地方在于，他能让你感受到每个人物内心的那一刻"顿悟"——就是那种突然意识到人生可能就是这样、再无改变可能的时刻。比如《伊芙琳》里，一个女孩站在码头上准备逃离爱尔兰去南美，但最后她选择留下继续平凡生活，这一刻的心理变化深刻得令人心碎。乔伊斯没有道德教训，也没有煽情台词，就是冷冷地记录这些时刻。这本书开创了现代短篇小说新境界，因为它证明文学不需要跌宕起伏的情节，反而微妙的心理细节能最深刻地触动人心。读完你会明白，每个人都活在某种都柏林里，都在等待救赎，但那个时刻永远不会来。",
+      "quotes": [
+        {
+          "text": "Mr. Duffy lived a short distance from his body.",
+          "context": "出自《在死者中的爱人》(A Painful Case)，讽刺了灵魂与肉体的分离，比喻人与世界的疏离"
+        },
+        {
+          "text": "His soul swooned slowly as he heard the snow falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead.",
+          "context": "出自《死者》，全书最后一段，描写主人公在音乐中的灵魂觉醒，是整部作品最震撼的结尾"
+        },
+        {
+          "text": "She was a woman, she said, and she knew what women had to suffer.",
+          "context": "出自多个故事，反复出现的女性困境主题，体现了女性对自身命运的无奈认知"
+        }
+      ]
+    },
+    {
+      "title_zh": "植物的欲望",
+      "title_en": "The Botany of Desire",
+      "author_zh": "迈克尔·波伦",
+      "author_en": "Michael Pollan",
+      "year": "2001",
+      "category": "科学与认知",
+      "one_liner": "从植物视角重新审视人类文明，揭示植物通过刺激人类欲望而实现自我繁衍的共同进化故事",
+      "deep_dive": "这本书特别有意思，因为波伦完全换了一个角度。他没写学术的进化论，而是通过四种植物——苹果、郁金香、大麻和土豆——来讲人类和植物如何互相塑造彼此的故事。简单说，我们一直以为是我们在驯化植物，但其实是植物在利用我们的欲望。就比如郁金香吧，荷兰人曾经为它疯狂，引发了历史上的经济泡沫"郁金香热"，这个经济危机其实就是因为植物本身的美丽激发了人类的欲望。波伦让你看到，植物不是被动的存在，它们有自己的"欲望"——生存、繁殖、传播——而人类恰好是帮它们实现这些欲望的工具。这个视角特别颠覆，让你重新思考什么是"自然"，什么是"文明"。这不是说植物有意识，而是从演化角度，植物通过刺激我们的感官（香气、甜味、精神刺激），让我们不自觉地帮助它们传播。读完你会对花园里的每一株植物都有新的敬意。",
+      "quotes": [
+        {
+          "text": "We think of plants as just standing there, being the stage set for the drama of human life, but really they're fully part of that drama.",
+          "context": "核心观点：植物不是被动背景，而是与人类一样的主动参与者，具有自己的进化目标"
+        },
+        {
+          "text": "The question isn't really whether plants have desires, but whether the things they have evolved to do happen to align with what we desire.",
+          "context": "解释植物的'欲望'是进化结果而非拟人化，说明了人类与植物之间深层的共同利益"
+        },
+        {
+          "text": "By choosing to plant and cultivate these species, we inadvertently became the instrument of their evolutionary success.",
+          "context": "揭示了人类以为在选择植物，但实际上是被植物的特性所选择，是共同进化的过程"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术与错觉",
+      "title_en": "Art and Illusion",
+      "author_zh": "恩斯特·贡布里奇",
+      "author_en": "Ernst Gombrich",
+      "year": "1960",
+      "category": "艺术与美学",
+      "one_liner": "深入探讨艺术如何通过约定俗成和知觉原理创造视觉幻觉，揭示我们看待世界的方式其实受文化深刻塑造",
+      "deep_dive": "贡布里奇这本书特别牛，因为他把艺术当成心理学和认知问题来讨论。他问了一个看似简单但特别深刻的问题：为什么纸上的几条线就能让我们看到一个人的脸？这不是因为画得有多像真人，而是因为我们的大脑会自动填补空白、寻找模式。贡布里奇通过大量艺术史例子说明，艺术不是对现实的简单复制，而是一套约定俗成的符号系统。比如中国古代画家用几条简单笔墨就能画出一座山，而这个传统一旦建立，我们看到这样的笔墨就会自动"看到"山。这说明视觉本身不是客观的，而是深受文化和训练影响。书里他还讨论了为什么有些艺术风格在当时被认为是"最真实的"表现，放到今天看起来却很奇怪。这让你明白，所有艺术都是某个时代人的看法，而不是对真理的客观记录。更厉害的是，贡布里奇让你意识到，你现在看世界的方式，也已经被艺术传统深刻塑造了。这本书既给了你艺术史，又给了你理解自己感知的钥匙。",
+      "quotes": [
+        {
+          "text": "Art is not simply a mirror held up to nature, but a language with its own rules and conventions.",
+          "context": "揭示艺术的相对性而非绝对性，说明艺术是文化建构而非客观再现"
+        },
+        {
+          "text": "We do not see what is there, we see what we are trained to see.",
+          "context": "强调文化和传统对视觉的根本塑造，说明没有纯粹的客观视觉经验"
+        },
+        {
+          "text": "Every style of art, no matter how naturalistic it seems, is a conventional code, not a mirror to nature.",
+          "context": "说明即使最逼真的艺术，也不是现实的直接反映，而是依循特定时代的视觉约定"
+        }
+      ]
+    }
+  ]
+}
+```
