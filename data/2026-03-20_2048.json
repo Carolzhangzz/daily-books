@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "规模：生物、城市和公司的通用法则",
+      "title_en": "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life",
+      "author_zh": "杰弗里·韦斯特",
+      "author_en": "Geoffrey West",
+      "year": "2017",
+      "category": "科学/系统论",
+      "one_liner": "从蚂蚁到城市再到公司，揭示万物增长背后的数学魔法",
+      "deep_dive": "想象一下，为什么小老鼠的心跳比大象快，为什么城市越大能源效率越低，为什么创新在大公司里反而放缓？圣塔菲研究所的前所长韦斯特用生动的数据和故事告诉你，这些看似无关的现象其实遵循同一套数学法则。从细胞分裂到企业扩张，从代谢率到薪酬增长，所有的规模变化都有一个共同的数学指纹——分形网络。这不是干巴巴的理论，而是能让你重新理解世界运作方式的深度洞察。韦斯特用跨学科的视角打破了学术之间的隔阂，让生物学、物理学、城市规划和经济学在同一张图纸上对话。读完这本书，你会发现为什么初创公司总是比大公司更快地完成任务，为什么城市是创新的孵化器，以及为什么任何系统要想永续增长，就必须不断进化自己的结构。",
+      "quotes": [
+        {
+          "text": "Life is a network phenomenon.",
+          "context": "强调生命系统的网络本质是理解规模法则的关键"
+        },
+        {
+          "text": "The larger you are, the slower you are per capita.",
+          "context": "解释为什么大型组织面临增长悖论，必须不断创新维持活力"
+        }
+      ]
+    },
+    {
+      "title_zh": "洛丽塔",
+      "title_en": "Lolita",
+      "author_zh": "弗拉基米尔·纳博科夫",
+      "author_en": "Vladimir Nabokov",
+      "year": "1955",
+      "category": "文学/经典小说",
+      "one_liner": "一部关于执念、语言与道德的禁忌杰作，优雅得令人不安",
+      "deep_dive": "这是一个扭曲的爱情故事，但也是一部语言艺术的奇迹。纳博科夫用第一人称叙述者享利姆伯特的独白，让读者陷入一个充满矛盾的道德困境。享利姆伯特是个可鄙的罪人，但他用优美的词汇、文学典故和华丽的修辞把自己的犯罪合理化。当你读这本书时，你会发现自己被精心设计的语言迷惑，甚至在某些时刻同情这个角色——而这正是纳博科夫想要你体会到的道德陷阱。这不仅是个悲剧故事，更是对语言如何扭曲现实、人类如何自欺欺人的深刻批评。小说的结构精妙绝伦，每一句话都闪闪发光，但所有的美感都被罪恶的内核所玷污，形成了一种令人窒息的美。",
+      "quotes": [
+        {
+          "text": "You can always count on a murderer for a fancy prose style.",
+          "context": "享利姆伯特在开篇就自嘲地承认自己的罪行与自己的修辞才华形成的讽刺对照"
+        },
+        {
+          "text": "I was despicable and brutal, and turpid, and everything...But I loved her.",
+          "context": "道德沦丧的人物试图用爱来为自己的罪行开脱，揭示人性的自欺"
+        }
+      ]
+    },
+    {
+      "title_zh": "林肯传",
+      "title_en": "Lincoln",
+      "author_zh": "戴维·赫伯特·唐纳德",
+      "author_en": "David Herbert Donald",
+      "year": "1995",
+      "category": "传记/历史",
+      "one_liner": "一部力求还原历史真实的林肯传记，展现这位伟人的完整人格",
+      "deep_dive": "这不是那种把林肯神话化的传记。唐纳德是普利策奖得主，他用数十年的历史研究和大量第一手文献，把你带回到19世纪美国，去认识一个真实的林肯——一个来自肯塔基贫困家庭的自学者，一个经历过深度抑郁的政治家，一个在内战的绝望中坚持理想的领导者。你会读到他的自嘲、他的焦虑、他的失败，以及他如何一步步成为塑造现代美国的伟大总统。唐纳德的笔触平和而深刻，不为林肯开脱过错，也不夸大他的成就，只是认真地问：这个人是谁？他怎样思考？他为什么做出这些决定？如果你想理解一个真实的人，而不是一座纪念碑，这是必读之作。",
+      "quotes": [
+        {
+          "text": "My early history is perfectly characterized by a single line of Gray's Elegy: 'The short and simple annals of the poor.'",
+          "context": "林肯用诗歌自描述自己的贫困出身，体现他特有的文学修养和自嘲气质"
+        },
+        {
+          "text": "I am a slow walker, but I never walk back.",
+          "context": "林肯论述自己的政治信念和决心，既显示坚定也承认自己步履蹒跚的现实"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2048"
+}
