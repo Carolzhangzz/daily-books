@@ -1,1 +1,1 @@
-需要您授权写入文件。一旦您批准，我会保存JSON并推送到GitHub。
+请批准写入数据文件的权限，我将保存生成的推荐内容到 `/Users/carol/Documents/daily-books/data/2026-03-20.json`
