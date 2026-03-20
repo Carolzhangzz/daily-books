@@ -1,0 +1,81 @@
+根据 daily-books skill 的格式要求，为您生成这三本书的推荐：
+
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "人工智能简史",
+      "title_en": "A Brief History of Artificial Intelligence",
+      "author_zh": "尼尔森",
+      "author_en": "Nils J. Nilsson",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "从图灵测试到深度学习，讲述人类追求人工智能的百年梦想之旅",
+      "deep_dive": "这本书就像一部AI的演进纪录片。作者用通俗易懂的方式，带你从图灵在1950年提出的经典问题——"机器能思考吗？"——开始，一路讲到现在我们都在用的ChatGPT。什么是图灵测试？为什么专家系统曾经那么火又那么凉？神经网络为什么沉寂了那么久，最后又凭借深度学习翻身了？书里都有答案。最吸引我的是，作者展现了那些AI先驱们的野心和困境——他们怎么想象智能、怎么一次次失败、又怎么找到新的方向。读完这本书，你会理解：今天的AI浪潮不是凭空出现的，而是几代研究者的执念累积。它也让你明白，AI的未来到底有多敞开，因为我们才刚刚开始。",
+      "quotes": [
+        {
+          "text": "The search for artificial intelligence has always been a search for human intelligence.",
+          "context": "作者强调，我们探索AI的过程，本质上是在重新认识人类智能本身——这个追求改变了我们对大脑和思维的理解"
+        },
+        {
+          "text": "Every significant AI advance has come not just from better algorithms, but from better understanding of the problem.",
+          "context": "揭示了一个深刻的真理：技术进步的瓶颈往往不在于算法本身，而在于我们是否真正理解了问题的本质"
+        },
+        {
+          "text": "The future of AI is not predetermined. It depends on the choices we make today.",
+          "context": "书的最后强调，AI的发展掌握在每一个研究者、开发者手中，提醒我们要有使命意识"
+        }
+      ]
+    },
+    {
+      "title_zh": "赢",
+      "title_en": "Winning",
+      "author_zh": "杰克·韦尔奇",
+      "author_en": "Jack Welch",
+      "year": "2005",
+      "category": "商业与技术",
+      "one_liner": "GE传奇CEO的管理智慧，教你如何在竞争中赢得每一场关键战役",
+      "deep_dive": "如果你看过创业故事，就知道大多数都是血泪交织。但这本书不同，它来自一个领导力的真实大师——曾经把GE从一家电气公司改造成全球最有价值企业的杰克·韦尔奇。他不讲高深的管理学，而是用一个个真实案例告诉你：如何选人，如何激励团队，如何在混乱中保持清晰的战略目标。印象最深的是他对"诚实对话"的强调——在大多数公司里，人们躲躲闪闪，说一套做一套。但韦尔奇认为，一个高效组织就是能够坦诚相待，把问题摆在台面上，一起解决。这本书的价值不在于教你如何成为韦尔奇，而是告诉你做一个真正有效的领导者需要什么样的思维方式。对创业者、管理者，甚至想理解企业运作的人，都是一次启蒙。",
+      "quotes": [
+        {
+          "text": "An organization's ability to learn and translate that learning into action rapidly is the ultimate competitive advantage.",
+          "context": "韦尔奇强调学习能力的重要性，这也是GE能持续创新的核心——不是单纯的技术或资金，而是快速反应和进化的能力"
+        },
+        {
+          "text": "Integrity is your currency. You can't do anything without it.",
+          "context": "诚信在韦尔奇的领导哲学中处于最高地位，他认为失去信任，一切管理手段都会失效"
+        },
+        {
+          "text": "The biggest pitfall is self-satisfaction. The moment you think you've got it all figured out, you're done.",
+          "context": "一个警告和激励，告诉领导者要永远保持谦虚和对改进的渴望，这是持续成功的秘诀"
+        }
+      ]
+    },
+    {
+      "title_zh": "万物有灵且美",
+      "title_en": "All Creatures Great and Small",
+      "author_zh": "詹姆斯·哈利特",
+      "author_en": "James Herriot",
+      "year": "1972",
+      "category": "文学",
+      "one_liner": "在英国乡村与动物相处的温暖故事，每一个患者都在教主人翁怎么理解生命",
+      "deep_dive": "这本书的魔力在于，它看似在讲一个乡村兽医的日常琐事，实际上在悄悄改变你对生命、爱与陪伴的看法。詹姆斯·哈利特笔下的英国北部乡村充满了泥土的味道，书里满是他和搭档西格弗里德给农场里的牲畜看病的故事——一头难产的母牛、一只被困的猪、一匹步履蹒跚的老马。但这些不仅是医学故事，更是人性故事。你会在那些农民身上看到坚韧、在那些动物身上看到对生命的本能执着。最打动人的是哈利特的态度：他对每一个生命都充满敬畏和耐心，不管那是一条濒死的狗还是一只野鸟。读这本书的时候，你会慢下来，会更珍惜身边的一切有生命的东西。它不是教你什么大道理，而是通过一个个温暖的故事，让你重新体验什么叫热爱、什么叫专业、什么叫对生命的承诺。",
+      "quotes": [
+        {
+          "text": "There are few things in life more rewarding than to be accepted into the world of an animal.",
+          "context": "这句话道出了全书的精髓——与动物建立信任的那一刻，就是人与自然和谐共处的体现"
+        },
+        {
+          "text": "When you first come into a farmyard you have to proceed carefully. The farmer may be reassuring about his animals' friendliness, but cows, pigs and horses can be unpredictable.",
+          "context": "既是实用建议，也是人生哲学——尊重未知，谨慎接近，最后才能赢得信任"
+        },
+        {
+          "text": "Every creature has value, deserves care, and teaches us something about the world.",
+          "context": "贯穿全书的信念——无论多小、多不起眼的生命，都值得我们的重视和尊重"
+        }
+      ]
+    }
+  ]
+}
+```
