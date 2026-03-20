@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "美国大城市的死与生",
+      "title_en": "The Death and Life of Great American Cities",
+      "author_zh": "简·雅各布斯",
+      "author_en": "Jane Jacobs",
+      "year": "1961",
+      "category": "社科与历史",
+      "one_liner": "对抗城市现代主义规划，从街道观察城市活力的本质。",
+      "deep_dive": "这是一部关于城市规划和城市生活的革命性著作。简·雅各布斯在1961年出版这本书时，直接挑战了当时主流的现代主义城市规划理论。她观察到，纽约社区的活力并不来自宏大的规划蓝图，而是源于街道层面的多样性、密度和混合用途的设计。她反对的是大规模推倒重建、单一功能分区的城市更新项目——这些项目看似宏伟，但实际上摧毁了社区的社交结构和经济活力。\n\n雅各布斯深入分析了使一条街道安全、有生机的要素：多样的用途、足够的行人流量、清晰的建筑边界。她强调老建筑的价值，认为便宜的旧建筑为新兴企业和实验提供了空间。这本书改变了城市规划师的思维方式，从自上而下的宏观规划转向自下而上的微观观察。如果你在乎城市如何运作、社区如何维系，这本书会彻底改变你看待城市的方式。",
+      "quotes": [
+        {
+          "text": "Lowly, unpurposeful and random as they may appear, sidewalk contacts are the small change from which a city's wealth of public life may grow.",
+          "context": "强调看似普通的街道互动和偶遇是城市活力与社区联系的基础"
+        },
+        {
+          "text": "A city is not a work of art. It is a work of nature.",
+          "context": "批判城市规划师凭空塑造城市的想法，强调城市应该是有机演变而非人工设计的结果"
+        }
+      ]
+    },
+    {
+      "title_zh": "如何解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Polya",
+      "year": "1945",
+      "category": "数学与逻辑",
+      "one_liner": "教你系统思维和解题策略，从数学到人生的通用方法论。",
+      "deep_dive": "波利亚的这本书被誉为解题和创新思维的圣经。1945年出版至今，已成为数学教育和问题解决领域最有影响力的著作。但不要被\"数学\"这个词迷惑——这本书的真正价值在于教你一种通用的思维方法。\n\n波利亚提出了解题的四个阶段：理解问题、制定计划、执行计划、回顾反思。这套方法看似简单，但深度在于每个阶段的具体策略。他教你如何提问、如何从已知联想到未知、如何分解复杂问题、如何从失败中学习。最迷人的是，波利亚揭示了数学创造的过程并不神秘——天才不是凭直觉得出答案，而是通过系统思维逐步逼近真相。这些技巧不仅用于数学，也适用于科学研究、工程设计、商业决策，甚至日常生活。",
+      "quotes": [
+        {
+          "text": "If there is a problem you cannot solve, then there is an easier problem you can solve: find it.",
+          "context": "强调分解问题、先解决更简单版本的重要性，这是突破复杂难题的关键策略"
+        },
+        {
+          "text": "The student who can learn to see an analogy between different situations is far ahead.",
+          "context": "说明类比思维的强大力量，通过类比可以把陌生问题转化为已解决的问题"
+        }
+      ]
+    },
+    {
+      "title_zh": "全球通史",
+      "title_en": "A Global History",
+      "author_zh": "斯塔夫里阿诺斯",
+      "author_en": "J. M. Stavrianos",
+      "year": "1971",
+      "category": "社科与历史",
+      "one_liner": "从全球视角讲述人类历史，解释当代世界秩序的形成过程。",
+      "deep_dive": "这是一部真正意义上的\"全球\"通史。斯塔夫里阿诺斯不是把历史简化成欧洲中心的叙事，也不是东西方文明轮流登场的故事，而是强调各个文明之间的互动、贸易网络的形成、技术传播的路径，以及不同地区如何被卷入更大的世界体系。\n\n这本书涵盖了从远古社会到现代的整个人类历史：农业革命、古代帝国、伊斯兰文明传播、欧洲崛起、工业革命、帝国主义、两次世界大战，以及冷战格局。更重要的是，作者解释了\"为什么\"——为什么欧洲而非中国实现工业化？为什么美国成为超级大国？为什么全球化进程如此不平衡？书中最有价值的是对长期结构变化的分析，让读者看到历史不是孤立事件，而是由地理、资源、技术、文化多因素交织而成的模式。",
+      "quotes": [
+        {
+          "text": "The basic determinant of international relations is not morality but power.",
+          "context": "揭示国际关系的现实基础，帮助读者理解历史上大国行为的真实动机"
+        },
+        {
+          "text": "History is not a spectator sport. It is something in which we are all participants.",
+          "context": "强调理解历史对当代的重要性，我们每个人都是历史进程的参与者和塑造者"
+        }
+      ]
+    }
+  ]
+}
+```
