@@ -1,0 +1,6 @@
+已生成三本书的JSON推荐。需要您授权保存文件到 `/Users/carol/Documents/daily-books/data/2026-03-20.json`，然后推送到 GitHub。
+
+现在只需您许可即可完成：
+- 保存 JSON 文件
+- 更新索引
+- 推送到 GitHub Pages（约30秒后页面更新）
