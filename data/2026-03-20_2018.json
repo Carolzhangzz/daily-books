@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "从一到无穷大",
+      "title_en": "One Two Three... Infinity: Facts and Speculations of Science",
+      "author_zh": "乔治·伽莫夫",
+      "author_en": "George Gamow",
+      "year": "1947",
+      "category": "科学与认知",
+      "one_liner": "用深邃而有趣的笔触，带你从最小的数字概念走向宇宙的无穷奥秘。",
+      "deep_dive": "你想象过从1开始，一直往上数到无穷大是什么感受吗？伽莫夫这本书就像一次魔幻的智力冒险。他从最基础的数学概念出发，比如无穷数列、相对论、原子结构，再到宇宙学，每一步都解释得清晰而富有魅力。这不是一本枯燥的教科书——伽莫夫本人就是个天才科学家，他知道怎样把复杂的东西讲得简单易懂。\n\n书里最迷人的地方，是他对看似抽象的概念的具体解释。比如他用生动的例子说明为什么有理数是无穷的，但无理数的无穷更\"大\"。他还通过插图和通俗化的语言，让读者感受到数学和物理的优美。这本书写于1947年，但读起来一点不过时。反而因为它的经典性，几代读者都从中受益。\n\n如果你曾在半夜突然想到\"宇宙到底有多大\"这样的问题，或者你对数字的本质感到好奇，这本书就像一位智慧的朋友，坐在你身边，耐心地为你解释这个令人惊叹的世界。伽莫夫的风格是鼓励性的而非居高临下的，让你感到自己也能理解深奥的科学。",
+      "quotes": [
+        {
+          "text": "The universe is a big place, perhaps the biggest place of all.",
+          "context": "伽莫夫在思考宇宙的规模时发出的感叹，体现了他对自然界无穷性质的敬畏。"
+        },
+        {
+          "text": "Imagination is more important than knowledge.",
+          "context": "强调了对想象力的重视，鼓励读者超越当前的认知边界去探索未知的可能性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "算法之美",
+      "title_en": "The Algorithm Design Manual",
+      "author_zh": "史蒂文·斯基耶纳",
+      "author_en": "Steven S. Skiena",
+      "year": "2008",
+      "category": "商业与技术",
+      "one_liner": "从算法设计的实战角度出发，教你如何在真实世界的工程问题中选择和优化算法。",
+      "deep_dive": "很多算法书都从理论开始，堆砌数学证明和大O符号。但《算法之美》不一样——斯基耶纳从一个资深工程师的视角出发，告诉你在真实的项目中会面对什么问题，该用什么算法来解决。这本书的强大之处在于它非常\"实用主义\"。不是每个问题都需要最优雅的理论解，有时候一个能快速实现、效果足够好的方案就能解决问题。\n\n书里充满了\"如何识别你的问题属于哪一类\"的讨论。是排序问题还是搜索问题？是图论还是动态规划？斯基耶纳教你的是一种分类思维，让你能快速判断当前问题的本质。特别值得一提的是书中的\"战争故事\"（War Stories），这些都是作者在实际项目中遇到的真实案例。你会看到他如何从错误的算法选择开始，再逐步优化到最终的高效方案。\n\n这种\"我从失败中学到了什么\"的写法，比单纯讲理论生动得多。如果你想知道算法知识怎样在实际中应用，想理解不同问题背后的算法本质，这本书就是一个完美的桥梁，让抽象的算法变成了可以触摸的工程智慧。",
+      "quotes": [
+        {
+          "text": "The real problem with algorithmic techniques is that programmers do not know them.",
+          "context": "指出了许多工程师面临的真实困境——不是算法不存在，而是需要学习和了解。"
+        },
+        {
+          "text": "Changing the algorithm can be as important as changing the hardware.",
+          "context": "提醒工程师们有时选择更好的算法比升级硬件的效果更显著，强调算法优化的价值。"
+        }
+      ]
+    },
+    {
+      "title_zh": "地下铁道",
+      "title_en": "The Underground Railroad",
+      "author_zh": "科尔森·怀特海德",
+      "author_en": "Colson Whitehead",
+      "year": "2016",
+      "category": "文学",
+      "one_liner": "用魔幻现实主义的笔触，重新想象了美国历史上真实的地下铁道，追踪一个女奴寻求自由的壮烈之旅。",
+      "deep_dive": "历史上的\"地下铁道\"是那些帮助逃亡黑奴向北逃向自由州的秘密通道和站点的总称。但怀特海德在这部小说中做了个大胆的转变——他让地下铁道真的成了一条真实的铁路，穿梭在美国各州之间的隧道里。这个设想听起来荒诞，但反而让小说获得了强大的文学力量。\n\n故事的主角是科拉，一个在佐治亚州种植园被奴役的年轻女性。逃跑后，她踏上了地下铁道列车，去往未知的北方。每一站代表着美国历史上某个时刻的不同状态——有的地方承诺自由却暗藏危险，有的地方表面文明但充满伪善。怀特海德通过科拉的眼睛，让我们看到奴隶制的残酷不只是肉体上的折磨，更是精神上对人性的彻底否定。\n\n这部小说既是历史，又是寓言。它不仅讲述了过去，也在问关于现在的问题：自由是什么？正义如何实现？书中的人物都不是非黑即白的——有些逃犯帮手其实有自己的私心，有些捕奴人猎手也有复杂的心理动因。怀特海德拒绝简化历史，而是呈现了其中的灰色地带和人性的复杂性，这是为什么能获得普利策文学奖。",
+      "quotes": [
+        {
+          "text": "She was ten years old, and she had already earned her status. Cora's crime was that she was born.",
+          "context": "用简洁而沉重的笔调揭露了奴隶制的本质荒谬性——你的命运不是因为做错什么，只是因为你生而为人。"
+        },
+        {
+          "text": "The old station master said that the Underground Rail Road was the way forward, but forward to where? That was always the question that stopped them.",
+          "context": "反映了逃亡奴隶心中的困境——自由的方向在哪里？即使逃脱了奴役，自由本身也是模糊而危险的。"
+        },
+        {
+          "text": "She had been in the company of whites her whole life and had never thought of them as human.",
+          "context": "体现了奴隶制对人性扭曲的程度，连被压迫者都在内化压迫者的逻辑，这是制度暴力最深层的创伤。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_2018"
+}
