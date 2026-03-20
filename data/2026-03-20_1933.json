@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "飞越疯人院",
+      "title_en": "One Flew Over the Cuckoo's Nest",
+      "author_zh": "肯·凯西",
+      "author_en": "Ken Kesey",
+      "year": "1962",
+      "category": "文学",
+      "one_liner": "一个自由不羁的人在精神病院里对抗冷酷的制度和权力。",
+      "deep_dive": "这是部关于人性和自由的经典。故事发生在精神病院，主角麦克默菲是个叛逆分子。在这个压抑的地方，他用热情和幽默打破沉闷氛围，鼓励病人重新拥抱生活，但最后的结局揭示了制度的残酷——再勇敢的反抗也可能无法打败这个庞大机器。这部作品深刻反映了权力结构如何压制人的自由和个性。麦克默菲的存在本身就是对制度的挑战，让人重新思考什么是真正的疯狂：是被诊断为精神病，还是被制度驯化到失去自我？这是六十年代美国文学的瑰宝，影响了几代人对自由、权力和人性尊严的思考。",
+      "quotes": [
+        {
+          "text": "I'm not saying they're crazy. I'm just saying they're no crazier than the average man walkin' down the street.",
+          "context": "麦克默菲对精神疾病的讽刺，深刻揭示了什么才是真正的疯狂"
+        },
+        {
+          "text": "It's harder to be insane than it is to be sane.",
+          "context": "在压抑制度下保持清醒和真实自我有多困难"
+        }
+      ]
+    },
+    {
+      "title_zh": "小王子",
+      "title_en": "The Little Prince",
+      "author_zh": "圣埃克苏佩里",
+      "author_en": "Antoine de Saint-Exupéry",
+      "year": "1943",
+      "category": "文学",
+      "one_liner": "一个来自B-612小行星的王子寻找爱与生命意义的哲学冒险故事。",
+      "deep_dive": "这可能是世界上最被误解的儿童文学。很多人以为只是可爱童话，其实是部充满哲学深度的成人寓言。小王子离开自己的星球探索宇宙，想理解大人们为什么关心那些看似没意义的事。旅途中他遇见国王、商人、点灯的人，每个角色代表人类社会的某种执念。最感人的是他和玫瑰花的关系——那朵花看似平凡，但因为他投入时间照顾，它就变得独一无二。这告诉我们，我们关心的东西之所以特别，不因为稀有，而因为投入的爱。作者圣埃克苏佩里是飞行员，融入了对人生的深刻思考。那句'用心看才能看清楚'是他对整个人生的总结。这部书陪伴几代人成长，每个年纪读都有不同感悟。",
+      "quotes": [
+        {
+          "text": "What is essential is invisible to the eye.",
+          "context": "玫瑰花关于爱的本质的启示，提醒我们真正重要的东西往往看不见"
+        },
+        {
+          "text": "It is a time you spent on your rose that makes your rose so important.",
+          "context": "讲述爱和陪伴如何为生命创造意义和价值"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-20_1933"
+}
