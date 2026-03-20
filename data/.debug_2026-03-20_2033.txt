@@ -1,0 +1,99 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "呼啸山庄",
+      "title_en": "Wuthering Heights",
+      "author_zh": "艾米莉·勃朗特",
+      "author_en": "Emily Brontë",
+      "year": "1847",
+      "category": "文学",
+      "one_liner": "一段扭曲的复仇与爱交织的黑暗传奇，在英国约克郡的荒凉沼地上演绎人性的绝望。",
+      "deep_dive": "你知道吗，当我第一次读《呼啸山庄》时，我被深深震撼了——这不是一部温情脉脉的爱情故事，反而是一出关于如何被爱所摧毁的悲剧。故事发生在两个大宅之间，一边是富有的山庄Thrushcross Grange，另一边是荒凉的沼地庄园Wuthering Heights。核心人物是Heathcliff——一个被社会遗弃、被爱人背叛的复仇者，他用一生来惩罚那些伤害过他的人。但最可怕的是，他的复仇摧毁了下一代人，包括无辜的Cathy和Hareton。这部书之所以触动人心，在于它真实地呈现了人性中最黑暗的一面：执念如何腐蚀灵魂，复仇如何成为自我毁灭的工具。艾米莉·勃朗特用粗粝的笔触和极端的人物设置，打破了维多利亚时代文学的温情假象，让我们看到爱、恨、阶级分化如何在个体身上造成无法弥补的伤害。这不是一部舒适的书，但它是真实的、深刻的，值得一读再读。",
+      "quotes": [
+        {
+          "text": "Whatever our souls are made of, his and mine are the same.",
+          "context": "Cathy对Heathcliff说的话，道出了他们灵魂的共鸣，也预示了他们无法逃脱的悲剧命运。"
+        },
+        {
+          "text": "I am Heathcliff! He's always, always in my mind.",
+          "context": "Cathy对Edgar的告白，揭示了爱与执念之间的危险界线，以及选择背后要付出的代价。"
+        },
+        {
+          "text": "If all else perished, and he remained, I should still continue to be; and if all else remained, and he were annihilated, the universe would turn to a mighty stranger.",
+          "context": "这句话最深刻地表达了Cathy对Heathcliff的执念有多深，深到足以否定整个世界的存在。"
+        },
+        {
+          "text": "He's more myself than I am. Whatever our souls are made of, his and mine are the same.",
+          "context": "Cathy将Heathcliff视为自己的延伸，而非独立的他人，这种执念最终导致了她的毁灭。"
+        }
+      ]
+    },
+    {
+      "title_zh": "设计中的设计",
+      "title_en": "Designing Design",
+      "author_zh": "原研哉",
+      "author_en": "Kenya Hara",
+      "year": "2007",
+      "category": "艺术与美学",
+      "one_liner": "日本设计大师原研哉关于设计本质、哲学与实践的深邃思考，教你看透设计的灵魂。",
+      "deep_dive": "读原研哉的书有点像进入一个禅意的空间——他不会告诉你如何画线条或选颜色，而是让你思考为什么我们设计。原研哉是Muji（无印良品）的首席设计师，他的哲学贯穿了这个品牌的整个基因：极简、朴素、去除多余。在《设计中的设计》这本书里，他探讨了一个深刻的问题：好的设计是什么？答案不在华丽的视觉效果，而在于对本质的捕捉。他强调\"白\"不是没有，而是包含一切可能性的空白；极简不是简陋，而是经过深思熟虑后的洗练。书里充满了他的案例——从纸张的选择、展览的空间设计，到品牌识别系统的思考。最让我印象深刻的是他对\"设计思维\"的定义：设计不是装饰，不是风格，而是对问题的深度理解和对人的尊重。他说，真正的设计应该是看不见的——用户甚至察觉不到它的存在，但生活因此变得更好。这本书读起来像诗，但实际上是对设计本质最严肃的思考。",
+      "quotes": [
+        {
+          "text": "White is the beginning of the world.",
+          "context": "原研哉强调白色和空白的力量，它不是虚无，而是无限可能的载体。"
+        },
+        {
+          "text": "Good design is as little design as possible.",
+          "context": "这句话概括了极简主义设计的精髓——去除一切多余，只保留本质。"
+        },
+        {
+          "text": "Design is not just what it looks like and feels like. Design is how it works.",
+          "context": "原研哉强调设计的功能性本质，形式应该服从于内在的逻辑和使用体验。"
+        },
+        {
+          "text": "We cannot restrict ourselves to what we can see and sense.",
+          "context": "设计思维超越视觉表面，需要深入理解人的需求和生活的本质。"
+        },
+        {
+          "text": "Design is the act of giving meaning to information.",
+          "context": "设计的核心任务是将复杂的信息转化为有意义的体验。"
+        }
+      ]
+    },
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "数学与逻辑",
+      "one_liner": "一本改变你解决问题方式的经典著作，用四个步骤教你从数学到生活的系统思维。",
+      "deep_dive": "如果你以为这是一本关于数学技巧的书，那就错了——它其实是关于思维方式的。波利亚在1945年写下这部经典之作时，已经总结了数十年数学教学和研究的经验，他发现大多数人解决问题的方式都很混乱。于是他提出了四个步骤：理解题目、制定计划、执行计划、回顾反思。听起来很简单对吧？但真正的力量在于细节。比如，理解题目不只是读一遍，而是要问自己：已知条件是什么？要求什么？有哪些约束？制定计划时，你需要寻找与之前遇到过的类似问题的联系，或者尝试反过来思考。书里充满了启发式的问题——波利亚会问你\"如果改变这个条件会怎样？\"\"这个问题和什么相似？\"这种引导式的思考方式本身就是一种洞察力。我最喜欢的是回顾反思这一步——大多数人解决完问题就算了，但波利亚认为这是最重要的，因为只有通过反思，才能从单一问题的解决升华到通用的解题方法。这本书对程序员、工程师、甚至管理者都有启发——它教你的不仅是如何解数学题，而是如何系统地面对任何复杂问题。",
+      "quotes": [
+        {
+          "text": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+          "context": "波利亚提醒我们，当陷入困顿时，策略是降低难度，先解决更简单的相关问题。"
+        },
+        {
+          "text": "The wise man doesn't give the right answer, he poses the right question.",
+          "context": "强调提问的力量——提出正确的问题往往比得到答案更重要。"
+        },
+        {
+          "text": "Problems worthy of attack prove their worth by hitting back.",
+          "context": "真正值得解决的问题会给予反馈和挑战，在这个过程中你会成长。"
+        },
+        {
+          "text": "A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.",
+          "context": "即使是小问题的解决，也蕴含着发现和学习的机会。"
+        },
+        {
+          "text": "Look at the unknown! And try to think of some familiar problem having the same or a similar unknown.",
+          "context": "解题的关键是将陌生问题与已知问题相联系，利用已有的知识和模式。"
+        }
+      ]
+    }
+  ]
+}
+```
