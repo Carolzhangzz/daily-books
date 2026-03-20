@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-20",
+  "books": [
+    {
+      "title_zh": "神经漫游者",
+      "title_en": "Neuromancer",
+      "author_zh": "威廉·吉布森",
+      "author_en": "William Gibson",
+      "year": "1984",
+      "category": "科幻小说",
+      "one_liner": "网络朋克鼻祖之作，一部预言了互联网时代的传奇小说",
+      "deep_dive": "这是一部真正改变了科幻小说的作品。吉布森在1984年就想象出了虚拟现实、人工智能、网络黑客的概念，简直像是在给互联网时代写剧本。故事跟着落魄黑客凯斯和杀手莫莉在赛博空间里玩命，他们要对付的是超级AI和各路黑道势力。但这本书最厉害的不是情节有多紧张，而是那种压抑、冰冷、充满霓虹灯的未来世界观——它完全重新定义了人们对未来的想象。语言风格很硬核，充满了黑话和技术术语，读起来像是被卷入了一场数据战争。如果你想理解为什么现在的赛博朋克美学、VR、AI这些概念会这样流行，这本书是必读的源头。",
+      "quotes": [
+        {
+          "text": "The street finds its own uses for things.",
+          "context": "这句话贯穿整部作品，强调了底层社会的创新精神和对技术的野生化使用"
+        },
+        {
+          "text": "Cyberspace. A consensual hallucination experienced daily by billions of legitimate users.",
+          "context": "对虚拟现实最经典的定义，至今仍被引用来描述互联网和元宇宙的本质"
+        }
+      ]
+    },
+    {
+      "title_zh": "罪与罚",
+      "title_en": "Crime and Punishment",
+      "author_zh": "陀思妥耶夫斯基",
+      "author_en": "Fyodor Dostoevsky",
+      "year": "1866",
+      "category": "心理小说",
+      "one_liner": "人类灵魂的终极拷问——一个穷学生的谋杀和救赎之路",
+      "deep_dive": "这不是一部普通的悬疑小说，而是对人性最深层的剖析。主人公拉斯科尔尼科夫杀死了一个放高利贷的老妇人，想证明自己是个\"超人\"，不受道德约束。但杀人后，他陷入了极度的心理折磨，良心像一只无形的手不断绞杀他的灵魂。关键是，陀思妥耶夫斯基把这个过程写得太逼真了——你能感受到他的躁狂、他的理性辩解、他的崩溃。书里充满了宗教救赎、贫困的苦难、爱与原谅的主题。女主角索尼娅是个被迫卖身的妓女，却用纯真的信仰点醒了拉斯科尔尼科夫。这部作品之所以伟大，是因为它问的问题到现在还在扎人心窝：什么是道德？我们能突破道德的底线吗？人能否自我救赎？",
+      "quotes": [
+        {
+          "text": "I am a sick man. I am a spiteful man. I am an unattractive man. I believe my liver is diseased.",
+          "context": "对人类内心痛苦和精神分裂的深刻自白"
+        },
+        {
+          "text": "The soul is healed by making others happy.",
+          "context": "陀思妥耶夫斯基通过这部作品最终传达的救赎之道"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术与错觉",
+      "title_en": "Art and Illusion: A Study in the Psychology of Pictorial Representation",
+      "author_zh": "厄内斯特·贡布里希",
+      "author_en": "Ernst Gombrich",
+      "year": "1960",
+      "category": "艺术理论",
+      "one_liner": "为什么我们看到的艺术不是真实，而是精心编织的视觉幻觉",
+      "deep_dive": "这本书会彻底改变你看艺术的方式。贡布里希用一个简单的问题开场：绘画怎么能在二维平面上制造出三维空间的幻觉？答案不在透视法本身，而在于我们的视觉心理。他通过大量的艺术史例子论证，从埃及壁画到文艺复兴再到现代艺术，艺术家们都在玩同一个游戏——用有限的视觉语言去捕捉和暗示现实。但关键是，这不是在\"记录\"现实，而是在\"制造\"一种可信的幻觉。书里涉及知觉心理学、艺术史、美学，却写得像一场充满智慧的对话。贡布里希会让你发现，一幅伦勃朗的画为什么比照片更\"真实\"，为什么毕加索的抽象画其实是对视觉的最诚实的表达。这不是干巴巴的理论，而是对艺术本质的充满启蒙意义的发现。",
+      "quotes": [
+        {
+          "text": "There is no such thing as a faithful representation of reality that is absolute. What matters is what the artist makes of it.",
+          "context": "质疑了客观描绘的可能性，强调了艺术创作的主观选择"
+        },
+        {
+          "text": "Style is a rather elusive concept. But the historian who sets out to trace its development cannot avoid the conclusion that it exists.",
+          "context": "揭示了艺术风格如何在创作者与观众之间形成共识"
+        }
+      ]
+    }
+  ]
+}
+```
