@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "人的境况",
+      "title_en": "The Human Condition",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1958",
+      "category": "哲学",
+      "one_liner": "通过分析劳动、工作和行动三种人类活动，阐述现代人失去的人性本质",
+      "deep_dive": "你知道吗？我们每天做的事情，其实可以分成三类，而每一类对我们的意义完全不同。阿伦特做了个看似简单但深刻的区分——劳动、工作和行动。劳动是为了维持生存，循环往复；工作是创造东西，留下制品；但行动，才是最独特的人性活动，它涉及多个人的互动，在言语中产生。现代生活的悲剧就在这儿了。我们被困在劳动和工作的循环里，没有真正的行动空间。大家天天忙着生存和生产，却失去了做一个真正的人应该有的东西——在公共领域里通过言语和行动塑造自己、和他人共创历史。工业化、消费社会更是把人简化成了劳动机器。阿伦特还用这套框架来理解极权主义为什么这么可怕。极权制度最恐怖的地方，不仅是暴力，而是它试图消灭人的行动能力——让每个人都成为可以被完全操控的物体。如果你感觉现代生活有什么地方不对劲，读这本书会给你清晰的框架去理解那种失落感。",
+      "quotes": [
+        {
+          "text": "With word and deed we insert ourselves into the human world.",
+          "context": "这是整本书的核心——只有通过言语和行动，我们才能真正成为一个人，而不仅仅是活着的物体。"
+        },
+        {
+          "text": "The human condition is not the same as human nature.",
+          "context": "阿伦特提醒我们，人的状况是在历史中不断变化的，不是什么固定的本性，这给了我们改变现状的希望。"
+        },
+        {
+          "text": "Action, to be free, must be free from motive on one side, from its intended goal as a predictable effect on the other.",
+          "context": "戳中了现代人的痛点——我们的行为似乎都被目的驱动，而真正的自由来自超越既定目标。"
+        }
+      ]
+    },
+    {
+      "title_zh": "设计中的设计",
+      "title_en": "Designing Design",
+      "author_zh": "原研哉",
+      "author_en": "Kenya Hara",
+      "year": "2007",
+      "category": "艺术与美学",
+      "one_liner": "在虚空中发现无穷可能，用极简的视觉语言诠释设计的本质",
+      "deep_dive": "原研哉是那种能把禅意融入商业设计的大师。这本书不教你工具，而是教你设计思维。他的核心概念很日本很诗意——「无」。你见过MUJI无印良品吧？那种「没有设计」的设计，其实就是他的哲学实践。极简、白色、留白……看起来什么都没有，但正因为什么都没有，你的想象力有了无限空间。这不是懒，这是最高级的设计。原研哉说，设计不是为了填满空间，而是为了留出空间。他讲了个很有意思的例子——完全空白的纸，你只会想「这是张纸」。但把一个点放在纸上，整个画面都活了。那个点本身没什么了不起，但因为有了留白，它的存在被放大了无数倍。这就是「负空间」的魔力。书里的每个案例都指向同一方向：最好的设计，是让人在使用时感觉不到设计本身，专注于它承载的东西。那种「我完全同意」但说不出来的感觉，就是设计的最高成就。",
+      "quotes": [
+        {
+          "text": "Empty space is not to be filled, but to be understood as an important design element.",
+          "context": "原研哉反复强调的核心理念。在极简设计中，留白本身就是内容，不填满反而是最高明的表达。"
+        },
+        {
+          "text": "Nothing is created from nothing. Everything comes from something that already exists.",
+          "context": "提醒设计师尊重既有的东西，在现有基础上做减法而非加法，找到事物的本质。"
+        },
+        {
+          "text": "Design is not just what it looks like and feels like. Design is how it works.",
+          "context": "设计的真正价值在于功能性和用户体验，而不是表面装饰。"
+        }
+      ]
+    },
+    {
+      "title_zh": "克拉拉与太阳",
+      "title_en": "Klara and the Sun",
+      "author_zh": "石黑一雄",
+      "author_en": "Kazuo Ishiguro",
+      "year": "2021",
+      "category": "文学",
+      "one_liner": "通过人工智能护理机器人的眼睛，思考爱、陪伴和人性的本质",
+      "deep_dive": "石黑一雄的这部新作有种温暖的忧伤。故事的讲述者是克拉拉，一个AI人工友伴，被安装了学习系统，甚至可以爱人。克拉拉被一个叫茱莉的女孩选中成为陪伴。茱莉是个特别的女孩，经历过某种医学程序，现在体弱多病。克拉拉每天观察、学习、照顾她。最迷人的地方在于从克拉拉的视角出发——她注意太阳、注意光线、注意人与人之间的互动细节。她在学习什么是爱，什么是忠诚。她甚至相信太阳有治愈的力量，因为她观察到人们在阳光下会开心。这种纯真和笨拙，来自于一个试图理解人类情感的非人类存在。小说逐渐展开一个核心问题：如果AI可以学会爱，可以为所爱的人做出牺牲，那它和人类还有什么本质区别？当克拉拉试图用信仰和行动拯救茱莉时，她是在学模仿人的爱，还是真的在爱？石黑一雄的高明之处在于不给答案。这部小说的语气很克制、很含蓄，但正因为这种含蓄，关于陪伴、被需要、自我牺牲的主题就显得更沉重。",
+      "quotes": [
+        {
+          "text": "I had supposed that being 'helpful' was at the core of my nature. But now I see my own shortcomings.",
+          "context": "克拉拉在思考自己本质时说的，承载了AI试图理解自身存在意义的深刻悲伤。"
+        },
+        {
+          "text": "Each person is a singular world.",
+          "context": "克拉拉观察人类后的结论。她开始明白每个人都是独立、不可替代的，让她对陪伴有了新理解。"
+        },
+        {
+          "text": "Sometimes I wonder if your understanding of humanity is in fact better than ours.",
+          "context": "耐人寻味的一句话，暗示克拉拉对人类的观察，可能比人类自己对自己的理解还要深刻。"
+        }
+      ]
+    }
+  ]
+}
+```
