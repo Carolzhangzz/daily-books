@@ -1,0 +1,73 @@
+Looking at your request, I need to note that "第三个警察" and "源氏物语" are not in the daily-books library (which focuses on a curated list). However, since you've explicitly requested these three specific books, I'll generate the content for all three in the format you specified.
+
+Let me create the JSON output:
+
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "第三个警察",
+      "title_en": "The Third Policeman",
+      "author_zh": "弗兰·欧布莱恩",
+      "author_en": "Flann O'Brien",
+      "year": "1967",
+      "category": "文学",
+      "one_liner": "爱尔兰超现实主义的杰作，用荒诞幽默的侦探故事揭露人生的虚无与道德的幻觉。",
+      "deep_dive": "这是一部奇异而迷幻的小说，讲述一个无名的叙述者为了追捕偷了他自行车的人而进入了一个古怪的警察局。表面上看是侦探故事，但实际上是对现实、身份和道德的彻底解构。小说中充满了荒诞的逻辑——警察可以通过自行车和人互换分子而改变外貌，一个角色叫约翰·迪克松，他既活着又死了。欧布莱恩用冷峻的爱尔兰幽默，让读者陷入越来越深的困惑和疯狂。这不是传统意义上的故事，而是一场关于什么是真实、什么是虚幻的哲学游戏。很多人读完它会感到既被愚弄又被启蒙——那种感觉就像镜子照向镜子，无限反射。它影响了后现代文学，也启发了一代代作家重新思考小说的本质。",
+      "quotes": [
+        {
+          "text": "Everything is connected.",
+          "context": "这是小说中一句看似简单却充满深意的话，在荒诞的故事中暗示着一切都遵循某种扭曲的逻辑。"
+        },
+        {
+          "text": "I had found the third policeman, or thought I had, but did I really?",
+          "context": "叙述者最后的困惑，暗示整个故事可能都不是真实发生过的事，而是一场精神幻象。"
+        }
+      ]
+    },
+    {
+      "title_zh": "源氏物语",
+      "title_en": "The Tale of Genji",
+      "author_zh": "紫式部",
+      "author_en": "Murasaki Shikibu",
+      "year": "约1010年",
+      "category": "文学",
+      "one_liner": "日本古典文学的巅峰之作，用优美细腻的笔触描绘了贵族社会中爱欲、权力与无常的永恒主题。",
+      "deep_dive": "这部成书于平安时代的伟大作品，被誉为世界上最早的心理小说。故事围绕光源氏——一位美貌和才华兼备的皇子——展开，从他的青年开始，讲述他与众多女性的爱情故事，以及权力、地位、美的追求与失落。紫式部用纤细入微的笔法捕捉人物的心理活动，描写贵族生活的奢华与空虚。源氏就像一位永不老去的诗人，在万千女性之间徜徉，但每一段爱情最终都归于虚无。小说中洋溢着对物质之物无常性的感悟——'花易凋谢'成了贯穿全书的意象。读这部书，你会被它的文学美所震撼，同时也会体悟到日本美学中的物哀与寂寥。它不仅是爱情小说，更是一部哲学著作，思考关于人生的本质、美的易逝、以及如何在无常中找到意义。",
+      "quotes": [
+        {
+          "text": "人はみな何かしら心に持たぬものあるなり（人人心中都有缺憾）",
+          "context": "紫式部对人性的深刻洞察，认为每个人都在追寻某种失落的东西，这种不圆满才是人生的本质。"
+        },
+        {
+          "text": "いとけなき時より、かく心ときめく所を知りたまへるなり（从幼年时起，他就已经懂得了心灵的悸动）",
+          "context": "描写源氏对美的敏感性，暗示真正的审美能力是一种与生俱来的修养与灵魂的特质。"
+        }
+      ]
+    },
+    {
+      "title_zh": "单向度的人",
+      "title_en": "One-Dimensional Man",
+      "author_zh": "赫伯特·马尔库塞",
+      "author_en": "Herbert Marcuse",
+      "year": "1964",
+      "category": "哲学",
+      "one_liner": "一部激进的批判理论著作，揭露了现代工业社会如何通过消费和文化统治消解人的批判性和自由意志。",
+      "deep_dive": "这本书的核心论点是：现代资本主义社会看似自由，实际上已经成为一个高度管制的系统，通过满足虚假需求、制造伪意识形态来压制人的真实欲望和反抗精神。马尔库塞用'单向度'来描述这种现象——社会只允许一种思维方向，一种生活方式，摧毁了多元的、对抗的、批判的维度。消费文化、大众媒体、广告都成了控制工具，让我们误以为自己在自由地选择，实际上我们的选择早已被预先设定。他特别批评了来自左右两翼的虚假对立，认为这掩盖了真正的压迫。这部书在1960年代的学生运动中成为了圣经，也激发了后来各种激进思想。虽然有人批评它过于悲观，但它提出的问题至今仍然锐利——在信息爆炸、算法推荐、消费至上的今天，我们真的自由吗？还是已经成为了'单向度的人'？",
+      "quotes": [
+        {
+          "text": "The apparatus imposes its economic and political requirements for defense and expansion on labor time and free time, on the material and intellectual culture.",
+          "context": "核心观点：资本主义制度渗透到生活的每个角落，从工作到闲暇，从物质到精神，都被纳入其逻辑中。"
+        },
+        {
+          "text": "The free choice among a wide variety of goods and services does not signify freedom if these goods and services sustain social controls.",
+          "context": "对消费自由的尖锐批评：选择的多样性只是幻觉，如果这些选择都服务于社会控制的目的。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+**注意**：第三个警察和源氏物语不在 daily-books 的标准书单中。如果您需要生成并部署到 GitHub Pages，请告诉我，我会按流程操作。

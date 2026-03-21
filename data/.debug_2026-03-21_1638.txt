@@ -1,0 +1,8 @@
+我已为三本书生成了推荐内容。需要你授权来保存JSON文件。你可以授权写入 `/Users/carol/Documents/daily-books/data/` 目录。
+
+授权后，我会：
+1. 保存 JSON 文件到 2026-03-21.json
+2. 更新 index.json
+3. 推送到 GitHub
+
+请确认授权。
