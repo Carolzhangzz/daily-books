@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "永别了武器",
+      "title_en": "A Farewell to Arms",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1929",
+      "category": "战争文学/爱情小说",
+      "one_liner": "一个美国救护车司机在第一次世界大战中的爱与逃亡",
+      "deep_dive": "这部作品是海明威创作的绝妙之作，讲的是弗雷德里克·亨利在意大利前线做救护车司机的故事。他见证了战争的残酷和荒诞，也在这个过程中与英国护士凯瑟琳陷入了深深的爱情。整部小说的魅力在于海明威那种冷静克制的笔触——他不会用华丽的词汇描写战争，反而通过简洁有力的句子让你感受到战场的真实质感。你会发现，战争到底是什么？不是英雄气概，而是无尽的等待、伤痛和逃离。亨利最后的选择——和凯瑟琳一起逃离战争——既是对爱的执着，也是对生命本身的追求。这部书之所以伟大，就在于它用最朴素的方式触及了最深刻的人性问题。",
+      "quotes": [
+        {
+          "text": "The world breaks everyone, and afterward, many are strong at the broken places.",
+          "context": "海明威笔下关于苦难与成长的深刻洞察，这也成为了他最经典的人生哲学"
+        },
+        {
+          "text": "If people bring so much courage to this world the world has to kill them to break them, so of course it kills them.",
+          "context": "战争中对人性脆弱性的终极反思"
+        }
+      ]
+    },
+    {
+      "title_zh": "人体的故事",
+      "title_en": "The Story of the Human Body",
+      "author_zh": "丹尼尔·利伯曼",
+      "author_en": "Daniel E. Lieberman",
+      "year": "2013",
+      "category": "进化生物学/科普",
+      "one_liner": "我们的身体是如何进化而来，又为何在现代生活中不堪一击",
+      "deep_dive": "丹尼尔·利伯曼是哈佛大学的演化生物学家，这本书就像是他给我们讲述祖先的故事。人体的每一个部分——从直立行走的脊椎到能够长距离奔跑的腿，再到能够进行精细操作的手——都是几百万年自然选择的结果。但这里有个有趣的悖论：我们现在的身体是为了狩猎采集的生活方式而进化的，但我们却生活在一个舒适、久坐、过度饱食的现代世界。所以那些威胁现代人的疾病——糖尿病、肥胖、心脏病——其实都是我们的身体和生活方式不匹配的结果。读这本书时，你会恍然大悟为什么我们的身体总是在和现代生活对抗，以及我们怎样才能更聪明地对待它。",
+      "quotes": [
+        {
+          "text": "We are not adapted to our modern lifestyle, and this mismatch is causing widespread disease.",
+          "context": "利伯曼对现代文明病的核心观点，解释了为什么长期久坐和高度加工食品对我们危害巨大"
+        },
+        {
+          "text": "Evolution did not give us the perfectly designed body for modern life; instead, it gave us a body that was fine-tuned for the conditions our ancestors faced.",
+          "context": "阐述了进化适应性的局限性，说明了身体设计与现实需求的根本矛盾"
+        }
+      ]
+    },
+    {
+      "title_zh": "基地",
+      "title_en": "Foundation",
+      "author_zh": "艾萨克·阿西莫夫",
+      "author_en": "Isaac Asimov",
+      "year": "1951",
+      "category": "科幻小说",
+      "one_liner": "用数学和心理学拯救衰落的银河帝国",
+      "deep_dive": "这是科幻文学的里程碑之作。想象一个即将衰落的银河帝国——一个庞大帝国的落幕在劫难逃，历史学家哈里·谢顿发现了一门叫"心理历史学"的学科，可以用数学方法预测大规模人类行为的发展趋势。他在银河系的边远角落建立了"基地"，储存人类所有的知识，希望能缩短帝国衰落后的黑暗时代。整部小说就是围绕这个基地如何在各种危机中生存和发展展开的。阿西莫夫的妙处在于，他没有写个人英雄的冒险故事，而是展现了历史规律如何不可阻挡地推动事件发展。你会发现，这部书不只是科幻，它更像是对人类文明、权力和知识的一场深刻的哲学思辨。",
+      "quotes": [
+        {
+          "text": "Violence is the last refuge of the incompetent.",
+          "context": "谢顿对解决问题的智慧看法，体现了基地依靠知识而非武力的核心理念"
+        },
+        {
+          "text": "The fall of the Empire, gentlemen, is a massive thing, however, and not easily fought. It is the result of a vast number of historical forces, the vast majority of which lie completely outside our control.",
+          "context": "关于历史必然性和人类能力局限的深刻反思"
+        }
+      ]
+    }
+  ]
+}
+```
