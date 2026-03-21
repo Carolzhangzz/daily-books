@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "硅谷之火",
+      "title_en": "Fire in the Valley",
+      "author_zh": "保罗·弗莱伯格 / 迈克尔·斯韦因",
+      "author_en": "Paul Freiberger / Michael Swaine",
+      "year": "1984",
+      "category": "商业与技术",
+      "one_liner": "记录个人电脑革命的起源，从乔布斯、盖茨到IBM，讲述硅谷传奇如何诞生",
+      "deep_dive": "这本书讲的是70年代末到80年代初那个疯狂的时代，当一群极客和创业家在车库里敲出了改变世界的东西。乔布斯和沃兹尼亚克做出第一台个人电脑时，根本没想到这会引发一场技术革命。比尔·盖茨抓住了这个机会，做了一个看似简单但改变历史的决定：让 Windows 运行在任何人的电脑上。而 IBM 这个庞然大物，一开始还以为自己掌握了PC市场的未来，却被这些年轻人出其不意地颠覆了整个产业格局。书里最吸引人的地方是那些细节故事——天才们如何在资源匮乏的情况下坚持梦想，如何在竞争中活下来，如何从对立逐渐走向合作。读完你会明白，今天我们用的每一台电脑背后，都是那个时代疯狂创新的遗产。这本书对理解科技创业精神特别有启发，因为它展示的不是光鲜的成功故事，而是创新如何在混乱、冲突和妥协中真实发生。",
+      "quotes": [
+        {
+          "text": "The whole idea of a personal computer was revolutionary—that you could have your own powerful machine sitting on your desk.",
+          "context": "强调个人电脑的革命性意义，它改变了人们与计算机的关系"
+        },
+        {
+          "text": "They weren't inventing computers, they were inventing the future.",
+          "context": "描述硅谷创业者的使命感与远见"
+        }
+      ]
+    },
+    {
+      "title_zh": "什么是当代艺术",
+      "title_en": "What is Contemporary Art?",
+      "author_zh": "特里·史密斯",
+      "author_en": "Terry Smith",
+      "year": "2009",
+      "category": "艺术与美学",
+      "one_liner": "用实例和思辨解读当代艺术的本质，为普通人打开理解艺术的窗口",
+      "deep_dive": "当代艺术常常让人困惑——一堆旧物品摆在美术馆里就成了艺术？一个黑色方块怎么就值千万？这本书的厉害之处在于，它不是高高在上地定义什么是艺术，而是通过具体的作品和现象告诉你，当代艺术为什么长成这个样子。史密斯从艺术与社会、政治、经济的关系出发，解释为什么20世纪以后，艺术家们开始打破绘画和雕塑的传统，去做装置、表演、甚至社会干预。你会发现，理解当代艺术的关键不在于'审美'，而在于'理解'——理解艺术家在问什么问题，在反映什么现实。比如为什么有人用垃圾做艺术？可能是在质疑消费文化。为什么有人用自己的身体做作品？可能是在探讨身份认同。书里用的例子都不难懂，会让你发现，当代艺术其实是对我们这个时代最诚实的反映。",
+      "quotes": [
+        {
+          "text": "Contemporary art is about now—not about nostalgia, not about the past, but about the urgent concerns of the present.",
+          "context": "强调当代艺术的时代性特征，反映当下社会的核心关切"
+        },
+        {
+          "text": "Art is a way of asking questions about the world, not necessarily providing answers.",
+          "context": "解释艺术的本质功能，强调思辨而非结论"
+        }
+      ]
+    },
+    {
+      "title_zh": "禅与摩托车维修艺术",
+      "title_en": "Zen and the Art of Motorcycle Maintenance",
+      "author_zh": "罗伯特·波西格",
+      "author_en": "Robert Pirsig",
+      "year": "1974",
+      "category": "哲学",
+      "one_liner": "一次穿越美国的摩托车之旅，用维修的琐事引出对生活本质和'品质'的终极思考",
+      "deep_dive": "这是一本很难分类的书，因为它既是旅行日记，又是哲学沉思，还是一个父亲和儿子和解的故事。波西格骑着摩托车跨越美国，沿途修理机器的同时，他在思考一个大问题：什么是品质？为什么我们很难定义它，却都能感受到它？当你在烈日骄阳下修理摩托车时，你不是在做一个机械任务，而是在与世界对话。维修不仅是技能问题，也是心理问题——你需要进入一种'禅'的状态，放空自我去感受机器的逻辑。书的深层含义是，我们的日常琐事——修东西、工作、生活——其实都可以成为修行。波西格用这次旅行来调解他与儿子的关系，也用禅宗的思维来调解现代理性与艺术性的对立。读完这本书，你会看到一个不同的世界：再平凡的事也能闪闪发光，只要你以正念去对待。",
+      "quotes": [
+        {
+          "text": "当你真正关心一件事时，品质就会显现。",
+          "context": "书中的核心思想，强调用心去做每一件事的重要性"
+        },
+        {
+          "text": "禅的精神在于完全的、绝对的专注。",
+          "context": "解释禅与摩托车维修的关联，强调心流状态的价值"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_2304"
+}
