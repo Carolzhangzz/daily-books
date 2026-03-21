@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "科学与认知",
+      "one_liner": "揭示数学问题解决的通用方法论，从具体到抽象的思维训练指南。",
+      "deep_dive": "这本书其实不只是讲数学，波利亚把它写成了一本思维方法论。核心逻辑特别简单，但威力很大：理解问题 → 制定计划 → 执行计划 → 回顾反思。看起来像是老生常谈，但当你真正用这个框架去解决生活中的问题时，你会发现自己的思路清晰多了。书里充满了具体的例子，波利亚会带你走过他的思考过程，展示专家是如何看待一个陌生问题的。你会发现很多聪明人之所以聪明，不是因为他们更聪明，而是因为他们有更系统的思维方法。这本书写于1945年，至今仍被广泛应用于教育、工程、甚至产品管理领域。如果你经常感到在解决复杂问题时没有头绪，这本书就像一张地图，告诉你从哪里开始，往哪个方向走。",
+      "quotes": [
+        {
+          "text": "A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.",
+          "context": "波利亚强调，解题能力不是天赋，而是可以通过学习和实践培养的方法论"
+        },
+        {
+          "text": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+          "context": "提出了解题的关键智慧——降低问题难度，从更简单的情况开始理解"
+        },
+        {
+          "text": "We must look at the problem from various sides.",
+          "context": "强调多角度思考的重要性，避免陷入单一的思维方式"
+        }
+      ]
+    },
+    {
+      "title_zh": "实用主义：常识中的哲学",
+      "title_en": "Pragmatism: A New Name for Some Old Ways of Thinking",
+      "author_zh": "威廉·詹姆斯",
+      "author_en": "William James",
+      "year": "1907",
+      "category": "哲学",
+      "one_liner": "打破理论与实践的对立，认为思想的价值在于它能改变什么。",
+      "deep_dive": "詹姆斯这本书改变了西方哲学的整个风向。在他之前，哲学家都在争论什么是绝对真理，詹姆斯却问了一个更实际的问题：真理对我的生活有什么影响？如果两个不同的信念能够解决问题、改善生活，那它们都可以算是真的。这听起来很颠覆，但其实非常直观。比如说，你可以选择相信人生有意义或者没意义，但能够给你带来行动力、让你活得充实的信念，就是对你而言的真理。詹姆斯反对那种高高在上、虚无飘渺的哲学，他主张回到生活本身。书中充满了鲜活的例子和对话，读起来不像在看学术著作，更像在和一个聪慧的朋友促膝谈心。这本书对现代的创业文化、心理学、甚至神经科学都有深远影响。实用主义的核心思想是：别光说，要管用。",
+      "quotes": [
+        {
+          "text": "The truth of an idea is not a stagnant property inherent in it. Truth happens to an idea. It becomes true, is made true by events.",
+          "context": "詹姆斯否定了固定的、绝对的真理观，认为真理是动态的、与实践相关的"
+        },
+        {
+          "text": "You can say of me that I am a pragmatist... I believe that anything that makes no difference to anybody should be eliminated.",
+          "context": "实用主义的黄金法则——没有实际意义的东西就应该被排除，这是思维效率的体现"
+        },
+        {
+          "text": "A new idea is judged by how successfully it serves human purposes, not by whether it conforms to prior assumptions.",
+          "context": "强调新思想的价值在于其实用性，而非是否符合既有观点"
+        }
+      ]
+    },
+    {
+      "title_zh": "逃避自由",
+      "title_en": "Escape from Freedom",
+      "author_zh": "埃里希·弗洛姆",
+      "author_en": "Erich Fromm",
+      "year": "1941",
+      "category": "心理学",
+      "one_liner": "解析人类为什么宁愿放弃自由，去寻求权威和确定性的心理机制。",
+      "deep_dive": "弗洛姆在二战期间写这本书时问了个令人不安的问题：为什么那么多人主动拥抱独裁？这不是在骂人，而是在分析一种普遍的人性。他认为，真正的自由很可怕。当你拥有完全的自由时，你要为自己的选择负责，这种责任感会让人窒息。所以人类有个天然的冲动，去寻找某种权威、某个领导人，或某个体系，把自己交给它，换取确定感和安全感。这种逃避自由的冲动，不只存在于独裁专制社会，在现代民主国家同样存在。我们刷手机被算法牵着鼻子走，我们在工作中放弃主动思考，我们相信某个明星或大V的每一句话——这些都是现代形式的自由逃避。弗洛姆还提出了真正的爱、创意和信仰之间的关系，认为只有真正拥抱自由、接受自己的孤独，我们才能建立健康的关系和社会。这本书对理解集权主义、网络舆论、群众心理都有深刻启发。",
+      "quotes": [
+        {
+          "text": "Freedom of will means to the determinist and the mystic the same as it means to the realist—the absence of inner compulsion in the process of making a choice.",
+          "context": "弗洛姆重新定义了自由的本质，指出真正的自由是摆脱内在强迫的选择能力"
+        },
+        {
+          "text": "Man can relate himself to the world by loving and by work, which are the main manifestations of freedom.",
+          "context": "提出爱与工作是人类表达自由和逃脱孤独的最高形式"
+        },
+        {
+          "text": "If a person gives up his claim to an individual will, he is not free, but if he insists upon it, he has to bear the burden of responsibility.",
+          "context": "揭示了自由与责任的深刻关系——逃避责任本质上就是逃避自由"
+        }
+      ]
+    }
+  ]
+}
+```
