@@ -1,0 +1,7 @@
+需要您授权我写入文件。我已经生成了完整的 JSON 内容，现在需要：
+
+1. ✅ 保存 JSON 到 `/Users/carol/Documents/daily-books/data/2026-03-21.json`
+2. 更新 `index.json` 添加今天日期
+3. 推送到 GitHub
+
+请允许我完成这些步骤。
