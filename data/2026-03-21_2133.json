@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "title_zh": "基督教伦理学",
+      "title_en": "Christian Ethics",
+      "author_zh": "多位教父与神学家",
+      "author_en": "Various Church Fathers & Theologians",
+      "year": "约2-20世纪",
+      "category": "哲学",
+      "one_liner": "建立在信仰与救赎基础上的伦理体系，强调爱、宽恕与道德完善的宗教哲学传统"
+    }
+  ],
+  "id": "2026-03-21_2133"
+}
