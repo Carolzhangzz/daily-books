@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "献给阿尔吉侬的花束",
+      "title_en": "Flowers for Algernon",
+      "author_zh": "丹尼尔·凯斯",
+      "author_en": "Daniel Keyes",
+      "year": "1966",
+      "category": "科幻小说/心理学",
+      "one_liner": "一个智力障碍者通过实验成为天才，又逐渐失去一切的悲剧之旅",
+      "deep_dive": "这部作品最妙的地方在于形式与内容的完美结合。小说用Charlie的进度报告日记来讲述故事，他的智力变化直接体现在文字的复杂度上——开始时错别字连篇、语法混乱，当他获得天才大脑后笔调变得优雅深邃，最后又逐渐简化为孩童般的稚嫩。读着读着你会被深深打动，因为这不仅是科幻故事，更是对人生意义的终极拷问。高智商真的能带来幸福吗？被世人尊重和被爱所包围，哪个更珍贵？凯斯通过Charlie的遭遇让我们反思什么才是真正的价值。这部作品摘得雨果奖和星云奖双料大奖，绝对值得一读再读。",
+      "quotes": [
+        {
+          "text": "I want to be smart.",
+          "context": "Charlie最初的简单心愿，也是推动整个故事的动力"
+        },
+        {
+          "text": "Please if you get a chance put some flowers on Algernon's grave in the back yard.",
+          "context": "故事结尾的悲痛留言，这也是书名的来源"
+        },
+        {
+          "text": "I am somehow afraid of psychiatrists. They frighten me.",
+          "context": "对权力和命运无力的恐惧"
+        }
+      ]
+    },
+    {
+      "title_zh": "陶哲轩实分析",
+      "title_en": "Analysis I & II",
+      "author_zh": "陶哲轩",
+      "author_en": "Terence Tao",
+      "year": "2006-2007",
+      "category": "数学教科书/实分析",
+      "one_liner": "菲尔兹奖得主用最清晰严谨的方式从零开始重建实数的世界",
+      "deep_dive": "如果你之前被实分析搞得一头雾水，陶哲轩的这套教材就像一道光。他没有急着讲深奥的定理，而是从最基础的自然数和归纳法开始，一步步构建整数、有理数，最后才到实数和连续函数。这种方法让你真正理解\"为什么\"，而不是死记硬背定义和定理。陶神的严谨是出了名的，但这本书写得相当亲民——字里行间你能感受到对数学美的热爱，严格不是为了为难，而是为了让真理闪闪发光。每个定义都有直观的解释，每个证明都经过精心打磨。对于想深入理解分析基础的学生，这是天赐之物。",
+      "quotes": [
+        {
+          "text": "数学不仅仅是一种计算技能，更是一种严谨的思维方式",
+          "context": "陶哲轩对数学本质的理解"
+        },
+        {
+          "text": "理解的过程往往比答案本身更重要",
+          "context": "教学哲学中贯穿全书的理念"
+        }
+      ]
+    },
+    {
+      "title_zh": "黑客与画家",
+      "title_en": "Hackers & Painters",
+      "author_zh": "保罗·格拉汉姆",
+      "author_en": "Paul Graham",
+      "year": "2004",
+      "category": "技术思想/散文集",
+      "one_liner": "Y Combinator之父从黑客视角重新定义创意、创业和美的含义",
+      "deep_dive": "Paul Graham是当代最有洞察力的技术思想家之一，这部文集汇集了他对编程、创业、财富和人生的深邃思考。全书最精妙的是他用\"黑客和画家\"的类比来说明：两者都在追求创意表达，都需要工艺精神，都必须深度沉浸在自己的领域里。Graham的文笔简洁有力，像和一个聪慧朋友聊天，每篇都能激发思考。他对财富创造的分析，对为什么应该做难的事的论述，关于品味和美的定义，都可能改变你对事业和人生的看法。特别适合程序员、创业者或任何想理解技术本质的人阅读。",
+      "quotes": [
+        {
+          "text": "The best way to predict the future is to invent it.",
+          "context": "对创新和主动塑造命运的论述"
+        },
+        {
+          "text": "Wealth is not the same as money. Money is just a convenient medium of exchange.",
+          "context": "对真正财富本质的重新定义"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1744"
+}
