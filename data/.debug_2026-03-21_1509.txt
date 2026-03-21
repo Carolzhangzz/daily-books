@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "愤怒的葡萄",
+      "title_en": "The Grapes of Wrath",
+      "author_zh": "约翰·斯坦贝克",
+      "author_en": "John Steinbeck",
+      "year": "1939",
+      "category": "文学",
+      "one_liner": "大萧条时期美国农民家庭的苦难与反抗故事",
+      "deep_dive": "这部小说讲的是大萧条时期的故事，中心是乔德（Joad）一家被赶出俄克拉荷马州的家园。银行和大地主要收回土地，他们只能前往加州寻找工作机会——这是当时成千上万绝望农民的共同选择。但加州没有他们想象的希望，只有更深的绝望。工作机会稀缺，工资极低，工人们因饥荒互相竞争。整本书就像一个螺旋式的下沉过程。\n\n斯坦贝克的伟大之处在于，他不仅讲了一个家庭的故事，而是通过这个家庭映射了整个经济体系的残酷性。他让你看到，问题不在于人们太懒或太笨，而是制度本身就设计来碾压穷人的。他没有进行说教，而是通过细节——没有食物的孩子、被赶出的棚户、遭警察骚扰的工人——让你切身感受这种压迫和绝望。\n\n为什么值得读？因为它触及一个永恒的问题：当制度性的不公正发生时，人性会怎样？有人会变得残忍，有人会坚持仁慈，有人会选择反抗。这是80多年前的故事，却仍然与今天相关——关于工资停滞、阶级流动性消失、底层人民的无力感。如果你想理解美国社会的深层裂痕，这本书是必读的。",
+      "quotes": [
+        {
+          "text": "I'll be in the way guys yell when they're mad an'—I'll be in the way kids laugh when they're hungry and they know supper's ready.",
+          "context": "主人公Tom Joad的著名独白，表达了他对社会不公的反抗精神，决心为底层人民争取权益"
+        },
+        {
+          "text": "The bank is something more than men. It's the monster. Men made it, but they can't control it.",
+          "context": "通过'怪物'的比喻，揭示了资本主义制度的非人性化，强调个人对体制的无力感"
+        }
+      ]
+    },
+    {
+      "title_zh": "监视资本主义时代",
+      "title_en": "The Age of Surveillance Capitalism",
+      "author_zh": "莎莱·祖博夫",
+      "author_en": "Shoshana Zuboff",
+      "year": "2019",
+      "category": "社科与历史",
+      "one_liner": "揭露数字时代如何通过无处不在的监视和数据收集重塑人类行为",
+      "deep_dive": "想象有一个看不见的力量，它知道你何时醒来、你搜索什么、你停留在某页面多久、你的购买习惯、你的健康担忧、你的政治倾向……这不是科幻小说，这正是现在发生的事。祖博夫用700多页来解释这一切如何发生，以及为什么这比我们想的要危险得多。\n\n她的核心论点是\"监视资本主义\"——一种新的经济形态。它不是卖产品给你，而是把你的数据和行为模式卖给广告商。Google、Facebook、Amazon不是在帮你搜索或社交，他们是在建立关于你的行为模型，然后用这些模型来预测和塑造你的行为。这不仅是隐私问题，更是关于人类自由和自主的问题。\n\n祖博夫强调了一个令人不安的事实：这些公司不仅在监视你已经做过的事，还在积极尝试预测和影响你会做什么。通过A/B测试、个性化推荐、精准广告投放——它们在塑造现实。她用\"行为剩余\"（behavioral surplus）来描述所有被秘密收集、分析和销售的数据，而你对此毫不知情，也无法控制。最危险的是，当权力掌握者知道如何精确操纵特定人群的行为时，民主本身就受到威胁。",
+      "quotes": [
+        {
+          "text": "Surveillance capitalism unilaterally claims human experience as raw material for translation into behavioral data.",
+          "context": "阐述了监视资本主义的核心本质——将人类的每一个行为和经历都转化为商业数据资源"
+        },
+        {
+          "text": "The new digital giants have a god's-eye view of human behavior. They know everything about us while we know nothing about them.",
+          "context": "突出了信息不对称带来的权力失衡——科技巨头对用户的了解远超用户对自己的认知"
+        }
+      ]
+    },
+    {
+      "title_zh": "昆虫记",
+      "title_en": "Souvenirs entomologiques",
+      "author_zh": "让-亨利·法布尔",
+      "author_en": "Jean-Henri Fabre",
+      "year": "1879-1910",
+      "category": "自然与生态",
+      "one_liner": "法国昆虫学家用诗意笔触记录昆虫的真实生活与行为",
+      "deep_dive": "这是一部特别的自然科学著作。法布尔不是坐在实验室里做实验的，而是花了数十年蹲在南法普罗旺斯的花园里，用放大镜、笔记本和极大的耐心观察昆虫。他看螳螂如何狩猎、蜜蜂如何舞蹈传递信息、蚂蚁如何组织社会、蛴螬如何蜕皮……与大多数科学写作不同，法布尔的文笔带着诗意和好奇心。他不仅记录行为，还提出问题：为什么？如何？\n\n这种对昆虫生活的深情关注让枯燥的科学变成了令人着迷的故事。一只母螳螂吃掉自己的配偶，不是残忍，而是生存的逻辑；蜜蜂建造的六边形蜂房是数学效率的完美体现；黄蜂的狩猎本能精确得像编程一样，完全由本能驱动，甚至不需要学习。\n\n法布尔的特别之处在于他打破了当时对昆虫的许多迷思。他用严谨的实验和反复观察来验证假说，同时坦诚地说\"我不知道\"——这种诚实反而激励读者去思考。在人工智能和大数据时代，这种慢下来、仔细看、用心感受的方式显得尤其珍贵。这本书教会我们，自然界的复杂性和智慧远超我们的想象。",
+      "quotes": [
+        {
+          "text": "The insect world still holds countless mysteries to be discovered.",
+          "context": "体现了法布尔对自然界的敬畏和终身不懈的探索精神，激励读者保持好奇心和求知欲"
+        },
+        {
+          "text": "Patience is the master virtue. Without it, nothing is achieved. With it, the smallest effort succeeds.",
+          "context": "法布尔几十年如一日观察昆虫的哲学信条，说明了耐心和执着对科学发现的重要性"
+        }
+      ]
+    }
+  ]
+}
+```
