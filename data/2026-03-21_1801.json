@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "植物的欲望",
+      "title_en": "The Botany of Desire: A Plant's-Eye View of the World",
+      "author_zh": "迈克尔·波伦",
+      "author_en": "Michael Pollan",
+      "year": "2001",
+      "category": "自然与生态",
+      "one_liner": "从植物的视角讲述人类与植物的共同进化，揭示看似静止的植物世界如何驱动人类历史。",
+      "deep_dive": "这本书太有意思了，彻底改变你看待花园和超市的方式。波伦挑选了四种植物——苹果、郁金香、大麻和土豆——然后站在它们的立场上讲述人类与植物如何在满足各自欲望的过程中互相塑造。你会发现苹果树为什么会进化出甜美的果肉（为了诱惑我们传播种子），郁金香狂热如何改变了荷兰经济，大麻如何在禁忌与渴望的夹缝中生存。波伦的聪慧之处在于，他不是简单地讲植物学或历史，而是通过这个独特视角让你意识到，我们以为自己在驯化植物，实际上是植物在驯化我们。这种反转思维特别有价值——它让你重新审视自然与人类文明的关系，不再是非此即彼的对抗，而是一场微妙的共舞。如果你喜欢生物学、历史或哲学，这都是一次绝妙的阅读体验。",
+      "quotes": [
+        {
+          "text": "We think of plants as passive objects, shaped by our desires. But perhaps it's more accurate to say that plants have shaped us, in all our diversity.",
+          "context": "波伦在书中的核心观点——看似温和的植物实际上是历史的隐形推手，通过提供人类想要的东西而获得传播和繁衍的机会。"
+        },
+        {
+          "text": "The plant's desire and the human's desire are not in opposition; they're partners in a dance of mutual exploitation.",
+          "context": "说明了人类与植物关系的本质——不是掠夺与被掠夺，而是一种共生的、互利的演化过程。"
+        },
+        {
+          "text": "It is when we work with nature, not against it, that we accomplish the most beautiful and sustainable things.",
+          "context": "植物教给人类最深层的生态教训——顺应自然的欲望而非强行改造，才是真正的智慧。"
+        }
+      ]
+    },
+    {
+      "title_zh": "白牙",
+      "title_en": "White Fang",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1906",
+      "category": "文学",
+      "one_liner": "一匹狼犬在严酷的北极荒野与人类社会中的生存与救赎，讲述野性与文明的碰撞与融合。",
+      "deep_dive": "这是一部被严重低估的经典小说。很多人把它当成儿童冒险小说来读，实际上它远远超越那个范畴。伦敦以一只狼和母犬杂交产下的小狼犬的视角展开故事，它在北极的残酷环境中被迫学会了暴力和不信任，直到遇到了一个真正爱它的人——一个矿工男孩。这个过程不是什么温情的驯化故事，而是对生存本能、野性与文明、暴力与爱之间关系的深刻思考。伦敦笔下的北极荒野、印第安人的营地、采矿镇的人性冷漠——每一个场景都充满了原始的生命力。白牙的变化不是被驯服，而是在爱的作用下逐渐学会信任，但它的野性从未完全消失，始终在血液里翻腾。这个故事触及了一个永恒的问题：什么是真正的自由？是在野外独自生存，还是在有人爱你的地方找到归属？读这部小说，你会被伦敦对动物内心世界的深入理解打动，也会思考人类社会中关于权力、阶级和救赎的永恒主题。",
+      "quotes": [
+        {
+          "text": "He was a killer, a thing that preyed, living on the things that lived, unaided, alone, by virtue of his own strength and prowess.",
+          "context": "描写白牙在野生状态下的本质——它的存在就是为了生存和狩猎，这是自然法则，不存在道德。"
+        },
+        {
+          "text": "And White Fang found that love was the greatest thing in the world. It was better than fighting. It was better than meat.",
+          "context": "小说的转折点——白牙首次体验到被爱和爱人的力量，这比任何本能驱动都更强大。"
+        },
+        {
+          "text": "In the nature of him was a wildness and a strange aloofness, while he was capable of love, it was not the love of a dog for a master, but rather the love of a man for a master.",
+          "context": "伦敦对白牙高度进化的情感能力的描写——它的爱是独立而尊严的，不是奴隶式的依赖。"
+        }
+      ]
+    },
+    {
+      "title_zh": "大问题",
+      "title_en": "Big Questions: How Should We Live?",
+      "author_zh": "罗伯特·所罗门 & 卡萨尼亚·海尔曼",
+      "author_en": "Robert Solomon & Kathleen Higgins",
+      "year": "1988",
+      "category": "哲学",
+      "one_liner": "一本重新审视人生终极问题的哲学入门书，从古到今的伟大思想家如何回答我们应该如何生活。",
+      "deep_dive": "这部著作的妙处在于，它不是生硬地讲述哲学理论，而是把你最关心的人生问题——我应该如何生活？什么才是有意义的人生？我应该追求什么？——作为线索，串联起古希腊的斯多葛派、中世纪的基督教思想、启蒙时期的理性主义、现代存在主义等各大思想流派的见解。所罗门和海尔曼不是单纯地阐述这些理论有多么聪慧，而是让你看到，当代人类面对的困境——工作与自我的矛盾、欲望与道德的冲突、个人追求与社会期待的张力——几千年来哲学家们也在反复思考。他们带你从孔子的修养论、亚里士多德的幸福观、卡缪的荒诞感、萨特的自由观等一路走来，每一个章节都像是和一位思想家进行一场深度对话。你不仅学到了思想内容，更重要的是学到了如何思考——如何用哲学的眼光审视自己的人生选择。这对于感到迷茫、困顿或是想要更深刻地理解自己的读者来说，是一剂强心针。",
+      "quotes": [
+        {
+          "text": "The unexamined life is not worth living.",
+          "context": "苏格拉底的永恒箴言——我们必须不断反思和审视自己的生活，否则我们只是行尸走肉般地活着。"
+        },
+        {
+          "text": "It is in the nature of humans that we must continually question what we do and why we do it.",
+          "context": "强调哲学思考不是奢侈品或学术游戏，而是人之为人的必然需求——我们无法逃避对意义的追问。"
+        },
+        {
+          "text": "You are radically free and responsible for your choices, whether you acknowledge it or not.",
+          "context": "存在主义的核心洞察——无论我们愿意与否，我们的每一个选择都反映了我们对人生的态度和价值判断，逃避不了也推卸不了。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1801"
+}
