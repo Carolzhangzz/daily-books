@@ -1,0 +1,5 @@
+我需要您的权限来生成和保存这些书籍推荐。请确认我可以：
+
+1. 将推荐内容保存到 `/Users/carol/Documents/daily-books/data/2026-03-21.json`
+2. 更新索引文件 `index.json`
+3. 推送到 GitHub
