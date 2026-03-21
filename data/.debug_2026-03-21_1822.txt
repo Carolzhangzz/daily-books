@@ -1,0 +1,9 @@
+Looking at your request, I'm checking the curated book list in the skill...
+
+I found **《恶之花》** in the list, but **《永别了武器》** (A Farewell to Arms) and **《协同学》** (Synergetics) are not in the current curated collection.
+
+I can either:
+1. **Generate content for all three anyway** — these are classic works I can write about, they'll just fall outside the curated list (useful for your purposes, but not tracked in the de-duplication system)
+2. **Work with only 《恶之花》** and suggest similar books from the list that match the themes you're interested in
+
+Which would you prefer? For example, if you want books similar to *A Farewell to Arms*, I could suggest *《老人与海》* or *《局外人》*; for *Synergetics*, I could suggest science/systems books like *《系统之美》* or *《失控》*.
