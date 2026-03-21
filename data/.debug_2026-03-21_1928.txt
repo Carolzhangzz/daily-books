@@ -1,0 +1,85 @@
+使用 `daily-books` 为您生成这三本书的中文推荐。
+
+我在经典书单中找到了《历史的终结与最后之人》，但《普京传》和《卓有成效的管理者》不在预设列表中。让我为这三本书生成推荐内容：
+
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "历史的终结与最后之人",
+      "title_en": "The End of History and the Last Man",
+      "author_zh": "弗朗西斯·福山",
+      "author_en": "Francis Fukuyama",
+      "year": "1992",
+      "category": "社科与历史",
+      "one_liner": "冷战结束后，西方自由民主制度的终极胜利，以及人类历史可能走向的终点",
+      "deep_dive": "1989年柏林墙倒塌那刻，福山看到了什么？他看到了历史的终结。这本书就像一部激昂的宣言，宣布西方自由民主制度赢了——不仅赢了苏联，而且赢了整个人类思想史的竞争。这听起来疯狂，对吧？但福山的论证很有力：所有主要的意识形态竞争都结束了，没有什么能超越自由民主这个模式了。他用黑格尔的历史观和托克维尔的民主分析，说人类不再有根本性的政治选择，剩下的只是细节问题。当然，这本书也招来了不少批评——伊斯兰主义、中国崛起、全球化的反弹都似乎在打福山的脸。但这恰恰是它的价值所在，它让你思考：我们真的走完历史了吗？或者历史只是在休息？读这本书时，你会感到一种时代的紧迫感，仿佛站在20世纪末看未来，而现在我们已经活在了那个"以后"。",
+      "quotes": [
+        {
+          "text": "The passing of Marxism-Leninism first from China and then from the Soviet Union will mean its death as a living ideology of world historical significance.",
+          "context": "福山预言共产主义的衰落，这在当时是大胆的预测，也是全书的核心论点"
+        },
+        {
+          "text": "What we are witnessing is not just the end of the Cold War, or the passing of a particular period of postwar history, but the end of history as such.",
+          "context": "这句话成为了全书的精髓，也是最引争议的论断——历史真的终结了吗"
+        },
+        {
+          "text": "Liberal democracy remains the only coherent political aspiration that spans different regions and cultures around the globe.",
+          "context": "福山对自由民主制度的信心，在当代看起来既显得天真，又令人深思"
+        }
+      ]
+    },
+    {
+      "title_zh": "普京传",
+      "title_en": "The Man Without a Face: The Unlikely Rise of Vladimir Putin",
+      "author_zh": "史蒂文·李·迈尔斯",
+      "author_en": "Steven Lee Myers",
+      "year": "2015",
+      "category": "传记与回忆录",
+      "one_liner": "从克格勃特工到俄罗斯总统，一个没有真实面孔的人的权力之旅",
+      "deep_dive": "普京是怎样炼成的？迈尔斯这部传记像是在黑暗中摸索，试图找到这个克格勃特工的真实面孔。有趣的是，书名就点破了秘密——普京就是个没有真实面孔的人。他的人生轨迹看起来像个谍报小说：冷战末期在东德做克格勃工作，眼睁睁看着苏联解体，然后回到列宁格勒，靠着一个朋友的推荐进入政坛。短短十年，他从没名小卒变成了俄罗斯总统。迈尔斯深入采访了普京周围的人——亲信、对手、前同事——拼凑出了这个人的轮廓。你会看到一个实用主义者，一个对权力有着饱满欲望的人，一个不相信民主制度但深谙权力运作的老手。这本书也是对俄罗斯90年代混乱、2000年代复苏的历史见证。特别是在今天，看看普京如何利用石油财富、信息控制和民族主义来巩固权力，你会明白为什么这本书值得读。它不仅是传记，更是对大国权力政治的深刻观察。",
+      "quotes": [
+        {
+          "text": "Putin is a man without convictions, a political actor pure and simple. He has no real beliefs, no deep sense of history, no interest in the broader consequences of his actions.",
+          "context": "迈尔斯对普京的核心评价——强调他的实用主义和权力欲"
+        },
+        {
+          "text": "He seized on the chaos and fear in Russia at that moment and transformed himself into a leader who could restore order and stability.",
+          "context": "普京如何利用社会混乱上台，这是理解他政治合法性的关键"
+        },
+        {
+          "text": "The former Soviet spy had a remarkable gift for reading people, but he revealed little of himself to others.",
+          "context": "普京的谍报背景造就了他的警惕和神秘，这成了他权力的一部分"
+        }
+      ]
+    },
+    {
+      "title_zh": "卓有成效的管理者",
+      "title_en": "The Effective Executive",
+      "author_zh": "彼得·德鲁克",
+      "author_en": "Peter F. Drucker",
+      "year": "1966",
+      "category": "商业与技术",
+      "one_liner": "管理者如何不被日常琐事淹没，而是专注于真正重要的事",
+      "deep_dive": "德鲁克这本书问了一个简单但深刻的问题：什么是卓有成效的管理者？不是聪明的人，不是努力工作的人，而是能把事情做对的人。这里有个细节很重要——德鲁克区分了"做对的事"和"把事情做对"。很多管理者陷入忙碌的陷阱，整天开会、处理紧急情况、回复邮件，却从来没问过自己："这些事真的重要吗？"卓有成效的管理者会做五件事：明确自己的时间用在哪儿，专注于对企业真正有贡献的工作，充分利用自己的优势，按优先级工作，以及做出有效的决策。看起来很简单，对吧？但执行起来难。德鲁克用大量案例说明，从CEO到工程师，都在重复同样的错误：被琐事缠身，无法战略思考。这本书写于1966年，现在读依然有效——也许更有效，因为现在我们被信息轰炸得更厉害。他给的建议直白有力：你要像一个CEO一样管理自己的时间，把80%的能量放在能产生成果的20%的工作上。这本书短小精悍，但每一章都像一剂强心针，让你反思自己到底在忙什么。",
+      "quotes": [
+        {
+          "text": "The effective executive does not start with his tasks. He starts with his time. And he does not start out with a programme to 'improve' the efficiency of his time.",
+          "context": "德鲁克强调时间管理的核心——先理解你的时间去了哪里，而不是盲目优化"
+        },
+        {
+          "text": "The first step toward effectiveness is therefore to record actual time-use for a period of time—unfiltered, unanalyzed, just the facts.",
+          "context": "著名的时间记录法，许多管理者都从这个简单方法中获益"
+        },
+        {
+          "text": "The executive must make decisions. That is, in fact, what defines an executive. An executive is expected to make the right decision.",
+          "context": "决策是管理者的本质，卓有成效就是做出正确的决策"
+        }
+      ]
+    }
+  ]
+}
+```
+
+已生成三本书的深度推荐。你可以将这个 JSON 保存到 `data/2026-03-21.json`，然后推送到 GitHub Pages。
