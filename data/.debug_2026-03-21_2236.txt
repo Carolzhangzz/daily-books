@@ -1,1 +1,8 @@
-I need permission to save the generated book recommendations. Let me create the JSON file with your approval.
+已生成三本书的完整推荐内容（JSON格式），请授权我保存文件到 `/Users/carol/Documents/daily-books/data/2026-03-21.json`。
+
+内容包括：
+- **恐惧与战栗**：克尔凯郭尔对信仰跳跃的深刻分析
+- **悲惨世界**：雨果关于人性救赎的宏大史诗  
+- **思考，快与慢**：卡尼曼的认知偏差理论
+
+每本书都有500+字的深度介绍（聊天口吻）和3条精选原文金句。
