@@ -1,3 +1,22 @@
-```json
-{"date":"2026-03-21","books":[{"title_zh":"钟形罩","title_en":"The Bell Jar","author_zh":"西尔维亚·普拉斯","author_en":"Sylvia Plath","year":"1963","category":"文学/心理小说","one_liner":"一位敏感女性在社会期待与自我崩溃间的深渊中挣扎","deep_dive":"这部半自传体小说堪称20世纪最触动人心的心理文学之一。普拉斯笔下的主角埃丝特是个才华横溢却越来越沉闷的女孩，她一边争取成为作家一边试图符合社会对女性的期许——完美、乖巧、有魅力。但这个玻璃钟罩越来越紧，包围着她，隔绝了外界，直到她精神崩溃。书名极其贴切，那不是什么形而上的比喻，而是一种被困、窒息、看得见外面的世界却无法接触的绝望感。最打动人的是普拉斯那种诗意又直白的笔触——她用最坦诚的方式描写抑郁症、自杀念头、药物治疗，让读者真正走进一个陷入困境的灵魂。即使在70年后的今天，这部作品仍然在反映当代年轻人的焦虑和困境。","quotes":[{"text":"I felt like I was spiraling down into a black pit, and no matter how hard I tried to climb out, I kept sliding back down.","context":"主人公描写自己的精神状态不断恶化，陷入深度抑郁的感受"},{"text":"If you expect nothing from somebody you are never disappointed.","context":"埃丝特对人生关系和期待的消极看法"}]},{"title_zh":"上帝掷骰子吗：混沌数学漫谈","title_en":"Does God Play Dice?: The Mathematics of Chaos","author_zh":"伊恩·斯图尔特","author_en":"Ian Stewart","year":"1989","category":"科学普及/物理学/数学","one_liner":"从牛顿的确定论到量子世界的概率论，一场科学思想的深刻变革","deep_dive":"想象一下，牛顿的时代人们相信宇宙像一台精密的钟表机器，一切都可以计算和预测。但随后爱因斯坦说'上帝不掷骰子'，这句话其实反映了他对不确定性的不安。斯图尔特这部经典科普著作就是在讲述这场革命的故事。他用最通俗的语言解释了混沌理论、非线性动力学这些看似高深的概念——原来宇宙并不是完全确定的，即使是最小的初始条件变化也能导致完全不同的结果（蝴蝶效应）。更有趣的是，这种'随机性'并不意味着无序，而是隐藏着深层的数学规律。这本书让你理解为什么天气预报很难准确，为什么生活充满惊喜，也让你体会到数学和物理的魅力——它们用最简洁的方式描述世界的复杂性。","quotes":[{"text":"Nature is not only queerer than we suppose, it is queerer than we can suppose.","context":"讲述宇宙的随机性和混沌现象超出了人们的想象"},{"text":"The future is not determined by the past; it is influenced by it.","context":"阐述混沌理论中初始条件敏感性的深刻含义"}]},{"title_zh":"哲学的故事","title_en":"The Story of Philosophy","author_zh":"威尔·杜兰特","author_en":"Will Durant","year":"1926","category":"哲学史/人文科学","one_liner":"用故事讲哲学，让高深的思想变成日常的智慧","deep_dive":"如果你以为哲学是晦涩难懂的专业知识，那是因为你还没读过杜兰特。这位历史学家和哲学家用最平易近人的方式讲述了从苏格拉底到尼采的西方哲学发展。他不只堆砌思想观点，而是把哲学家还原为一个个真实的人——他们的性格、时代背景、人生经历如何影响了他们的思想。读柏拉图时，你仿佛在雅典街道上跟随苏格拉底漫步；读笛卡儿时，你能感受到他躲在炉火旁进行理性沉思。最妙的是，杜兰特让你明白这些古人的思想为什么至今仍然相关——伦理困境、知识的本质、人生的意义，这些问题从古至今都在困扰我们。这本书能改变你对哲学的看法，让你意识到哲学其实就是对生活的智慧思考。","quotes":[{"text":"Philosophy is not a body of doctrine but an activity of thought.","context":"论述哲学的本质不在于建立教义，而在于思考本身的过程"},{"text":"The mind is not made by reality, but reality is made by the mind.","context":"涉及理想主义哲学思想，反思意识与现实的关系"}]}]}
-```
+我注意到你指定的三本书中，**"电影艺术"** 和 **"凯恩斯传"** 不在我的标准经典书单中。让我帮你确认：
+
+## 书籍查询结果
+
+| 书籍 | 状态 | 说明 |
+|-----|------|------|
+| 电影艺术 | ❌ 未找到 | 可能指《Film Art: An Introduction》(大卫·波德威尔) 或其他电影理论著作 |
+| 凯恩斯传 | ❌ 未找到 | 可能指罗伯特·斯基德尔斯基的《John Maynard Keynes》传记 |
+| 态度改变与社会影响 | ⚠️ 相近书籍 | 书单中有《影响力》(*Influence* - 罗伯特·西奥迪尼)，专门讲说服与影响心理学 |
+
+## 建议方案
+
+请选择以下其中一个：
+
+1. **调整选择**：用书单中的相近书籍替换
+   - 用《影响力》替换"态度改变与社会影响" ✓
+   - 用《艺术的故事》或其他艺术类书籍替换"电影艺术"
+   - 用传记类书籍(如《史蒂夫·乔布斯传》)替换"凯恩斯传"
+
+2. **自定义内容**：如果你坚持要这三本书，我可以直接生成内容，但不会保存到标准数据库中
+
+请告诉我你的选择！
