@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "第三波",
+      "title_en": "The Third Wave",
+      "author_zh": "阿尔文·托夫勒",
+      "author_en": "Alvin Toffler",
+      "year": "1980",
+      "category": "社科与技术",
+      "one_liner": "描绘后工业时代的来临，人类文明由农业社会、工业社会进入信息社会",
+      "deep_dive": "这本书是托夫勒对未来社会的预测性著作，写于1980年却预见了我们现在的很多现象。第一波是农业革命改变了人类的生活方式，第二波是工业革命带来了大规模生产和标准化，而第三波就是信息和知识时代的到来。托夫勒的观察力非常敏锐，他看到了计算机、通信技术对社会的深远影响——远比我们想象的更深刻。最有意思的是，他预测了分散化、个性化、多样化的趋势。现在回看，远程工作、自由职业、个性化教育、去中心化组织……这些都在他的书里有所论述。如果你想理解为什么互联网改变了一切，为什么传统企业在衰落，为什么未来会这么不确定，这本书就是一个很好的思想框架。读完以后你会有种豁然开朗的感觉，对当代社会的很多现象都能解释。",
+      "quotes": [
+        {
+          "text": "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.",
+          "context": "在第三波时代，适应变化和持续学习的能力比掌握固定知识更重要"
+        },
+        {
+          "text": "The future is not predetermined. The future is something we create.",
+          "context": "强调了人的主动性和选择在塑造未来中的关键作用，反对宿命论"
+        },
+        {
+          "text": "We are creating a new civilization.",
+          "context": "表达了第三波带来的文明转变之深刻，不仅是技术进步，更是生活方式的根本改变"
+        }
+      ]
+    },
+    {
+      "title_zh": "哲学的故事",
+      "title_en": "The Story of Philosophy",
+      "author_zh": "威尔·杜兰特",
+      "author_en": "Will Durant",
+      "year": "1926",
+      "category": "哲学",
+      "one_liner": "用故事的方式讲述从古希腊到现代的哲学思想发展历程",
+      "deep_dive": "这是一本神奇的书，它把哲学从枯燥的学术著作变成了可读性极强的故事。杜兰特不是在教你哲学术语，而是在给你讲哲学家们的人生故事，他们为什么会有这些思想，他们在什么样的时代背景下思考这些问题。从柏拉图的理想国，到亚里士多德的务实哲学，再到笛卡尔、康德、尼采……每一个哲学家都活灵活现。最棒的是，杜兰特总能找到他们思想与现实生活的连接点，让你感受到哲学不是象牙塔里的东西，而是真实存在于每个人的生活中。这本书被称为\"大众哲学史\"，并非妄言。如果你从未接触过哲学，这是最好的入门书。如果你已经有些哲学基础，这本书依然能给你全新的视角。",
+      "quotes": [
+        {
+          "text": "Philosophy begins with wonder.",
+          "context": "柏拉图的名言，道出了哲学的本质——对世界的好奇心是所有思想的起点"
+        },
+        {
+          "text": "Man is a political animal.",
+          "context": "亚里士多德的论断，强调人天生就是社会性的，离不开他人和共同体"
+        },
+        {
+          "text": "I think, therefore I am.",
+          "context": "笛卡尔的名言，成为了现代哲学的基石，强调理性思维的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "带小狗的女人",
+      "title_en": "The Lady with the Dog",
+      "author_zh": "安东·契诃夫",
+      "author_en": "Anton Chekhov",
+      "year": "1899",
+      "category": "文学",
+      "one_liner": "一个看似平凡的相遇如何改变了两个人对爱和人生的理解",
+      "deep_dive": "这是契诃夫最著名的短篇小说之一，看似简单却蕴含无穷的人生况味。故事围绕一个偶然的邂逅展开：一个中年男人在度假地遇见了一个带着小狗的女人，两人坠入爱河。但这不是一个浪漫的爱情故事，而是对人生虚伪、孤独和真实渴望的深刻反思。小说的妙处在于，两个角色的内心世界逐渐展开——他们原本都以为自己的生活已经定型，没想到一次偶然的相遇却让他们看到了生活中被忽视的那一面。契诃夫的笔触很细腻，他不会告诉你应该同情谁或谴责谁，而是让你看到人在面对爱情和生活时的真实样子，包括软弱、自欺欺人和渴望改变。许多人说这篇小说改变了他们对爱情的看法。",
+      "quotes": [
+        {
+          "text": "It seemed to him that he had been unhappy for a long time and that only now had he found true happiness.",
+          "context": "当他意识到与她的相遇给了他真正的爱和连接时的感受，揭示了生活中被忽视的真实渴望"
+        },
+        {
+          "text": "They talked of their former life as though it were all a dream.",
+          "context": "对过去生活的虚幻感和现在真实感的对比，暗示了人生中什么才是真正重要的"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1851"
+}
