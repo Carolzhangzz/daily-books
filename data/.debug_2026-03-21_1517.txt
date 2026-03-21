@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "霍比特人",
+      "title_en": "The Hobbit",
+      "author_zh": "J.R.R. 托尔金",
+      "author_en": "J.R.R. Tolkien",
+      "year": "1937",
+      "category": "奇幻冒险",
+      "one_liner": "一个宅在家里的小矮人被巫师邀请去冒险，在寻宝之旅中慢慢发现自己的勇气与智慧",
+      "deep_dive": "《霍比特人》讲的是比尔博这样一个不起眼的小矮人，突然被巫师甘道夫和一群侏儒拉上了寻宝的冒险。有趣的是，这个故事用最朴实的方式诠释了成长——不是突然变成英雄，而是在一次次挑战中，慢慢发现自己原来有这样的勇气。你会看到比尔博从最初的胆怯，到后来能用智慧解决问题，再到最后成为团队的关键，这种蜕变特别自然又令人欣慰。书中的世界非常生动，从舒适的夏尔到险象环生的荒野，从精灵王国到龙的宝库，每个场景都栩栩如生。最棒的是，这不仅仅是打怪升级的故事，更深层地探讨了友谊、责任和自我认知。读到最后你会明白，最大的敌人往往不在远方，而在内心——那些关于自己不够强、不够聪明的怀疑。",
+      "quotes": [
+        {
+          "text": "All we have to decide is what to do with the time that is given to us.",
+          "context": "甘道夫对于时间和选择的深刻思考，强调主动权掌握在自己手中"
+        },
+        {
+          "text": "There is more in you of good than you know, child of the kindly West.",
+          "context": "比尔博发现自己的内在力量时的关键时刻，讲述自我发现的主题"
+        }
+      ]
+    },
+    {
+      "title_zh": "模拟与仿真",
+      "title_en": "Simulation",
+      "author_zh": "谢尔登·罗斯",
+      "author_en": "Sheldon M. Ross",
+      "year": "2012",
+      "category": "计算机科学/统计学",
+      "one_liner": "用计算机模型重现复杂系统的行为，在虚拟世界里预测和优化现实",
+      "deep_dive": "你有没有想过，航空工程师怎样在飞机真正起飞前就知道它能飞？答案就是模拟。这本书系统地讲解了如何用计算机模拟来研究几乎任何复杂系统——从金融市场的波动到医学诊断，从交通流量到气候变化。罗斯用特别亲切的语言讲清楚了蒙特卡洛方法、随机数生成这些看似神秘的技术，本质就是"在电脑里反复做实验"。什么叫聪明的模拟？就是不需要求解那些复杂的数学方程，只需要让计算机模拟一千次、一万次，看看平均会发生什么。书里有大量的实例和实战代码，从理论到应用一步到位，让你立刻能用上。模拟最妙的地方是成本——在虚拟世界反复试错的成本几乎为零，这样你在真实世界投入之前，已经找到了最优解。",
+      "quotes": [
+        {
+          "text": "Simulation is often the only practical way to answer questions about complex systems when analytical methods fail.",
+          "context": "阐述了模拟方法在处理无法精确求解的复杂系统中的核心价值"
+        },
+        {
+          "text": "A good simulation model captures the essential features needed to answer your specific questions, not necessarily reality in all its complexity.",
+          "context": "强调模型的实用性和针对性，而不是盲目追求完全准确"
+        }
+      ]
+    },
+    {
+      "title_zh": "三体问题天文学",
+      "title_en": "The Three-Body Problem in Celestial Mechanics",
+      "author_zh": "易庭雪等",
+      "author_en": "Yiting Xue et al.",
+      "year": "2020",
+      "category": "天体物理学/数学",
+      "one_liner": "三个天体互相吸引时如何运动，从牛顿到混沌理论的科学史诗",
+      "deep_dive": "三体问题听起来很高深，但其实问的是一个很直白的事儿：三个球互相吸引时，它们怎样运动？答案却深深撼动了我们对宇宙的理解。两个天体的运动规律，牛顿早就算清楚了。但加上第三个天体，问题就炸了——竟然没有通用的数学解！这不是说我们的数学还不够厉害，而是说宇宙在某些情况下本质上就是不可预测的。这个看似简单的失败，却推动了从经典力学到混沌理论再到现代数学的革命。书里讲清楚了为什么天文学家对这个问题这么着迷，为什么研究太阳系的稳定性需要理解三体问题，甚至为什么这个问题让我们重新思考决定论——在一个由确定的物理定律主宰的宇宙中，怎么会存在本质上的不可预测性？这就是科学的魅力。",
+      "quotes": [
+        {
+          "text": "The three-body problem showed us that deterministic systems can exhibit behavior that is unpredictable in principle.",
+          "context": "反映了三体问题对人类认识论的根本冲击，数学确定性与物理不可预测性的矛盾"
+        },
+        {
+          "text": "Nature solved the three-body problem billions of years ago; we're still trying to understand how.",
+          "context": "表现了理论与现实的落差，宇宙自然运行，但数学难以穷尽其奥秘"
+        }
+      ]
+    }
+  ]
+}
+```
