@@ -1,0 +1,19 @@
+Looking at the three books you specified: **社会心理学** (Social Psychology), **原则** (Principles), and **达洛维夫人** (Mrs. Dalloway).
+
+Let me identify them:
+1. **社会心理学** - Most likely refers to David Myers' *Social Psychology* textbook or Elliot Aronson's *The Social Animal*
+2. **原则** - Ray Dalio's *Principles* (found in the book list) ✓
+3. **达洛维夫人** - Virginia Woolf's *Mrs. Dalloway* (not in the preset list)
+
+Since the skill expects books to be from the curated list, I should note that **達洛維夫人** is not in the current book list. However, based on your specific request for these three books, would you like me to:
+
+**Option A**: Generate recommendations for all three books anyway (including Mrs. Dalloway, which I have knowledge of)
+
+**Option B**: Substitute Mrs. Dalloway with a similar modernist/literary work from the list:
+- 《尤利西斯》(*Ulysses*) - 詹姆斯·乔伊斯
+- 《喧哗与骚动》(*The Sound and the Fury*) - 威廉·福克纳
+- 《半生缘》- 张爱玲
+
+**Option C**: Just generate for the two books that match your request (Social Psychology/Social Animal + Principles)
+
+Which would you prefer?
