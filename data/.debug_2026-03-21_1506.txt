@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "纳尼亚传奇",
+      "title_en": "The Chronicles of Narnia",
+      "author_zh": "C.S. 刘易斯",
+      "author_en": "C.S. Lewis",
+      "year": "1950",
+      "category": "文学",
+      "one_liner": "通过魔衣橱进入奇幻世界，一场关于冒险、信念与救赎的传奇故事。",
+      "deep_dive": "你知道吗？一件旧衣服或一个破旧的魔衣橱，可能就是通往另一个世界的大门。《纳尼亚传奇》讲的就是这样的故事——几个普通英国小孩在二战期间被送到乡村躲避轰炸，无意中发现衣橱里隐藏着一个完全不同的魔幻世界。\n\n这个世界叫纳尼亚，由高贵的狮子阿斯兰统治，但被白女巫的永恒寒冬所掌控。小孩们逐渐意识到，他们的到来并非偶然——这个世界似乎在等待他们来拯救它。故事的妙处在于，刘易斯把冒险写得既有童话的奇幻色彩，又暗含深刻的道德与宗教隐喻。\n\n最迷人的是，这不仅仅是冒险故事。阿斯兰这个角色特别耐人寻味——它代表某种超越的力量，某种牺牲与救赎。当你读到它为拯救人类而被献祭的那一幕时，会感受到故事背后的深度。刘易斯作为基督教思想家，把信仰、勇气、牺牲这些永恒主题编织进了纳尼亚的传说。\n\n这个系列不止一个故事。七部连贯又各自独立的作品，让我们看到纳尼亚从诞生到毁灭的全过程。每一部都是完整的冒险，合在一起就成了宏大的史诗。无论你是12岁第一次读，还是30岁重新读，每一次都能发现新东西。",
+      "quotes": [
+        {
+          "text": "You can never go back into the wardrobe the same way you went in.",
+          "context": "提醒我们，每次进入纳尼亚、每次经历冒险，都会改变我们。成长的本质就是无法回到从前。"
+        },
+        {
+          "text": "But for each one of us there is some appointed work which we alone can do.",
+          "context": "阿斯兰说这句话时，传达了作品的核心信息——每个人都有自己的使命和价值，都有独特的角色要扮演。"
+        },
+        {
+          "text": "Even miracles take a little time.",
+          "context": "耐心与信念是这部作品的主题之一。改变不会一夜发生，但坚持和信心会带来奇迹。"
+        }
+      ]
+    },
+    {
+      "title_zh": "夜色温柔",
+      "title_en": "Tender Is the Night",
+      "author_zh": "F. 斯科特·菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1934",
+      "category": "文学",
+      "one_liner": "在1920年代法国蔚蓝海岸的奢华衰败中，追踪一个医生和他的妻子从辉煌到衰败的悲剧轨迹。",
+      "deep_dive": "《夜色温柔》可能是菲茨杰拉德最复杂、最令人扼腕的作品。如果《了不起的盖茨比》描绘的是美国梦的闪耀，那么《夜色温柔》描绘的就是这个梦的腐烂。\n\n故事发生在1920年代的法国蔚蓝海岸，充满了富豪、名人和漂亮人儿。主人公迪克·戴弗是位天才精神科医生，与他的病人——富有的妮可结婚了。表面上看，他们拥有一切：财富、美貌、社交地位。但这一切都建立在虚幻的基础上。\n\n菲茨杰拉德在这部作品中最高明的是，让我们看到衰败是如何在温柔和优雅的表象下悄悄发生的。迪克开始变成陪衬角色，而妮可——一个精神病患者，反而成为故事中心。整个故事充满令人窒息的讽刺：越富有的人越空虚，越闪耀的生活越脆弱。\n\n最残酷的地方在于，菲茨杰拉德没有给我们明确的道德判断。我们看到的不是简单的好与坏，而是深刻的人性扭曲——个人才华如何被权力和财富腐蚀，爱如何变成依赖和伤害。迪克的衰落不是源于戏剧性事件，而是日复一日的妥协和自我欺骗。这部小说的语言是菲茨杰拉德最精美的，描写蔚蓝海岸的段落闪闪发光，但这种美正好强调了角色内心的黑暗。",
+      "quotes": [
+        {
+          "text": "In the real dark night of the soul it is always three o'clock in the morning, day after day.",
+          "context": "这是菲茨杰拉德最著名的句子之一，完美捕捉了小说的绝望感——那种深夜的孤独和痛苦，不是一个时刻，而是持久的人生状态。"
+        },
+        {
+          "text": "That's the whole burden of civilization for me. I want to leave things better than I found them.",
+          "context": "迪克说这句话时，我们还对他有希望。但故事的悲剧在于，他最终做不到，这成了他衰落的象征。"
+        },
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+          "context": "一种对过去的执念和对抗时代的无奈，描绘了人们被历史和命运推动的无力感。"
+        }
+      ]
+    },
+    {
+      "title_zh": "海边的卡夫卡",
+      "title_en": "Kafka on the Shore",
+      "author_zh": "村上春树",
+      "author_en": "Haruki Murakami",
+      "year": "2002",
+      "category": "文学",
+      "one_liner": "两条平行的故事线交织，一个少年逃离家庭，一个老人在梦与现实之间游走，在神秘的力量和自我发现中相遇。",
+      "deep_dive": "村上春树的《海边的卡夫卡》是他最雄心勃勃的作品之一，也是最难以捉摸的。这部小说不像他其他作品那样只讲一个故事，而是编织了两条平行的叙事线，让读者在两个世界之间摇摆。\n\n一条线讲的是15岁男孩田村卡夫卡，他决定逃离家庭——因为一个古老的预言告诉他，他会杀死父亲并与母亲发生关系。为了逃避这个诅咒，他踏上逃亡之旅，在旅途中遇见各种神秘人物和力量。另一条线讲的是老人中田，他在年轻时经历过奇异事件，导致他进入梦幻般的世界。他现在在追寻某种东西，这种追寻和卡夫卡的逃亡之旅神秘地交织在一起。\n\n村上春树在这里做的是魔幻现实主义与日本文化的完美结合。故事中有下雨的鱼、会说话的猫、通往其他世界的入口——但这些奇幻元素不是简单装饰，而是深刻的心理和精神象征。小说问的是：我们如何逃离命运？我们如何找到自己？现实与梦境之间的界限在哪里？最有趣的是，小说刻意拒绝给出明确答案。结尾既开放又令人困惑，这种模糊性正是村上春树想要的。他相信，故事的力量不在于清晰答案，而在于启发读者去思考、想象，去填补空白。",
+      "quotes": [
+        {
+          "text": "And once the storm is over, you won't remember how you made it through, how you managed to survive. You won't even be sure if the storm is really over. But one thing is certain. When you come out of the storm, you won't be the same person who walked in.",
+          "context": "这句话概括了整部小说的精髓——成长和蜕变的本质。无论我们经历什么，都无法回到原来的样子。"
+        },
+        {
+          "text": "If you remember me, then I don't care if everyone else forgets.",
+          "context": "在这个关于失去、联系和记忆的故事中，触及了人类最深的渴望——被记住，被理解。"
+        },
+        {
+          "text": "You know what I like about you? You're not like everybody else.",
+          "context": "在卡夫卡与某些人物的互动中出现，强调了成为'自己'的重要性——这正是整部小说的核心追求。"
+        }
+      ]
+    }
+  ]
+}
+```
