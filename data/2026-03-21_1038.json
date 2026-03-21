@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "鞋狗",
+      "title_en": "Shoe Dog",
+      "author_zh": "菲尔·奈特",
+      "author_en": "Phil Knight",
+      "year": "2016",
+      "category": "商业传记",
+      "one_liner": "耐克创始人讲述从日本跑鞋贸易商到建立全球运动品牌帝国的传奇历程",
+      "deep_dive": "你知道耐克这个现在市值千亿的帝国，其实是从一个跑步爱好者的crazy idea开始的吗？奈特在日本发现了Tiger跑鞋，觉得这东西能改变美国跑鞋市场，就决定代理销售。这听起来很简单，但他要对抗的是庞大的体制——银行不给贷款、合作方临时背约、员工离职……每一个章节都是一场硬仗。最疯狂的是，他甚至把公司所有的钱都压在了一个赌注上，差点破产。但就是这种对产品的执着和对运动员的理解，让Nike从小作坊变成了改写体育产业的巨人。读这本书就像在看一部创业大片，不是那种打了鸡血的成功学，而是真实的挣扎、失败、坚持和最终的胜利。",
+      "quotes": [
+        {
+          "text": "The cowards never started, and the weak died along the way. That leaves us.",
+          "context": "奈特在公司最困难的时刻对团队说的话，代表了Nike文化的核心——只有真正信仰的人才能走到最后"
+        },
+        {
+          "text": "Beating the competition is easy. Sustaining the success is the hard part.",
+          "context": "提醒所有创业者和企业家，坚持比突破更难"
+        }
+      ]
+    },
+    {
+      "title_zh": "如何解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "教育/方法论",
+      "one_liner": "数学大师揭示的解决问题的通用方法论，适用于数学、工程、生活的每个角落",
+      "deep_dive": "这本书有点神奇，作者波利亚是个数学天才，他不只是想告诉你怎么做数学题，而是在传授一种思维方式。他把解题分成四个步骤：理解问题、制定计划、执行计划、回顾反思。听起来简单，但这个框架的妙处在于它能应用到任何复杂问题上——编程bug、职业困境、人生选择，都用得上。书里充满了真实的例子，波利亚用他诙谐的语气边讲故事边教你怎么思考。最牛的是，他教你怎么问好问题——有时候问对了问题，解法就自然浮现了。这不是一本你读完就扔的书，而是一本你会反复翻阅、每次都有新收获的思维工具书。",
+      "quotes": [
+        {
+          "text": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+          "context": "道出了问题解决的核心智慧——有时候需要先解决简化版的问题来获得灵感"
+        },
+        {
+          "text": "A great discovery solves a great problem, but there is a grain of discovery in the solution of any problem.",
+          "context": "强调每次问题解决都是一次小的创新和学习过程"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1038"
+}
