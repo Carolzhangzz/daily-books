@@ -1,0 +1,7 @@
+我需要获得写文件权限来保存生成的推荐内容。请批准以下操作：
+
+1. 将 JSON 内容写入 `/Users/carol/Documents/daily-books/data/2026-03-21.json`
+2. 更新索引文件
+3. 推送到 GitHub
+
+这样才能完成 daily-books 技能的完整流程。
