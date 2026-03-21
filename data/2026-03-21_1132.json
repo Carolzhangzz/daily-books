@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "监视资本主义时代",
+      "title_en": "The Age of Surveillance Capitalism",
+      "author_zh": "肖莎娜·祖博夫",
+      "author_en": "Shoshana Zuboff",
+      "year": "2019",
+      "category": "社科与历史",
+      "one_liner": "揭示数字平台如何通过大规模数据收集预测和塑造人类行为，建立了一种前所未有的经济权力体系。",
+      "deep_dive": "读这本书的时候，最震撼的不是数据被收集了——这个我们都知道。真正让人寒毛竖立的是，祖博夫展现了一个完整的生态系统：从你搜索一个词、点击一个链接的那一刻起，这些行为就变成了\"原始数据\"。而企业的目标不是理解你，而是通过分析这些数据来预测你会做什么，然后设计一个环境让你按照他们想要的方式行动。这不仅是监视，更是权力的转移。以前我们有隐私权，现在我们的一举一动都在被分析、被利用。Google、Facebook这些公司成了现代的\"影子统治者\"，比政府更了解我们。最恐怖的是，他们掌握的不仅是数据，还有改造人类行为的能力。祖博夫用大量案例展示了这个系统如何运作：从社交媒体的精准广告，到政治选举中的舆论操纵。她认为这威胁了个人隐私，更威胁了民主本身——因为当权力掌握了改造人类行为的手段，自由选择就成了幻觉。一旦看清这一切，就很难再假装不存在。",
+      "quotes": [
+        {
+          "text": "Surveillance capitalism unilaterally claims private human experience as raw material for translation into behavioral data.",
+          "context": "这是祖博夫对监视资本主义的核心定义，强调这种经济形式的根本性质——将人的行为和内心世界商品化。"
+        },
+        {
+          "text": "The surveillance capitalists know everything about us, while we know nothing about them.",
+          "context": "关于权力失衡的最直白表述，揭示了数字时代信息不对称导致的权力格局。"
+        },
+        {
+          "text": "Power flows from asymmetry of knowledge.",
+          "context": "全书的哲学基础。掌握信息的人掌握权力，监视资本主义就是通过掌握我们的信息来掌握权力。"
+        }
+      ]
+    },
+    {
+      "title_zh": "大国的兴衰",
+      "title_en": "The Rise and Fall of the Great Powers",
+      "author_zh": "保罗·肯尼迪",
+      "author_en": "Paul Kennedy",
+      "year": "1987",
+      "category": "社科与历史",
+      "one_liner": "通过500年的历史分析，揭示大国兴衰的根本规律——国家能否在军事扩张和经济繁荣之间找到平衡。",
+      "deep_dive": "读肯尼迪这本书是为了理解为什么大国最终都走向衰退。他的视角不是讲故事，而是在讲一个反复出现的模式。从西班牙帝国到英国的日不落帝国，再到美国，这些大国都经历了相同的生命周期：首先是军事力量的扩张，然后是经济衰退。为什么呢？因为军事扩张的成本太高。一旦一个国家开始在全球各地维持军事存在，花在国防上的钱就会越来越多。而军事开支是\"消耗\"，不像投资教育和基础设施那样能产生经济回报。肯尼迪称这个现象为\"帝国过度扩张\"。当国家把太多资源投入到维持全球霸权时，就没有足够资源投入到经济创新。最终的结果是：军事力量依然强大，但经济已经衰退，新兴大国开始崛起。这本书最深刻的见解是：大国能否维持竞争力，取决于它能否在短期权力表现和长期经济基础之间找到平衡。大多数大国都失败了。",
+      "quotes": [
+        {
+          "text": "The decline of a Great Power may be a lengthy process, but the consequences of that decline are inexorably felt.",
+          "context": "衰退往往不是突然的，而是长期过程，但一旦开始，后果就会逐步显现。"
+        },
+        {
+          "text": "Military expenditures can no longer be viewed simply as consumption but as an investment in future capabilities and influence.",
+          "context": "阐述军费的双重性：既是消耗也是投资，但这种投资的回报率远低于经济投资。"
+        },
+        {
+          "text": "No single historian will be able to claim that any powerful nation is forever immune from the cycles of world politics.",
+          "context": "对历史规律性的终极表述。没有国家能永远逃脱权力转移的规律。"
+        }
+      ]
+    },
+    {
+      "title_zh": "卡拉马佐夫兄弟",
+      "title_en": "The Brothers Karamazov",
+      "author_zh": "陀思妥耶夫斯基",
+      "author_en": "Fyodor Dostoevsky",
+      "year": "1880",
+      "category": "文学",
+      "one_liner": "通过四个兄弟的故事，探讨信仰、理性、欲望和救赎这些永恒的人生问题，是俄罗斯文学的巅峰之作。",
+      "deep_dive": "这是我读过最让人窒息的小说。陀思妥耶夫斯基不仅讲一个故事——一个父亲被杀的悬疑案——他用这个故事作为容器，装下了19世纪俄罗斯知识分子所有的困惑和绝望。四个兄弟代表了四种人生态度：德米特里代表肉欲和情感，伊万代表理性和怀疑，阿廖沙代表信仰和爱，斯梅尔加科夫代表虚无和堕落。通过他们的碰撞，陀思妥耶夫斯基问了一个永恒的问题：如果上帝不存在，一切都被允许吗？最让人震撼的是伊万讲的\"大审问官\"故事。耶稣回到宗教裁判所时代却被逮捕，大审问官说一个可怕的真理：人类其实不想要真正的自由，他们想要安全、秩序、面包——即使那意味着放弃灵魂。这部小说写得很\"重\"，有时甚至压抑，但就是这种压抑让你无法逃避那些真实的问题。每个人物都在为自己的选择辩护，每个论证都让人反思自己的人生。最后当谜团解开时，案件的真相反而变得不那么重要了。重要的是每个人都在寻找救赎——通过爱、通过信仰、或通过自我毁灭。它改变了我对\"什么是小说\"的理解。",
+      "quotes": [
+        {
+          "text": "I believe, I want to believe, that suffering will be healed and made up for, that all the humiliating absurdity of human contradictions will vanish like a pitiful mirage... but here is the problem: I can accept suffering and even death, I can accept an eternal harmony even incomprehensible to me, but I cannot accept the sufferings of little children.",
+          "context": "伊万对阿廖沙说的话，涉及神义论最核心的困境——若上帝存在且全能，为何无辜儿童要遭受苦难？"
+        },
+        {
+          "text": "The mystery of human existence lies not in living, but in knowing what to live for.",
+          "context": "触及人生根本问题——我们需要一个目的、一个信念才能活下去。"
+        },
+        {
+          "text": "If there is no God, is everything permitted?",
+          "context": "整部小说的哲学核心，伊万用这个问题挑战传统道德和宗教信仰的基础。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1132"
+}
