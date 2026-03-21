@@ -1,15 +1,65 @@
 {
+  "date": "2026-03-21",
   "books": [
     {
-      "title_zh": "",
-      "title_en": "",
-      "author_zh": "",
-      "author_en": "",
-      "year": "",
-      "category": "",
-      "one_liner": "",
-      "deep_dive": "",
-      "quotes": []
+      "title_zh": "社会学的想象力",
+      "title_en": "The Sociological Imagination",
+      "author_zh": "C·赖特·米尔斯",
+      "author_en": "C. Wright Mills",
+      "year": "1959",
+      "category": "社科与历史",
+      "one_liner": "用社会学眼光看穿个人困扰背后的历史脉络和社会结构",
+      "deep_dive": "这本书真的是思想解放。米尔斯告诉我们，很多看似个人的问题——失业、婚姻破裂、焦虑——其实都指向社会层面的大问题。这就是\"社会学的想象力\"的核心：能够在个人生活与更广阔的历史进程之间架起桥梁。\n\n当你失业了，你可能责怪自己不够努力。但如果产业结构调整导致整个行业萎缩呢？那就不再是你的问题，而是社会问题。米尔斯就是在教我们这种转换思维的方式。这在今天特别有用——看看现在职场焦虑、教育竞争、房价困境有多普遍，如果我们只从个人角度反思就太天真了。\n\n书中还讨论了知识分子的责任。在大众传媒和官僚机构的时代，米尔斯认为真正的知识分子应该充当公众和权力之间的中介，用社会学想象力来解析权力的运作。虽然成书于1959年，但在算法时代、信息碎片化的今天，这些观点反而更显迫切。米尔斯的思想方式会让你看问题的角度完全改变——从\"我该怎么办\"升级到\"这个社会发生了什么\"。",
+      "quotes": [
+        {
+          "text": "Neither the life of an individual nor the history of a society can be understood without understanding both.",
+          "context": "米尔斯强调个人命运与社会历史的不可分割性，这是社会学想象力的基础"
+        },
+        {
+          "text": "The sociological imagination enables us to grasp history and biography and the relations between the two within society.",
+          "context": "社会学想象力的经典定义，强调连接微观（个人）与宏观（社会）的能力"
+        }
+      ]
+    },
+    {
+      "title_zh": "东方主义",
+      "title_en": "Orientalism",
+      "author_zh": "爱德华·萨义德",
+      "author_en": "Edward Said",
+      "year": "1978",
+      "category": "社科与历史",
+      "one_liner": "西方如何通过知识、权力和想象来建构、呈现和统治\"东方\"",
+      "deep_dive": "这本书改变了我对\"文化\"和\"权力\"的理解。萨义德论证说，我们对\"东方\"的认识不是客观的观察，而是西方权力的产物。简单说，西方人对东方的想象——那些异国风情、神秘诡异、落后野蛮的刻板印象——不是来自真实的接触，而是被西方话语系统建构出来的。\n\n这个论点很颠覆性。你以为你了解的\"东方\"，其实是几百年来西方旅行家、作家、学者、官员互相讲故事讲出来的。歌德写的哈伦·拉希德的《一千零一夜》被翻译传播，形成了西方人对中东的某种集体想象。帝国主义列强用这套\"东方主义\"知识来合理化他们的征服——看，这些人就是需要我们来\"教化\"他们。\n\n现在重读这本书，会发现很多当代现象的根源。为什么西方媒体总是强调中国的某些特定面向？为什么\"亚洲\"在西方电影里总是某一类符号？这都是东方主义的延续。萨义德的警示是：认识他者的欲望本身就可能成为压制他者的工具。这在全球化时代尤其重要——话语权仍然掌握在少数人手里。",
+      "quotes": [
+        {
+          "text": "Orientalism is a style of thought, based upon an ontological and epistemological distinction made between 'the Orient' and 'the Occident'.",
+          "context": "东方主义的核心定义，指西方建立的知识体系中，东西方的二元对立"
+        },
+        {
+          "text": "The Orient is not an inert fact of nature. It is not merely there, just as the Occident itself is not just there either. We must take seriously the historical, cultural, and political circumstances that produce such representations.",
+          "context": "萨义德强调东方的形象不是自然呈现，而是被历史权力关系所塑造"
+        }
+      ]
+    },
+    {
+      "title_zh": "思考的框架",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "科学与认知",
+      "one_liner": "揭示人类思维的两个系统及其陷阱，重新理解理性与决策",
+      "deep_dive": "卡尼曼用\"系统1\"和\"系统2\"的框架改变了我对自己大脑的认识。系统1很快、很自动、很省力，但容易出错；系统2很慢、需要专注，但更理性。问题是，我们的生活大部分时候靠系统1在运转。\n\n这本书的威力在于它用具体例子展示了我们的思维陷阱有多深。锚定效应：你听到一个数字就会被\"锚定\"，后续判断都围绕它调整。可用性启发式：最容易想起来的就被当成最常见的——所以你觉得飞机失事比车祸可怕，因为前者的报道更耸人听闻。框架效应：同样的信息用不同方式呈现，会导致完全相反的决策。\n\n更深层的启示是，理性不是我们的默认状态。系统1会自动填补信息空白、做出直观判断。这在进化中很有用，但在现代社会——特别是涉及概率、统计、长期规划的问题上——系统1经常把我们坑了。卡尼曼的建议不是要你时刻激活系统2，那太累了。而是要认识到自己的盲点，在关键决策上放慢速度。书里讨论的认知偏差现象在投资、医疗、法律决策上特别相关——了解这些陷阱可能救你一笔钱，甚至救你的命。",
+      "quotes": [
+        {
+          "text": "The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see, even if they see little.",
+          "context": "说明为什么我们总是过度自信——因为我们能编出很好的故事，而不是因为证据充分"
+        },
+        {
+          "text": "We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events.",
+          "context": "强调人类的系统性自我欺骗：高估理解，低估不确定性"
+        }
+      ]
     }
   ],
   "id": "2026-03-21_2036"
