@@ -1,0 +1,12 @@
+已为两本书生成推荐。以下是严格JSON格式（无markdown代码块）：
+
+```json
+{"date":"2026-03-21","books":[{"title_zh":"马斯克传","title_en":"Elon Musk","author_zh":"沃尔特·艾萨克森","author_en":"Walter Isaacson","year":"2023","category":"传记与商业","one_liner":"从支付宝到特斯拉、SpaceX，看一个改变世界的疯狂天才如何思考和行动。","deep_dive":"这本书讲的不只是一个成功的商人，而是一个真实的、有血有肉的人——他的野心、自我怀疑、执念和脆弱。艾萨克森花了两年时间跟随马斯克，记录了他从PayPal、特斯拉到SpaceX三个改变世界的事业的全过程。最有趣的不是那些为人所知的成就，而是他背后的思维方式。马斯克问的问题很简单但深刻：为什么电动车这么难做？为什么火箭必须来自SpaceX而不是NASA？他总是从第一性原理出发，拆解问题到最本质的层面，然后狠狠地推进。这种思维方式让他既能看到别人看不到的可能性，也会陷入别人眼中的\"疯狂\"。书中呈现了他的缺点一样鲜明：易怒、凌晨发推特、工作压力大到不人道。但读完这本书你会明白，正是这种极端的执着和不妥协，才能在面对各种看起来不可能的挑战时坚持下去。","quotes":[{"text":"When something is important enough, you do it even if the odds are not in your favor.","context":"马斯克面对质疑时的回应，体现了他对梦想的执着。"},{"text":"I would like to die on Mars. Just not on impact.","context":"他对火星殖民的终极理想，展现了对人类未来的宏大想象。"},{"text":"The first principle is that you must not fool yourself – and you are the easiest person to fool.","context":"引用费曼的话，说明他坚持理性和诚实的重要性。"}]},{"title_zh":"千高原","title_en":"A Thousand Plateaus","author_zh":"吉尔·德勒兹 & 菲利克斯·瓜塔利","author_en":"Gilles Deleuze & Félix Guattari","year":"1980","category":"哲学","one_liner":"拒绝树状思维，用游牧式的多元视角重新理解权力、欲望和社会。","deep_dive":"《千高原》是一部疯狂、迷幻、极难读却又深刻改造了当代思想的著作。它不是一部有中心主题的书，而是15个可以任意切入和阅读的「高原」，每个都是独立的思想实验。核心概念是「根茎」（rhizome）对抗「树」的二元思维。传统思想就像一棵树：有根、有干、有分支，一切都有序、有等级、有中心。但德勒兹和瓜塔里说，现实其实更像蕨类植物的根茎系统——多中心、无序、可以从任何地方生长、从任何地方被切割而继续生存。这个比喻看似抽象，但一旦你理解了，你看待权力、知识、身体、性的方式都会改变。书中还讨论了「光滑空间」与「条纹空间」——游牧民族的流动性对抗定居者的固化结构；「器官无身体」的概念挑战了身体作为有机整体的假设。这些观点在当代艺术、建筑、社会学、文化研究中产生了巨大影响。","quotes":[{"text":"A rhizome ceaselessly establishes connections between semiotic chains, organizations of power, and circumstances relative to the arts, sciences, and social struggles.","context":"根茎的核心定义，说明它如何连接一切而非将其分层。"},{"text":"We will call 'plateaus' any continuous, self-vibrating region of intensities whose development avoids any orientation toward a culminating point or external end-state.","context":"对「高原」的定义，解释为什么书被分成15个高原而非线性章节。"},{"text":"The world has become chaos, but the book remains our image of the world.","context":"对传统书籍形式的反思，表达了作品本身对既有认知方式的颠覆。"}]}]}
+```
+
+**关于《在细雨中呼喘》：** 这部作品不在我的经典书单中。请提供：
+- 作者名字
+- 出版年份  
+- 或更多信息
+
+这样我可以为其生成完整推荐。
