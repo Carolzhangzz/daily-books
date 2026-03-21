@@ -1,0 +1,1 @@
+我已生成了三本书的推荐内容，现在需要保存到文件。请允许我将 JSON 文件写入到 `/Users/carol/Documents/daily-books/data/2026-03-21.json`。
