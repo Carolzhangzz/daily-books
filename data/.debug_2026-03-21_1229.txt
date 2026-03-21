@@ -1,0 +1,24 @@
+Looking at the arguments, I need to check for these books in the collection:
+
+1. **飞越疯人院** (*One Flew Over the Cuckoo's Nest*) - ✓ Found in literature section
+2. **天龙八部** (*Demi-Gods and Semi-Devils*) - ✗ Not in the classic list (Jin Yong's works not included)
+3. **看不见的大自然** - ✗ Unclear; similar titles include "看不见的森林" (*The Forest Unseen*) and "寂静的春天" (*Silent Spring*)
+
+Per the skill workflow, for unmatched books, I should notify you:
+
+**Books not found in the collection:**
+- *天龙八部* (Jin Yong's martial arts epic) - Not in current list
+- *看不见的大自然* - Did you mean one of these?
+  - 《看不见的森林》(*The Forest Unseen*) - David George Haskell
+  - 《寂静的春天》(*Silent Spring*) - Rachel Carson
+  - 《树的秘密生命》(*The Hidden Life of Trees*) - Peter Wohlleben
+
+**I can generate for:**
+- ✓ 《飞越疯人院》(*One Flew Over the Cuckoo's Nest*) - Ken Kesey
+
+Would you like me to:
+1. Generate for *One Flew Over the Cuckoo's Nest* only?
+2. Clarify what you meant by "看不见的大自然" and provide the correct title?
+3. Generate custom content for all three books regardless of whether they're in my classic list?
+
+Please specify, and I'll proceed with the JSON generation.
