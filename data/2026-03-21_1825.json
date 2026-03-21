@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "奈飞文化手册",
+      "title_en": "No Rules: Netflix Culture",
+      "author_zh": "里德·哈斯廷斯、埃琳·梅耶",
+      "author_en": "Reed Hastings, Erin Meyer",
+      "year": "2020",
+      "category": "商业/管理",
+      "one_liner": "揭露全球最创意公司的文化秘诀，用自由和责任重新定义工作。",
+      "deep_dive": "你有没有想过，为什么奈飞能一次次预测风口、创新内容？秘密不在技术，而在文化。这本书就像打开了奈飞的后台，让你看到他们如何用\"高人才密度、高反馈文化、高自主权\"这三板斧，把一群聪明人激发到极致。哈斯廷斯和梅耶用很多真实案例讲了，为什么他们敢给员工的薪水按市场最高价，却还能省成本；为什么他们会大方地让不合适的员工离职，反而增强了团队凝聚力。最有意思的是，他们把文化变得很实际——不是虚的价值观宣言，而是每天都在用的决策原则。这本书特别适合创业者和管理者读，能帮你想清楚：你的公司到底该怎么运作，怎样吸引真正优秀的人才。",
+      "quotes": [
+        {
+          "text": "Hire, Reward, and Tolerate Only Fully Formed Adults",
+          "context": "奈飞的核心人才理念，强调企业应该雇佣成熟自主的人才，给予高薪和充分自由，而不是把员工当小孩管理"
+        },
+        {
+          "text": "The goal is to be a high performing culture, not a high happiness culture.",
+          "context": "哈斯廷斯对企业文化的深刻理解，追求业绩而非一味取悦员工，通过高要求塑造卓越"
+        }
+      ]
+    },
+    {
+      "title_zh": "爱玛",
+      "title_en": "Emma",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1815",
+      "category": "文学/小说",
+      "one_liner": "一个聪慧却自以为是的女孩，在替别人操办婚事中，才发现自己最需要被拯救。",
+      "deep_dive": "爱玛·伍德豪斯是那种你在现实生活里既讨厌又会被她吸引的女孩——聪明、有品味、还有一点傲娇。她自以为是个天才媒人，热衷于给身边所有人操办婚事，却对自己的感情一团糟。奥斯汀最厉害的地方，就是用极细致的笔触和幽默的语气，把爱玛从一个令人厌烦的角色，变成你想狠狠掐她又想拼命保护她的人。这部作品充满了小镇八卦、误会和反转，但看似轻松的故事背后，是对人性、自欺欺人和成长的深刻思考。读爱玛的时候，你会不断地看到自己的影子——那些自己做的错误决定、骗过自己的理由。200多年后的今天，爱玛的故事还是这么扎心又救赎。",
+      "quotes": [
+        {
+          "text": "If I loved you less, I might be able to talk about it more.",
+          "context": "小说最后，达西先生(实际为奈特利先生)对爱玛的表白，表达爱太深无法用言语表现的矛盾心理"
+        },
+        {
+          "text": "There is nothing I would not do for those who are really my friends.",
+          "context": "爱玛谈论友谊的态度，反映出她虽然自我中心，却也能展现出真挚的情感"
+        }
+      ]
+    },
+    {
+      "title_zh": "荒原狼",
+      "title_en": "Steppenwolf",
+      "author_zh": "赫尔曼·黑塞",
+      "author_en": "Hermann Hesse",
+      "year": "1927",
+      "category": "文学/哲学",
+      "one_liner": "一个分裂的灵魂在现代文明的荒漠中流浪，寻找自我与救赎的终极困境。",
+      "deep_dive": "哈利是个活得很痛苦的中年男人，他把自己分成两半——一半是温文尔雅的知识分子，一半是野蛮粗暴的荒原狼。他讨厌现代社会的虚伪，却又无法逃离；他渴望艺术和精神超越，却被肉欲和孤独纠缠。黑塞这部作品写于1927年，正是一战后欧洲精神崩溃的年代，所以你能感受到那种深深的绝望和疯狂。荒原狼不只是一个人，而是整个时代的隐喻——现代人都在经历这种分裂。这本书很烧脑，有梦幻段落、有哲学独白、还有摩登舞厅的疯狂，读起来像在一个人的精神世界里迷宫般地转圈。有人说它改变了生命，有人说它太绝望了。但无论如何，它会逼你直视自己内心最黑暗的部分。",
+      "quotes": [
+        {
+          "text": "Some men are born to the cult of the Immortals, and they recognize each other across the centuries.",
+          "context": "黑塞对精神觉醒者的描写，暗示存在超越世俗的精神精英"
+        },
+        {
+          "text": "Perhaps I shall be able to do without the external world for a while longer, just as others do and have done.",
+          "context": "哈利在孤独中的自我反思，代表知识分子对社会的疏离和对内心世界的探寻"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1825"
+}
