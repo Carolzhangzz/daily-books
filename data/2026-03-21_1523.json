@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "社会学的想象力",
+      "title_en": "The Sociological Imagination",
+      "author_zh": "C.赖特·米尔斯",
+      "author_en": "C. Wright Mills",
+      "year": "1959",
+      "category": "社科与历史",
+      "one_liner": "用宏大的社会学视角将个人困境与历史进程连接起来。",
+      "deep_dive": "这本书改变了人们看待自身困境的方式。米尔斯告诉我们，很多看起来是个人问题的事——失业、婚变、焦虑——其实都是社会结构的投射。比如，一个人失业可能不是因为他不够努力，而是因为整个经济体系经历了衰退。这就是他说的\"社会学想象力\"——能够把个人的生活经历跟宽广的历史背景联系起来。\\n\\n书里最有力的地方在于它挑战了你的思维方式。米尔斯认为，真正的社会学研究不能只做\"社会学的体操\\'——那种纯粹的数据游戏和方法论细节——而要追问大问题：权力从何而来？社会在往哪里发展？我们这代人在历史中的使命是什么？这种思维方式影响了几代社会学家和思想家。\\n\\n如果你读过C·P·斯诺的《两种文化》，会发现米尔斯更激进——他把社会学看作连接个人与历史、微观与宏观的桥梁。这本书虽然写于60多年前，但对现在的我们同样有冲击力。当你刷着社交媒体上的个人碎片化故事时，想想有多少是时代的涟漪。",
+      "quotes": [
+        {
+          "text": "The sociological imagination enables us to grasp history and biography and the relations between the two within society.",
+          "context": "这是全书的核心洞察：社会学想象力就是能看到个人生活与社会历史的内在联系，这是理解现代生活的关键。"
+        },
+        {
+          "text": "Nowadays people often feel that their private lives are a series of traps. They sense that within their everyday worlds, they cannot overcome their troubles.",
+          "context": "米尔斯点出了现代人的普遍困境——我们常陷在私人问题的泥潭里，却看不到背后的社会根源。"
+        },
+        {
+          "text": "The task of the sociologist is to recognize that what is happening right now in the world must be understood in terms of what has happened before.",
+          "context": "强调了历史视角在社会学中的重要性，没有历史感，就无法真正理解当下。"
+        }
+      ]
+    },
+    {
+      "title_zh": "摄影的艺术",
+      "title_en": "The Art of Photography",
+      "author_zh": "安塞尔·亚当斯",
+      "author_en": "Ansel Adams",
+      "year": "1983",
+      "category": "艺术与美学",
+      "one_liner": "用光与影的语言讲述摄影如何将主观视觉转化为永恒的影像。",
+      "deep_dive": "安塞尔·亚当斯是20世纪最伟大的摄影师之一，这本书不是摄影技术手册，而是他对摄影本质的深层思考。他认为摄影最核心的东西是意图——你想说什么。\\n\\n亚当斯提出了著名的\"区域系统\\'（Zone System），但这本书里他讨论的远不止技术。他讨论的是视觉思维——怎样从现实世界看到一张照片；怎样在取景器里重新组织空间、光线和形式；怎样让观者在看到你的照片时，能感受到你看到的那一刻的情感。\\n\\n读这本书的妙处在于，即使你不是摄影师，也能理解视觉创意的通用法则。亚当斯说，一张照片不是对现实的复制，而是一种解释——就像音乐家演奏一首乐谱，摄影师\\\"演奏\\'一个视觉场景。光线的细微变化、构图的节奏感、黑白灰的分布，都是表达的工具。他的优胜美地国家公园系列照片就是最好的证明，那些山峰和树木在他的镜头下变成了交响乐。",
+      "quotes": [
+        {
+          "text": "You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.",
+          "context": "揭示摄影的真相：相机只是工具，摄影师的全部经历、审美和情感才是决定性因素。"
+        },
+        {
+          "text": "A photograph is usually looked at - seldom looked into.",
+          "context": "指出大多数人看照片是被动的，而摄影师应该引导观者去深入看，去思考、去感受。"
+        },
+        {
+          "text": "The negative is comparable to the composer's score, and the print to its performance.",
+          "context": "用音乐类比阐释摄影的创意过程：底片是乐谱，冲印过程是演奏，两者缺一不可。"
+        }
+      ]
+    },
+    {
+      "title_zh": "邓小平时代",
+      "title_en": "Deng Xiaoping and the Transformation of China",
+      "author_zh": "埃兹拉·沃格尔",
+      "author_en": "Ezra F. Vogel",
+      "year": "2011",
+      "category": "社科与历史",
+      "one_liner": "一个老人如何用现实主义和实用主义改造了一个陈旧帝国，让10多亿人口走向繁荣。",
+      "deep_dive": "这是一部关于邓小平的权威传记，也是理解现代中国的必读之作。沃格尔是哈佛肯尼迪学院的中国问题专家，他用了十多年采访了数百位邓小平的同事、下属和家人，还获得了访问中国档案馆的特殊许可。\\n\\n书的精妙之处在于，它不仅讲邓小平本人的故事，更讲述了一个国家的转折。邓小平从被打倒、下放、复出，到最终成为领导核心，这个过程本身就是一部关于中国如何走出文革废墟的史诗。他最著名的一句话是\\\"实践是检验真理的唯一标准\\'——看似简单，却打破了意识形态的束缚，让中国能够面对现实。\\n\\n沃格尔的笔触很平衡。他既不美化也不妖魔化邓小平，而是呈现一个复杂的、充满智慧但也有局限的政治人物。邓小平的改革开放政策——包括设立经济特区、对外开放、国企改革——这些决策如何一步步推动了中国的经济腾飞，从一个贫穷的、被孤立的国家变成全球第二大经济体。这是20世纪最重要的政治经济转变之一，而邓小平就是这场转变的设计师。\\n\\n无论你的政治立场如何，这本书都能帮你理解为什么中国今天是这样，以及大人物的决策如何改写了几十亿人的生活轨迹。",
+      "quotes": [
+        {
+          "text": "实践是检验真理的唯一标准",
+          "context": "这句话打破了当时的意识形态桎梏，让中国能够面对现实、纠正错误，成为改革开放的思想基础。"
+        },
+        {
+          "text": "摸着石头过河",
+          "context": "邓小平的改革哲学：不是制定好完美计划再行动，而是在实践中不断调整，这种务实主义推动了中国的渐进式改革。"
+        },
+        {
+          "text": "发展是硬道理",
+          "context": "在90年代面对质疑和压力时，邓小平的这句话重申了优先发展经济的决心，为之后二十年的经济增长奠定了政治基础。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1523"
+}
