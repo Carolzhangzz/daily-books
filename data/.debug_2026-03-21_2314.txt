@@ -1,0 +1,69 @@
+我已加载 daily-books skill。现在为您的三本指定书籍生成中文推荐：
+
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "愤怒的葡萄",
+      "title_en": "The Grapes of Wrath",
+      "author_zh": "约翰·斯坦贝克",
+      "author_en": "John Steinbeck",
+      "year": "1939",
+      "category": "文学",
+      "one_liner": "大萧条时期，一个破产农民家族西部逃亡求生的血泪史",
+      "deep_dive": "这部小说讲的是约德一家在1930年代美国大萧条时期的故事。他们被赶出了俄克拉荷马州的家园，因为银行和大地主剥夺了他们的土地。一家十几口人挤上一辆破旧的卡车，抱着希望向西逃向加州——听说那里有大量农活和工作机会。但现实远比想象残酷。加州的果农庄主剥削农民，压低工资，制造过剩，导致粮食被销毁而农民挨饿。约德一家在贫民营里经历了难以名状的苦难：孩子们挨饿，亲人们在绝望中死去。这不仅仅是一个家庭的故事，而是整个时代的缩影——资本主义机制如何无情地碾压最底层的劳动者。斯坦贝克用充满同情和愤怒的笔调，记录了被系统遗弃的人们如何仍然保持尊严和人性。那些场景深入骨髓：饥荒中母亲喂饱陌生的饥民，即使自己的孩子也在挨饿。这是对人类苦难的终极审视，也是对社会不公的永恒控诉。",
+      "quotes": [
+        {
+          "text": "We're the people that live. They can't wipe us out, they can't lick us.",
+          "context": "即使在最暗的时刻，人性中仍然闪耀着对尊严和生存的不屈坚持"
+        },
+        {
+          "text": "A man can hold his land if he can just eat and pay his taxes.",
+          "context": "揭露了底层劳动者为了生存必须屈服的系统性压迫"
+        }
+      ]
+    },
+    {
+      "title_zh": "善恶的彼岸",
+      "title_en": "Beyond Good and Evil",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1886",
+      "category": "哲学",
+      "one_liner": "尼采对传统道德价值观的彻底反思和权力意志的激进论证",
+      "deep_dive": "这本书是尼采思想的集大成之作，他在这里彻底挑战了我们对道德的理解。传统道德，尤其是基督教道德，尼采认为是奴隶道德——是被压迫者对强者的反抗和仇恨的产物。什么是善？什么是恶？尼采说这些概念都是人类发明的，为了服务特定的权力目的。他主张道德是相对的、权力驱动的。那些被称为善的品质——温顺、谦卑、怜悯——本质上是弱者的武器，用来制约强者的力量。而他推崇的超人理想（Übermensch），是超越道德束缚、遵循自己内在价值的人。他还讨论了永恒回归的概念——如果你的人生要无限重复，你会如何生活？这是一个激进的生活哲学检验。这本书不好读，但极其深刻，能改变你对道德、力量和人性的理解。",
+      "quotes": [
+        {
+          "text": "I teach you the Übermensch. Man is something that shall be overcome.",
+          "context": "人不是终点，而是一个过程，应该追求自我超越而非安逸的道德束缚"
+        },
+        {
+          "text": "What is good? All that heightens the feeling of power, the will to power, power itself.",
+          "context": "尼采最核心的观点：权力意志是驱动一切的根本力量，重新定义了善恶的含义"
+        }
+      ]
+    },
+    {
+      "title_zh": "文明的冲突",
+      "title_en": "The Clash of Civilizations",
+      "author_zh": "塞缪尔·亨廷顿",
+      "author_en": "Samuel Huntington",
+      "year": "1996",
+      "category": "社科与历史",
+      "one_liner": "冷战后国际政治将由不同文明间的冲突而非意识形态冲突所主导",
+      "deep_dive": "亨廷顿在1993年提出的文明冲突论是当代国际关系研究中最有影响力的理论之一。他认为冷战结束后，国家间的冲突不再是资本主义对共产主义的对抗，而是会沿着文明的断层线展开。他划分了八个主要文明：西方、伊斯兰、儒家、印度、斯拉夫-正教、日本、拉丁美洲和非洲。不同文明有根本性的价值观、宗教和文化差异，这些差异会导致冲突——比如西方与伊斯兰世界的紧张关系，或中国文明与西方的竞争。这个理论很具预见性，解释了为什么冷战后的世界反而更加碎片化、冲突更多。虽然也招致批评——可能过于简化复杂的国际关系，忽视文明内部多样性——但无论如何，这本书提供了理解当今地缘政治的重要框架。从中美竞争到中东冲突，再到俄乌战争，文明差异的角度都能提供有益洞见。",
+      "quotes": [
+        {
+          "text": "Conflict between civilizations will be the latest phase in the evolution of conflict in the modern world.",
+          "context": "预示了一个由文明差异而非意识形态驱动的国际秩序"
+        },
+        {
+          "text": "In the post-Cold War world, the most important distinctions among peoples are not ideological, political, or economic. They are cultural.",
+          "context": "文化身份而非政治立场将成为21世纪国际冲突的主要分界线"
+        }
+      ]
+    }
+  ]
+}
+```
