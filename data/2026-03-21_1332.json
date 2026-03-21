@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "荒野之声",
+      "title_en": "Into the Wild",
+      "author_zh": "乔恩·克拉考尔",
+      "author_en": "Jon Krakauer",
+      "year": "1996",
+      "category": "纪实文学/探险传记",
+      "one_liner": "一个年轻人放弃一切走进阿拉斯加荒野的真实故事。",
+      "deep_dive": "这是一部真实的探险传记，讲述了Chris McCandless这位23岁的年轻人如何放弃优越的生活，走进阿拉斯加荒野追求自由的故事。作者Jon Krakauer通过深入调查和采访，将这个充满矛盾和悲剧的故事呈现出来。你会跟随McCandless的足迹，经历他对自由的渴望与对生存的绝望。这本书最引人思考的地方，就在于它对理想主义与现实的永恒困境的呈现——有时候，用生命去追求真理的代价太高了。但正是这种悲剧性的张力，让这部作品成为了一代年轻人的精神寄托。读这部书，你会问自己：自由的本质是什么？我们又应该如何在梦想和现实之间找到平衡？",
+      "quotes": [
+        {
+          "text": "So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a fear of the unknown.",
+          "context": "Chris McCandless在旅途中写下的话，反映了他对传统生活束缚的反抗"
+        },
+        {
+          "text": "The core of man's spirit comes from new experiences.",
+          "context": "这是指导McCandless整个冒险的核心信念，也是他所有决定的出发点"
+        }
+      ]
+    },
+    {
+      "title_zh": "模拟与仿真",
+      "title_en": "Simulation and Simulacra",
+      "author_zh": "让·鲍德里亚",
+      "author_en": "Jean Baudrillard",
+      "year": "1981",
+      "category": "哲学/理论批评",
+      "one_liner": "探讨真实与虚拟边界消融的哲学杰作。",
+      "deep_dive": "这是鲍德里亚最著名的著作，用一种挑衅而神秘的方式重新定义了我们对真实的理解。在这个时代，我们被各种模拟和仿真所包围——电视、广告、虚拟世界——以至于很难分辨什么是真实的。鲍德里亚认为，现代社会已经进入了一个超现实的时代，仿真物本身取代了现实，成为了新的真实。这听起来很晦涩，但当你开始思考现在的生活时，会豁然开朗：为什么我们被海量信息淹没？为什么真相似乎越来越难以捉摸？这本书影响了数代思想家和艺术家，如果你想理解当代社会的文化逻辑和我们被困的方式，这是必读之作。",
+      "quotes": [
+        {
+          "text": "The simulacrum is never that which conceals the truth – it is the truth that conceals that there is none.",
+          "context": "鲍德里亚对现代仿真本质的深刻洞察，表明真实与虚拟的界限已经完全模糊"
+        },
+        {
+          "text": "We live in a world of simulation, where the boundaries between the real and unreal have collapsed.",
+          "context": "对当代生活状况的直接描述，揭示了后现代社会的核心特征"
+        }
+      ]
+    },
+    {
+      "title_zh": "无政府主义国家与乌托邦",
+      "title_en": "Anarchy, State, and Utopia",
+      "author_zh": "罗伯特·诺齐克",
+      "author_en": "Robert Nozick",
+      "year": "1974",
+      "category": "政治哲学",
+      "one_liner": "关于国家权力合法性的终极哲学拷问。",
+      "deep_dive": "诺齐克的这部经典著作提出了一个令人困扰的问题：国家是否应该存在？如果应该，它的权力边界在哪里？这本书以独特的方式挑战了我们对政治秩序的默认假设。从个人权利出发，诺齐克论证了一个国家如果超越了保护个人权利的最小范围，就会侵犯人民的自由。他的论点既简洁又有力，在哲学界引起了轩然大波，也成为了现代自由主义运动的思想基础。如果你曾经问过自己政府是否合法或什么是真正的自由，这本书会让你重新审视这些基本假设。诺齐克的逻辑严密、论证有力，即使你最后不同意他的结论，阅读过程也会让你对政治哲学有全新的理解。",
+      "quotes": [
+        {
+          "text": "Individuals have rights, and there are things no person or group may do to them (without violating their rights).",
+          "context": "诺齐克论证中的出发点，强调个人权利的不可侵犯性是一切政治讨论的基础"
+        },
+        {
+          "text": "There is no justified sacrifice of some of us for others.",
+          "context": "反对功利主义道德观，主张保护个人权利的绝对性而非为了集体利益的牺牲"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1332"
+}
