@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "特斯拉传",
+      "title_en": "Tesla: Inventor of the Electrical Age",
+      "author_zh": "W. 伯纳德·卡尔森",
+      "author_en": "W. Bernard Carlson",
+      "year": "2013",
+      "category": "传记与回忆录",
+      "one_liner": "一个天才电气工程师如何改变了世界，却在贫困和孤独中走向衰落的传奇故事。",
+      "deep_dive": "Nikola Tesla是人类历史上最伟大的发明家之一，但他的故事往往被埋没在爱迪生和其他发明家的光芒下。这本传记深入挖掘了Tesla的生活和工作，讲述了他从塞尔维亚小镇来到美国、如何通过交流电变革了整个世界电力系统的故事。\n\nTesla的思想超越了他的时代：无线电传输、X射线、机器人、遥控技术——许多我们现在认为理所当然的技术，都在他的脑海中闪现过。但他也是一个梦想家和完美主义者，常常陷入对理想的无限追求而忽视现实的商业化。\n\nTesla与爱迪生的竞争在书中生动展现，这不仅是技术之争，更是关于谁能够塑造未来能源系统的权力之争。这本书帮助我们理解，天才往往需要与世界的妥协，单纯的天才而没有实际执行力，最终可能会被历史遗忘。Tesla的故事是激励人心的，但也是悲伤的——一个改变了世界的人，却在晚年贫困潦倒，孤独而终。",
+      "quotes": [
+        {
+          "text": "Life and death are very close together and so are the two poles of civilization.",
+          "context": "Tesla关于生死和文明的深刻观察，体现了他既是科学家也是哲学家的思想深度。"
+        },
+        {
+          "text": "The present is theirs; the future, for which I really worked, is mine.",
+          "context": "这句话深刻地总结了Tesla的人生——他不期望当代人理解他的工作，而是将希望寄托在未来对他贡献的认可。"
+        }
+      ]
+    },
+    {
+      "title_zh": "从一到无穷大",
+      "title_en": "One Two Three... Infinity: Facts and Speculations of Science",
+      "author_zh": "乔治·伽莫夫",
+      "author_en": "George Gamow",
+      "year": "1947",
+      "category": "科学与认知",
+      "one_liner": "用生动有趣的方式讲述数学、物理和宇宙的奥秘，从最基本的数字开始，到无穷大的深邃思想。",
+      "deep_dive": "《从一到无穷大》是科学史上最具启蒙意义的科普著作之一。乔治·伽莫夫是著名的理论物理学家，同时也是天才的科学传播者。这本书的独特之处在于，它不是简单地列举科学事实，而是通过一个接一个的故事和比喻，引导读者从直观的数学概念开始，逐步进入相对论、量子力学和宇宙学的深奥世界。\n\n书中涉及的主题跨越广泛：从数字系统的哲学基础，到黎曼几何在宇宙形状中的应用；从原子核的结构，到恒星的演化。伽莫夫有个特殊的天赋——他能用日常生活中的例子来解释最复杂的物理概念。比如，他用弹性球的碰撞来解释核反应，用楼梯的上下来形象化维度的概念。\n\n这本书的魔力在于它既严谨又充满想象力。伽莫夫没有回避数学的深度，但他总是用最亲切的方式来呈现。对于想要理解现代科学基础的读者来说，这是一本必读之作。书中关于无穷大的讨论尤其深邃，会让你重新审视数学和宇宙的本质。",
+      "quotes": [
+        {
+          "text": "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'",
+          "context": "反映了科学发现的真实过程——往往始于一个看似不对劲的现象，这也是科学最有趣的地方。"
+        },
+        {
+          "text": "If we try to approach infinity, we find that infinity is like a ceiling that recedes as we approach it.",
+          "context": "对无穷大本质的优美比喻，说明了无穷大不是一个可以达到的点，而是一个永远超越我们理解的界限。"
+        }
+      ]
+    },
+    {
+      "title_zh": "确定性的终结",
+      "title_en": "The End of Certainty: Time, Chaos, and the New Laws of Nature",
+      "author_zh": "伊亚·普里戈津",
+      "author_en": "Ilya Prigogine",
+      "year": "1996",
+      "category": "科学与认知",
+      "one_liner": "一位诺贝尔奖得主阐述为什么经典物理学关于确定性的观点需要被重新审视，混沌和时间箭头如何改变了我们对自然的理解。",
+      "deep_dive": "伊亚·普里戈津是一位真正的科学革命家，他因研究远离平衡状态的耗散结构而获得诺贝尔化学奖。在《确定性的终结》中，他用精妙而深邃的论证，挑战了从牛顿到爱因斯坦以来关于自然界根本上是可以预测的、确定的这一信念。\n\n这本书的核心论点是激进的：确定性是一种幻觉。普里戈津论证，在量子力学和混沌理论的时代，我们必须承认自然界中内在的随机性和不可预测性。这不仅仅是我们知识的局限，而是自然界本身的基本特性。混沌系统——即使是完全由确定性方程描述的系统——也会表现出本质上的不可预测性。\n\n更深层的洞见来自普里戈津对\"时间箭头\"的讨论。在牛顿力学中，时间是可逆的；但在真实的世界中，时间有方向——箭头指向未来。这个方向来自哪里？普里戈津认为，答案在于自然界的演化、熵的增加、以及生命本身的出现。这本书因此也是关于为什么宇宙不是一个冷漠的、确定的机器，而是一个充满可能性、不断创造新事物的系统。",
+      "quotes": [
+        {
+          "text": "The world is no longer reduced to a small number of stable, eternal, universal laws. Instead, we now see a world of probability, complexity, and instability.",
+          "context": "普里戈津对现代科学观的总结，说明了从确定论向概率论和复杂性的根本转变。"
+        },
+        {
+          "text": "We are the arrow of time, we are the expression of one of the most fundamental aspects of nature.",
+          "context": "普里戈津对人类和生命在宇宙中角色的深刻思考——我们的存在本身就体现了宇宙的不可逆性和创造性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1650"
+}
