@@ -1,0 +1,22 @@
+Looking at the skill parameters for these three books, I can identify:
+
+- **设计中的设计** (*Designing Design*) - 原研哉 ✓ (found in book list)
+- **竞争战略** (*Competitive Strategy*) - 迈克尔·波特 ✓ (classic business book)
+- **错觉的法则** (error_illusion) - ❌ Not found in my classic book list
+
+The third book "错觉的法则" is not in my curated classics collection. Could you clarify which book you mean? Here are some similar options from the list:
+
+**相近的科学与认知类书籍：**
+- 《思考，快与慢》(*Thinking, Fast and Slow*) - 丹尼尔·卡尼曼 - 深入探讨认知偏差和心理错觉
+- 《心流》(*Flow*) - 米哈里·契克森米哈赖 - 关于认知与感知
+- 《影响力》(*Influence*) - 罗伯特·西奥迪尼 - 心理说服中的认知现象
+- 《艺术与视知觉》(*Art and Visual Perception*) - 鲁道夫·阿恩海姆 - 关于视觉错觉和感知
+
+**如果你指的是设计相关：**
+- 《设计心理学》(*The Design of Everyday Things*) - 唐纳德·诺曼
+
+请告诉我：
+1. 《错觉的法则》的原文或作者名字
+2. 或选择上面列出的其他书籍替代
+
+一旦确认，我会立即生成三本书的完整JSON推荐并部署到 GitHub Pages。
