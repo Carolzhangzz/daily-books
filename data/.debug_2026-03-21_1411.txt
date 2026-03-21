@@ -1,0 +1,71 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "信号与噪声",
+      "title_en": "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't",
+      "author_zh": "内特·西尔弗",
+      "author_en": "Nate Silver",
+      "year": "2012",
+      "category": "数据分析/决策科学",
+      "one_liner": "在信息爆炸的时代，学会区分真信号和假噪声，做出更好的预测和决策。",
+      "deep_dive": "这本书就像一个数据侦探的故事集。Nate Silver用他在棒球统计、天气预报、政治预测等各个领域的经验，教我们如何在信息爆炸的时代分辨真信号和假噪声。你知道吗，很多著名的预测其实都失手了，不是因为方法不对，而是因为人们混淆了随机波动和真实趋势。书里有个很有趣的观点——我们总是倾向于记住预测正确的时候，却忽视了那些完全偏差的预测。Silver在书中强调贝叶斯思维的力量，就是让我们能像一个好的预测者那样思考：先有一个假设，然后用新证据来修正它。这不仅对做决策有帮助，对理解世界也特别有意义。",
+      "quotes": [
+        {
+          "text": "The signal is the truth. The noise is what distracts us from the truth.",
+          "context": "在讨论如何识别真正重要的信息时提出"
+        },
+        {
+          "text": "The key to making good predictions is not in having the best model, but in understanding the difference between confidence and probability.",
+          "context": "关于预测准确性的本质"
+        },
+        {
+          "text": "Our brains are not well equipped to deal with probabilities.",
+          "context": "说明人类认知的局限性"
+        }
+      ]
+    },
+    {
+      "title_zh": "君主论",
+      "title_en": "The Prince",
+      "author_zh": "尼可罗·马基雅维利",
+      "author_en": "Niccolò Machiavelli",
+      "year": "1532",
+      "category": "政治哲学/权力研究",
+      "one_liner": "冷静观察权力运作的本质，理解理想与现实之间的巨大鸿沟。",
+      "deep_dive": "如果你觉得《君主论》是教人怎么做坏事的邪恶之书，那说明你被几个世纪的误解骗了。马基雅维利其实是个现实主义者，他在15世纪末的意大利看到了什么是真正有效的权力运作方式，然后就像个学者一样记录下来了。这本书讲的不是道德判断，而是对权力的冷静观察。他说君主要保持权力，需要既能被爱戴，也能被恐惧，但如果二选一的话，被恐惧更重要。现代的企业管理、政治运作，甚至职场文化，其实都能找到这本书的影子。它启发你去思考：在理想和现实之间的这个巨大鸿沟中，人们究竟是如何做决定的？",
+      "quotes": [
+        {
+          "text": "It is better to be feared than loved, if you cannot be both.",
+          "context": "讨论君主应该如何获得并维持臣民的服从"
+        },
+        {
+          "text": "Men are so simple and so ready to obey present necessities.",
+          "context": "说明人性中的现实一面和易于操纵性"
+        }
+      ]
+    },
+    {
+      "title_zh": "巴菲特传",
+      "title_en": "The Snowball: Warren Buffett and the Business of Life",
+      "author_zh": "艾丽斯·施罗德",
+      "author_en": "Alice Schroeder",
+      "year": "2008",
+      "category": "传记/投资管理",
+      "one_liner": "一个从数硬币的男孩成长为世界首富的传奇故事，讲述专注、耐心和长期主义的力量。",
+      "deep_dive": "这不仅是一个富豪的故事，而是一个关于专注和耐心的传奇。施罗德用了6年时间采访巴菲特和数百位相关人士，写出了这部《滚雪球》。你会发现巴菲特从小时候数硬币开始，就展现出了与众不同的思维方式——他不是天才，而是一个有着异常清晰头脑和极度专注的人。书里讲的不只是投资秘诀，更是一个人如何通过坚持自己的原则、远离人群的噪音，逐步积累财富和智慧。从他的童年经历、与芒格的相遇、到后来的慈善决定，你能看到一个人的价值观如何影响了他的整个人生轨迹。这本书特别适合那些想理解'长期主义'真正含义的人。",
+      "quotes": [
+        {
+          "text": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.",
+          "context": "巴菲特对诚信和长期思维的深刻体悟"
+        },
+        {
+          "text": "The best investment is in yourself.",
+          "context": "强调持续学习、阅读和自我提升的重要性"
+        }
+      ]
+    }
+  ]
+}
+```
