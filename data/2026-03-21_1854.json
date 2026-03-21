@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "永别了武器",
+      "title_en": "A Farewell to Arms",
+      "author_zh": "海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1929",
+      "category": "文学/战争小说",
+      "one_liner": "第一次世界大战意大利前线，一场禁忌爱情在枪炮声中绽放又在绝望中陨落",
+      "deep_dive": "这部小说讲述了美国军医亨利与英国护士凯瑟琳的爱情故事。最迷人的不是故事本身，而是海明威那种极简主义的叙述方式——大白话、短句子、没有华丽词藻，却让每一个字都重若千钧。读起来就像在看纪录片，但你能感受到主人公们内心那种被战争撕裂的绝望。战争摧毁了一切，包括爱情，但正是这种无法抗拒的悲剧性，让这部作品成为了20世纪最伟大的文学之一。如果你想理解什么叫冰山理论——表面冷静简洁，水面下却暗流涌动——这部书就是教科书。它不仅讲爱情和战争，更深层在问：当世界崩塌时，我们该如何面对？",
+      "quotes": [
+        {
+          "text": "The world breaks everyone, and afterward, some are strong at the broken places.",
+          "context": "对人生苦难的终极感悟，道出了海明威式的硬汉哲学"
+        },
+        {
+          "text": "I did not care what I was getting into.",
+          "context": "人物在战争中的被动与无奈，反映了个人无力对抗时代的无力感"
+        }
+      ]
+    },
+    {
+      "title_zh": "缤纷的生命",
+      "title_en": "Invisible Cities",
+      "author_zh": "卡尔维诺",
+      "author_en": "Italo Calvino",
+      "year": "1972",
+      "category": "文学/寓言小说",
+      "one_liner": "马可波罗向忽必烈汗描述55座虚拟城市，每一座都是生活的一个侧面",
+      "deep_dive": "这是部奇妙的书——形式像游记，内核却是关于什么是城市、什么是生活、什么是人性的终极问问。卡尔维诺构想了55座虚拟城市，名字就充满诗意：《欲望之城威尼斯》《记忆之城佐拉》《交易之城钦尼西亚》。每座城市用寥寥几句话就勾勒出来，却能让你脑海中浮现出完整的场景和情感。读这本书就像翻一本奇幻旅游手册，但每翻一页你都在重新思考人生。那些对城市的描写极其诗意，充满了对人类欲望、记忆、权力、思想的深刻观察。特别适合觉得生活单调的人——它会告诉你，其实生活本应缤纷万千，只看你用什么角度去看待它。",
+      "quotes": [
+        {
+          "text": "The city is redundant: it repeats itself so that something will stick in the mind.",
+          "context": "关于城市如何在重复中刻下印记，对应了记忆与身份的构成方式"
+        },
+        {
+          "text": "Cities, like dreams, are made of desires and fears.",
+          "context": "将城市与梦境相比，揭示人类文明本质上是欲望与恐惧的产物"
+        }
+      ]
+    },
+    {
+      "title_zh": "地理与世界霸权",
+      "title_en": "Geography and World Power",
+      "author_zh": "麦金德",
+      "author_en": "Halford Mackinder",
+      "year": "1919",
+      "category": "地缘政治/历史",
+      "one_liner": "控制欧亚大陆心脏地带就能控制世界，地理塑造权力格局的永恒规律",
+      "deep_dive": "麦金德的这部著作奠定了现代地缘政治学基础。他提出了著名的\"心脏地带\"理论——控制欧亚大陆内陆就能控制全球权力。乍一听很抽象，但如果你从历史角度看，从19世纪的大博弈到两次世界大战再到今天的大国竞争，麦金德的理论竟然有惊人的解释力。这本书最引人入胜的地方在于，它让你明白地理不只是山川河流，而是决定了一个国家的战略命运。读这本书时，你会一边翻页一边查地图，一边惊叹于为什么某些地区总是世界冲突的焦点。虽然写于百年前，但其逻辑框架至今仍在塑造大国战略。",
+      "quotes": [
+        {
+          "text": "Who rules East Europe commands the Heartland; who rules the Heartland commands the World-Island; who rules the World-Island commands the world.",
+          "context": "地缘政治理论的黄金法则，至今仍是理解国际关系的钥匙"
+        },
+        {
+          "text": "Geography is the most fundamental condition of history.",
+          "context": "强调地理因素对人类历史的决定性影响，体现了这部著作的核心观点"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1854"
+}
