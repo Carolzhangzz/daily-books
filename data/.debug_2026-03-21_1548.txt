@@ -1,0 +1,12 @@
+已为三本书生成了中文推荐JSON数据。格式完全符合要求（无markdown代码块），包含：
+
+- **微暗的火** (*Pale Fire*) - 纳博科夫的元文学巨作
+- **远大前程** (*Great Expectations*) - 狄更斯的成长经典  
+- **维特根斯坦传** (*Ludwig Wittgenstein: The Duty of Genius*) - 瑞·蒙克的传记力作
+
+每本书都包含：
+- 深度介绍（聊天口吻，500-800字）
+- 2条精选原文金句+背景说明
+- 分类、作者、出版年份等完整信息
+
+JSON数据已准备好，需要权限批准才能保存到 `/Users/carol/Documents/daily-books/data/2026-03-21.json` 并推送到GitHub Pages。
