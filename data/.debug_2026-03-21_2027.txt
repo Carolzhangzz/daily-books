@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "正义之心",
+      "title_en": "The Righteous Mind",
+      "author_zh": "乔纳森·海特",
+      "author_en": "Jonathan Haidt",
+      "year": "2012",
+      "category": "心理学",
+      "one_liner": "道德判断源于直觉而非理性，不同政治立场的人用不同的道德基础看世界，这导致了无法逾越的分歧。",
+      "deep_dive": "你有没有想过，为什么你和政治立场不同的人总是没法好好聊天？不是因为谁更聪明，而是因为你们用的是完全不同的「道德语言」。《正义之心》的作者乔纳森·海特就是来解决这个问题的。\n\n他的核心发现很震撼：我们的道德判断不是先理性思考，再做出判断。恰恰相反——我们的道德判断来自于直觉和情感，理性只是事后的合理化工具。简单说，你一看到什么事，心里就有了道德反应，然后大脑才开始编故事解释你为什么这么想。\n\n更有趣的是，他发现人类有六个道德基础：关怀、公平、忠诚、权威、圣洁和自由。不同政治倾向的人对这些基础的重视程度不一样。左派特别重视关怀和公平，右派则在所有六个方面都很在乎。这就解释了为什么你和朋友讨论移民政策时，根本说不到一起去——你们看的不是同一个问题。\n\n这本书最妙的地方，是它让你意识到，你眼中的「非理性」或「坏人」，其实是用了不同的道德框架。理解了这点，你可能就不会那么容易被政治极端化吓到了。海特说得好：如果你想说服别人改变想法，你首先要展示自己理解他们的道德世界。它不仅是心理学著作，更是一本关于如何在撕裂的社会中重建对话的书。",
+      "quotes": [
+        {
+          "text": "The righteous mind is a mind that finds meaning in group membership and loyalty.",
+          "context": "他总结为什么我们那么容易陷入群体思维和部落化，这是理解政治分裂的关键"
+        },
+        {
+          "text": "We are 90% chimp and 10% bee. The chimp in us wants to win battles with our rivals. The bee in us wants to merge into the group and lose ourselves in something larger.",
+          "context": "解释了个人主义和集体主义之间的永恒张力，也是我们道德冲突的根源"
+        },
+        {
+          "text": "Morality binds and blinds. It binds us into teams, but it also blinds us to the flaws of our own team and the virtues of our rivals.",
+          "context": "直指道德思维最深的矛盾——它让我们团结，但同时也让我们看不清真相"
+        }
+      ]
+    },
+    {
+      "title_zh": "单向度的人",
+      "title_en": "One-Dimensional Man",
+      "author_zh": "赫伯特·马尔库塞",
+      "author_en": "Herbert Marcuse",
+      "year": "1964",
+      "category": "哲学",
+      "one_liner": "现代工业社会制造虚假需求和单一思维方式，消灭了人的批判能力和否定性，把我们都变成了驯服的、单向度的人。",
+      "deep_dive": "如果你觉得现在的生活很充实，有各种选择，能随时用手机看到整个世界——等等，《单向度的人》这本书会给你泼盆冷水。\n\n马尔库塞是个激进的哲学家，他在1960年代写这本书时，就已经预言了现代社会的一个诡异现象：自由的幻觉。他说，资本主义工业社会看起来给了我们无数选择和自由，但实际上它正在系统地消灭真正的自由——它消灭了人类的「否定性」，也就是那种能够想象和追求完全不同的生活方式的能力。\n\n具体怎么做的呢？通过创造出虚假需求。商业世界不停告诉你，你需要新车、新衣服、新手机来获得幸福。你忙着满足这些虚假需求，就没有精力去思考真正重要的东西。更可怕的是，连反抗的声音都被系统吸收了——你能在网上骂资本主义，但这骂声本身也被当成了一种可消费的内容。\n\n马尔库塞用「单向度」这个词来形容现代人：我们只能沿着既定的轨道前进，没有想象力去创造真正不同的可能性。这本书读起来有点沉闷，思想也很激进，但它解释了为什么我们在物质充足的时代，精神世界却越来越单薄。",
+      "quotes": [
+        {
+          "text": "The Power of Negative Thinking has been broken.",
+          "context": "整本书最关键的思想——我们丧失了批判性的想象力，无法想象不同的社会形式"
+        },
+        {
+          "text": "Repressive desublimation",
+          "context": "他的核心概念，指社会允许你放纵欲望，实际上是为了让你更驯服，因为你会为了维持这些欲望的满足而妥协"
+        },
+        {
+          "text": "The developed societies are aiming at totalitarianism not through external coercion but through internal satisfaction.",
+          "context": "揭示了最危险的专制形式——不是用枪指着你，而是用欲望套牢你"
+        }
+      ]
+    },
+    {
+      "title_zh": "树的秘密生命",
+      "title_en": "The Hidden Life of Trees",
+      "author_zh": "彼得·沃莱本",
+      "author_en": "Peter Wohlleben",
+      "year": "2015",
+      "category": "自然与生态",
+      "one_liner": "森林不是独立树木的竞争场所，而是一个互联互通的社群，树木通过地下真菌网络相互交流、分享养分和照顾。",
+      "deep_dive": "你有没有想过，树木其实和人类一样是社交动物？这听起来很奇怪，但德国林务官彼得·沃莱本就是来改变你对森林的理解的。\n\n这本书最重要的发现，是关于「伍德宽德网络」（Wood Wide Web）——一个发生在树根下面的互联网。树木通过真菌丝网相互连接，不是为了竞争资源，而是为了相互帮助。一棵树发现了水源，会通过真菌网络把信号传给其他树。老树会通过地下菌网把糖分送给年轻的幼苗，甚至把营养送给病弱的树木。\n\n更离谱的是，树木还能「说话」。当虫子啃咬叶子时，被咬的树会释放化学信号，警告周围的树做好防卫准备。这就像树和树之间有一个化学信号系统，互相照应。沃莱本的观点很大胆：森林的结构是由一棵母树主导的。每个森林都有个最老最大的树，它充当着集线器，连接了森林里所有其他的树。母树会优先照顾自己的后代和相关的树，这意味着森林其实就像一个家族。\n\n最让人动容的是，森林表现出了合作而不是竞争的特征。这和达尔文的「适者生存」理论完全不一样。在森林里，没有残酷的优胜劣汰，反而是一个相互扶持的共同体。弱小的树被保护起来，因为整个森林的健康取决于所有树木的健康。",
+      "quotes": [
+        {
+          "text": "A forest is not just a collection of trees—it's a superorganism with its own personality, social structures, and communication systems.",
+          "context": "对森林本质的重新定义，颠覆了我们对森林的理解——森林不是竞争场所，而是合作社群"
+        },
+        {
+          "text": "In the forest, there is no such thing as a solitary tree. Every tree is connected and dependent on others, sharing resources through a vast underground network.",
+          "context": "强调相互联系的重要性，这对理解生态系统和人类社会都有启发"
+        },
+        {
+          "text": "Mother trees nurture their young and support sick and weak trees, sustaining the forest as a whole.",
+          "context": "展现森林中的「母爱」和照顾关系，让我们重新认识自然界中的温暖和合作"
+        }
+      ]
+    }
+  ]
+}
+```
