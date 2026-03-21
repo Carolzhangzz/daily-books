@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "麦田里的守望者",
+      "title_en": "The Catcher in the Rye",
+      "author_zh": "杰罗姆·大卫·塞林格",
+      "author_en": "J.D. Salinger",
+      "year": "1951",
+      "category": "文学",
+      "one_liner": "一个被学校开除的少年在纽约漂泊三天，思考自我与成人世界的碰撞。",
+      "deep_dive": "这本书跟随16岁的霍尔顿，一个经历学校开除后在纽约城游荡的少年。他愤怒、迷茫、渴望与成人世界保持距离，不断重复\"phonies\"（虚伪者）这个词来指代他眼中的虚伪成年人。整个故事就像一场长长的内心独白，霍尔顿一边漂泊一边试图寻找意义——他想成为\"麦田里的守望者\"，拯救在悬崖边缘摇晇欲坠的小孩不坠入成人世界的黑暗。这部作品触到了青春期最深的痛处：当你开始看清世界，却又无法改变它，那种无力感是如何摧毁一个敏感的灵魂的。塞林格的写法完全打破了当时文学的规范，用口语化、碎片化、不修饰的语言让青少年的内心世界第一次在文学中如此真实。它影响了一代代读者，特别是那些感到与世界格格不入的人。今天读它，仍然能感受到那种永恒的孤独与渴望被理解的呐喊。",
+      "quotes": [
+        {
+          "text": "It really does. It kills me. It really does.",
+          "context": "霍尔顿对很多事都感到厌倦，这句反复出现的口头禅反映了他对一切的疲惫与无奈。"
+        },
+        {
+          "text": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it.",
+          "context": "霍尔顿对真诚连接的渴望，对他而言，书籍是找到知心人的方式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "居里夫人传",
+      "title_en": "Madame Curie",
+      "author_zh": "艾芙·居里",
+      "author_en": "Ève Curie",
+      "year": "1937",
+      "category": "传记",
+      "one_liner": "两次诺贝尔奖得主玛丽亚·居里用生命追求科学真理，最终被自己发现的放射元素所吞噬。",
+      "deep_dive": "这是居里夫人的女儿艾芙为母亲写的传记，其深情和亲密感无人能及。玛丽亚从波兰贫苦小镇出发，凭着对知识的渴望来到巴黎，在极度的贫困中坚持物理学研究，最后遇到了志同道合的皮埃尔。他们一起发现了钋和镭，改变了科学，也改变了彼此的人生。但这本传记最动人的不是科学成就，而是一个女人如何在男性主导的学术界里坚持自己，如何在失去丈夫后独自继续研究，如何用残破的身体继续教学。放射元素为她赢得了荣誉，却一点点摧毁了她的健康。艾芙笔下的玛丽亚不是冷冰冰的科学家，而是一个有血有肉的女人——对科学的热情足以让她忍受一切，对家人的爱足以让她在苦难中坚持。这部作品用一种温柔的力量讲述了什么是坚持，什么是牺牲，什么是为信念而活。",
+      "quotes": [
+        {
+          "text": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.",
+          "context": "居里夫人对生活困境的回应，这种执着精神支撑她度过了无数难关。"
+        },
+        {
+          "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+          "context": "她相信知识和理解能战胜恐惧，这也正是她投身科学研究的内驱力。"
+        }
+      ]
+    },
+    {
+      "title_zh": "态度改变与社会影响",
+      "title_en": "Attitudes and Social Influence",
+      "author_zh": "罗伯特·西奥迪尼等",
+      "author_en": "Robert Cialdini & Others",
+      "year": "1985",
+      "category": "社科与心理学",
+      "one_liner": "深度探讨人的态度如何形成、如何被改变，以及背后的社会心理学机制。",
+      "deep_dive": "这是社会心理学经典著作，解释了为什么有些想法能在社会中传播，有些则不能。态度不是凭空产生的，而是受周围环境、群体压力、信息来源可信度等多重因素影响。书中展示了说服的艺术——同样的信息，换个方式表达、换个人来说、在不同的情境下提出，效果完全不同。这涉及到认知失调、启发式思维、社会认同等深层心理机制。最有意思的是，书中通过大量实验证明，我们以为自己在理性决策，其实很多时候是在自动反应。比如，一个人如果公开表达了某个观点，他之后会自动倾向于维护这个观点，即使新证据出现。这本书解释了政治宣传、广告、谣言、运动等为什么那么有效——因为它们巧妙地利用了人类心理的这些漏洞。读它能帮你理解自己为什么被说服，也能教你如何有效地传达想法。",
+      "quotes": [
+        {
+          "text": "People who go through a great deal of trouble or pain to attain something tend to value it more highly.",
+          "context": "获得的成本越高，我们就越容易高估它的价值——这解释了为什么人们对过程艰辛的成就特别执着。"
+        },
+        {
+          "text": "We are more likely to be influenced by people we like and trust.",
+          "context": "信任关系是说服的基础，这也是为什么朋友的推荐比广告更有说服力。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_2148"
+}
