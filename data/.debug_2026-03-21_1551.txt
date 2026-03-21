@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "梦的解析",
+      "title_en": "The Interpretation of Dreams",
+      "author_zh": "西格蒙德·弗洛伊德",
+      "author_en": "Sigmund Freud",
+      "year": "1900",
+      "category": "心理学",
+      "one_liner": "揭开潜意识的神秘面纱，让你理解梦想的真实含义",
+      "deep_dive": "这本书就像打开了人类心灵的一扇神秘之门。弗洛伊德认为，梦不是毫无意义的脑电活动，而是通向潜意识的'皇家大道'。他提出，我们在梦中看到的各种奇异景象，其实都是被压抑的欲望、被隐藏的恐惧、未完成的心愿的伪装表达。比如梦见被追赶，可能代表你在逃避某种现实中的责任；梦见坠落，可能是你内心安全感的缺失。\n\n虽然现代心理学对弗洛伊德的一些理论有所保留，但这本书的影响力是无法估量的。它彻底改变了我们理解自己的方式。在这本书之前，人们普遍认为梦就是梦，没什么大不了的；之后，每个人都开始自我反思，琢磨自己的梦到底意味着什么。\n\n读这本书最妙的地方在于，你会开始用弗洛伊德的视角审视自己的梦。有时候会感到毛骨悚然地准确——啊，原来我的潜意识是这样想的！这就是为什么心理咨询师、作家、艺术家都这么喜欢这本书。它给了我们一把钥匙，可以打开自己内心最深处的秘密房间。",
+      "quotes": [
+        {
+          "text": "The dream is the royal road to the unconscious.",
+          "context": "梦是最直接了解潜意识的途径，这是弗洛伊德整个精神分析理论的核心观点。"
+        },
+        {
+          "text": "We are not masters in our own house.",
+          "context": "我们的行为和思想受潜意识的深刻影响，往往不能完全理解自己的动机和选择。"
+        },
+        {
+          "text": "Every dream is an unconscious fantasy.",
+          "context": "梦反映了我们内心真实的欲望和冲突，是潜意识世界的一面镜子。"
+        }
+      ]
+    },
+    {
+      "title_zh": "大外交",
+      "title_en": "Diplomacy",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "1994",
+      "category": "社科与历史",
+      "one_liner": "从理想主义到现实主义，重新理解美国如何塑造现代国际秩序",
+      "deep_dive": "基辛格这本书就像一场关于权力、制衡和国家利益的大师课。他用自己数十年的外交经验，梳理了美国外交政策从伍德罗·威尔逊时代到冷战结束的演变。但这不是简单的历史编年，而是从现实主义国际关系的角度出发的深度剖析。\n\n基辛格在书中反复强调一个核心观点：国际关系的本质是权力平衡，不是道德原则。美国一直在理想主义（推行民主、维护人权）和现实主义（维护国家利益、保持势力均衡）之间摇摆。他分析了不同历史时期的决策——为什么与苏联缓和关系？为什么支持某些非民主政权？这些看起来不道德的选择，背后往往有深刻的战略考量。\n\n读这本书会让你重新看待当代国际政治。国家之间的关系不是非黑即白的，而是充满了灰色地带和艰难权衡。基辛格的笔风既有历史学家的严谨，又有从业者的洞察力。特别是他对拿破仑、俾斯麦等历史时期的比较分析，能帮你建立更宽广的历史视野。这已经成为政策制定者必读之书。",
+      "quotes": [
+        {
+          "text": "Equilibrium, not order, is the essence of international relations.",
+          "context": "国际体系中没有绝对的秩序，只有通过制衡实现的相对均衡，这是现实主义外交观的核心。"
+        },
+        {
+          "text": "The statesman must follow, but never too far behind.",
+          "context": "领导人需要在引导民意和尊重民意之间找到平衡，既要有远见，也要顺应民心。"
+        },
+        {
+          "text": "History doesn't teach lessons; it punishes those who learn them too late.",
+          "context": "强调了及时把握历史机遇、快速适应国际形势变化的重要性，错失机会的代价往往很大。"
+        }
+      ]
+    },
+    {
+      "title_zh": "未来简史",
+      "title_en": "Homo Deus: A Brief History of Tomorrow",
+      "author_zh": "尤瓦尔·诺亚·哈拉利",
+      "author_en": "Yuval Noah Harari",
+      "year": "2015",
+      "category": "社科与历史",
+      "one_liner": "从有限的人类进化为无所不能的'神'，探讨科技和伦理的终极碰撞",
+      "deep_dive": "如果《人类简史》是回顾过去，《未来简史》就是瞭望未来。哈拉利从一个大胆的假设开始：历史上，人类把自己看作凡人，寄希望于超越自然的神；现在，我们正在用生物工程、人工智能和数据技术把自己变成真正的'神'。\n\n这本书的核心论点是，人类正经历从'智人'向'智人2.0'或'智神'的演变。我们在破解生命密码（基因编程）、征服疾病和衰老、创造超级智能。但这同时带来了前所未有的危险：如果只有少数人掌握这些技术，会发生什么？如果人工智能超越人类智能，人类的价值还在吗？\n\n哈拉利不是在唱赞歌。他冷静地指出，新技术很可能导致不平等加剧。虽然科技承诺让我们都更聪慧、更健康、更长寿，但现实可能是，只有富人能获得这些好处，大多数人会被抛在后面。我们还没想清楚该用这些力量做什么，政治、伦理、宗教系统都跟不上科技的脚步。读完这本书，你会思考什么是幸福、什么是人性、我们真的想要永生吗。",
+      "quotes": [
+        {
+          "text": "History is not driven by armies and rulers, but by revolutions in human consciousness.",
+          "context": "意识形态和思想框架在塑造历史中的核心作用，这对理解未来的走向同样重要。"
+        },
+        {
+          "text": "The future is not written. Technology is not destiny.",
+          "context": "虽然技术趋势看似不可逆转，但人类的选择仍然很重要，我们可以积极参与塑造自己的未来。"
+        },
+        {
+          "text": "You cannot understand the 21st century without understanding the connection between biology and mathematics.",
+          "context": "大数据和人工智能对未来的深刻影响，生命科学和计算科学的融合正在重塑人类社会结构。"
+        }
+      ]
+    }
+  ]
+}
+```
