@@ -1,0 +1,90 @@
+根据 daily-books 技能，我发现这三本书都不在预定义的经典书单中。但既然你明确指定了这三本著作，我将直接为它们生成推荐内容。
+
+这三本书分别是：
+- **无政府主义国家与乌托邦** — Robert Nozick 的《Anarchy, State, and Utopia》(1974)
+- **美国大城市的死与生** — Jane Jacobs 的《The Death and Life of Great American Cities》(1961)  
+- **建筑十书** — Vitruvius 的《De architectura / Ten Books on Architecture》(约公元前15年)
+
+现在生成内容...
+
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "无政府主义国家与乌托邦",
+      "title_en": "Anarchy, State, and Utopia",
+      "author_zh": "罗伯特·诺齐克",
+      "author_en": "Robert Nozick",
+      "year": "1974",
+      "category": "哲学",
+      "one_liner": "用权利理论重新审视国家的合法性，为自由主义的道德基础提供有力论证。",
+      "deep_dive": "这是一本会让你重新思考国家存在必要性的哲学经典。诺齐克从一个激进的问题开始：国家真的应该存在吗？为什么我们要服从政府的权力？与罗尔斯从「无知之幕」推导正义不同，诺齐克用权利论起点，主张个人拥有不可侵犯的权利，任何人——包括政府——都不能为了公共利益而侵犯这些权利。整本书分三部分：首先论证自由意志主义的权利观，然后证明即使从这些权利出发，一个最小化国家仍然是合理的，最后批评一切超出这个底线的再分配性政策。这本书深刻影响了现代政治哲学，催生了一整个自由意志主义传统。诺齐克的论证细致而充满挑战性，他会让你质疑任何大规模社会福利计划的道德基础——「为了帮助穷人而强制征税，本质上是对有钱人的强征』。如果你曾被马克思主义或社民主义的论述吸引，这本书会给你一个截然不同的视角。",
+      "quotes": [
+        {
+          "text": "Taxation of earnings from labor is on a par with forced labor.",
+          "context": "诺齐克最著名的论断之一，核心观点是强制征税侵犯了个人对自己劳动成果的权利，与强制劳役在道德上等同。"
+        },
+        {
+          "text": "The minimal state, if it is justified, provides a framework for the different voluntary associations and communities individuals wish to form.",
+          "context": "他为国家的存在设定了严格的界限——国家只应该保护权利，其他一切应由个人和社区自愿选择。"
+        },
+        {
+          "text": "There is no social entity with a good that undergoes some sacrifice for its own good.",
+          "context": "反驳功利主义和集体主义的关键论点：社会不是有目标的实体，个人利益不能被整体「好处』所牺牲。"
+        }
+      ]
+    },
+    {
+      "title_zh": "美国大城市的死与生",
+      "title_en": "The Death and Life of Great American Cities",
+      "author_zh": "简·雅各布斯",
+      "author_en": "Jane Jacobs",
+      "year": "1961",
+      "category": "社科与历史",
+      "one_liner": "用田野观察推翻城市规划的现代教条，为活力、混杂、人文尺度的城市辩护。",
+      "deep_dive": "这是一本会改变你看待城市的方式。60年代的美国城市规划被现代主义思想统治——宽阔的林荫大道、分区规划、超级街区、摧毁「贫民窟』。规划师们执着于秩序、效率和宏大视野，却杀死了城市本身。雅各布斯不是学院派，她是纽约居民，通过在街道上观察、和邻居聊天，发现了什么让城市真正活跃。她发现活力城市需要四个元素：多种用途（住宅、办公、商业混在一起）、小街区、老建筑、密集的人口。当你漫步曼哈顿下东城的窄街道时，你看到的不是混乱，而是自组织的活力——小商店、咖啡馆、流浪者、孩子，每个人都有自己的生活，但在街道上创造了公共活动。她批评超大公园、高层建筑、宽敞街道，因为它们摧毁了人与人之间的接触和社区的自然监督。这本书写于1961年，却预言了后来城市衰败的根源。讽刺的是，50年后那些「贫民窟』的街区反而成了最有生命力的地方。如果你对城市、社区、人与环境的关系感兴趣，这是必读之作。",
+      "quotes": [
+        {
+          "text": "Cities have the capability that suburbs and camps lack: to supply each person with a great many different kinds of people.",
+          "context": "城市的本质优势不在于基础设施，而在于多样性和人的流动性，这才是创新和活力的源头。"
+        },
+        {
+          "text": "The death and life of great American cities is connected to the decay of their great streets.",
+          "context": "雅各布斯的核心观点：城市的衰退并非经济或工业问题，而是物理空间和街道文化的摧毁。"
+        },
+        {
+          "text": "A city cannot be a collection of separate closed communities. It has to be continuity.",
+          "context": "反对分区规划和隔离，强调城市应该是有机的、连续的、混杂的整体。"
+        }
+      ]
+    },
+    {
+      "title_zh": "建筑十书",
+      "title_en": "De architectura (Ten Books on Architecture)",
+      "author_zh": "维特鲁威",
+      "author_en": "Vitruvius",
+      "year": "约公元前15年",
+      "category": "艺术与美学",
+      "one_liner": "古罗马建筑师的经典著作，阐述了建筑的永恒原则：坚固性、实用性和美观性的完美统一。",
+      "deep_dive": "这可能是有史以来影响最深远的建筑著作。维特鲁威是古罗马人，在奥古斯都统治时期写了这十卷书，总结了希腊和罗马建筑的理论与实践。两千年来，从文艺复兴大师到现代建筑师，几乎所有人都在读这本书。维特鲁威提出的「三个原则』——坚固性（Firmness）、实用性（Commodity）、美观性（Delight）——至今仍然是建筑设计的金标准。他不仅讲述建筑的美学和比例，还涉及建筑材料、施工技术、水工程、防火、采光、通风等实际问题。最有名的可能是他的「维特鲁威人』（人体比例与建筑成正比），被达芬奇画成了那副著名的图。这本书为什么仍然重要？因为维特鲁威理解了一个现代建筑师常常忘记的东西：建筑首先是为人而建。一座建筑如果不实用、不舒适、不经久耐用，再美观也是失败的。反之亦然。他的文字充满了对建筑的热爱和对工匠精神的尊重。在当今时代，当建筑沦为明星建筑师的雕塑表演时，重读维特鲁威就像找到了回归根本的指南针。",
+      "quotes": [
+        {
+          "text": "The architect should be equipped with knowledge of many branches of study and varied kinds of learning, for it is by their help that he finds footing.",
+          "context": "维特鲁威强调建筑师需要的不仅是艺术眼光，更需要数学、工程、材料学、甚至医学的知识。"
+        },
+        {
+          "text": "Without symmetry and proportion there can be no principles of beauty in the composition of any temple.",
+          "context": "比例和对称性不是装饰品，而是建筑美学的基础，直接影响使用者的心理和舒适感。"
+        },
+        {
+          "text": "Architecture is a science arising out of many other sciences, and adorned with much and varied learning.",
+          "context": "建筑不是单纯的艺术或工程，而是多学科知识的综合体，这个观点今天依然适用。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+这三本书都超越了各自领域的范畴——诺齐克挑战政治合法性本身，雅各布斯用田野观察推翻专家教条，维特鲁威则在两千年前就确立了建筑的永恒原则。都值得细读。
