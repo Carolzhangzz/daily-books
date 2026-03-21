@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title_zh": "大自然的猎人",
+      "title_en": "Nature's Hunter",
+      "author_zh": "[需要确认]",
+      "author_en": "[Confirmation needed]",
+      "year": "[未确认]",
+      "category": "自然与生态",
+      "one_liner": "[无法确认确切内容]",
+      "deep_dive": "抱歉，我在书单中没有找到完全匹配的《大自然的猎人》。可能的相关书籍包括：\n- 《所罗门王的指环》(*King Solomon's Ring*) - 康拉德·洛伦茨（讲动物行为观察）\n- 《昆虫记》(*Souvenirs entomologiques*) - 让-亨利·法布尔（讲昆虫生态）\n- 《鸟的天赋》(*The Genius of Birds*) - 珍妮弗·阿克曼\n\n请确认你想要的具体是哪部作品，我可以为你生成详细推荐。",
+      "quotes": []
+    }
+  ],
+  "id": "2026-03-21_1808"
+}
