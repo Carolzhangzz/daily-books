@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "原则",
+      "title_en": "Principles",
+      "author_zh": "瑞·达利欧",
+      "author_en": "Ray Dalio",
+      "year": "2017",
+      "category": "商业/自我提升",
+      "one_liner": "投资大师分享终身修行的人生和工作原则",
+      "deep_dive": "达利欧这本书啊，就像他把自己40多年的人生智慧和盘托出。你知道吗，他不是在讲怎么赚钱，而是在讲一套做人做事的方法论。整本书分两部分：前面是他自己的故事，经历过失败、痛苦，然后在这些挫折里摸索出一套原则；后面才是那些冷冰冰的工作原则。最有意思的是他强调的\"极端求真\"和\"极端透明\"，在他的公司里，任何人都可以质疑任何决定，甚至老板的。这听起来有点疯狂，但正是这种无情的反馈机制让他的基金一直表现不凡。书里还有很多关于进化的思考，怎么从失败中学习，怎么认识自己的缺点并克服。读这本书的时候你会发现，其实他在讲的不只是商业智慧，更是一种人生态度——面对现实，诚实地评估自己，然后持续进化。",
+      "quotes": [
+        {
+          "text": "Radical truthfulness and radical transparency are the foundations of healthy relationships.",
+          "context": "达利欧强调诚实和透明是所有健康关系的基础，包括工作关系"
+        },
+        {
+          "text": "Pain + Reflection = Progress.",
+          "context": "他认为痛苦本身不可怕，关键是你如何从中反思和学习"
+        }
+      ]
+    },
+    {
+      "title_zh": "商业的本质",
+      "title_en": "Winning",
+      "author_zh": "杰克·韦尔奇",
+      "author_en": "Jack Welch",
+      "year": "2005",
+      "category": "商业/管理",
+      "one_liner": "GE前CEO用朴实无华的语言揭示商业成功的本质",
+      "deep_dive": "韦尔奇是个坦率的人，这本书读起来就像他在和你促膝谈心。他不喜欢那些虚头巴脑的管理理论，就讲最实在的东西：怎么赢。他强调的核心就是\"诚实、清晰、纪律\"。书里他讲GE怎么从一个老迈的电气公司变成全球最有竞争力的企业，背后的秘密是什么？不是什么高深莫测的战略，而是对现实的清醒认识、对员工的真诚态度，还有对执行力的执念。他讲\"六西格玛\"怎么改变了GE，讲怎么建立一个让最聪明的人愿意留下来的企业文化。印象最深的是他关于领导力的观点：好的领导不是靠魅力，而是靠你能不能帮助别人成长。这本书没有什么花里胡哨的东西，就是一个被实践验证过的商业哲学，特别适合想理解大公司怎么运转的人。",
+      "quotes": [
+        {
+          "text": "An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.",
+          "context": "韦尔奇认为学习和执行速度是企业最核心的竞争力"
+        },
+        {
+          "text": "Face reality as it is, not as it was or as you wish it to be.",
+          "context": "这是他强调的企业决策的第一原则——直面现实而不是幻想"
+        }
+      ]
+    },
+    {
+      "title_zh": "相对论",
+      "title_en": "Relativity: The Special and General Theory",
+      "author_zh": "阿尔伯特·爱因斯坦",
+      "author_en": "Albert Einstein",
+      "year": "1916",
+      "category": "物理学/科学",
+      "one_liner": "改写人类对时空认知的划时代杰作",
+      "deep_dive": "相对论啊，这是真正改变了人类看世界方式的理论。爱因斯坦用简洁到极致的思想实验，打破了我们关于时间、空间的常识。狭义相对论告诉你，时间不是绝对的，它会因为运动而变化；空间也不是固定的，E=mc²这个公式更是深刻得令人窒息，告诉我们物质和能量的本质是相通的。广义相对论更是疯狂，它说重力根本不是力，而是时空本身的弯曲。这本书最妙的地方在于，爱因斯坦本人用非常平易近人的方式解释这些复杂概念，假设你不懂微积分也没关系，通过思想实验一步步带你进入这个奇异而优美的世界。读的时候你会有种感觉，就像打开了一扇门，看到了宇宙运行的真实面貌。这不只是物理学的突破，更是人类理性突破想象极限的胜利。",
+      "quotes": [
+        {
+          "text": "Imagination is more important than knowledge. Knowledge is limited; imagination embraces the entire world.",
+          "context": "这是爱因斯坦一生的信念，也是相对论诞生的源泉——用想象力突破已有认知的局限"
+        },
+        {
+          "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+          "context": "他关于人生哲学的著名比喻，同样适用于科学探索的过程"
+        }
+      ]
+    }
+  ]
+}
+```
