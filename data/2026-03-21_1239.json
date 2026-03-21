@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "影响力",
+      "title_en": "Influence: The Psychology of Persuasion",
+      "author_zh": "罗伯特·西奥迪尼",
+      "author_en": "Robert B. Cialdini",
+      "year": "1984",
+      "category": "心理学",
+      "one_liner": "揭示人类决策中的隐藏规则，教你如何识别和运用说服力的六大原理。",
+      "deep_dive": "《影响力》这本书就像一把钥匙，打开了人类说服行为的黑箱。西奥迪尼花了数年时间，通过参与广告公司、销售部门等环境，观察和实验人们如何被说服。他总结出六个核心原理：互惠（人倾向于还人情）、承诺与一致性（言行一致的心理需求）、社会认同（从众心理）、权威（对专家的信任）、喜好（我们更容易被喜欢的人说服）和稀缺性（越稀缺越想要）。这不是教你怎么忽悠人，而是帮你理解为什么会被忽悠，以及如何识别这些技巧。特别有意思的是，西奥迪尼发现这些原理在几乎所有文化中都有效，说明它们触及了人性的深层规律。读完这本书，你会开始注意到周围的广告、推销、甚至亲友劝说中的这些技巧。不过最大的收获是，你可以用这些原理来更有效地表达自己的想法。",
+      "quotes": [
+        {
+          "text": "Compliance professionals are people who manage to gain our compliance with their requests, not through the application of physical force, but through the clever use of psychological principles.",
+          "context": "说明为什么说服力这么强大——它不靠强制，而靠心理规律。"
+        },
+        {
+          "text": "People are more likely to say yes to those they like.",
+          "context": "简单却深刻，喜欢是最有力的说服工具。"
+        }
+      ]
+    },
+    {
+      "title_zh": "大灭绝时代",
+      "title_en": "The Sixth Extinction: An Unnatural History",
+      "author_zh": "伊丽莎白·科尔伯特",
+      "author_en": "Elizabeth Kolbert",
+      "year": "2014",
+      "category": "自然与生态",
+      "one_liner": "探索人类正在创造的第六次物种大灭绝，以及我们对地球的深刻而无法逆转的改变。",
+      "deep_dive": "《大灭绝时代》是科尔伯特最让人震撼的作品。她的笔触既科学又诗意，带你游历地球的各个角落，看那些正在消失的物种和生态系统。书从巴拿马的青蛙讲起，这种蛙曾经满山遍野，现在因为真菌感染几乎灭绝了；再到大堡礁的珊瑚白化，北极的冰川消融，最后到人类自己面临的气候变化。科尔伯特的核心观点是：我们正在进入第六次大灭绝期，而这次不同于之前五次——这次是人类造成的。她并不是做道德谴责，而是用极其冷静的笔调记录事实，用科学数据和田野访问相结合的方式，让读者真实感受到危机。读完这本书，你会对地球现状有一个更清晰的认识，虽然这认识不太舒服。但这种不舒服正是改变的开始。",
+      "quotes": [
+        {
+          "text": "We are living through the sixth mass extinction, and we are the cause.",
+          "context": "直白而有力地指出我们时代的特征，没有任何回旋的余地。"
+        },
+        {
+          "text": "The rate of extinction is now thousands of times higher than the background rate.",
+          "context": "用数据说话，让读者真实理解灭绝危机的严重程度。"
+        }
+      ]
+    },
+    {
+      "title_zh": "文化的解释",
+      "title_en": "The Interpretation of Cultures",
+      "author_zh": "克利福德·格尔茨",
+      "author_en": "Clifford Geertz",
+      "year": "1973",
+      "category": "社科与历史",
+      "one_liner": "通过'深描'的方法理解文化，揭示人类行为背后的深层意义系统。",
+      "deep_dive": "格尔茨可能不是最容易读的作者，但他绝对是最深刻的。《文化的解释》这部著作改变了人类学的研究方法。他反对那种把文化看作固定规则的想法，而是强调要通过'深描'（thick description）来理解文化——不仅要描述行为，还要挖掘这些行为背后的意义系统。他用一个经典例子来说明：眨眼睛这个动作，表面看是肌肉收缩，但眨眼的人可能在学别人，或者在示意，或者只是有东西进眼睛里——同一个动作，意义完全不同。格尔茨的观点是，理解文化就是理解这些隐藏在行为背后的符号和意义网络。这对我们理解不同文化、跨越文化鸿沟特别有帮助。读这本书需要耐心，但一旦理解了'深描'的逻辑，看世界的方式就永远改变了。",
+      "quotes": [
+        {
+          "text": "The concept of culture I espouse is essentially a semiotic one.",
+          "context": "强调文化是意义系统而非行为规范，这是他理论的基石。"
+        },
+        {
+          "text": "Doing ethnography is like trying to read a manuscript except that the manuscript is written in a language we do not yet completely understand.",
+          "context": "用比喻说明理解文化的复杂性，存在永恒的理解不完全性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1239"
+}
