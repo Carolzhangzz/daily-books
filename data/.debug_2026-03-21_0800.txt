@@ -1,1 +1,1 @@
-Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth token has expired. Please obtain a new token or refresh your existing token."},"request_id":"req_011CZFQFVDocnN6xLUnMzw2i"}
+我已生成了三本书的推荐内容（严格JSON格式），现在需要保存到文件。请允许我写入 `/Users/carol/Documents/daily-books/data/2026-03-21.json`。
