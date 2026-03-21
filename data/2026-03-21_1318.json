@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "千年难题",
+      "title_en": "The Millennium Problems",
+      "author_zh": "基思·德夫林",
+      "author_en": "Keith Devlin",
+      "year": "2002",
+      "category": "科学与认知",
+      "one_liner": "探索数学领域七大未解谜题及其深远影响。",
+      "deep_dive": "这本书就像一份数学世界的寻宝地图。德夫林带你走进由Clay数学研究所在2000年提出的七个千年难题——它们每个都能在解决后赢得100万美元的奖金。但这本书的精妙之处不在金钱，而在于它用平易近人的语言揭开了这些问题的神秘面纱。你会了解到什么是P vs NP问题（计算机科学的基础困境），黎曼假设如何影响了数论的发展，还有杨-米尔斯存在性与质量间隙这样听起来晦涩但实际上优美的数学结构。书中融合了历史、哲学和科学思辨，让人感受到数学不是冷冰冰的公式，而是人类理性的最高攀登。对于想理解现代数学前沿、却害怕被公式吓跑的读者来说，这是最好的入门书。",
+      "quotes": [
+        {
+          "text": "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.",
+          "context": "德夫林强调数学的本质是理解，而非单纯的计算——这是理解千年难题的关键视角。"
+        },
+        {
+          "text": "These problems represent some of the deepest mysteries in mathematics.",
+          "context": "阐述了这七个问题之所以重要，是因为它们触及了数学最深层的基础问题。"
+        }
+      ]
+    },
+    {
+      "title_zh": "情绪勒索",
+      "title_en": "Emotional Blackmail",
+      "author_zh": "苏珊·福沃德",
+      "author_en": "Susan Forward",
+      "year": "1997",
+      "category": "心理学",
+      "one_liner": "识别和摆脱隐形的精神控制，重获生活的主动权。",
+      "deep_dive": "你有没有被这样对待过：\"如果你真的爱我，就不会这样做\"，或者\"我为你付出这么多，你却让我失望\"？那就是情绪勒索。福沃德在这本书里揭开了一种普遍存在却常被忽视的精神操纵方式。她将情绪勒索者分为几种类型——施暴者（通过愤怒和威胁）、哀求者（通过眼泪和自怜）、自虐者（通过伤害自己来惩罚他人），以及转移者（通过指责转移焦点）。最让人恍然大悟的是，这种勒索往往来自我们最信任的人——父母、伴侣、朋友。书中最有价值的部分是详细的应对策略：如何识别勒索信号，如何设定健康边界，如何用\"同情但坚定\"的态度回应。这不是教你冷酷无情，而是帮你明白，爱的本质应该是自由，而非胁迫。",
+      "quotes": [
+        {
+          "text": "The goal of the emotional blackmailer is not to communicate, but to control.",
+          "context": "直指情绪勒索的核心目的——它伪装成沟通，实则是对他人的控制和操纵。"
+        },
+        {
+          "text": "You have the right to say no, and you don't have to justify or explain yourself to anyone.",
+          "context": "福沃德强调了个人边界的重要性，这是摆脱勒索的第一步。"
+        }
+      ]
+    },
+    {
+      "title_zh": "超越自由与尊严",
+      "title_en": "Beyond Freedom and Dignity",
+      "author_zh": "B.F.斯金纳",
+      "author_en": "B.F. Skinner",
+      "year": "1971",
+      "category": "哲学",
+      "one_liner": "用科学方法挑战关于自由意志和人格尊严的传统观念。",
+      "deep_dive": "这是一部充满争议且思想深刻的著作，斯金纳在书中大胆宣称：人类珍视的\"自由\"和\"尊严\"其实是幻觉。这听起来很激进，但他的论证基于行为心理学的系统研究——我们的行为不是源于抽象的自由意志，而是由环境刺激和强化历史塑造的。例如，你认为自己\"选择\"了早起工作，其实是因为生活环境（工资、社会期望、生物钟）强化了这种行为。斯金纳进一步论证，传统对\"自由\"的执着让我们忽视了更重要的东西：通过科学理解和设计优化的社会环境，我们可以创造更幸福、更高效的生活方式。这本书挑战了启蒙时代以来的人文主义假设，触动了无数人的神经。但正因为如此，它值得一读——无论你最终同意还是反对，都会深刻重新审视你对自由、道德和人性的理解。",
+      "quotes": [
+        {
+          "text": "A person is not an originating agent; he is a locus, a point at which many genetic and environmental conditions come together in a joint effect.",
+          "context": "斯金纳的核心主张——人不是独立的行为者，而是各种因素交汇点。这个观点颠覆了传统的人格中心论。"
+        },
+        {
+          "text": "Freedom is not the goal of man; it is the goal of a particular political philosophy.",
+          "context": "指出\"自由\"作为一个政治和哲学概念，其实是特定历史时期的产物，而非人类的终极目标。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1318"
+}
