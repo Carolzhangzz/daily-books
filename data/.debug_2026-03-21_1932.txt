@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "实用主义",
+      "title_en": "Pragmatism",
+      "author_zh": "威廉·詹姆斯",
+      "author_en": "William James",
+      "year": "1907",
+      "category": "哲学",
+      "one_liner": "检验真理的尺度不在概念本身，而在现实的效果与后果",
+      "deep_dive": "你知道吗，詹姆斯的《Pragmatism》改变了我对「真理」的理解。他说，什么是真理？真理不是某个固定的、非此即彼的绝对东西。真理是什么在实际生活中有效、能够工作的东西。这听起来挺颠覆的吧？\n\n想象你相信某个哲学观点——比如说，人生有终极意义。詹姆斯会问：这个信念在你的生活里实际产生了什么结果？如果它让你更勇气、更积极、更有行动力，那它对你而言就是真的。反之，如果一个观点只是听起来漂亮，但在现实中毫无用处，那它再优雅也是虚的。\n\n这个想法的妙处在于，它把哲学从象牙塔拉回了人的生活。詹姆斯不是在争论某个抽象的逻辑，他在说：你的信念对你的生活有什么影响？你通过选择相信什么，实际上是在投票选择什么样的生活。\n\n而且他很聪明，他承认这不意味着什么都是对的。并不是你想相信什么就是真的。真理仍然受现实制约。但重点是，我们判断真理的方式，是看它在我们的经验中是否「站得住脚」。这影响深远——它改变了心理学、教育、甚至科学的思考方式。当代的「evidence-based」思维，某种程度就源自詹姆斯的这个洞察。",
+      "quotes": [
+        {
+          "text": "The true is only the expedient in the way of our thinking, just as the right is only the expedient in the way of our behaving.",
+          "context": "詹姆斯的核心观点：真理就是在我们的思维方式中行之有效的东西，就像正确就是在我们的行为方式中行之有效的东西。"
+        },
+        {
+          "text": "Beliefs are really rules for action.",
+          "context": "他认为信念的本质就是指导行动的规则，而不是对某个客观现实的镜像反映。"
+        },
+        {
+          "text": "A new theory is adopted, first by a few, then it spreads to the many and is generally accepted.",
+          "context": "描述真理在社会中的传播方式，强调实用性和接受度的重要性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术的故事",
+      "title_en": "Art Through the Ages",
+      "author_zh": "海伦·加德纳",
+      "author_en": "Helen Gardner",
+      "year": "1926",
+      "category": "艺术与美学",
+      "one_liner": "艺术不是孤立的风格演变，而是人类文明自我表达的完整编年史",
+      "deep_dive": "打开加德纳的《Art Through the Ages》，你会发现一种完全不同的艺术观。这不是那种把艺术分成「古典就是好，现代就是叛逆」的肤浅划分。加德纳要讲的是：艺术为什么是这样的？每个时代、每个文化的艺术，都在诉说它那个时代的焦虑、欲望和梦想。\n\n比如，为什么拜占庭的镶嵌画那么闪闪发光、那么精神性？因为那个时代的人在寻求与神圣的联系。为什么文艺复兴突然开始研究人体解剖、透视法？因为人文主义把人重新放回了宇宙的中心。为什么印象派画家要破坏线条、拥抱光影？因为工业时代改变了我们看世界的方式，相机的出现让画家重新思考绘画的目的。\n\n加德纳做的最聪明的事，就是把艺术和历史、社会、技术、宗教交织在一起讲。你不能理解一幅画，除非你理解它产生的时代。而一旦你看透了这一点，你就开始看到：艺术不是少数天才的天外来物，而是整个文明为了理解自己而创造的语言。\n\n这本书之所以代代相传，就因为它让你明白：审美不是品味问题，而是文明问题。你喜欢什么、厌恶什么，都反映了你属于哪个时代、受过什么样的文化养成。",
+      "quotes": [
+        {
+          "text": "Art is the product of its time, and it reflects the ideas and concerns of the society that creates it.",
+          "context": "加德纳的根本观点：艺术不是凭空产生的，而是其所在时代的精神和关切的直接体现。"
+        },
+        {
+          "text": "To appreciate art, we must understand the historical and cultural context in which it was created.",
+          "context": "强调理解艺术的必要条件——历史感和文化敏感性。不能脱离时代去评价艺术。"
+        },
+        {
+          "text": "Art is a language of form and color that communicates human experience across time.",
+          "context": "艺术被理解为一种跨越时间的通用语言，用来传达人类的普遍经验。"
+        }
+      ]
+    },
+    {
+      "title_zh": "金枝",
+      "title_en": "The Golden Bough",
+      "author_zh": "詹姆斯·乔治·弗雷泽",
+      "author_en": "James George Frazer",
+      "year": "1890-1915",
+      "category": "人类学",
+      "one_liner": "人类从魔法、宗教走向科学的思想演进史，揭示了万物之下的普遍规律",
+      "deep_dive": "弗雷泽的《The Golden Bough》是个怪兽——六卷本、一百多万字，但如果你只读一遍，你会永远改变对人类文明的看法。他在问一个简单的问题：为什么世界各地的原始社会都有类似的魔法实践、宗教仪式和神话结构？\n\n他的答案是：人类的思维方式有一个演进的顺序。首先是魔法阶段——我们以为世界遵循固定的关联律（你做这个动作，那就会发生），所以通过仪式和咒语来控制自然。然后是宗教阶段——我们放弃了魔法（因为它不工作），转而相信有更高的力量（神灵）在操纵世界，我们通过祈祷和献祭来讨好他们。最后是科学阶段——我们发现了自然的真实规律，不再需要超自然的解释。\n\n听起来很进步主义吧？但弗雷泽的真正天才在于：他一个个例子，从非洲到太平洋、从新石器时代到现代，展示人类在做同样的事——试图理解和控制世界。那些看似荒唐的原始仪式，其实体现了和现代科学同样的逻辑——寻找规律、寻找因果。我们没有变得更聪明，只是找到了更有效的方法。\n\n这本书刺激了整个20世纪的人文学科——人类学、心理学、宗教研究、甚至文学批评。T·S·艾略特、乔伊斯都受过它的深刻影响。读《金枝》，你会开始看穿所有文化的表面，看到下面共同的人性——对秩序的渴望、对死亡的恐惧、对来世的想象。",
+      "quotes": [
+        {
+          "text": "Magic is a pseudo-science and a pseudo-art. In so far as it is based on the assumption that things can be done or destroyed by mere thought or speech, it is a pseudo-science; in so far as it aims at producing definite effects by a series of physical processes, it is a pseudo-art.",
+          "context": "弗雷泽对魔法的定义，揭示魔法如何包含了科学思维的雏形——认为存在因果关系、可以通过特定方法达成目标。"
+        },
+        {
+          "text": "The advance from magic through religion to science represents an advance in the understanding of nature.",
+          "context": "他的核心论断：人类文明的进步，就是从魔法→宗教→科学的思维演进。"
+        },
+        {
+          "text": "The principles of magic are identical with the principles of science. If we analyse the character of magic, we shall find that it is based upon a faith in an order of nature.",
+          "context": "最深刻的洞察：魔法和科学在逻辑结构上是一致的，都相信自然有规律可循。区别只在于我们发现规律的方式。"
+        }
+      ]
+    }
+  ]
+}
+```
