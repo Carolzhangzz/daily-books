@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "神经漫游者",
+      "title_en": "Neuromancer",
+      "author_zh": "威廉·吉布森",
+      "author_en": "William Gibson",
+      "year": "1984",
+      "category": "科幻小说/赛博朋克",
+      "one_liner": "赛博朋克文学的开山之作，一部重新定义了科幻想象的传奇之作",
+      "deep_dive": "这部书真的很神奇。1984年发表的时候互联网还没普及，吉布森却凭借想象力创造了虚拟空间、人工智能、网络黑客这些概念，后来居然都成真了。故事本身讲的是雇佣兵凯斯和他的伙伴莫利去执行一项危险任务，在过程中对抗超级AI，探索人类与机器的边界。最吸引人的地方是那种压抑又迷幻的氛围——每一个场景都像是泡在霓虹灯的汗水里，充满了绝望感和兴奋感混合的快感。它不仅改变了科幻文学，还影响了电影、游戏、设计等整个文化生态。读这本书你会明白为什么黑客文化、网络朋克风格会这么流行，也会理解我们今天关于AI、虚拟现实的所有焦虑，其实都在这里埋下了种子。",
+      "quotes": [
+        {
+          "text": "Cyberspace. A consensual hallucination experienced daily by billions of legitimate users, in every nation, by children being taught mathematical concepts...",
+          "context": "对虚拟空间本质的定义，奠定了整个赛博朋克美学的基础"
+        },
+        {
+          "text": "The future is already here – it's just not evenly distributed.",
+          "context": "吉布森的名言，深刻揭示了技术发展的不均衡性，至今仍然启发人心"
+        }
+      ]
+    },
+    {
+      "title_zh": "情人",
+      "title_en": "L'Amant (The Lover)",
+      "author_zh": "玛格丽特·杜拉斯",
+      "author_en": "Marguerite Duras",
+      "year": "1984",
+      "category": "小说/自传体文学",
+      "one_liner": "一段青春期的禁忌之恋，在模糊的记忆中探问爱欲与身份",
+      "deep_dive": "读《情人》的时候，你会感受到一种很奇异的阅读体验。作者杜拉斯在书里既是讲述者又是被讲述者，不断在现在和过去之间切换，像在梦里反复看同一个场景。故事的主线是一个十五岁法国少女与一个中国富商的秘密恋情，发生在殖民地时期的西贡。但这不是一部传统的爱情小说，它更像是一次对记忆本身的拷问——随着时间流逝，我们对过去的记忆究竟还有多真实？书里充满了欲望、羞愧、金钱、身体这些沉重的词，却用一种很克制的、几乎冷漠的笔调写出来。读到最后你会发现，这本书让你思考的不仅是爱情，还有身份、权力和一个人如何被时代和他人的欲望所塑造。",
+      "quotes": [
+        {
+          "text": "I think I'm being deceived. I think he loves me less than I love him.",
+          "context": "少女对爱情不对等的深刻感悟，揭示了所有情感关系中的脆弱真相"
+        },
+        {
+          "text": "He asks why I wear my hair loose. So that I can let it down, I tell him, if I have to cry.",
+          "context": "一句看似平凡的回答，暗含着青春期少女对自己身体和情感的微妙掌控"
+        }
+      ]
+    },
+    {
+      "title_zh": "富兰克林自传",
+      "title_en": "Autobiography of Benjamin Franklin",
+      "author_zh": "本杰明·富兰克林",
+      "author_en": "Benjamin Franklin",
+      "year": "1791",
+      "category": "自传/传记",
+      "one_liner": "从印刷学徒到开国元勋，一部关于自我改造和社会上升的美国梦原型",
+      "deep_dive": "这本自传之所以经久不衰，就在于富兰克林写的是一个真实的人生逆袭故事。他从一个困苦的印刷学徒开始，通过自学、诚实和坚持，最后成为宾夕法尼亚州的精英、参与美国独立战争、签署宪法。但关键是，他在记录这一切的时候，没有什么高大上的修辞，就是直白地说出来——我怎么克服了贫困，怎么建立自己的印刷坊，怎么开始从事科学实验，怎么逐步融入城市精英圈子。这种坦诚的语气特别有感染力，因为你能看出每一步都是通过具体的行动和选择做出来的，不是靠运气或背景。书里还有他著名的十三条美德清单，虽然现在看起来有点死板，但在当时完全是一个自我管理的创新。这本书影响了几代美国人对成功的想象，也让全世界很多人相信通过努力可以改变命运。",
+      "quotes": [
+        {
+          "text": "If you would know the value of money, go and try to borrow some.",
+          "context": "富兰克林对金钱和信用的实用智慧，源于他年轻时的切身经历"
+        },
+        {
+          "text": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+          "context": "他关于学习的信条，体现了他一生的好奇心和实践精神"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1729"
+}
