@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "黑天鹅",
+      "title_en": "The Black Swan",
+      "author_zh": "纳西姆·塔勒布",
+      "author_en": "Nassim Nicholas Taleb",
+      "year": "2007",
+      "category": "科学与认知",
+      "one_liner": "解释那些不可预测、影响深远的历史事件如何塑造了世界",
+      "deep_dive": "塔勒布在这本书里讲了一个有点扎心的真相：我们总是高估自己对世界的理解。大多数时候，我们看到白天鹅满湖游动，就认为所有天鹅都是白的——直到黑天鹅出现。9·11、互联网的兴起、金融危机，这些改变历史进程的事件，事前都被认为是不可能发生的。塔勒布用这个比喻讽刺我们总是生活在一种虚假的安全感中。更狠的是，他指出现代社会其实更容易被黑天鹅事件撞击，因为我们高度依赖于某些脆弱的系统。这本书最有意思的地方在于，它不仅仅是在吓唬你，而是在教你怎样在不确定性中活得更聪明。塔勒布倡导一种反脆弱的生活方式：别想着预测黑天鹅，而是让自己足够灵活，能从意外中获益。这种思维方式对投资、人生规划，甚至日常决策都有深刻的启发。",
+      "quotes": [
+        {
+          "text": "The problem is not the event itself but how we interpret it.",
+          "context": "黑天鹅事件本身不可怕，可怕的是我们对它的错误理解和反应，这决定了后续的一切。"
+        },
+        {
+          "text": "The characteristic of the robust is that it does not care too much about the source of the shock.",
+          "context": "真正的智慧不是预测风险，而是构建能承受任何冲击的系统和生活方式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "科学革命的结构",
+      "title_en": "The Structure of Scientific Revolutions",
+      "author_zh": "托马斯·库恩",
+      "author_en": "Thomas Kuhn",
+      "year": "1962",
+      "category": "科学与认知",
+      "one_liner": "揭示科学进步的真相：它不是线性的，而是由范式转变驱动的革命",
+      "deep_dive": "库恩写这本书的时候可能没想到它会这么火。他的核心观点很简单但很摧毁人：科学进步不是一个漫长而连续的积累过程，而是充满了戏剧性的范式转变。你可能以为科学就是客观地观察世界，提出假设，验证，然后知识就一步步增加。其实不是。库恩说，在大多数时间里，科学家都被困在一个范式里——一套关于世界如何运作的基本假设。它们像信仰一样根深蒂固。然后突然有一天，积累的反证太多了，整个系统崩溃，一个新的范式取代了旧的。哥白尼革命、牛顿物理学、爱因斯坦相对论，都是这种范式转变。最让人不安的是，库恩指出不同范式之间其实是不可通约的——你无法用旧范式的语言完全解释新范式。这意味着科学进步也充满了信仰跳跃。这本书深刻地改变了人们对科学本质的认识，也让人想到，我们现在相信的科学真理，未来可能会被彻底推翻。",
+      "quotes": [
+        {
+          "text": "Discovery begins with the awareness of anomaly, with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science.",
+          "context": "科学突破往往始于对异常现象的敏锐观察，这些现象打破了既有范式的预期。"
+        },
+        {
+          "text": "The man who embraces a new paradigm at an early stage must often do so on faith.",
+          "context": "早期接受新范式的科学家需要一种信念的勇气，因为旧的证据系统还在主导整个学术界。"
+        }
+      ]
+    },
+    {
+      "title_zh": "红与黑",
+      "title_en": "The Red and the Black",
+      "author_zh": "司汤达",
+      "author_en": "Stendhal",
+      "year": "1830",
+      "category": "文学",
+      "one_liner": "一个野心勃勃的平民青年在贵族社会中的挣扎与沉沦",
+      "deep_dive": "如果你想看一部关于野心、欲望和社会阶级的小说，《红与黑》是必读的。故事讲的是朱利安·索雷尔，一个木匠的儿子，但聪明、冷酷，对拿破仑充满崇拜。他决定通过教师这个职业跻身贵族社会，因为在拿破仑失败后，教堂成了新的权力中心。朱利安不是通过真诚去爱，而是通过精心计算的策略去征服。他先是勾引了自己老板的妻子——社交界真正的权力，然后又追求一个贵族小姐。整部小说就像一场精妙的心理战，司汤达用冷冰冰的笔触描绘了这个年轻人如何把自己变成一个社交机器。最扎心的是结局——朱利安最终因为一时的真情实感而毁掉了自己精心建构的一切。这部小说在19世纪很现代，因为它对人物的心理刻画极其深入，而且毫不留情地解剖了野心、虚伪和社会权力的本质。即使在今天，它对怎样在一个不公平的社会中向上爬这个问题的冷眼观察，仍然让人不适但深思。",
+      "quotes": [
+        {
+          "text": "A novel is a mirror walking along a main road.",
+          "context": "司汤达对小说的理解：它应该如实反映社会现实，包括其中的丑陋和虚伪，而不是美化。"
+        },
+        {
+          "text": "The only way to truly understand man is to observe his mask.",
+          "context": "《红与黑》的核心：朱利安的故事表明，在追求成功中迷失真心，最终会导致自我毁灭。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_2025"
+}
