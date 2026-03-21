@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "到灯塔去",
+      "title_en": "To the Lighthouse",
+      "author_zh": "弗吉尼亚·伍尔夫",
+      "author_en": "Virginia Woolf",
+      "year": "1927",
+      "category": "文学",
+      "one_liner": "一个家庭十年的执念，时间在意识中的流动，以及抵达终点后对永恒的沉思。",
+      "deep_dive": "《到灯塔去》看似简单：一个家庭计划去灯塔，因为各种原因一再搁浅，十年后终于成行。但伍尔夫用意识流手法把这件小事升华为关于时间、自我和存在的深刻思考。读这部书，你会感受到时间在心理上的真实流动——它不是均匀的，有时候一秒钟里发生了整个人生的转变，有时候十年像一眨眼就过去了。那个著名的中间章节，只用几页纸就跨越了十年，期间写死了人物，改变了一切，这种表现手法在当时可以说是革命性的。这部小说不关乎外在的情节，而是关乎人物的内心世界——他们对过去的执着、对关系的渴望、对自我身份的困惑。莉莉·布里斯科（Lily Briscoe）这个艺术家角色尤其动人，她在追求艺术的完成与生活的意义之间不断挣扎。整部作品充满了哲学意蕴，但又非常个人化，让你在阅读中不断思考自己的人生。",
+      "quotes": [
+        {
+          "text": "The great revelation perhaps never does come. Instead there are small daily miracles, illuminations, matches struck unexpectedly in the dark.",
+          "context": "伍尔夫在这里表达了对生活本质的理解——我们不该期待突然的启示，而是在日常中体会那些细微的奇迹和闪光时刻。"
+        },
+        {
+          "text": "It was strange how if you did not think about death, it became less terrible.",
+          "context": "这句话捕捉了伍尔夫对人类心理的深刻观察，忽视与面对之间的平衡。"
+        }
+      ]
+    },
+    {
+      "title_zh": "追忆似水年华",
+      "title_en": "In Search of Lost Time",
+      "author_zh": "马塞尔·普鲁斯特",
+      "author_en": "Marcel Proust",
+      "year": "1913-1927",
+      "category": "文学",
+      "one_liner": "一杯茶唤醒的记忆碎片，普鲁斯特重建了整个人生的精神宇宙。",
+      "deep_dive": "普鲁斯特的这部巨著可能是有史以来最庞大、最细致、最执着的关于记忆和时间的探索。小说开篇那个著名的场景——主人公用玛德琳蛋糕蘸茶，突然被一股记忆淹没——这个简单的感官经验触发了整个作品。普鲁斯特认为记忆不是线性的，不是理性的回顾，而是通过无数细节和感官刺激激发出来的。整部作品充满了对人物心理、社交场景、爱情关系、艺术和时间流逝的冗长而精细的描写。有些段落你可能需要读三遍才能理解，但正是这种细致入微的笔法让你体验到时间在人的生命中如何真实地流动。爱情、嫉妒、失去、寻找自我——这些普遍的人性主题在普鲁斯特的笔下变成了一个人的精神历险。这部小说需要耐心，但它给予的是一种独特的阅读体验，让你重新思考你自己的记忆和身份。",
+      "quotes": [
+        {
+          "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+          "context": "普鲁斯特在这里总结了记忆和时间的意义——真正的发现不在外面，而在于用新的眼光重新看待我们已知的世界。"
+        },
+        {
+          "text": "Remembrance of things past is not necessarily the remembrance of things as they were.",
+          "context": "这句话揭示了记忆的真相——我们记忆中的过去往往不是真实发生过的样子，而是被重新诠释和改造过的。"
+        }
+      ]
+    },
+    {
+      "title_zh": "午夜之子",
+      "title_en": "Midnight's Children",
+      "author_zh": "萨尔曼·鲁西迪",
+      "author_en": "Salman Rushdie",
+      "year": "1981",
+      "category": "文学",
+      "one_liner": "印度独立午夜出生的魔法孩子，用个人的荒诞诠释一个国家的觉醒。",
+      "deep_dive": "《午夜之子》是一部关于身份、历史和想象力的奇妙小说。主人公萨鲁曼在印度独立的午夜出生，他和其他在那一刻出生的孩子被赋予了超自然的力量。这部作品用魔幻现实主义的手法混合了历史、神话、家族传奇和个人回忆，创造了一个非常独特的叙事空间。鲁西迪不是在写历史教科书，而是在用非常个人化、非常魔幻的方式来诠释印度的现代史。小说充满了黑色幽默、荒诞和深刻的人性思考。主人公萨鲁曼既是一个平凡的个体，又是代表整个国家命运的象征。他的故事包含了爱、背叛、寻找身份、权力斗争和最终的救赎。这部小说拒绝了线性的叙事和简单的答案，它邀请读者进入一个充满想象力和复杂性的世界。如果你喜欢后现代文学、非传统的历史叙事或者充满魔幻元素的故事，这部作品会给你带来全新的阅读体验。",
+      "quotes": [
+        {
+          "text": "To understand just one life, you have to swallow the whole world.",
+          "context": "鲁西迪在这里道出了这部小说的核心——理解一个人的生命需要理解整个历史、文化和社会背景。"
+        },
+        {
+          "text": "I had been mysteriously inserted into the universe; I had arrived under exceptional circumstances.",
+          "context": "萨鲁曼对自己身份的思考，反映了他既是普通人又是特殊存在的矛盾身份，这也暗示了印度独立这一历史时刻的独特性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1901"
+}
