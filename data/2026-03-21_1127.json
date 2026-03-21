@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "创新者的窘境",
+      "title_en": "The Innovator's Dilemma",
+      "author_zh": "克莱顿·克里斯坦森",
+      "author_en": "Clayton M. Christensen",
+      "year": "1997",
+      "category": "商业与技术",
+      "one_liner": "为什么优秀的公司会被颠覆性创新击败",
+      "deep_dive": "这本书真的刷新了我对企业成败的理解。克里斯坦森在1997年就从历史数据中挖掘出了一个看起来矛盾但又让人顿悟的现象：市场领导者、经营管理最专业的公司，反而最容易被新兴技术击败。核心就是\"创新者的窘境\"——一个公司越成功、越专业，它就越不愿意冒险去做\"看起来不那么赚钱\"的新事物。比如硅谷的磁盘驱动器公司，5英寸驱动器赚钱快就不想投入3.5英寸；日本胶卷厂商被数码相机颠覆，因为当时数码的利润微薄。所以这不是因为管理者蠢，恰恰相反——他们太理性了。他们遵循财务逻辑、市场数据、用户反馈，每个商业决策都正确。但这种理性恰好成为了致命弱点。真正的颠覆来自边缘，来自那些\"非主流\"、\"低端\"的技术。破坏者往往不是来自行业内部的竞争对手，而是你从未真正在乎的\"小玩意儿\"。有意思的是，这本书不只在描述历史，而是给出启发：你必须找到方式不让自己被\"成功的组织惯性\"绑架，否则就该做好被颠覆的准备。这就是为什么苹果这样的公司要主动杀死自己的产品线，为什么颠覆者往往来自创业小公司。读这本书，你会重新思考商业世界——失败的巨头，往往败给了自己曾经的成功。",
+      "quotes": [
+        {
+          "text": "The capabilities of the organization define the disabilities of the organization.",
+          "context": "你的优势就是你的劣势。你善于做的东西，正是让你看不见未来的东西。这是整本书最深刻的悖论。"
+        },
+        {
+          "text": "Disruptive technologies are usually simpler and cheaper; they generally promise lower margins, not higher profits.",
+          "context": "颠覆性技术看起来都不那么有吸引力，这正是为什么大公司会错过它们，利润空间小的东西往往视而不见。"
+        },
+        {
+          "text": "As long as the rate of market growth is high, the company that is first to offer a product that satisfies these attributes will gain a substantial share of the newly created market.",
+          "context": "解释了为什么领先者容易放弃新技术——他们被现有市场的高增长所诱惑，不愿分心去看边缘市场。"
+        }
+      ]
+    },
+    {
+      "title_zh": "日瓦戈医生",
+      "title_en": "Doctor Zhivago",
+      "author_zh": "鲍里斯·帕斯捷尔纳克",
+      "author_en": "Boris Pasternak",
+      "year": "1957",
+      "category": "文学",
+      "one_liner": "在俄国革命的洪流中，一个知识分子的爱情、使命与自我的永恒困境",
+      "deep_dive": "《日瓦戈医生》是一部关于个人命运和历史洪流碰撞的伟大小说。帕斯捷尔纳克用医生尤里·日瓦戈这个人物，讲述了一个知识分子在俄国十月革命前后的遭遇——这不仅仅是一个爱情故事，更是一个关于人在历史中如何保持自我的问题。日瓦戈是个医生、诗人，有深刻的艺术天赋和人道关怀，但时代不给他这样的奢侈。俄国革命爆发，整个社会被卷入暴力和激情的漩涡。他试图保持中立，继续医学和文学的追求，但历史不允许——他被征兵、被迫参与，爱人在他身边来去。这部小说的独特之处在于，它不是讴歌革命，也不是简单否定，而是描写一个普通知识分子在大时代中的困顿。他无法拒绝时代，因为时代太强大；也无法完全投入，因为灵魂属于艺术和人性。小说最深刻的是爱情。日瓦戈对拉拉的爱，不是甜蜜的文艺故事，而是两个灵魂在混乱时代中的相互救赎。他们在乡村躲藏，短暂拥有了属于自己的世界——但那只是昙花一现。帕斯捷尔纳克在小说后附上了日瓦戈的诗集，这是天才设计。这些诗像是这个人物灵魂的最终结晶，对爱、死亡、永恒的思考。通过诗，我们看到日瓦戈虽然在现实中失败，但精神世界始终保持纯净和尊严。读这部小说，你会感受到历史如何碾过个人，但个人内心世界如何仍然闪闪发光。",
+      "quotes": [
+        {
+          "text": "Man is born to live, not to prepare for life.",
+          "context": "日瓦戈对人生的深刻思考——我们不应该为了某个目标而活，而应该在活着本身中寻找意义。"
+        },
+        {
+          "text": "And the whole of Russia is our home, and the whole of it, like everything in the world, is filled with the endless sadness of existence.",
+          "context": "反映了小说的深层气质——不管时代如何变化，人生本身就充满了悲伤和无奈。"
+        },
+        {
+          "text": "You are unhappy because you do not know what you want. If you knew what you wanted, you would be unhappy because you cannot have it.",
+          "context": "关于人类困境的深刻洞察——人生的悲剧在于欲望与现实之间永远的距离。"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的森林",
+      "title_en": "The Forest Unseen",
+      "author_zh": "大卫·乔治·哈斯凯尔",
+      "author_en": "David George Haskell",
+      "year": "2012",
+      "category": "自然与生态",
+      "one_liner": "在一棵树周围的一平方米中，发现生命的无穷奥秘和相互联系",
+      "deep_dive": "这本书特别神奇，因为哈斯凯尔做了一个看似简单得不能再简单的事：每周访问田纳西州一个森林中同一个一平方米的小地方，观察、思考、记录。一年52次，就在这一平方米的地盘里。听起来很单调，但这一平方米其实就是整个宇宙的缩影。你会看到土壤中有多少生命在活动，一条溪流如何塑造地景，蜘蛛网如何反映晨雾，一片叶子的分解如何养活整个生态系统。哈斯凯尔的笔触特别优美，他不是在做科学报告，而是在对话——和森林对话。最深刻的是他揭示的网络性。我们通常看到森林是孤立的元素——这棵树、那只鸟、这朵花。但当你真正定睛一个地方时，开始看见连接：树叶落下养活土壤微生物，微生物死亡营养回到树根，树生长给鸟提供栖息，鸟的粪便又是树的养料。整个生态系统是一个活着的整体。书里有很多让人震撼的细节。比如一块石头，被苔藓和地衣慢慢侵蚀，这个过程跨越千年；比如一条小溪看似平静，实际上在塑造整个地景的未来。这些东西我们平时走过都没注意，但一旦停下来真正观看，就会发现奇迹。更重要的是，哈斯凯尔融入了气候变化、人类影响这些宏大议题。但他不是说教，而是通过这一平方米告诉你：当我们改变环境时，改变的是什么？那些看不见的微小生命，那些看不见的连接，那些看不见的平衡。这本书会改变你看世界的方式。",
+      "quotes": [
+        {
+          "text": "To understand the forest, I needed to look closely at a small piece of it.",
+          "context": "整本书的核心思想——深度优于广度，专注于一个地方会让你看到宇宙的真相。"
+        },
+        {
+          "text": "The forest is a network, every strand of which is connected to every other.",
+          "context": "自然不是由独立元素组成，而是由无穷的相互连接组成。这是生态学的根本洞察。"
+        },
+        {
+          "text": "The unseen forest is as important as the visible one.",
+          "context": "我们看不见的生命——微生物、地下菌根网络、隐藏的生态过程——比我们能看见的一切都更重要。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_1127"
+}
