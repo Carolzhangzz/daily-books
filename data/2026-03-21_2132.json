@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "杀死一只知更鸟",
+      "title_en": "To Kill a Mockingbird",
+      "author_zh": "哈珀·李",
+      "author_en": "Harper Lee",
+      "year": "1960",
+      "category": "文学",
+      "one_liner": "一个女孩眼中的种族歧视、勇气与道德困境",
+      "deep_dive": "这部小说在我心里就像一个开眼界的时刻。故事从小女孩斯考特的视角展开，她和哥哥在美国南方一个小镇长大，目睹父亲律师阿迪克斯为一个被控强奸黑人男子的案件进行辩护。看似简单的法庭故事，其实在剖析一个更大的问题：什么是对的，什么时候坚持对的事会付出代价。阿迪克斯那句著名的话——「勇气就是当你知道自己会输的时候，还要去做」——不是什么英雄主义的煽动，而是面对一个不公正系统时的真实无奈。这部书的精妙之处在于，它不是用道德说教砸你，而是通过一个小女孩的成长，让你慢慢明白什么叫道德责任。李的文笔也很有意思，既有童年的天真和幽默，也有对人性黑暗面的犀利观察。这本书在1960年出版时震撼了美国，现在读依然有力量。",
+      "quotes": [
+        {
+          "text": "Courage is when you know you're licked before you begin but you begin anyway and you see it through.",
+          "context": "阿迪克斯教导孩子们什么是真正的勇气，不是不害怕，而是在害怕时仍然坚持"
+        },
+        {
+          "text": "You never really understand a person until you consider things from his point of view.",
+          "context": "斯考特的人生顿悟，这也是理解整部小说的核心——换位思考的力量"
+        }
+      ]
+    },
+    {
+      "title_zh": "地下铁道",
+      "title_en": "The Underground Railroad",
+      "author_zh": "科尔森·怀特黑德",
+      "author_en": "Colson Whitehead",
+      "year": "2016",
+      "category": "文学",
+      "one_liner": "黑人奴隶的传奇逃亡之旅，真实历史与魔幻设定的碰撞",
+      "deep_dive": "怀特黑德干了一件绝妙的事——他把历史记录里的地下铁道（帮助奴隶逃亡的秘密网络）变成了真实的铁路系统。故事跟着主人公科拉逃离南方的一个种植园开始，她登上一列列地下列车，穿梭在不同州之间，每一站都代表一个不同的美国——有看似进步的北方州，有科技驱动的异构社会，有令人绝望的南方追杀。这个设定看起来像科幻，但其实是在用奇幻的方式诚实地表现历史：奴隶逃亡本身就是一场冒险，一次次死里逃生，一个又一个选择。书中穿插着黑人历史的沉重，却不是单纯的悲剧——科拉的故事有韧性，有反抗，有在黑暗中找到的人性之光。这不是一部让你舒服的书，但它会改变你对美国历史的理解。",
+      "quotes": [
+        {
+          "text": "She was a guest and a prisoner, depending on the hour.",
+          "context": "描绘黑人女性在美国社会中的矛盾地位，既被需要又被囚禁"
+        },
+        {
+          "text": "The underground railroad is real, like everything else in this world. You just have to believe in it.",
+          "context": "体现了这部小说的核心——将隐喻变为现实，将历史变为个人的逃亡史"
+        }
+      ]
+    },
+    {
+      "title_zh": "一个陌生女人的来信",
+      "title_en": "Letter from an Unknown Woman",
+      "author_zh": "斯蒂芬·茨威格",
+      "author_en": "Stefan Zweig",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "一段被深藏的爱，一封诀别前的倾诉",
+      "deep_dive": "茨威格用一封信讲述了一个女人的一生，那样的克制和深情读得人心都疼。故事很简单：一个女人写信给一个男人，告诉他她一直爱着他——从十几岁在邻居楼下偷看他，到长大后和他有过一段短暂的关系，到最后她的死亡。但简单的故事承载的情感复杂到让人窒息。这不是一个浪漫爱情故事，而是一个女人对一个终生无法真正看见她的男人的单向奉献。茨威格对心理的挖掘细致得可怕，他写出了那种爱而不得的绝望、那种被忽视的痛苦、那种最后的释放感。整部作品只有一个声音——女人的声音——通过信件回溯时间，读得越往后越明白：这个男人其实一直不知道她的存在。这部作品之所以伟大，是因为它承认了爱情中最残酷的现实——有时候爱就是单方面的，有时候一个人的整个人生都只是对另一个人的未完成的句子。",
+      "quotes": [
+        {
+          "text": "I lived my whole life in those few moments of your existence.",
+          "context": "女主通过一生去诠释那短暂相逢的意义，也揭示了爱的绝望本质"
+        },
+        {
+          "text": "You never knew of my existence.",
+          "context": "反复出现的悲剧主题——他的忽视就像一种终身的死亡，存在却被否定"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-21_2132"
+}
