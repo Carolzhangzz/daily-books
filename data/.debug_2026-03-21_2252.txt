@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "玻尔传",
+      "title_en": "Niels Bohr: A Life",
+      "author_zh": "阿布拉罕·派斯",
+      "author_en": "Abraham Pais",
+      "year": "1991",
+      "category": "科学传记",
+      "one_liner": "量子物理学奠基人的人生轨迹与科学突破",
+      "deep_dive": "你知道吗，尼尔斯·玻尔其实不是个整天躲在实验室的怪才，反而是个热爱哲学、喜欢和人争论的社交高手。这本传记特别有意思的地方在于，它不仅讲玻尔的科学成就——那些改变了人类对原子认识的工作——还讲他怎么在丹麦的政治、伦理和文化漩涡中摇摆。派斯把玻尔描绘成一个真实的人：他会犯错，会为自己的决定后悔，但同时又有着对真理的执著追求。读这本书最有趣的是看他怎么在哥本哈根学派建立了一个知识共和国，把爱因斯坦、海森伯、薛定谔这些天才都吸引到一起。如果你想了解20世纪物理学为什么这么疯狂，这本传记会告诉你背后有多少天才的碰撞和思想的火花。",
+      "quotes": [
+        {
+          "text": "\"Complementarity is no longer just a slogan; it has become a way of life.\"",
+          "context": "玻尔关于互补性原理的论述，这是量子力学的核心概念"
+        },
+        {
+          "text": "\"The task of science is both to extend the range of our experience and to reduce it to some order.\"",
+          "context": "对科学本质的精彩定义，体现了玻尔的哲学思想"
+        },
+        {
+          "text": "\"An expert is a person who has made all the mistakes that can be made in his field.\"",
+          "context": "玻尔的名言，反映了他对学习过程的深刻理解"
+        }
+      ]
+    },
+    {
+      "title_zh": "信号与噪声",
+      "title_en": "The Signal and the Noise: Why So Many Predictions Fail",
+      "author_zh": "内特·西尔弗",
+      "author_en": "Nate Silver",
+      "year": "2012",
+      "category": "统计学/数据科学",
+      "one_liner": "大数据时代如何区分信号与噪声，掌握预测的艺术",
+      "deep_dive": "我们生活在一个疯狂的时代，每个人都在预测什么——天气、选举、股票、体育比赛。但老实说，大多数预测都是垃圾。内特·西尔弗这本书就是来教你怎么不被忽悠的。他曾因为准确预测2008年奥巴马的选举而名声鹊起，所以他知道自己在说什么。书里他用棒球、象棋、地震、电影票房等各种例子来讲述一个简单的道理：在一堆噪声中找到真实的信号有多难。更有趣的是，他会告诉你为什么那些听起来最聪明的人往往预测得最差——因为他们太自信了。这不是教你成为预测专家的书，而是教你怎么批判性地看待别人的预测，怎么在信息爆炸的时代保持清醒的大脑。如果你经常发现自己被各种预测和数据唬住，这本书值得一读。",
+      "quotes": [
+        {
+          "text": "The signal is the truth. The noise is what distracts us from the truth.",
+          "context": "对信号与噪声最简洁的定义，贯穿全书的核心思想"
+        },
+        {
+          "text": "Overconfidence has ruined more forecasters than any other factor.",
+          "context": "对预测失败根本原因的精准指点"
+        },
+        {
+          "text": "Belief is not the same as fact. And we must not confuse the two.",
+          "context": "提醒人们区分个人信念和客观事实的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "我与地坛",
+      "title_en": "I and the Temple of the Earth",
+      "author_zh": "史铁生",
+      "author_en": "Shi Tiesheng",
+      "year": "1994",
+      "category": "自传文学/散文",
+      "one_liner": "轮椅上的诗人在古老地坛的冥想与救赎",
+      "deep_dive": "这可能是当代中文文学里最让人沉默的散文。史铁生在20多岁时突然瘫痪，命运像一个恶作剧一样改变了他的一切。但他没有沉溺于自怜，而是在地坛这个古老的坛子里，一个轮椅推了又推，在青苔和石墙之间找到了某种和解。这本书的妙处在于，它表面上是关于残疾的，骨子里却是关于整个人生——关于死亡、关于失去、关于怎么在绝望中活下去。史铁生的文字特别透彻，他能用最简单的句子说出最深刻的东西。那些关于母亲、关于轮椅、关于地坛里那些素不相识的老人的段落，能让你泪流满面。如果你曾经感到过绝望，或者你正在经历什么不可承受的事，这本书会告诉你：生命可能更坚硬，也可能比你想象的更柔软。这不仅是残疾人的故事，是每个人的故事。",
+      "quotes": [
+        {
+          "text": "我又想起那个瘫痪的人，想起他怎样摇着轮椅在地坛里走过，想起他说过的话。",
+          "context": "对自我反思的诗意表达，体现了作者与地坛之间的深刻联系"
+        },
+        {
+          "text": "死是一件不必急于求成的事，死是一个必然会降临的节日。",
+          "context": "史铁生关于死亡和生命的哲学领悟，显示了他透彻的人生智慧"
+        },
+        {
+          "text": "我坐在轮椅上，看见地坛就像看见我的灵魂。",
+          "context": "地坛成为作者内心世界的象征，反映了精神与空间的对话"
+        }
+      ]
+    }
+  ]
+}
+```
