@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-21",
+  "books": [
+    {
+      "title_zh": "审判",
+      "title_en": "The Trial",
+      "author_zh": "卡夫卡",
+      "author_en": "Franz Kafka",
+      "year": "1925",
+      "category": "现代主义文学",
+      "one_liner": "陷入无名官僚机制的K先生的荒诞诉讼历程",
+      "deep_dive": "你能想象被莫名其妙地逮捕，但没有人告诉你到底犯了什么罪吗？这就是K先生的噩梦。卡夫卡笔下这个小男人被卷入了一个令人窒息的官僚迷宫，各种法庭、律师、法官们都在，但逻辑完全不存在。最恐怖的是，K先生越试图证明自己的清白，就越陷越深，就像在沙子里越挣扎越下沉。这部小说没有给你任何安慰的理由，反而用一种冷漠、荒诞的笔调展现了权力与个人之间的绝对不对等。卡夫卡仿佛在预言20世纪的集权制度，个人在面对庞大的国家机器时有多么无力。读完它你会开始质疑法律、权力、以及人的尊严，也能理解为什么这部小说一百年后还在不断被改编和讨论。",
+      "quotes": [
+        {
+          "text": "It must be an error in the proceedings",
+          "context": "K先生对整个审判制度的绝望反抗"
+        },
+        {
+          "text": "Before the Law stands a gatekeeper",
+          "context": "小说中关于权力与真理之间的寓言"
+        }
+      ]
+    },
+    {
+      "title_zh": "雪崩",
+      "title_en": "Snow Crash",
+      "author_zh": "尼尔·斯蒂芬森",
+      "author_en": "Neal Stephenson",
+      "year": "1992",
+      "category": "赛博朋克科幻",
+      "one_liner": "虚拟元宇宙中比萨外卖员与数字病毒的冒险之旅",
+      "deep_dive": "想象一个支离破碎的未来美国，人们都在一个叫"元宇宙"的虚拟世界中寻求逃避。主角Hiro Protagonist是个比萨外卖员和黑客，在虚拟世界里是个剑术高手。突然间一种数字病毒"雪崩"出现了，它能同时在虚拟世界和现实中伤害人——这是一部既疯狂又深邃的小说。Stephenson把语言学、计算机病毒、文化符号学和古代美索不达米亚神话硬生生拧在一起，创造了一个高速运转、充满黑色幽默的世界。你会在阅读中收获关于编程、权力结构、以及人在虚拟与现实之间如何自洽的深刻思考。这部小说几乎定义了赛博朋克美学，而"元宇宙"这个如今人人挂在嘴边的概念，就出自Stephenson的想象力。",
+      "quotes": [
+        {
+          "text": "In the Metaverse, you can be anybody you want",
+          "context": "虚拟世界的自由诱惑与其潜在的虚伪性"
+        },
+        {
+          "text": "A virus, once it gets started in a population, is virtually impossible to stop",
+          "context": "关于信息和思想传播的不可控性"
+        }
+      ]
+    },
+    {
+      "title_zh": "了不起的盖茨比",
+      "title_en": "The Great Gatsby",
+      "author_zh": "F·司各特·菲茨杰拉尔德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1925",
+      "category": "经典文学",
+      "one_liner": "爵士时代的梦幻悲歌与对虚无梦想的终极追求",
+      "deep_dive": "这可能是美国文学中最令人心碎的爱情故事。盖茨比为了重新赢得青梅竹马的黛西，用尽一切手段在爵士时代积累了巨大的财富。他的豪宅每晚都举办盛宴，但宾客们不知道，这一切都只是为了吸引黛西的注意。菲茨杰拉尔德巧妙地用旁观者尼克的眼睛讲述这个故事，让我们既为盖茨比的执着感动，又为他的幻想感到可悲。这部小说触碰了美国梦最脆弱的地方——它既璀璨又虚空。盖茨比代表了对无法回到的过去的无望渴望，而黛西不过是一个象征，象征着永远无法真正拥有的梦想。书中的每个细节都闪烁着爵士时代的奢华光芒，但整个故事的走向是一场无法避免的悲剧。它不仅是关于爱情，更是关于我们如何对自己的幻想执迷不悔。",
+      "quotes": [
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past",
+          "context": "小说的结尾，对人类追求与失败的终极感悟"
+        },
+        {
+          "text": "Gatsby believed in the green light, the orgastic future that year by year recedes before us",
+          "context": "梦想与现实之间永恒的距离"
+        }
+      ]
+    }
+  ]
+}
+```
