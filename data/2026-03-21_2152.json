@@ -2,62 +2,74 @@
   "date": "2026-03-21",
   "books": [
     {
-      "title_zh": "高老头",
-      "title_en": "Father Goriot",
-      "author_zh": "巴尔扎克",
-      "author_en": "Honoré de Balzac",
-      "year": "1834",
-      "category": "文学小说",
-      "one_liner": "一个父亲在巴黎社交界的沦陷，揭示金钱与人性如何相互摧毁。",
-      "deep_dive": "《高老头》是巴尔扎克笔下最震撼人心的作品。故事围绕老高利贷商人戈里奥展开——他曾因经营意大利面生意而致富，却为了两个女儿甘愿自我毁灭。你会看到他如何被女儿们当成取款机，如何在巴黎这个金钱至上的社会里逐渐沦为乞丐。最扎心的是，两个嫁给贵族的女儿为了保全社交体面，甚至不愿认这个\"丢人\"的父亲。书中还有个年轻野心家拉斯蒂涅，他目睹了高老头的悲剧，却最终选择向现实妥协。这不仅是个感人的故事，更是对资本主义社会的深刻控诉——在这里，一切都能用金钱衡量，包括亲情。",
+      "title_zh": "伟大的博弈",
+      "title_en": "The Great Game: Empire and the Geopolitics of Asia",
+      "author_zh": "约翰·达尔文",
+      "author_en": "John Darwin",
+      "year": "2009",
+      "category": "社科与历史",
+      "one_liner": "讲述英俄两大帝国在中亚、南亚的百年战略竞争如何塑造了现代亚洲的政治格局。",
+      "deep_dive": "这本书真的很有意思，作者用「伟大的博弈」这个概念来描述从18世纪后期到20世纪初，英国和俄罗斯在中亚、南亚的长期战略竞争。你可能听说过「大博弈」(The Great Game)这个历史术语，但这本书的独特之处在于，它不仅讲军事冲突，还深入分析了这场竞争如何重塑了整个亚洲的政治格局。比如印度为什么会成为英国的皇冠上的明珠，中亚那些现在的国家为什么会有现在的样子，这本书都给了你一个清晰的脉络。最有趣的是，达尔文把这个竞争看作是一个帝国体系逐渐瓦解、新的国家体系形成的过程。不是简单的黑白对抗故事，而是一个极其复杂、充满权衡和妥协的大历史叙事。你会看到地理、资源、人口、技术如何在这个过程中起到决定性作用。读完这本书，你会对亚洲近代史有完全不同的理解。",
       "quotes": [
         {
-          "text": "金钱是第二种血液",
-          "context": "高老头对金钱在社会中的绝对重要性的认识"
+          "text": "The 'Great Game' was not simply a story of rivalry between Britain and Russia, but a process of imperial restructuring that would shape the modern world.",
+          "context": "描述伟大博弈的本质不仅是两国竞争，更是帝国体系重组的过程"
         },
         {
-          "text": "没有父亲的爱，一个人就无法在这个世界上站立",
-          "context": "高老头对自己悲剧命运的深刻领悟"
+          "text": "Geography is not destiny, but it shapes the possibilities available to states and peoples.",
+          "context": "论述地理因素对历史发展的深远影响"
+        },
+        {
+          "text": "Empire gave way to nation-states, creating the modern international system out of the ruins of the imperial order.",
+          "context": "阐述帝国体系向民族国家体系的历史转变"
         }
       ]
     },
     {
-      "title_zh": "费曼物理学讲义",
-      "title_en": "The Feynman Lectures on Physics",
-      "author_zh": "理查德·费曼",
-      "author_en": "Richard Feynman",
-      "year": "1963",
-      "category": "科学教育",
-      "one_liner": "用最亲切的方式讲解宇宙的秘密，让物理学变成一场思维冒险。",
-      "deep_dive": "这套讲义来自费曼在加州理工学院的精彩课堂，他用一种完全不同的方式教物理。不是堆砌公式，而是抓住本质。他会问\"为什么电子这样运动？\"然后带你从最基础的原理开始推导，让你体验物理学家的思考过程。什么是光？什么是热？什么是能量守恒？在他的讲述中，这些抽象概念都变得生动起来。最棒的是，费曼常常坦诚地说\"我也不完全懂这个\"，这种真诚反而让学生更容易接受。他强调的不是背诵结论，而是培养\"物理直觉\"。即使你多年没学物理，这些讲义也能让你重新发现科学的美妙和有趣。",
+      "title_zh": "简爱",
+      "title_en": "Jane Eyre",
+      "author_zh": "夏洛蒂·勃朗特",
+      "author_en": "Charlotte Brontë",
+      "year": "1847",
+      "category": "文学",
+      "one_liner": "一个孤苦伶仃的女孩通过坚韧和自尊，最终赢得了爱情和尊严的传奇故事。",
+      "deep_dive": "《简爱》这部作品到现在还那么有吸引力，说实话就是因为它超前的时代。想象一下，1847年啊，一个女性角色能这么独立、这么有主见、这么敢于对抗不公正待遇。简爱从小就在很恶劣的环境里长大，被阿姨欺负、在学校被虐待，但她从不妥协自己的原则。后来她当家庭教师认识了罗切斯特先生，这里就有意思了——她不是那种被动等待拯救的女人，而是主动去追求自己的幸福，甚至在生死攸关的时刻也坚持自己的尊严。那句著名的台词「我们是平等的」在那个年代听起来就像是宣言。这本书最打动人的地方，是简爱对自我价值的执着坚持，不管周围的人怎么看待她，她都知道自己是谁、想要什么。这本书之所以还在被读，就是因为它讲的不是简单的爱情故事，而是一个人如何在压抑的社会里坚守自我的故事。",
       "quotes": [
         {
-          "text": "如果一个人不能用简单的语言解释某个概念，说明他还没真正理解它",
-          "context": "费曼对深度理解的定义"
+          "text": "I am no bird; and no net ensnares me; I am a free human being with an independent will.",
+          "context": "简爱对罗切斯特的宣言，体现了她争取自由和独立的决心"
         },
         {
-          "text": "想象力比知识更重要，因为知识受限于已知，而想象力拥抱整个世界",
-          "context": "费曼对科学创新精神的阐述"
+          "text": "I would always rather be happy than dignified.",
+          "context": "简爱选择追求真实的幸福而非虚伪的尊贵，道出了她对人生的真实渴望"
+        },
+        {
+          "text": "Do you think I am an automaton? A machine without feelings?",
+          "context": "对罗切斯特的质问，强调女性的完整人格和情感权利"
         }
       ]
     },
     {
-      "title_zh": "独自打保龄",
-      "title_en": "Bowling Alone",
-      "author_zh": "罗伯特·普特南",
-      "author_en": "Robert Putnam",
-      "year": "2000",
-      "category": "社会学",
-      "one_liner": "为什么我们在物质充裕的年代反而更加孤独，社区凝聚力持续瓦解。",
-      "deep_dive": "普特南用\"独自打保龄\"这个比喻道出了现代社会的悖论：虽然更多人在打保龄，但参加保龄球俱乐部的人反而在减少——这象征着我们在消费娱乐，却失去了社区连接。这本书基于数十年的社会数据分析，展示了一个令人警醒的趋势：美国人的公民参与度、志愿服务、互助组织成员都在急剧下降。为什么？电视、互联网、郊区化、工作压力——多重因素正在撕裂我们的社会结构。更可怕的是，这种孤立正在影响公共卫生、教育、民主质量。普特南不是在唱衰，而是在敲警钟：我们需要有意识地重建社区纽带。这本书对任何关心现代社会健康的人都是必读。",
+      "title_zh": "人体的故事",
+      "title_en": "The Story of the Human Body: Evolution, Health and Disease",
+      "author_zh": "丹尼尔·利伯曼",
+      "author_en": "Daniel Lieberman",
+      "year": "2013",
+      "category": "科学与认知",
+      "one_liner": "用进化的眼光解读人体的每一个器官，揭示现代病痛的根本原因。",
+      "deep_dive": "这本书特别妙的地方在于，它改变了你对自己身体的看法。利伯曼是哈佛的进化生物学家，他的核心论点就是：我们的身体是在完全不同的环境下进化来的，但我们现在却活在一个对身体来说陌生的世界里。比如，我们的消化系统是为了处理纤维素丰富的食物设计的，但现在我们吃的是高度加工的精细食物；我们的肌肉和骨骼是为了经常运动而进化的，但现在我们大多数人都在久坐。这本书就是在解释这个「进化不匹配」如何导致了糖尿病、肥胖、心脏病这些现代病。最有趣的部分是他对各个器官的进化历史的描写——你会发现，有些看起来很「不完美」的设计，其实是在过去环境中非常聪明的权衡。比如人类为什么容易腰痛，为什么我们的脚这么容易受伤，为什么我们容易得乳腺癌——这些都不是bug，都是我们进化历史的遗迹。这本书读下来，你会对自己的身体有一种新的敬畏。",
       "quotes": [
         {
-          "text": "社会资本——信任、互惠规范和有益社交网络——正在以惊人的速度衰退",
-          "context": "普特南对当代社会危机的核心诊断"
+          "text": "We are trapped in bodies designed for a radically different world than the one in which we live.",
+          "context": "论述人类进化与现代生活方式的根本矛盾，道出许多现代病的症结"
         },
         {
-          "text": "孤立不仅让我们不快乐，它也会杀死我们",
-          "context": "论述社会联系缺失对个人和公共健康的深层影响"
+          "text": "Natural selection didn't design us to be healthy, it designed us to be reproductively successful.",
+          "context": "揭示进化的真实逻辑——生存和繁衍优先于长期健康"
+        },
+        {
+          "text": "Every ache and pain is a story of human evolution playing out in a modern world.",
+          "context": "强调我们的身体问题都是进化历史与现代生活冲突的产物"
         }
       ]
     }
