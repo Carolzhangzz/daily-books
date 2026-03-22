@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "发条女孩",
+      "title_en": "The Windup Girl",
+      "author_zh": "保罗·巴奇加卢比",
+      "author_en": "Paolo Bacigalupi",
+      "year": "2009",
+      "category": "科幻文学",
+      "one_liner": "气候崩溃未来，生物工程与人性在绝望中碰撞",
+      "deep_dive": "这部科幻小说设定在远未来的泰国，世界已经经历了灾难性的气候变化——海平面上升、石油耗尽、文明依赖生物工程。故事核心是一位神秘女性Emiko，她是日本生物技术公司创造的基因改造人。她被困在充满阴谋、权力斗争和伦理困境的社会中。小说通过多视角叙述，展现了资源匮乏世界中人类为生存和权力如何逐渐扭曲人性。最恐怖的不是环境末日，而是这个世界里人们对生物工程奴隶的冷漠态度，以及为了活命人们愿意付出多少道德代价。这是部令人不安又深刻的作品，迫使你重新思考技术进步、生物伦理和人类本质。",
+      "quotes": [
+        {
+          "text": "Evolution is a process of constant branching and expansion.",
+          "context": "对人类进化和生物工程伦理的核心思考，在这个世界中技术已经超越了自然选择"
+        },
+        {
+          "text": "The wind still blew from the east, and people still died.",
+          "context": "无论技术如何进步，人类仍然面临无法逃避的现实与死亡"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命是什么",
+      "title_en": "What is Life?",
+      "author_zh": "埃尔温·薛定谔",
+      "author_en": "Erwin Schrödinger",
+      "year": "1944",
+      "category": "科学与认知",
+      "one_liner": "物理学家探寻生命的本质，启发了现代分子生物学的诞生",
+      "deep_dive": "薛定谔这部小巧却深刻的著作源自他在都柏林的讲座。他从物理学家独特的视角提出了一个根本问题：生命如何在遵循熵增定律的宇宙中维持有序？他洞察到生命通过进食负熵来维持低熵状态，这个优雅的解释揭示了生命的本质。虽然篇幅小，但这本书影响深远，直接启发了后来的分子生物学研究。薛定谔预言遗传信息可能存储在某种大分子中，这个预感在几年后被DNA的发现所证实。它证明了跨学科思维的力量——一位物理学家的沉思为整个生物学领域的革命铺平了道路。如果你想理解现代生物学为何会有今天的面貌，这本书不可错过。",
+      "quotes": [
+        {
+          "text": "An organism's astonishing gift of concentrating a 'stream of order' on itself and thus escaping the decay into atomic chaos.",
+          "context": "薛定谔对生命本质的经典表述，解释了为何生命能违反熵的宿命"
+        },
+        {
+          "text": "The physical basis of life is not a complicated piece of clockwork but rather a highly organized organic molecule or complex of such molecules.",
+          "context": "他预言了DNA的存在，虽然当时还未被发现，但这个直觉改变了生物学"
+        }
+      ]
+    },
+    {
+      "title_zh": "美丽新世界",
+      "title_en": "Brave New World",
+      "author_zh": "阿道司·赫胥黎",
+      "author_en": "Aldous Huxley",
+      "year": "1932",
+      "category": "文学",
+      "one_liner": "看似完美的未来社会中，人类用自由交换永恒的幸福",
+      "deep_dive": "赫胥黎的反乌托邦经典构想了一个看似理想的未来。通过科技、心理学和药物的完美配合，消除了所有痛苦、冲突和不满。人从出生到死亡都被分类到不同的社会阶级，用一种叫索麻的麻醉性药物维持终身幸福。没有战争、没有贫困、没有疾病——多么完美。但故事通过几个关键人物的冲突，逐渐揭示黑暗真相：人类失去了思考能力、真正的情感和创意。个性被压抑，自由被消灭，人生被简化为单纯的快乐。与《1984》的恐怖统治不同，真正可怕的是人们甘愿放弃自由，因为他们从未知道自由的价值。这部1932年的作品在今天读来令人震撼——它像镜子一样反映了我们时代的问题。",
+      "quotes": [
+        {
+          "text": "Community, Identity, Stability",
+          "context": "未来社会的三大口号，表面崇高实则是对个人自由最深层的压制"
+        },
+        {
+          "text": "Happiness is a hard master – particularly other people's happiness. A much harder master, if one isn't conditioned to accept it unquestioningly, than truth.",
+          "context": "揭露了追求集体幸福时个体真理与自由如何被牺牲"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2211"
+}
