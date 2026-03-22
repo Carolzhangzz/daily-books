@@ -1,0 +1,33 @@
+根据 `daily-books` skill 的工作流程，我来处理这个请求：
+
+## 检查书单
+
+我在经典书单中查找了这三本书：
+
+1. **《算法之美》** - ❌ 不在书单中
+   - 可能指的是：*Algorithms to Live By* (Brian Christian & Tom Griffiths)
+   
+2. **《哲学的故事》** - ❌ 不在书单中  
+   - 可能指的是：*The Story of Philosophy* (Will Durant)
+   
+3. **《数学：确定性的丧失》** - ✅ 在书单中
+   - *Mathematics: The Loss of Certainty* (Morris Kline)
+
+## 书单中的相近推荐
+
+如果你想要算法/编程相关的书，书单中有：
+- 《黑客与画家》(*Hackers & Painters*) - 保罗·格雷厄姆
+- 《数学之美》(*The Beauty of Mathematics*) - 吴军
+
+如果你想要哲学入门书，书单中有：
+- 《禅与摩托车维修艺术》(*Zen and the Art of Motorcycle Maintenance*) - 罗伯特·波西格
+- 《存在与虚无》(*Being and Nothingness*) - 让-保罗·萨特
+- 其他哲学经典...
+
+## 你想要：
+
+1. 用这三本具体的书生成内容（可以提供书籍详情）？
+2. 用书单中的相近书籍替代？
+3. 或者用随机推荐模式？
+
+请告诉我你的选择，我会生成符合你要求的 JSON 格式推荐！
