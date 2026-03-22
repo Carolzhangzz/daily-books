@@ -1,0 +1,69 @@
+我来为这三本书生成中文推荐。
+
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "艺术的故事",
+      "title_en": "The Story of Art",
+      "author_zh": "贡布里希",
+      "author_en": "E.H. Gombrich",
+      "year": "1950",
+      "category": "艺术史",
+      "one_liner": "用最亲民的叙述方式，讲述人类五千年的艺术演进之旅。",
+      "deep_dive": "这本书的神奇之处在于，贡布里希把原本高冷的艺术史讲得像聊天一样。他不是堆砌年代和流派名词，而是真诚地问：为什么古埃及人要这样画？文艺复兴时期的画家们在解决什么问题？每一次艺术风格的转变，都对应着人们对世界理解的深刻变化。你会发现，从洞穴壁画到现代艺术，其实是人类不断探索\"如何表达\"的过程。最妙的是，读完这本书，你看画展就不再是\"这好看吗\"的纠结，而是能理解画家在特定时代的创新突破。它改变的不只是审美，更是思维方式。",
+      "quotes": [
+        {
+          "text": "There really is no such thing as Art. There are only artists.",
+          "context": "开篇就颠覆传统认知，艺术不是抽象的概念，而是一个个活生生的人的创意表达"
+        },
+        {
+          "text": "The more a painter works to make his colours and shapes fit the object as we see it, the more difficult it is for us to believe our eyes.",
+          "context": "解释为何有时艺术作品看起来不像现实，反而更像现实——关于知觉与表现的悖论"
+        }
+      ]
+    },
+    {
+      "title_zh": "新教伦理与资本主义精神",
+      "title_en": "The Protestant Ethic and the Spirit of Capitalism",
+      "author_zh": "韦伯",
+      "author_en": "Max Weber",
+      "year": "1905",
+      "category": "社会学/经济史",
+      "one_liner": "揭示宗教信仰如何塑造了现代资本主义的灵魂。",
+      "deep_dive": "韦伯这部经典著作提出了一个烧脑但优雅的论断：资本主义的兴盛，竟然与新教的宗教伦理密切相关。他观察到，新教地区的资本主义发展速度远超天主教地区，而这背后的原因是新教强调个人与上帝的直接关系、强调勤劳和节俭作为道德修养。信徒们通过赚钱和积累财富来证明自己蒙受拣选，但同时又禁止奢侈享乐——这种矛盾创造出了独特的驱动力。现在的我们已经继承了这种精神，却丧失了宗教的约束，结果就是无限的物欲追求。读这本书很像看一面镜子，能反思现代人为什么这么焦虑、为什么总觉得永远不够。",
+      "quotes": [
+        {
+          "text": "The Protestant work ethic...is the engine of capitalism.",
+          "context": "核心论断：宗教伦理不是阻碍资本主义，反而是它的精神基础"
+        },
+        {
+          "text": "When the asceticism was carried out of monastic cells into everyday life, and began to dominate worldly morality, it did its part in building the tremendous cosmos of the modern economic order.",
+          "context": "说明禁欲主义如何从宗教领域扩展到世俗生活，推动了现代经济体系的形成"
+        }
+      ]
+    },
+    {
+      "title_zh": "埃隆·马斯克传",
+      "title_en": "Elon Musk",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2023",
+      "category": "人物传记/科技",
+      "one_liner": "从南非逃脱少年到改变人类未来的企业家，一部充满争议与天才的传奇。",
+      "deep_dive": "艾萨克森的笔下，马斯克不是神话中的英雄，而是一个矛盾的真人：他能在特斯拉濒临破产时砸进最后的钱救公司，也会在推特收购后凌晨3点发疯狂推文。这本书最吸引人的地方在于它不做道德评判，而是让你看到一个固执得近乎疯狂的人，是如何通过超人的意志力和对物理学的直觉，推动电动车革命和太空探索。你会看到他的残酷管理风格、他与员工的冲突、他的私生活混乱——但也会理解，正是这种不妥协的性格，才能在所有人认为不可能的地方，硬生生开辟出新的道路。这不是一本鸡汤书，更像是看一场高风险的赌注。",
+      "quotes": [
+        {
+          "text": "I would like to die on Mars. Just not on impact.",
+          "context": "马斯克对终极目标的黑色幽默表达，体现了他对火星殖民的执念与乐观主义"
+        },
+        {
+          "text": "When something is important enough, you do it even if the odds are not in your favor.",
+          "context": "他一生的信条：不被概率束缚，只要目标值得就义无反顾地追求"
+        }
+      ]
+    }
+  ]
+}
+```
