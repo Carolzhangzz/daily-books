@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "林肯传",
+      "title_en": "Team of Rivals: The Political Genius of Abraham Lincoln",
+      "author_zh": "多丽丝·基恩斯·古德温",
+      "author_en": "Doris Kearns Goodwin",
+      "year": "2005",
+      "category": "历史传记",
+      "one_liner": "通过林肯与对手们的复杂关系，揭示伟大政治家如何在最大的危机中实现领导和救赎。",
+      "deep_dive": "这本书真的太迷人了，古德温花了十多年研究，把林肯的一生写得既有历史厚度又充满人性温度。最让人印象深刻的，是她怎么刻画林肯和对手们的相处——他居然把曾经反对他当总统的人招入内阁。这听起来疯狂对不对？但古德温解释得很清楚：林肯就是有这种气度，知道自己需要什么样的人才，不怕和强势的人共事。她笔下的林肯身上有巨大的不安全感和自我怀疑，可这些负面情绪从来不会影响他的决策。最震撼的是看他如何在美国内战这个国家最大的危机中，一步步引导整个国家走向废除奴隶制。如果你想真正理解什么叫领导力，什么叫在绝望中坚持原则，这本书绝对值得花时间。",
+      "quotes": [
+        {
+          "text": "A house divided against itself cannot stand.",
+          "context": "林肯1858年的经典演讲，引用《圣经》警告美国南北分裂的危险，后来成为美国历史最著名的政治格言。"
+        },
+        {
+          "text": "I am not bound to win, but I am bound to be true.",
+          "context": "林肯对自己政治生涯的深刻反思，强调坚守原则和诚实比成功本身更重要。"
+        }
+      ]
+    },
+    {
+      "title_zh": "天才的编辑",
+      "title_en": "The Editor: The Life and Work of Maxwell Perkins",
+      "author_zh": "A·斯科特·伯格",
+      "author_en": "A. Scott Berg",
+      "year": "1978",
+      "category": "文学传记",
+      "one_liner": "一个编辑如何塑造了美国文学黄金时代，引领海明威、菲茨杰拉德等文豪的创作之路。",
+      "deep_dive": "Maxwell Perkins就像20世纪美国文学的幕后建筑师。他在Scribner出版社编辑的那批人，几乎每一个都改变了美国文学。最疯狂的是，他不仅仅是编辑，更像是这些作家的知己、精神导师，有时候甚至是心理医生。海明威的《太阳照样升起》是Perkins帮着打磨到完美的，托马斯·沃尔夫那些堆积如山的手稿，全靠他的梳理才变成了伟大的小说。这本书最吸引人的地方，是展现了真正伟大的编辑工作——不是权力，而是服务；不是改写，而是帮作者找到自己的声音。读Perkins的故事，你会明白有时候我们看不见的工作，往往才是最重要的。",
+      "quotes": [
+        {
+          "text": "The great editor does not try to impose his own ideas on the writer; he tries to help the writer realize his own ideas.",
+          "context": "Perkins对编辑工作的核心理解，认为真正的编辑职责是发掘和助力作家潜能，而非强行改造。"
+        },
+        {
+          "text": "An editor cannot do the writing for the author; he can only open the doors.",
+          "context": "Perkins在处理作家创意危机时的哲学，强调编辑是引导者而非决策者的关键角色。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学之美",
+      "title_en": "The Beauty of Mathematics in Computer Science",
+      "author_zh": "吴军",
+      "author_en": "Wu Jun",
+      "year": "2012",
+      "category": "科普/计算机",
+      "one_liner": "用平白易懂的语言，展现数学在信息技术背后的优雅力量和深刻美感。",
+      "deep_dive": "吴军这本书是我见过最友善的数学科普著作。他不会用吓人的公式来轰炸你，反而从Google搜索、推荐算法、数据压缩这些你每天用的东西切入，然后告诉你背后的数学原理有多漂亮。比如他讲信息论和香农的思想如何改变了世界，这不是枯燥理论，而是支撑整个互联网的基础。最绝妙的是，他能把复杂概念拆解成几个简单直觉——你会突然发现，那些看起来高深的矩阵、概率、傅里叶变换，其实都有美妙的几何或物理意义。这书的魔力在于，它让你既理解了数学的威力，又欣赏到那种简洁优雅的美。如果你想真正了解现代技术的本质，而不是只会用工具，这就是必读书。",
+      "quotes": [
+        {
+          "text": "数学是自然界最通用的语言，而算法则是处理信息的艺术。",
+          "context": "吴军对数学与计算机科学关系的总结，强调数学思维在解决实际问题中的核心作用。"
+        },
+        {
+          "text": "信息最本质的含义就是事件发生的概率。概率越小，信息量越大。",
+          "context": "吴军对信息论的深刻阐述，解释为什么罕见事件能包含更多信息量。"
+        }
+      ]
+    }
+  ]
+}
+```
