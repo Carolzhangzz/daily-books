@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "信任：社会美德与经济繁荣",
+      "title_en": "Trust: The Social Virtues and the Creation of Prosperity",
+      "author_zh": "弗朗西斯·福山",
+      "author_en": "Francis Fukuyama",
+      "year": "1995",
+      "category": "社会学/经济学",
+      "one_liner": "信任是经济繁荣的社会基础，不同文化中信任水平的差异决定了国家竞争力",
+      "deep_dive": "你有没有想过，为什么有些国家能快速建立大规模企业和复杂经济体系，而有些国家却很难做到？福山的答案是：信任。这本书特别有意思，他认为社会中的信任水平决定了经济组织的能力。在高信任社会里，比如日本、德国，人们对陌生人天然有基本信任，所以大公司能轻松协调数千名员工。但在低信任社会里，人们只信任家族，结果就是经济活动被局限在家族企业内，很难扩展。想象一下，你需要和陌生人在一个完全陌生的地方做生意——如果文化里没有建立起对陌生人的基本信任，这会多么困难。福山用美国、日本、中国、意大利等多个案例深入分析，解释了为什么文化差异会直接影响经济发展模式。这不是说某个民族天生更值得信任，而是几百年的历史积累形成了不同的社会美德体系。虽然写于90年代，但对理解当代经济竞争和社会运作仍然有强烈的启发意义。",
+      "quotes": [
+        {
+          "text": "Trust is the expectation that arises within a community of regular, honest, and cooperative behavior, based on commonly shared norms, on the part of other members of that community.",
+          "context": "定义什么是信任，强调了信任的社会基础"
+        },
+        {
+          "text": "High-trust societies tend to have larger and more complex organizations, while low-trust societies tend to be dominated by small family businesses.",
+          "context": "解释信任与经济组织规模的关系"
+        },
+        {
+          "text": "Social capital is a capability that arises from the prevalence of trust in a society.",
+          "context": "阐述社会资本与信任的关键关系"
+        }
+      ]
+    },
+    {
+      "title_zh": "杀死一只知更鸟",
+      "title_en": "To Kill a Mockingbird",
+      "author_zh": "哈珀·李",
+      "author_en": "Harper Lee",
+      "year": "1960",
+      "category": "文学/小说",
+      "one_liner": "一个南方小镇的种族歧视案件，通过女孩的眼睛看到人性的光辉与黑暗",
+      "deep_dive": "这是我读过最有影响力的小说之一。故事很简单——在1930年代美国南方，律师阿迪克斯为一个被控奸罪的黑人男子辩护，在深刻的种族歧视背景下试图为他伸张正义。但简单的故事框架里装着对人性、正义、勇气和道德的深刻思考。整个故事通过8岁女孩斯库特的眼睛看，这个视角太聪明了。你看到的不是老掉牙的道德说教，而是一个小女孩在成长过程中逐渐理解什么是真正的勇气和正义。阿迪克斯这个父亲的形象特别打动我——他知道会输诉讼，知道整个南方种族制度站在他对面，但他还是站起来了。有句话特别对我有触动，就是'真正的勇气，是当你知道自己会输的时候，还要去做。'这不是好莱坞式的英雄主义，而是一个人面对不公正时的平凡而坚定的选择。小说至今仍在美国课堂里被广泛阅读，因为它触及的问题——种族歧视、司法不公、道德勇气——直到今天仍然很相关。",
+      "quotes": [
+        {
+          "text": "Courage is not a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through.",
+          "context": "阿迪克斯对斯库特解释什么是真正的勇气"
+        },
+        {
+          "text": "You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it.",
+          "context": "阿迪克斯教导女儿同理心，这是整部小说的核心主题"
+        },
+        {
+          "text": "The one thing that doesn't abide by majority rule is a person's conscience.",
+          "context": "强调个人良知的重要性，不应为多数压迫所左右"
+        }
+      ]
+    },
+    {
+      "title_zh": "论确实性",
+      "title_en": "On Certainty",
+      "author_zh": "路德维希·维特根斯坦",
+      "author_en": "Ludwig Wittgenstein",
+      "year": "1969",
+      "category": "哲学",
+      "one_liner": "挑战笛卡尔式怀疑论，探讨何为确实性以及我们如何在日常生活中建立知识基础",
+      "deep_dive": "维特根斯坦的最后著作，很烧脑但很有意思。他在这本书里挑战了笛卡尔式的怀疑论，就是那个'我怎么知道我没在做梦'的问题。维特根斯坦说，真正的问题不在于我们能否证明外部世界存在，而在于我们根本不会这样去问。他用了个很棒的例子：如果我告诉你我出生于1889年，你会相信我，因为符合我的年纪。但如果我说出生于1789年，你会怀疑。这不是因为我能'证明'什么，而是因为在我们的日常生活中已经有了确定性的框架——由我们不假思索就接受的基本信念组成。维特根斯坦认为，确实性不是来自严格的逻辑推演，而是来自社会实践和语言游戏。这个思想很激进，因为它说确实性是相对的、基于文化约定的。但同时它也很现实——我们其实就是这样运作的。这本书很短，但每一句都很浓密，需要慢读。对哲学爱好者来说是必读的。",
+      "quotes": [
+        {
+          "text": "The truth is, it is not instruction in doubt that he needs, but practice in the language game.",
+          "context": "解释确实性不是来自理论证明，而是来自社会实践"
+        },
+        {
+          "text": "My life consists in my being content to accept many things.",
+          "context": "阐述我们都必须接受某些基本假设作为确定性的基础"
+        },
+        {
+          "text": "It is not certain that I have never been to the moon.",
+          "context": "用极端的例子打破传统的确实性观念"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1453"
+}
