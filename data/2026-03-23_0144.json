@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "尤利西斯",
+      "title_en": "Ulysses",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "现代主义文学的巅峰之作，用一天内都柏林人的日常生活重新演绎荷马史诗《奥德赛》。",
+      "deep_dive": "《尤利西斯》是20世纪最重要的小说之一，听起来很吓人，但其实它在讲一个很人性化的故事。1904年6月16日，主角利奥波尔德·布鲁姆在都柏林度过了平凡的一天——他逛街、吃东西、上厕所、闲聊。另一个知识青年斯蒂芬·迪达勒斯也在城市中游荡，寻找精神寄托。两人在夜幕降临时相遇，这一刻成了整部小说的灵魂碰撞。乔伊斯用极其复杂和创新的写作手法来讲述这看似平凡的一天。他借鉴了荷马的《奥德赛》结构，但把它放在现代都柏林：布鲁姆的奔波就像奥德修斯的冒险，街道就像地中海，普通人的欲望和困境就像古人面对的诸神和怪物。这种对比既幽默又深刻，揭示了现代生活本身就是一场英雄之旅。这部书之所以难读，是因为乔伊斯不断改变叙述风格。同一场景可能用十几种不同的文体来呈现：意识流、戏剧对白、新闻报道、广告词。他还创造了大量新词汇，混合多种语言。但这些看似无序的实验，实际上完美地捕捉了人类思维的真实样貌——我们的大脑就是这样跳跃、联想、记忆和遗忘的。读《尤利西斯》的意义不仅在于理解现代主义文学如何诞生，更在于它教会我们用全新的视角看待日常生活。每个平凡的日子里，每个普通人都在经历属于自己的英雄之旅。这才是这部巨著最深层的魔力。",
+      "quotes": [
+        {
+          "text": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.",
+          "context": "小说开篇第一句，用貌似平凡的描写引入人物，却暗含着对仪式、外表和虚伪的讽刺——这正是整部小说的基调。"
+        },
+        {
+          "text": "History is a nightmare from which I am trying to awake.",
+          "context": "斯蒂芬对历史和传统的绝望，反映了现代知识分子对既有秩序的怀疑和挣扎。"
+        },
+        {
+          "text": "Mr. Leopold Bloom ate with relish the inner organs of beasts and fowls.",
+          "context": "用最琐碎的细节描写日常生活，暗示生命的真实样貌就藏在这些被忽视的时刻里。"
+        }
+      ]
+    },
+    {
+      "title_zh": "身体从未忘记",
+      "title_en": "The Body Keeps the Score",
+      "author_zh": "范德科尔克",
+      "author_en": "Bessel van der Kolk",
+      "year": "2014",
+      "category": "心理学",
+      "one_liner": "用神经科学和临床案例揭示创伤如何改变大脑和身体，以及我们如何修复自己。",
+      "deep_dive": "你有没有注意到，有些经历虽然过去了很久，身体还是会莫名地紧张？也许是一个声音、一个味道、一个场景，就能让你心跳加速、肌肉紧绷。这不是你的错，也不是你想象的。范德科尔克在这部书里用科学证明了：创伤不仅住在我们的心里，更刻在了我们的神经和肉体里。他在越南战争中做过医生，见过无数饱受心理创伤的士兵。后来他成了神经科学家，开始用脑成像技术观察创伤患者的大脑。他发现，遭受创伤的人，他们的大脑某些部分会被冻结——负责语言、逻辑思维的脑区失活了，而负责恐惧反应的脑区却异常活跃。这就是为什么创伤患者常常说不出自己的感受，只是身体反复体验恐惧。更深层的洞察是：传统的心理治疗（只用语言谈论问题）对创伤可能不够有效，因为创伤根本没有通过语言被编码。我们需要让身体参与修复——通过瑜伽、舞蹈、神经反馈、甚至呼吸练习，重新教会大脑相信我们是安全的。这本书改变了无数人的人生。它不仅是学术著作，更像一位善解人意的医生坐在你身边，温柔地解释：你的症状很正常，那不是你的错，而是你的身体在尽力保护你。然后，它给了你实际的工具来获得解救。",
+      "quotes": [
+        {
+          "text": "Being able to feel safe with other people is probably the single most important aspect of mental health.",
+          "context": "揭示了安全感和人际连接对心理健康的根本重要性——这正是许多创伤患者缺失的。"
+        },
+        {
+          "text": "The body keeps the score.",
+          "context": "书的核心理念：身体记住了心灵遗忘的东西，创伤会以生理反应的形式一次次重演。"
+        },
+        {
+          "text": "Our capacity to destroy one another is matched by our capacity to heal one another.",
+          "context": "在讲述人类受伤能力的同时，也传达了修复和救赎的可能性——希望的来源。"
+        }
+      ]
+    },
+    {
+      "title_zh": "纳瓦尔宝典",
+      "title_en": "The Almanack of Naval Ravikant",
+      "author_zh": "纳瓦尔·拉维坎特",
+      "author_en": "Naval Ravikant",
+      "year": "2020",
+      "category": "商业与技术",
+      "one_liner": "硅谷投资家纳瓦尔的人生智慧精选集，教你如何获取财富、获得幸福、以及如何思考。",
+      "deep_dive": "纳瓦尔·拉维坎特是那种你听他讲话就会停止滚手机的人。这个AngelList的创始人、Y Combinator的合伙人，在推特和播客中分享的智慧被无数创业者和思想者奉为圭臬。这本《宝典》就是把他最闪闪发光的想法汇编成一本书。书的结构很特别，分为财富、幸福和智慧三部分，但它们其实是互相关联的。关于财富，纳瓦尔颠覆了很多人的认知。他说财富不等于金钱，而是你拥有不需要你时刻维护的资产——这就是为什么写代码、创建品牌、经营业务比出卖时间工作更能致富。他还强调了学习的力量：掌握会计、基础经济学、心理学和计算机科学，这些通用技能比任何专业都值钱。更有趣的是关于幸福的部分。纳瓦尔认为幸福就是不期望，就是接受现实本来的样子。他推荐冥想、断食、晨间散步这样的简朴实践，而不是物质堆砌。这与传统的自助书完全不同——没有鸡汤，只有清晰的逻辑。关于智慧，他谈的是如何阅读、如何思考、如何在信息爆炸的时代保持理性。他说读书时要追求深度而非速度，要读经典而非热点。他推荐学习历史、哲学和科学，因为这些能帮你建立心智模型，在不确定的世界里做出更好的决策。读这本书的感受像是在听一位聪慧、诚实、没有架子的朋友分享人生经验。没有高大上的理论，只有经过实践验证的真知灼见。",
+      "quotes": [
+        {
+          "text": "Specific knowledge is knowledge that you cannot be trained for. If someone can train you, they can train someone else, and they will replace you.",
+          "context": "解释了为什么在知识经济时代，独特的专长比通用技能更值钱。强调了持续学习和自我提升的必要性。"
+        },
+        {
+          "text": "Happiness is the default state. Happiness is what happens when you remove the sense of something missing in your life.",
+          "context": "颠覆了对幸福的理解——不是去追求什么，而是去掉心理上的匮乏感。简洁而深刻的人生哲学。"
+        },
+        {
+          "text": "You want to be wealthy, you want to be healthy, you want to be wise. But most people can't even decide which one they want the most.",
+          "context": "点出了现代人的困境：太多目标，没有优先级。建议读者需要清楚自己真正想要什么。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0144"
+}
