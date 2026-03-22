@@ -1,0 +1,1 @@
+需要您授权写入数据文件。请允许我保存到 `/Users/carol/Documents/daily-books/data/2026-03-22.json`。
