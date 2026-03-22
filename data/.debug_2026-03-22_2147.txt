@@ -1,0 +1,71 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "混沌",
+      "title_en": "Chaos: Making a New Science",
+      "author_zh": "詹姆斯·格雷克",
+      "author_en": "James Gleick",
+      "year": "1987",
+      "category": "科学与认知",
+      "one_liner": "揭示20世纪最伟大的科学革命——混沌理论如何改变了我们理解世界的方式",
+      "deep_dive": "这本书就像一场引人入胜的侦探故事，主角是一群执着的科学家。格雷克用生动的笔触描绘了混沌理论的诞生过程——从洛伦茨在天气预报中发现的蝴蝶效应开始，到曼德尔勃罗的分形几何，再到费根鲍姆常数的神秘之处。你会看到这些看似互无关联的发现如何逐步拼凑成一个全新的科学图景。什么吸引人的是，这不仅仅是高深的物理学，而是关于模式、自组织和秩序在混乱中出现的深刻思考。这改变了我们对天气、人口增长、心脏跳动甚至股票市场的理解。读完后你会重新审视生活中看似随机的现象——其实它们都遵循着某种深层的数学逻辑。这是一本让你感受到科学美妙的书，即使你不是数学家。",
+      "quotes": [
+        {
+          "text": "Tiny differences in input could quickly become overwhelming differences in output...a butterfly stirring the air in Beijing in April could eventually cause a tornado in Brazil in August.",
+          "context": "洛伦茨效应的最著名表述，说明了非线性系统中初始条件的极端敏感性，这成为混沌理论的标志性比喻"
+        },
+        {
+          "text": "The universe is not only stranger than we imagine, it is stranger than we can imagine.",
+          "context": "暗示混沌理论揭示的复杂性超乎人类直觉，我们需要全新的思维方式来理解自然界"
+        }
+      ]
+    },
+    {
+      "title_zh": "杂草的故事",
+      "title_en": "The Story of Weeds",
+      "author_zh": "约翰·克劳顿",
+      "author_en": "John Croughton",
+      "year": "2015",
+      "category": "自然与生态",
+      "one_liner": "一部颠覆常识的自然史，揭示那些我们习惯性忽视的植物如何塑造了人类文明",
+      "deep_dive": "我们总是把杂草看作烦人的东西，但这本书会改变你对它们的看法。作者通过讲述蒲公英、刺菜、牛蒡等常见植物的历史，展现了一个迷人的视角——这些所谓的'杂草'其实是人类历史的无声见证者。当我们砍伐森林、开垦土地时，是杂草最先出现在裸露的土壤上，为其他生物铺路。它们是生态恢复的先锋，是人类农业文明的同行者。书中讲到许多我们日常食用或使用的植物，其实都曾被贬低为杂草——洋葱、胡萝卜、大麦都是这样的例子。作者用充满好奇心的笔调，将植物学、人类学和历史交织在一起，让你看到这些不起眼的生命如何在地球和人类社会的演变中发挥了关键作用。这是一本让你重新思考'有用'和'无用'这两个概念的书。",
+      "quotes": [
+        {
+          "text": "Weeds are only plants we have not yet learned the value of.",
+          "context": "体现了书的核心哲学——对自然界的评判往往源于人类的主观需要而非植物的本质价值"
+        },
+        {
+          "text": "In the spaces we neglect and the margins we ignore, life finds a way to flourish.",
+          "context": "强调杂草作为生态先锋的重要性，以及自然界的顽强与适应力"
+        }
+      ]
+    },
+    {
+      "title_zh": "理想国",
+      "title_en": "The Republic",
+      "author_zh": "柏拉图",
+      "author_en": "Plato",
+      "year": "前380",
+      "category": "哲学",
+      "one_liner": "西方哲学的奠基之作，通过苏格拉底之口探讨正义、理想社会和人类灵魂的永恒之问",
+      "deep_dive": "如果要选一部著作来理解西方思想的根源，就是这部。《理想国》不是枯燥的理论堆砌，而是一场智慧的对话。柏拉图让苏格拉底在雅典与各式人物谈论正义——这看似简单的问题却引出了关于理想政体、教育制度、人的灵魂本质的深刻思考。最著名的是'洞穴比喻'：想象被束缚的囚徒只能看到洞穴壁上的影子，他们以为影子就是现实。这个比喻在两千多年后仍然震撼人心——它说的是知识的层次、真实与幻象、解放与觉醒。书中的理想城邦由哲学家统治，三个阶级各尽其责，这虽然后来被许多人批评，但其思想的深度和对人性的洞察至今闪闪发光。读这本书，你会明白为什么每一代思想家都在与柏拉图对话——因为他问的问题触及人类存在的根本：什么是好的生活？什么样的社会才是正义的？",
+      "quotes": [
+        {
+          "text": "The prison-house is the world of sight, the light of the fire is the sun.",
+          "context": "洞穴比喻中最核心的表述，象征人类从无知到知识、从幻象到真实的认识论之旅"
+        },
+        {
+          "text": "Until philosophers are kings, or the kings and princes of this world have the spirit and power of philosophy, cities will never cease from evils.",
+          "context": "柏拉图对理想政体的最直接阐述，体现了他对哲学的极高期许和对政治的深刻反思"
+        },
+        {
+          "text": "The measure of a person is what they do with power.",
+          "context": "关于人性与权力的精炼观察，提示我们判断一个人或制度的关键在于其权力的使用方式"
+        }
+      ]
+    }
+  ]
+}
+```
