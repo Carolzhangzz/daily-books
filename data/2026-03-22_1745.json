@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "社会学的想象力",
+      "title_en": "The Sociological Imagination",
+      "author_zh": "C.赖特·米尔斯",
+      "author_en": "C. Wright Mills",
+      "year": "1959",
+      "category": "社会学",
+      "one_liner": "用想象力连接个人苦恼与公共议题，打开理解社会的新视角",
+      "deep_dive": "这是社会学领域的开创性著作。米尔斯提出的\"社会学想象力\"概念，其实就是教我们如何用更宏大的视角去理解个人的生活。你为什么失业？不仅是能力问题，可能是整个经济结构的变化。你的婚姻困扰？需要看看时代对性别角色的期待。这个概念特别有用，让我们不再把所有问题都内化为个人失败。米尔斯强调，真正的社会学家需要在个人生活与历史之间建立联系，在私人烦恼与公共议题之间找到桥梁。读这本书会让你逐渐养成一种思维习惯——看任何现象都会自动去问背后的社会结构是什么、制度如何塑造了我们的选择。这种思维方式对理解社会、规划人生都很有帮助。",
+      "quotes": [
+        {
+          "text": "Neither the life of an individual nor the history of a society can be understood without understanding both.",
+          "context": "强调个人生活与历史的不可分割性，这是社会学想象力的核心"
+        },
+        {
+          "text": "The sociological imagination enables us to grasp history and biography and the relations between the two within society.",
+          "context": "对社会学想象力最直接的定义，体现了个人与社会的互动关系"
+        }
+      ]
+    },
+    {
+      "title_zh": "德米安",
+      "title_en": "Demian",
+      "author_zh": "赫尔曼·黑塞",
+      "author_en": "Hermann Hesse",
+      "year": "1919",
+      "category": "文学/心理小说",
+      "one_liner": "一段关于自我发现与精神成长的青春之旅，充满象征意蕴",
+      "deep_dive": "这是黑塞最有名的作品之一，讲的是主人公埃米尔与神秘人物德米安的相遇如何改变了他整个人生。整部作品充满了象征和心理层面的深意，不是表面的情节推进，而是内在精神的觉醒过程。德米安像个引路人，引导埃米尔逐渐认识真实的自我，打破社会强加的假面，去追求更广阔的精神境界。黑塞在书中探讨了善恶二元论、自我认知、灵魂的进化等深刻主题。每读一遍都能有不同的理解，特别是在人生的不同阶段。它不是那种轻松的读物，有时甚至有点晦涩，但正是这种晦涩让它显得深邃。如果你在人生的某个十字路口感到迷茫，这本书可能会给你启发。",
+      "quotes": [
+        {
+          "text": "I was not myself; I was not yet myself.",
+          "context": "埃米尔在与德米安相遇前的自我困境，反映了年轻人对真实自我的寻求"
+        },
+        {
+          "text": "The bird struggles out of the egg. The egg is the world. Who would be born must first destroy a world.",
+          "context": "象征个人成长与自我超越的核心隐喻，表现了打破旧我走向新生的艰难过程"
+        }
+      ]
+    },
+    {
+      "title_zh": "秋园",
+      "title_en": "Autumn Garden",
+      "author_zh": "杨本芬",
+      "author_en": "Yang Benfen",
+      "year": "2020",
+      "category": "散文/回忆录",
+      "one_liner": "88岁老奶奶用朴素有力的笔触记录一生的不凡，让人看到什么是真实的人生",
+      "deep_dive": "这是近几年特别火的一本书，作者杨本芬是位88岁的老奶奶，这是她的第一部出版作品，却一下子震撼了很多读者。整本书就是她对自己人生的回顾和记录，文笔看似朴素，但特别坦诚有力。她写童年的穷困，写丈夫的死亡，写子女的成长，写自己经历的那个时代的巨变。这不是精雕细琢的文学写作，恰恰因为它的素朴，反而显得格外真挚动人。读秋园让人体会到什么叫真实的人生——不是网络文学里的波澜壮阔，而是平凡中的坚韧、苦难中的从容。老奶奶用一生的经历告诉我们什么是活过。这本书对很多人就像在和一位智慧的长者聊天，听她娓娓道来那些历史中的个人故事。",
+      "quotes": [
+        {
+          "text": "我活了这么久，没有白活。",
+          "context": "老奶奶对自己一生的总结，体现了平凡生活中的庄严"
+        },
+        {
+          "text": "哪怕再苦，我也没有放弃。",
+          "context": "面对人生的困苦，老奶奶展现出的韧性和坚持，是一代人的精神写照"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1745"
+}
