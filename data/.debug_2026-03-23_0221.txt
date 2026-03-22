@@ -1,0 +1,6 @@
+需要你授权保存文件。完成后我会：
+1. 保存 JSON 到 `data/2026-03-23.json`
+2. 更新 `data/index.json` 添加日期
+3. 推送到 GitHub Pages
+
+请授权文件写入权限。
