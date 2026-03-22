@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "生命的跃升",
+      "title_en": "The Vital Question",
+      "author_zh": "尼克·莱恩",
+      "author_en": "Nick Lane",
+      "year": "2015",
+      "category": "科学与认知",
+      "one_liner": "用能量学解开生命起源和进化的根本谜团",
+      "deep_dive": "这本书彻底改变了我对生命为什么存在的理解。莱恩是个天才讲故事的科学家，他从最微观的地方开始——线粒体和能量流——来解释为什么生命演化成现在这个样子。你知道吗，生命的每一步重要进化都跟能量获取方式的革命有关。从单细胞到多细胞、从无性到有性生殖、从冷血到温血，每个跳跃都源于同一个问题：怎样更高效地获取和使用能量。书里最震撼我的是关于线粒体的论述。这些被我们忽视的能量工厂，其实决定了生命的整个故事。莱恩用大量案例展现了这个框架如何解释生物界的种种现象，从为什么老化会发生，到为什么癌症这么难以对付。这不是一本单纯的科普书，而是一次思维的升级——它让你用完全不同的镜头看待生命。读完这本书，你再也不会用达尔文的方式理解进化了。",
+      "quotes": [
+        {
+          "text": "Life is chemistry, but the chemistry of life is all about energy",
+          "context": "书的核心观点——能量流动决定了生命的形式和进化方向"
+        },
+        {
+          "text": "The two sexes could only have arisen from an ancient genetic conflict",
+          "context": "解释为什么有性生殖看似低效却成为主流的深层原因"
+        },
+        {
+          "text": "We are not born to grow old; we grow old because we cannot help it",
+          "context": "关于衰老本质的洞见——衰老是能量管理系统的必然结果"
+        }
+      ]
+    },
+    {
+      "title_zh": "江城",
+      "title_en": "River Town",
+      "author_zh": "彼得·海斯勒",
+      "author_en": "Peter Hessler",
+      "year": "2001",
+      "category": "社科与历史",
+      "one_liner": "在长江边小城重庆体验90年代中国的激变与人性",
+      "deep_dive": "海斯勒是个观察力惊人的作家，他在1996-1998年间以英语教师身份在重庆待了两年，这本书就是他的细节记录。这不是宏大的中国叙事，而是微观的、贴身的、有温度的日常。你会看到一个正在剧变中的小城：工业衰退、人员流动、传统与现代的碰撞。海斯勒笔下的重庆人有血有肉——他的同事、学生、朋友，每个人都在这个时代的漩涡里挣扎和适应。什么让这本书特别的是，他既不浪漫化中国，也不居高临下，而是用好奇心去理解。他对细节的捕捉能力令人印象深刻：一场不成文的酒桌文化、学生作文里的真实想法、出租车司机的人生故事。读这本书就像透过一扇窗看别人的生活，但又不是猎奇，而是真诚的人与人之间的连接。这是理解90年代中国的最好方式之一。",
+      "quotes": [
+        {
+          "text": "The city had no plan, no pattern, no aesthetics.",
+          "context": "描写重庆城市发展的混乱现状，反映转型期中国城市化的无序性"
+        },
+        {
+          "text": "I realized that in China the individual doesn't matter much",
+          "context": "海斯勒对中国集体文化的观察和反思"
+        },
+        {
+          "text": "People here don't think about the future the way Westerners do",
+          "context": "关于不同文化时间观念的重要洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "日本侘寂：寂静中的完美",
+      "title_en": "Wabi-Sabi for Artists, Designers, Poets and Philosophers",
+      "author_zh": "安德鲁·朱利恩诺",
+      "author_en": "Andrew Juniper",
+      "year": "2003",
+      "category": "艺术与美学",
+      "one_liner": "通过侘寂美学理解日本文化和东方精神世界的入口",
+      "deep_dive": "侘寂是日本美学最神秘的概念，也是最难用西方语言解释的。朱利恩诺这本书做的最聪明的事，就是没有试图用一个精准定义来困住侘寂，而是通过具体的艺术作品、建筑、诗歌和手工艺来让你感受它。侘寂本质上是对不完美、不永恒、不饱和的接纳和欣赏。一件陶器因为釉面的裂纹而美，一座庭园因为时间的侵蚀而优雅，一首诗因为留白而深邃。这跟西方的完美主义审美完全相反。读这本书时，你会发现侘寂不是一种风格，而是一种生活态度——接受变化、拥抱衰落、在简陋中找到诗意。书里的摄影和绘画例子很关键，因为侘寂真的需要看到才能懂。从茶道到庭园、从陶艺到书法，每个传统工艺都体现了这种美学。对于生活在完美主义和消费主义压力下的现代人来说，侘寂是一剂解药。",
+      "quotes": [
+        {
+          "text": "Beauty is not something that can be judged objectively; it exists in the mind of the observer",
+          "context": "侘寂的核心原则——美学评判是主观的、个人的、从观察者的精神状态出发"
+        },
+        {
+          "text": "The essence of wabi-sabi is the search for beauty in imperfection",
+          "context": "对侘寂最直接的定义——完全颠覆西方完美主义的美学观"
+        },
+        {
+          "text": "Impermanence brings beauty; aging brings character",
+          "context": "侘寂对时间和衰落的诗性理解，把消极的东西转化为美的来源"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1403"
+}
