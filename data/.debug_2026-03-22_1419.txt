@@ -1,0 +1,85 @@
+让我为这三本书生成推荐内容。
+
+首先检查一下：**硅谷钢铁侠**在书单中有对应（阿什利·万斯的*Elon Musk*）。**双城记**（狄更斯）和**日本侘寂**不在预设书单中——但既然你明确指定了，我会为这三本书直接生成推荐。
+
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "双城记",
+      "title_en": "A Tale of Two Cities",
+      "author_zh": "查尔斯·狄更斯",
+      "author_en": "Charles Dickens",
+      "year": "1859",
+      "category": "文学",
+      "one_liner": "伦敦和巴黎之间，爱情、牺牲与救赎的史诗。",
+      "deep_dive": "这部小说背景是法国大革命，讲述了一个跨越两个城市的故事。一个英国律师卡顿是个浪子，终日混迹于伦敦的上流社会，却在一个法国贵族少女露西身上找到了生命的意义——虽然她爱的是别人。这听起来老套，但狄更斯把它写成了关于选择和牺牲的深刻探讨。整部作品笼罩在大革命的暴力和混乱中，人们在历史的齿轮下挣扎、逃亡、死亡。最震撼的是结尾——一个看似废掉的人突然迸发出伟大的灵魂，用生命去救赎他人。这不是简单的爱情故事，而是问你：在绝望的时代，我们如何找到活着的理由？有名的开篇"这是最好的时代，这是最坏的时代"从不过时，因为每个时代都能在里面找到自己的影子。狄更斯笔下伦敦的雾气、巴黎的断头台，都成了心灵的隐喻。",
+      "quotes": [
+        {
+          "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness.",
+          "context": "开篇的名句，道出了大革命时代的悖论——也道出了所有历史转折点的悖论。"
+        },
+        {
+          "text": "I am the resurrection and the life. If thou believest in me, though thou wert dead, yet shall thou live.",
+          "context": "卡顿最后的呢喃，一个堕落的灵魂在死亡前重获救赎，承诺用生命去唤醒他人。"
+        },
+        {
+          "text": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+          "context": "小说最后的名言，一个人生的最后时刻说出了人生最深的意义。"
+        }
+      ]
+    },
+    {
+      "title_zh": "日本侘寂：不完美之美",
+      "title_en": "Wabi-Sabi for Artists, Designers, Poets & Philosophers",
+      "author_zh": "伦纳德·科伦",
+      "author_en": "Leonard Koren",
+      "year": "1994",
+      "category": "艺术与美学",
+      "one_liner": "在破碎、衰败和无常中，发现日本人眼中最深的美。",
+      "deep_dive": "侘寂是日本美学中最难翻译的概念，科伦在这本薄书里用最简洁的方式解释了它。侘寂不是绝望，而是对不完美、衰老、孤独和死亡的深刻接纳——甚至是欣赏。想象一间老房子，木头磨损了，墙皮剥落，光线透过纸糊的窗户洒进来。西方人看到的是衰败，日本人看到的是美。这不是颓废主义或消极哲学，而是一种对生命本质的诗意把握。侘寂源自禅宗思想，它告诉我们，真正的美藏在不对称、未完成、短暂易逝的事物里。一碗不规则的陶器、一件褪色的布料、苔藓爬满的石头——这些东西让日本工匠为之着迷。科伦的贡献是把这种审美精神引入当代设计和艺术实践。如果你厌倦了极简主义的冷漠、完美主义的压力，侘寂会教你如何和不完美共处，甚至在其中找到宁静。这本书改变了无数设计师和艺术家对美的定义，也提醒我们：生命因为有限，才珍贵；因为会衰落，才需要被见证。",
+      "quotes": [
+        {
+          "text": "Wabi-Sabi suggests that beauty is a dynamic event, not a static thing.",
+          "context": "侘寂不是摆在那里让你欣赏的物体，而是一种和事物相处的方式——承认它们在变化，在衰落，而这个过程本身就是美。"
+        },
+        {
+          "text": "Wabi-Sabi is the art of finding profound grace and beauty in nature's impermanence.",
+          "context": "道出了侘寂的核心——它不否定衰败，而是在无常中发现优雅。"
+        },
+        {
+          "text": "In the Japanese garden, weeds are not obstacles to beauty but part of the design.",
+          "context": "这个比喻说明了侘寂如何包容'不该在那里'的东西，反而让整体更加完整。"
+        }
+      ]
+    },
+    {
+      "title_zh": "硅谷钢铁侠：埃隆·马斯克传",
+      "title_en": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author_zh": "阿什利·万斯",
+      "author_en": "Ashlee Vance",
+      "year": "2015",
+      "category": "商业与技术",
+      "one_liner": "一个偏执狂如何改变三个行业、推动人类奔向火星。",
+      "deep_dive": "这是关于马斯克最全面的传记，万斯花了近两年跟踪采访，把这个硅谷传奇的故事讲得极其生动。你会看到一个从南非小镇来的奇怪男孩，如何在极限边缘把四家公司推向成功——PayPal、Tesla、SpaceX和SolarCity。与其说是成功故事，不如说是一部关于执念的史诗。马斯克有个近乎疯狂的目标：让人类成为多星球物种。为了这个目标，他可以忍受破产、离婚、被嘲笑——甚至把全部身家押进Tesla和SpaceX。这本书最吸引人的地方是细节：他如何在火箭爆炸后爬起来继续工作，如何让一群工程师为一个几乎不可能的梦想日夜奋力。你会感受到那种疯狂的专注，也会理解为什么这样的人很难相处。万斯没有美化马斯克，反而坦诚他的缺点——易怒、独裁、不懂何为界线。但这些缺点和他的才华一样真实。这本书让你理解：改变世界的人往往是那些对现状最不满的人，他们不是更聪明，而是更执着、更愿意冒险、更能忍受失败。如果你想知道未来是怎样被塑造的，这本书值得一读。",
+      "quotes": [
+        {
+          "text": "I think most of the people in the world are pretty aware now that we have a fundamental problem. We need to move to sustainable energy and also become a multi-planet species.",
+          "context": "马斯克反复强调的两个终极目标。他不是为了赚钱，而是真的相信人类必须这样做才能生存。"
+        },
+        {
+          "text": "If something is important enough, you should try. Even if you—the probability that you'll succeed is low.",
+          "context": "这是马斯克的行动哲学。他深知成功的概率很小，但依然全力投入。"
+        },
+        {
+          "text": "What made you think you could build a rocket? Why would you attempt something like that?",
+          "context": "人们问马斯克为什么要造火箭。他的回答最能体现他的特别之处：因为这很必要，所以就做了。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+三本书的推荐已生成。现在需要保存文件吗？如果需要可以提交到你的daily-books仓库。
