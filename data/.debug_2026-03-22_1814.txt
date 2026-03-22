@@ -1,9 +1,69 @@
-我已准备好为这三本书生成的JSON内容，请确认权限以保存到文件。
-
-以下是完整的推荐内容（严格JSON格式）：
+我直接根据你的要求生成JSON。以下是三本书的推荐：
 
 ```json
-{"date":"2026-03-22","books":[{"title_zh":"数学与猜想","title_en":"Mathematics and Conjecture","author_zh":"乔治·波利亚","author_en":"George Pólya","year":"1954","category":"科学与认知","one_liner":"通过数学问题解决的过程，揭示人类创意思维和直觉在发现中的关键作用。","deep_dive":"这本书是波利亚《怎样解题》思想的深化延伸，探讨数学中最有趣的部分——如何从观察、类比和模式识别中产生新的猜想。波利亚认为数学的创意过程远比教科书描述的要复杂得多。真正的数学家不是沿着公理逐步推导，而是先凭直觉产生猜想，然后才尝试严格证明。读这本书像是听波利亚讲述他数十年解难题的心得，为什么某个类比会突然产生灵感，为什么两个看似毫无关联的问题实际上有共同的深层结构。他展示了归纳法、类比推理、特殊化和泛化在科学发现中的魔力。最迷人之处在于，这些方法不限于数学，还适用于物理、工程乃至日常问题求解。阅读这本书会彻底改变你对数学的认识——从被动计算变成主动探索。","quotes":[{"text":"The traditional mathematician works in rigid patterns, but the creative mathematician, like the poet, seeks beauty and harmony.","context":"波利亚强调数学中的美学和直觉同样重要，数学不仅是逻辑，更需要艺术家般的敏感度。"},{"text":"Analogy is a great teacher. Things which are analogous are not identical, yet we are often led from one to another.","context":"类比思维是产生数学猜想的最重要工具，许多伟大发现都源于跨领域的类比启发。"},{"text":"If you wish to learn mathematics, you must remember that you have to learn not only the theorems but also the motivation behind them.","context":"理解数学需要掌握结论和背后的思想动机，知其然更要知其所以然。"}]},{"title_zh":"偶像的黄昏","title_en":"Twilight of the Idols","author_zh":"弗里德里希·尼采","author_en":"Friedrich Nietzsche","year":"1889","category":"哲学","one_liner":"尼采对人类文明的终极批判，用锤子砸碎我们奉为圭臬的所有价值观。","deep_dive":"这是尼采最后的哲学著作，也许是他最激烈、最无情的批判。整部作品如同一场思想清理运动——尼采拿起锤子，一个接一个砸碎西方文明的所有偶像：道德、理性、宗教、甚至哲学本身。他宣称我们一直被幻觉欺骗。苏格拉底、柏拉图、基督教，这些被视为智慧和救赎的象征，实际上代表了生命力的衰落，是弱者对强者的隐形复仇。尼采称之为「奴隶道德」——弱者通过贬低强者所代表的生命力（权力、热情、野心），使自己的虚弱显得崇高。这本书虽然篇幅短小，却极其浓烈，每一页都在冲击你的舒适区。尼采的笔锋锐利到令人不适，但正是这种不适让人开始真正思考：我信仰的究竟是什么？我真正想要什么？","quotes":[{"text":"What is needed is a critique of moral values, the value of these values themselves must first be called in question.","context":"这是尼采整个批判哲学的核心——不是不道德，而是首先质疑道德本身的合法性。"},{"text":"I condemn Christianity; I bring against Christendom the most terrible of all accusations that any accuser has ever uttered.","context":"他最激烈的观点之一，认为基督教通过否定生命力而压抑了人性，鼓励弱者的自我欺骗。"},{"text":"He who has a why to live can bear almost any how.","context":"强调人生需要深层意义和目标支撑，而不是盲目遵循既定道德规范或宗教教条。"}]},{"title_zh":"摄影的艺术","title_en":"The Art of Photography","author_zh":"安塞尔·亚当斯","author_en":"Ansel Adams","year":"1983","category":"艺术与美学","one_liner":"摄影大师对摄影本质的深刻思考，揭示如何将技术与艺术完美融合。","deep_dive":"如果你认为摄影只是按下快门，这本书会彻底刷新你的理解。安塞尔·亚当斯是20世纪最伟大的摄影师之一，用半个世纪的实践告诉我们：摄影是真正的艺术，需要视觉力、技术掌控和灵魂共鸣。这不是器材手册，而是关于「如何看见」的哲学。亚当斯讲解他著名的分区曝光法，但更重要的是教你像艺术家一样思考摄影。他每张经典作品背后，都有对光影、构图、情感和瞬间的精密计算。他说摄影是「化学与光学的舞蹈」，但最终决定作品质量的，还是摄影师的眼睛和心灵。特别深刻的是他对黑白摄影的执着——在彩色时代坚持黑白，因为它强迫你思考光影和形式的本质。读完这本书，你会用全新方式观看世界，理解为什么某些照片能触动人心，而另一些则平庸乏味。","quotes":[{"text":"There are always two people in every photograph: the photographer and the viewer.","context":"摄影是沟通——摄影师通过镜头表达意图，观众则用自己的经验去诠释，两者共同完成作品。"},{"text":"The negative is the equivalent of the composer's score, and the print the equivalent of its performance.","context":"他强调摄影创作分为两部分同样重要：拍摄（创意记录）和冲洗（艺术表现），缺一不可。"},{"text":"You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.","context":"好照片反映的是摄影师整个人生的积累和文化修养，技术只是表达的工具。"}]}]}
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "丰乳肥臀",
+      "title_en": "Big Breasts and Wide Hips",
+      "author_zh": "莫言",
+      "author_en": "Mo Yan",
+      "year": "1996",
+      "category": "文学小说",
+      "one_liner": "以一位母亲为视角，串联起鸦片战争到建国初期近百年的中国历史与人生苦难",
+      "deep_dive": "这部小说就像一个女性版的《活着》，通过余占鳌母亲的生命历程，把你拉进一个波澜壮阔的历史时代。莫言最牛的地方，就是他不是冷冰冰地讲历史事件，而是用最原始、最直白的意象——生育、养育、死亡——来表现那个时代的苦难。你读着读着会发现，这个母亲形象有多强大：她不是什么高大全的女英雄，就是一个在乱世中咬牙坚持的普通女人，却撑起了整个家族和一段历史。莫言在问一个很深的问题：个人的渺小跟宏大历史之间，到底是什么关系？为什么我们要经历这些苦难？有些描写确实比较大尺度，但这正是他打破禁忌、还原真实人生的勇气。如果你想读一部既有文学高度、又能感受到历史温度、同时能思考人性的中文小说，这是个不错的选择。",
+      "quotes": [
+        {
+          "text": "母亲就像一片辽阔的大地，承载着历史的风雨和生命的沧桑",
+          "context": "小说中母亲形象的象征性描写"
+        },
+        {
+          "text": "生命在苦难面前是如此渺小，又是如此顽强",
+          "context": "贯穿全书的主题思想，关于人性对苦难的应对"
+        }
+      ]
+    },
+    {
+      "title_zh": "路西法效应",
+      "title_en": "The Lucifer Effect: Understanding How Good People Turn Evil",
+      "author_zh": "菲利普·津巴多",
+      "author_en": "Philip Zimbardo",
+      "year": "2007",
+      "category": "心理学",
+      "one_liner": "用著名的斯坦福监狱实验揭示：好人是如何在特定环境下变成恶魔的",
+      "deep_dive": "这本书的知名度，很大程度上源于津巴多那个震惊心理学界的「斯坦福监狱实验」。他想回答一个问题：到底是坏人做坏事，还是坏的环境把好人变坏？结果实验一开始就失控了——那些被随机分配为「狱警」的普通大学生，竟然开始虐待「囚犯」。这反映出一个扎心的真相：环境、权力、身份能够扭曲一个人的行为，有时候比个人品格的影响还大。书里不是高空理论，而是用真实案例和科学研究告诉你，为什么好人有时候会做坏事——从Abu Ghraib监狱的虐囚丑闻到日常生活中的不公正现象，都能用这套理论解释。读完这本书，你会重新审视自己：在特定的环境和权力结构下，你真的能保证自己的道德底线吗？有点扎心，但这正是好书应该做的。",
+      "quotes": [
+        {
+          "text": "情境的力量往往被我们严重低估，它能够将善良的人变成施虐者",
+          "context": "斯坦福监狱实验的核心发现，说明环境和制度设计的巨大影响"
+        },
+        {
+          "text": "当个人身份在制度中消融时，人性就开始滑坡，道德底线变得模糊",
+          "context": "解释为什么看起来很善良的人在特定角色中会做出令人惊讶的坏事"
+        }
+      ]
+    },
+    {
+      "title_zh": "独裁者手册",
+      "title_en": "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics",
+      "author_zh": "布鲁斯·布埃诺·德梅斯基塔、阿莱斯泰尔·史密斯",
+      "author_en": "Bruce Bueno de Mesquita & Alastair Smith",
+      "year": "2011",
+      "category": "政治学",
+      "one_liner": "用博弈论解剖权力真相：从独裁者到民主领导人再到CEO，都遵循同一套权力法则",
+      "deep_dive": "这本书彻底颠覆你对权力的理解。作者告诉你一个简单而深刻的真相：从独裁者到民主领导人，再到企业CEO，他们其实都在玩同一套游戏——维持权力的游戏。关键不是意识形态，而是「联盟」。你需要多少人支持才能上台？需要多少人的支持才能维持权力？答案决定了你的统治方式。独裁者需要很少的支持者，所以可以为所欲为；民主领导人需要更多的支持者，所以必须给民众实实在在的好处；CEO虽然权力不受约束，但同样需要董事会的支持。这套逻辑冷冰冰但异常清晰，充满了历史和当代案例。读着读着你会发现，所有权力运作的逻辑本质都是一样的。这不是一本教人如何成为独裁者的手册，反而是帮你理解权力真实运作的样子，对理解政治、商业和历史的底层逻辑都很有帮助。",
+      "quotes": [
+        {
+          "text": "权力不是来自意识形态的胜利，而是来自支持联盟的维护和喂养",
+          "context": "书的核心论点，揭示所有权力结构的本质"
+        },
+        {
+          "text": "每一个统治者，无论是独裁者还是民主领导人，都在回答同一个问题：我需要多少人的支持才能维持权力",
+          "context": "博弈论分析的出发点，适用于所有权力结构的解释"
+        }
+      ]
+    }
+  ]
+}
 ```
-
-已准备好存储到 `/Users/carol/Documents/daily-books/data/2026-03-22.json` 并推送到 GitHub Pages。请确认权限。
