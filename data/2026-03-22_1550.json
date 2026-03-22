@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "逻辑的引擎",
+      "title_en": "Engines of Logic",
+      "author_zh": "马丁·戴维斯",
+      "author_en": "Martin Davis",
+      "year": "2000",
+      "category": "科学与认知",
+      "one_liner": "从布尔代数到现代计算机，一部逻辑革命的编年史",
+      "deep_dive": "你知道计算机最终不过是在执行逻辑吗？这本书就像带你坐上时光机，从莱布尼茨的梦想开始，一步步看到布尔怎样把逻辑变成代数，再看到图灵如何用纸带和状态机定义了什么叫\"可计算\"。最疯狂的地方在于，这些看似抽象的数学游戏，最后真的变成了你手里的手机。戴维斯不是在写枯燥的历史，而是在讲一个思想如何逐渐被具体化的故事。从门电路到芯片，从逻辑推演到人工智能，你会发现计算机科学的每一个转折点都对应某个数学家的一个灵光乍现的时刻。读完这本书，你对\"代码\"、\"算法\"这些词会有全新的敬畏——因为你明白了它们根本上就是几千年来人类对思维本身的追问。",
+      "quotes": [
+        {
+          "text": "Logic is the foundation of everything. Once you have logic, all else follows.",
+          "context": "这句话贯穿全书——从莱布尼茨梦想的万能语言，到图灵机的设计，再到现代编程语言。体现了逻辑在整个计算机科学中的中心地位。"
+        },
+        {
+          "text": "The question of what machines can and cannot do is ultimately a question about the nature of logic itself.",
+          "context": "涉及图灵停机问题和可计算性的极限。这个问题至今仍在推动计算机科学的发展。"
+        },
+        {
+          "text": "Computation is not about numbers. It is about information and symbols. It is about what we can prove and what we cannot.",
+          "context": "揭示了计算的真正本质——不是数值运算，而是符号操作和逻辑推演。"
+        }
+      ]
+    },
+    {
+      "title_zh": "一平方英寸的寂静",
+      "title_en": "One Square Inch of Silence",
+      "author_zh": "戈登·汉普顿",
+      "author_en": "Gordon Hempton",
+      "year": "2009",
+      "category": "自然与生态",
+      "one_liner": "在消失的静寂中，一个声学生态学家的绝望与救赎之旅",
+      "deep_dive": "想象一个地方，最近的人类噪音需要半小时才能到达。汉普顿找到过这样的地方——奥林匹克国家森林里的一平方英寸。但这个故事并不是田园牧歌，而是一场与文明噪音的绝望之战。这个声学生态学家花了数十年测绘地球上最后的静寂之地，记录鸟鸣、雨声、风声在被摧毁前最后的样子。你会在书中看到数据：美国90%的人口无法逃离人造噪音。飞机、汽车、建筑，这些现代生活的标配，正在从地球上抹除某种最原始的体验。最触动人心的地方在于，这不是环境污染的冷冰冰统计，而是一个人跋涉千里去聆听、去记录、去失望、去坚持的故事。汉普顿用麦克风当考古学家的工具，录下即将消失的音景，就像我们用相机拍下快要灭绝的物种。读这本书你会重新思考：什么是真正的财富？",
+      "quotes": [
+        {
+          "text": "In our modern world, silence is becoming extinct. The loss of silence is the loss of our connection to nature and to ourselves.",
+          "context": "全书的核心焦虑——不是某条河流被污染，而是整个地球的听觉在死亡。"
+        },
+        {
+          "text": "To preserve one square inch of silence is to preserve a piece of the soul of the earth.",
+          "context": "这不只是环境保护的陈词滥调，而是对人类精神需求的深刻认识。"
+        },
+        {
+          "text": "Noise is not just sound; it is the erasure of meaning. It is the absence of what was, and what could have been heard.",
+          "context": "汉普顿把噪音污染提升到文明批评的高度——它不仅伤害生态，还改变了我们感知世界的方式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "功利主义",
+      "title_en": "Utilitarianism",
+      "author_zh": "约翰·斯图亚特·密尔",
+      "author_en": "John Stuart Mill",
+      "year": "1861",
+      "category": "哲学",
+      "one_liner": "道德的终极原则：追求最大多数的最大幸福，但没有你想象的那么简单",
+      "deep_dive": "密尔这部著作可能比你想象的要深刻得多。很多人把功利主义理解成\"快乐至上\"或\"多数人说了算就对\"，但密尔会告诉你这都是肤浅的。他的核心洞察是：不是所有快乐都一样。精神上的愉悦比身体快感更高级，这是他著名的\"更高快乐\"理论。想想看，一个受过教育的人放弃了思考，去过猪的生活能更快乐吗？密尔说不能。这不是在说高尚的人有特权，恰恰相反，这是在论证道德教育和人的发展本身就是幸福的一部分。他还巧妙地回应了一个经典批评：如果功利主义要求最大幸福，那是不是要求我们每时每刻都在计算？不，他说。正确的做法是让道德直觉和传统智慧指导我们——这些已经被数代人的经验证明有效。这本薄薄的小册子改变了西方伦理学的面貌，也在塑造现代政策制定。医疗资源分配、死刑存废、环保政策，到处都能看到功利主义的影子。",
+      "quotes": [
+        {
+          "text": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.",
+          "context": "密尔对快乐等级制的经典表述。这一句就推翻了把功利主义理解为\"尽享欲望\"的庸俗解读。"
+        },
+        {
+          "text": "The creed which accepts as the foundation of morals Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.",
+          "context": "功利主义的正式定义。注意\"趋向促进\"而非\"绝对导致\"——这为道德判断留下了必要的灵活性。"
+        },
+        {
+          "text": "Society between equals can only exist on the understanding that the interests of all are to be regarded equally.",
+          "context": "密尔从功利主义推导出民主和平等的需要。这是从道德原则到政治制度的重要桥接。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1550"
+}
