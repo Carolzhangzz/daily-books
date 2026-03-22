@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "没有脸的男人：普京的崛起",
+      "title_en": "The Man Without a Face: The Unlikely Rise of Vladimir Putin",
+      "author_zh": "玛莎·盖塞",
+      "author_en": "Masha Gessen",
+      "year": "2012",
+      "category": "传记与回忆录",
+      "one_liner": "追踪一个克格勃特工如何逐步掌控俄罗斯，从地方官员到绝对权力者的蜕变。",
+      "deep_dive": "这本书读起来就像一部悬疑小说，却记录的是真实的权力游戏。作者玛莎·盖塞通过扎实的采访和调查，还原了普京从克格勃特工、圣彼得堡副市长，一步步走向克里姆林宫权力中心的过程。最让人印象深刻的是书名本身的含义——普京似乎没有一个真正的\"脸\"，他就像一个会根据环境改变的影子，既能当亲民的改革派，又能成为强硬的铁血领导人。书中揭示了许多鲜为人知的细节：他年轻时的平庸、他在东德的谍报生涯、他是如何通过与权贵结盟逐步上升的。这不仅是一部关于普京个人的传记，更是理解现代俄罗斯政治运作的钥匙。读完这本书，你会明白为什么权力的集中化和人格独裁在俄罗斯历史上总是一个循环。",
+      "quotes": [
+        {
+          "text": "He has no face. His expressionlessness is his most distinctive feature.",
+          "context": "书的核心隐喻——普京的政治技巧之一就是无处不在却面目模糊，让人无法准确把握他的真实意图。"
+        },
+        {
+          "text": "In Russia, you don't need to be logical. You just need to be strong.",
+          "context": "反映了俄罗斯政治文化中权力至上的现实，也解释了为什么普京的强人政治在俄罗斯获得支持。"
+        },
+        {
+          "text": "Putin learned early that victory goes to those willing to do what others will not.",
+          "context": "揭示了普京的权力哲学——不受传统道德约束的行动力是通往权力顶峰的通行证。"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术与视知觉",
+      "title_en": "Art and Visual Perception: A Psychology of the Creative Eye",
+      "author_zh": "鲁道夫·阿恩海姆",
+      "author_en": "Rudolf Arnheim",
+      "year": "1954",
+      "category": "艺术与美学",
+      "one_liner": "探索我们的眼睛和大脑如何感知、理解和创造艺术，揭示视觉背后的心理学秘密。",
+      "deep_dive": "这是一本真正改变人怎样看待\"看\"这个动作的书。阿恩海姆不是讨论艺术品有多美或多值钱，而是在问一个更根本的问题：我们的眼睛和大脑是如何把一张平面纸上的几条线条转化为一匹奔驰的马的？为什么三角形看起来总是指向上方，倒三角形给人压抑感？他用大量插图和例子让这些概念变得生动。比如分析毕加索的立体主义为什么看起来不像现实，却更\"真实\"地表现了现实；圆形和正方形在我们心里为什么产生完全不同的反应。这本书颠覆了对艺术的理解——艺术不仅是表达感受的工具，也是人类视觉认知的游乐场。读完后再看任何画作或设计都有新视角。你会注意到色彩对比、形状张力、线条方向等原本看不见的元素。特别对设计师和视觉工作者来说，这本书就像操作手册，教你如何有意识地运用视觉原理引导观众注意力和情感。",
+      "quotes": [
+        {
+          "text": "We do not see isolated parts, but unified wholes.",
+          "context": "格式塔心理学的核心观点——大脑天生倾向把碎片组织成完整形状和意义，这是艺术创作的基础。"
+        },
+        {
+          "text": "Art is not what you see, but what you make others see.",
+          "context": "艺术的本质不在于客观再现现实，而在于艺术家如何通过视觉手段操纵观众感知。"
+        },
+        {
+          "text": "Shape is not a property of the object itself but the product of an act of vision.",
+          "context": "深刻阐述视觉感知的相对性——同一对象因观看方式不同，呈现的\"形状\"就完全不同。"
+        }
+      ]
+    },
+    {
+      "title_zh": "技术垄断",
+      "title_en": "Technopoly: The Surrender of Culture to Technology",
+      "author_zh": "尼尔·波兹曼",
+      "author_en": "Neil Postman",
+      "year": "1992",
+      "category": "社科与历史",
+      "one_liner": "揭示现代社会如何被技术统治，我们的文化、思维和价值观如何逐渐向技术权力投降。",
+      "deep_dive": "这本书写于1992年，但预言性地指向了我们今天面临的核心问题。波兹曼说的\"技术垄断\"不是指某个大科技公司的垄断，而是整个社会被技术逻辑统治的状态——我们开始用技术能否解决来衡量问题是否重要，而不是反过来。换句话说，价值观被\"技术思维\"绑架了。比如教育本应塑造人的品格和批判能力，但在技术垄断时代变成了数据化的成绩单和标准化测试。医学本该关怀患者整体福祉，但逐渐依赖诊断仪器而非临床经验。法律应基于道德和正义，现在法官得参考更多\"法律数据库\"而非自己判断。波兹曼不是纯粹反技术者，他承认技术有益处，但警告：当技术成为唯一衡量标准，当我们忘记爱、美、道德、智慧无法被量化和优化时，我们就失去了至关重要的东西。这本书特别值得现在读，因为AI、社交媒体和数据开采正在让我们更深入地陷入技术垄断。他的观点会让你重新审视手机角色、数据对隐私的侵蚀，以及技术进步带来的看不见的代价。",
+      "quotes": [
+        {
+          "text": "The one thing we cannot tolerate in a Technopoly is the idea that intelligence is not a technological problem.",
+          "context": "尖锐批评——技术垄断社会中我们倾向把所有问题当作技术问题，即使问题本质上是伦理或哲学的。"
+        },
+        {
+          "text": "Technology is not additive; it is ecological. A new technology does not merely add something, it changes everything.",
+          "context": "深刻洞察：技术不是简单加法，而是生态学的——新技术会重塑整个社会结构、价值观和人际关系。"
+        },
+        {
+          "text": "When a technology becomes mythic, it is nearly impossible to think critically about it.",
+          "context": "指出技术被神圣化后我们失去批判思维——如今很多人对\"AI\"或\"大数据\"的盲目崇拜正是例证。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2048"
+}
