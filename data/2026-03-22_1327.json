@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "门口的野蛮人",
+      "title_en": "Barbarians at the Gate",
+      "author_zh": "布罗夫 & 赫莱尔",
+      "author_en": "Bryan Burrough & John Helyar",
+      "year": "1989",
+      "category": "商业/传记",
+      "one_liner": "华尔街1988年最大杠杆收购战的内幕故事",
+      "deep_dive": "这本书用新闻调查的笔触，生动还原了1988年KKR对烟草公司RJR Nabisco的收购战。你会看到华尔街精英们如何为了打赢这场商业战役，不惜动用一切手段——虚伪、谎言、背叛在所不惜。书里最迷人的地方是人物塑造，从CEO到投资银行家，每个角色都栩栩如生。整个收购案就像一场贪婪的交响乐，各方势力在金钱和权力的舞台上展开激烈角逐。这不仅是一场商业谈判的记录，更是一部对80年代美国企业文化深刻的讽刺和批评。读完你会发现，金融世界的规则远比你想象的要灰色和复杂。",
+      "quotes": [
+        {
+          "text": "Money is not everything. It's just that everything costs money.",
+          "context": "讽刺现代社会中金钱至上的价值观"
+        },
+        {
+          "text": "The biggest game in the business world has just begun.",
+          "context": "收购战争开始时，权力和欲望碰撞的时刻"
+        }
+      ]
+    },
+    {
+      "title_zh": "金阁寺",
+      "title_en": "The Temple of the Golden Pavilion",
+      "author_zh": "三岛由纪夫",
+      "author_en": "Yukio Mishima",
+      "year": "1956",
+      "category": "小说/文学",
+      "one_liner": "一个口吃少年对完美的执念如何演变成毁灭的悲剧",
+      "deep_dive": "三岛由纪夫的这部作品是日本文学的巅峰之作。故事围绕一个患口吃的少年展开，他被金阁寺的绝世之美深深吸引，却因为自身的缺陷和自卑感，逐渐陷入了对这种美的扭曲的执念。金阁寺不仅仅是一座寺庙，它象征着完美、永恒与超越。少年通过与寺庙的想象对话，逐步建立了一个属于自己的精神世界。但这个世界最终导向了毁灭——这是三岛探讨的核心：完美本身就蕴含着毁灭的种子。书中对人物内心的心理描写细致入微，美与丑、创造与毁灭的主题在简洁有力的笔触下呈现出深刻的哲学意味。",
+      "quotes": [
+        {
+          "text": "Beauty must be something like that—something utterly impossible and yet somehow real.",
+          "context": "少年对金阁寺之美的认识，完美与虚无的边界"
+        },
+        {
+          "text": "I could no longer endure my constant worship of beauty.",
+          "context": "执念最终走向反面，美的崇拜演变成毁灭的冲动"
+        }
+      ]
+    },
+    {
+      "title_zh": "选择的悖论",
+      "title_en": "The Paradox of Choice",
+      "author_zh": "巴里·施瓦茨",
+      "author_en": "Barry Schwartz",
+      "year": "2004",
+      "category": "心理学/自我提升",
+      "one_liner": "为什么选择越多我们反而越不幸福",
+      "deep_dive": "施瓦茨在这本书里揭露了现代社会的一个悖论：我们拥有前所未有的选择自由，却感到前所未有的不安。他通过心理学研究和生活化的案例说明，过多的选择不是增加幸福感，反而会导致决策瘫痪、遗憾和焦虑。从日常的牛仔裤购物到人生重大决定，无处不在的选择带来的不是解放，而是负担。书的妙处在于它不仅诊断了问题，还提供了实用的解决方案——学会接纳、满足现状、降低期望。这对于我们重新审视现代生活方式很有启发。特别是在消费社会和信息爆炸的年代，这本书就像一面镜子，反照出我们内心的真实需求。",
+      "quotes": [
+        {
+          "text": "The secret to satisfaction is low expectations.",
+          "context": "重新定义幸福和满足的来源"
+        },
+        {
+          "text": "The paradox of choice is that choosing too much results in not choosing at all.",
+          "context": "过多选择导致决策困难和不行动的心理学现象"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1327"
+}
