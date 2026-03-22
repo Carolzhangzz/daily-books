@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "遗落的南境",
+      "title_en": "Annihilation",
+      "author_zh": "杰夫·范德梅尔",
+      "author_en": "Jeff VanderMeer",
+      "year": "2014",
+      "category": "文学",
+      "one_liner": "一支女性探险队进入神秘禁区，在扭曲的自然中探寻真相。",
+      "deep_dive": "这是一部让人既着迷又不安的科幻冒险小说。故事讲的是一支由四位女性组成的探险队进入X区——一个被称为\"南方衰退\"的诡异地带。那里的生态系统被某种未知力量彻底改变了，植物和动物都以违反自然规律的方式变异和进化。作者不会告诉你发生了什么，反而是让你和故事中的叙述者一起在迷雾中摸索。整个小说充满了压抑、诡异和难以名状的恐怖感。范德梅尔的写作风格非常克制，他不会给你明确的答案，这种模糊性让故事变得更加令人深思。这本书最厉害的地方在于它建立的氛围——你会感受到探险队成员的疑惑、恐惧和迷茫，仿佛自己也在那个怪异的地带里。",
+      "quotes": [
+        {
+          "text": "We must stop thinking of the other as something we must conquer, and instead think of it as something we must understand.",
+          "context": "叙述者关于面对未知的思考，体现了小说对人类认知限度的反思"
+        },
+        {
+          "text": "There's something in the water, but you still have to drink.",
+          "context": "南方衰退的本质——危险与必然的矛盾，暗示人类无法逃避命运"
+        }
+      ]
+    },
+    {
+      "title_zh": "思考，快与慢",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "科学与认知",
+      "one_liner": "诺奖得主揭示人类决策中的两套思维系统及其陷阱。",
+      "deep_dive": "如果你想真正理解自己和他人为什么会做出某些决定，这本书是必读的。卡尼曼把人类思维分为两个系统：系统1快速、直觉、无意识，系统2缓慢、理性、需要专注。大多数时候我们被系统1主宰，它帮我们快速反应，但也导致了无数认知偏差。书里充满了令人惊讶的心理学实验和真实案例——你会发现自己在哪些地方容易被欺骗，如何高估自信，为什么总是看不到自己的盲点。特别有意思的是，即使你知道了这些偏差，也很难避免它们，因为它们是人类思维的深层结构。卡尼曼写得通俗易懂，不堆砌术语，而是用故事和例子让复杂的认知科学变得可亲近。",
+      "quotes": [
+        {
+          "text": "The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see, even if they see little.",
+          "context": "解释为什么我们经常被有说服力的叙事所蛊惑，而非事实本身"
+        },
+        {
+          "text": "We are not the ones we think we are. We are creatures of habit and intuition more than reason.",
+          "context": "卡尼曼对人类理性的根本性挑战，强调了无意识思维的主导地位"
+        }
+      ]
+    },
+    {
+      "title_zh": "白牙",
+      "title_en": "White Fang",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1906",
+      "category": "文学",
+      "one_liner": "一只狼犬在荒野与文明之间挣扎求生的史诗成长。",
+      "deep_dive": "这是一部关于适应、生存和救赎的经典冒险小说，讲述了一只半狼半犬的动物白牙的一生。它从最原始的荒野出生，经历过残酷的狼群生活，被印第安人驯化，又被无情的淘金客虐待，最后才找到真正的温暖和家。伦敦笔下的白牙不仅仅是一只动物，它是人类本性的镜像——对生存的渴望、对环境的适应、对归属的渴求。整个故事充满了原始的力量和荒凉的美感。最深刻的地方在于白牙的转变：它学会了如何在无情的世界里活下来，但这样的生存本身就是一种悲剧。直到遇到一个真正爱它的人，它才找到了生存以外的意义。",
+      "quotes": [
+        {
+          "text": "He was mastered by the verb, and the verb was kill.",
+          "context": "描写白牙在狼群中被生存法则彻底改造，暴力成为了它的本能"
+        },
+        {
+          "text": "There was no escaping it. He was trapped as inexorably as if the walls of Sheol were around him.",
+          "context": "白牙被虐待时的困境，象征人（或动物）被环境和命运的束缚"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0326"
+}
