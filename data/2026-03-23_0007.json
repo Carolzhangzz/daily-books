@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "费曼物理学讲义",
+      "title_en": "The Feynman Lectures on Physics",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard Feynman",
+      "year": "1963",
+      "category": "科学与认知",
+      "one_liner": "诺奖物理学家用最直白的语言重新讲解物理学，让你真正理解而非背诵公式。",
+      "deep_dive": "费曼是个天才级的物理学家，但他最大的本事不是发现什么，而是把复杂的东西讲得让人豁然开朗。这套讲义就是他在加州理工教本科物理时的录音整理，虽然已经60多年了，仍然是最棒的物理入门读物。费曼的风格很特别——他不是背着板子照教科书念，而是真的在思考「为什么学生会困惑」「怎样才能让这个概念变得直观」。比如讲光的本质时，他会从身边最简单的例子出发，一步步带你理解干涉、衍射这些看似抽象的概念。这套讲义的妙处在于，它不是为了考试而写，而是为了真正理解而写。费曼会坦白地说「我们现在还不懂的地方在这里」，而不是假装一切都很清楚。无论你是物理零基础，还是想重新理解物理的本质，这都是必读的。现在市面上有好多物理科普书，但大多数都是基于这些讲义的思想在发挥。",
+      "quotes": [
+        {
+          "text": "我不想假装物理学告诉了我们生活有什么意义。只是我发现用科学的眼光看世界，它更有趣了。",
+          "context": "费曼强调科学的真正价值不在于给人生添加深刻的意义，而在于让我们用新的眼光看待这个世界，发现其中的奥秘和美。"
+        },
+        {
+          "text": "The principle of science is that we must learn by observation and experiment, not by argument.",
+          "context": "这是费曼对科学本质的定义——科学不是靠辩论，而是靠观察和实验。这也是他讲义的核心方法论。"
+        },
+        {
+          "text": "If you want to understand nature, you have to understand language that she speaks in.",
+          "context": "费曼认为理解自然就像学习一门语言——你必须掌握她的表达方式，而这种语言就是数学。"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命的跃升",
+      "title_en": "The Vital Question: Energy, Evolution, and the Origins of Complex Life",
+      "author_zh": "尼克·莱恩",
+      "author_en": "Nick Lane",
+      "year": "2015",
+      "category": "科学与认知",
+      "one_liner": "从线粒体视角重新审视生命进化，揭示能量如何塑造了复杂生命的诞生。",
+      "deep_dive": "这是一本会彻底改变你对生命本质理解的书。大多数人学进化论时，焦点都在基因、自然选择这些经典话题上。但尼克·莱恩提出了一个颠覆性的视角：真正推动生命复杂化的不是基因突变，而是能量。具体来说，是线粒体的出现。想象一下，单细胞生物在某个时刻吞噬了另一个细胞，而不是消化它，反而和它共生了。这个看似小概率事件，让细胞能获得近千倍的能量。有了这么多能量，单细胞才有可能进化出复杂的内部结构、核膜、细胞骨架，最后才能组织成多细胞生物。莱恩用这个框架重新解释了生命各个重大转折：为什么花了20亿年才从单细胞进化到多细胞？为什么性别分化？为什么衰老？答案都指向能量的限制。这本书的厉害之处在于，它把生物学、化学、物理学编织在一起，给你一个整体的、令人惊叹的生命图景。如果你想知道「为什么会是现在这样」，而不是停留在「是什么」，这本书必读。",
+      "quotes": [
+        {
+          "text": "The history of life is the history of repackaging of energy.",
+          "context": "生命的进化史本质上就是能量重新打包的历史。这个观点颠覆了传统的进化论视角，指向了一个更深层的真理。"
+        },
+        {
+          "text": "We are powered by the sun, but that power must be packaged in molecules before we can use it.",
+          "context": "虽然所有生命终极来自太阳能量，但能量必须被转换和储存在分子中，才能被生命利用。这就是为什么线粒体那么关键。"
+        },
+        {
+          "text": "Complexity comes from energy, not information.",
+          "context": "与通常的观点不同，莱恩主张复杂性首先来自能量的充足，而不是信息的增加。能量充足了，才有可能支持更复杂的生命形式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "夜色温柔",
+      "title_en": "Tender Is the Night",
+      "author_zh": "弗·司各特·菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1934",
+      "category": "文学",
+      "one_liner": "一对美国富人在法国蔚蓝海岸的浪漫生活如何在欲望和衰败中沉沦的哀歌。",
+      "deep_dive": "如果说《了不起的盖茨比》是菲茨杰拉德最著名的作品，那《夜色温柔》就是他最悲伤、最深邃的一部。这部小说的背景是1920年代的欧洲，正是美国繁荣年代的黄金时代。主人公迪克·戴弗是一个天才的精神科医生，娶了一个富有的精神患者妮可。起初他们的生活闪闪发光——住在南法海滩，开派对，挥金如土。但这种光彩夺目的生活恰恰是衰败的开始。迪克逐渐失去了他的理想和目标，被妮可的财富、被夜生活、被自己内心的空虚所吞噬。整个故事就像看一个优秀人才慢慢腐烂的过程。菲茨杰拉德笔下的人物都很矛盾——他们既渴望爱又伤害爱，既追求快乐又被快乐毁灭。书中那句著名的话「富人与你我不同」暗示了贫富差距造成的精神错位。这不是一个关于幸福的故事，而是一个关于梦破碎的故事。阅读这部作品，你会看到浪漫与现实、理想与欲望、上升与衰落的冲突，这些冲突到今天仍然有效。",
+      "quotes": [
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+          "context": "这是菲茨杰拉德最著名的段落结尾。它道出了人类困境的本质——我们拼命前进，却总是被拉回往事。"
+        },
+        {
+          "text": "Tender is the night. So tender it breaks your heart.",
+          "context": "美丽的夜晚那么温柔，温柔到能够碎裂一个人的心。这道出了整部小说的核心——美与悲哀是一体的。"
+        },
+        {
+          "text": "I want to care about tennis, about a few simple things, about making money in a way that won't hurt anybody.",
+          "context": "迪克的这句话反映了他已经放弃了对伟大事业的追求，只想活得简单。这是他衰落的标志。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0007"
+}
