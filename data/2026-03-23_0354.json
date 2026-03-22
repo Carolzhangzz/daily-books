@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "数学与逻辑",
+      "one_liner": "揭示数学问题求解的通用思维方法，从具体技巧到深层逻辑的完整指南",
+      "deep_dive": "这是一部影响深远的数学经典，波利亚通过深入的案例分析和系统的思维方法论，教你怎样像真正的数学家一样思考。这本书的妙处在于，它不仅仅是在讲怎样解数学题，而是在传授一种通用的问题解决方法论——这个方法论对编程、工程、甚至日常决策都有启发。书中强调四个关键步骤：理解问题、制定计划、执行计划、回顾反思。听起来简单，但执行起来需要大量的训练和习惯养成。波利亚举了很多经典的数学问题作为例子，从简单的几何题到复杂的代数问题，逐步引导你领会其中的思维模式。最有价值的是，这本书教会你如何在卡住的时候自己找到突破口，而不是盲目蛮干。对任何需要创造性解决问题的人来说，这都是必读书。",
+      "quotes": [
+        {
+          "text": "A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.",
+          "context": "体现了波利亚相信每个问题的解决都包含创新的价值"
+        },
+        {
+          "text": "If you cannot solve the proposed problem try to solve first some related problem.",
+          "context": "当直接方法行不通时，迂回前进的智慧"
+        }
+      ]
+    },
+    {
+      "title_zh": "创新与企业家精神",
+      "title_en": "Innovation and Entrepreneurship",
+      "author_zh": "彼得·德鲁克",
+      "author_en": "Peter F. Drucker",
+      "year": "1985",
+      "category": "商业与技术",
+      "one_liner": "从系统角度分析如何识别和把握创新机会，以及如何在组织中培育企业家精神",
+      "deep_dive": "德鲁克是管理学大师，这本书汇集了他对创新和企业家精神的深刻理解。他反复强调的一个核心观点是：创新和企业家精神不是天生的天赋，而是可以学习和训练的能力。书中最有启发的部分是德鲁克列举了七个系统化的创新来源——某个行业内部的意外成功或失败、外部环境的变化、人口结构的改变、知识进步等等。这让创新不再显得神秘莫测，而是有迹可循的。他还深入讨论了什么样的人适合做企业家，以及如何在大组织中培育企业家精神（内部创业）。这本书的另一个价值在于，德鲁克警示读者创新的陷阱——过度专注于技术创新而忽视市场，或者在错误的时机推出创新。整本书读下来，你会意识到创新不仅需要想象力，更需要纪律和系统的思维。",
+      "quotes": [
+        {
+          "text": "The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+          "context": "企业家本质的定义——不是冒险家或侥幸者，而是系统地寻求变化的人"
+        },
+        {
+          "text": "Most innovations are not breakthroughs. They are improvements on something that already exists.",
+          "context": "挑战了人们对创新的浪漫化理解，指出大多数成功的创新其实是渐进式的改良"
+        }
+      ]
+    },
+    {
+      "title_zh": "战争与和平",
+      "title_en": "War and Peace",
+      "author_zh": "列夫·托尔斯泰",
+      "author_en": "Leo Tolstoy",
+      "year": "1869",
+      "category": "文学",
+      "one_liner": "俄罗斯文学巅峰之作，通过拿破仑战争的宏大背景，探索个人与历史、命运与自由的永恒主题",
+      "deep_dive": "这是人类文学史上最伟大的小说之一，托尔斯泰用近两千页的篇幅为我们描绘了19世纪初欧洲的战争与和平时代。这部作品之所以伟大，不是因为战争场景的宏大壮阔，而是因为托尔斯泰以超人的洞察力刻画了人物的内心世界。四个主要人物——皮埃尔、安德烈公爵、娜塔莎、玛丽亚——各自代表了不同的人生困境和精神探索。皮埃尔从纨绔子弟到寻求生命意义的追求者，安德烈从野心勃勃到归于平静，这些转变都显得自然而深刻。小说中交织着宏观的历史事件和微观的个人命运，托尔斯泰在后半部分甚至加入了关于历史哲学的思辨，讨论个人意志与历史大势的关系。书中既有浪漫的爱情、激烈的战斗，也有对死亡、信仰、人生意义的深刻思考。这部小说深刻影响了世界文学。",
+      "quotes": [
+        {
+          "text": "The life of a man is a strange thing, and so complex, that no one can explain it.",
+          "context": "托尔斯泰对人生复杂性和不可预测性的感慨"
+        },
+        {
+          "text": "History is the life of peoples and of mankind. But this view is not confirmed either by reason or by experience.",
+          "context": "关于历史与个人意志关系的深刻反思，质疑简单的历史决定论"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0354"
+}
