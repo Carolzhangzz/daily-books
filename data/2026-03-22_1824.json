@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "数论导引",
+      "title_en": "An Introduction to the Theory of Numbers",
+      "author_zh": "哈代",
+      "author_en": "G.H. Hardy",
+      "year": "1938",
+      "category": "数学与逻辑",
+      "one_liner": "一部数论的经典入门著作，用最纯粹的数学语言引领读者探索整数的奥秘",
+      "deep_dive": "这本书啊，真的很特别。哈代和赖特写这本书的时候，就是想把数论讲得优雅漂亮，不是那种枯燥的教科书。你会从最简单的整除性开始，然后慢慢深入到质数、同余式、连分数这些看起来深奥的东西。但你读着读着就会发现，这些其实都是有内在逻辑的，像搭积木一样。最妙的是，哈代在书里也在思考数学美学——什么是真的数学美？为什么某些证明看起来特别优雅？这本书读完了，你不仅学到了知识，还会改变对数学的看法。它的影响力特别大，激励了无数数学家。就算你高中数学不算顶尖，这本书也能让你领略到数学最纯粹的一面，那种不需要任何应用、不为任何实际目的服务的数学之美。",
+      "quotes": [
+        {
+          "text": "Beauty is the first test: there is no permanent place in the world for ugly mathematics.",
+          "context": "哈代对数学美学最精炼的表述，说明他认为数学首先要满足审美标准"
+        },
+        {
+          "text": "我坚信，数学的真实性和终极的美与和谐，都不依赖于这个物质世界的存在而存在。",
+          "context": "揭示了哈代对纯数学的终极信念——数学是独立的、永恒的"
+        }
+      ]
+    },
+    {
+      "title_zh": "都柏林人",
+      "title_en": "Dubliners",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1914",
+      "category": "文学",
+      "one_liner": "十五个相互关联的短篇故事，通过普通都柏林人的日常生活，捕捉人生的顿悟时刻和精神困境",
+      "deep_dive": "这部作品出版的时候引起了不少争议，因为乔伊斯笔下没有英雄，只有普通人——店员、酒保、教师、家庭妇女。每个故事都很短，但都能让你窥见一个人内心的某个瞬间。你会看到一个失败的商人的自欺欺人，一个渴望爱的少女的幻灭，一个醉汉的狂欢与落寞。最妙的是乔伊斯用了这种叫'顿悟'（epiphany）的技巧——就是某一刻，人物突然看清了生活的真相，那一瞬间闪烁的光芒贯穿了整个故事。整本书读完，你会发现这不是在讲故事，而是在描写生活本身的荒凉与美。特别是最后一篇《已死的》，被很多人称为现代文学最完美的短篇之一，会让你对生活、死亡、爱这些最终的问题有新的思考。",
+      "quotes": [
+        {
+          "text": "He gnawed the rectified and trembling fibres of the heart.",
+          "context": "描写主人公内心的痛苦与不安，乔伊斯用这样的笔法把心理活动写得栩栩如生"
+        },
+        {
+          "text": "Bessie would wait for him: she would understand. But why should she wait? There must be some youth or some boy in a shirt and tie that she would prefer.",
+          "context": "呈现了一个人物对失去爱的预感与绝望，是对人生无常的深刻洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "到灯塔去",
+      "title_en": "To the Lighthouse",
+      "author_zh": "弗吉尼亚·伍尔夫",
+      "author_en": "Virginia Woolf",
+      "year": "1927",
+      "category": "文学",
+      "one_liner": "一部现代主义杰作，用意识流手法在三个时间段内展开家庭成员对灯塔的三次前往，探讨时间、死亡与自我的永恒主题",
+      "deep_dive": "第一次读这部书的时候你会有点懵，因为伍尔夫不是按时间顺序讲故事的，而是直接进入人物的内心。前面半小时，一个家庭在计划去灯塔，每个人的思绪都在飘动——小女儿凯姆对灯塔的渴望，太太对丈夫的理解，丈夫对人生意义的焦虑。然后，就这样，中间突然快进，十年过去了。人死了，事情改变了，但灯塔还在。这个跳跃的设计特别狠，因为它让你真切感受到时间的无情和生活的转折。伍尔夫在这部作品里用意识流的笔法把所有人的内心世界织在一起，你会看到，每个人其实都在孤独地面对生活，但他们又都通过彼此的陪伴获得了某种救赎。最后当他们真的到达灯塔的时候，那一刻已经不重要了，重要的是那十年来每个人如何活过来的。这是对人生最深的思考。",
+      "quotes": [
+        {
+          "text": "One cannot think well, love well, sleep well, if one has not dined well.",
+          "context": "伍尔夫借由人物之口道出生活琐事的重要性，提示我们照顾好自己的必要"
+        },
+        {
+          "text": "Losing personality, one lost the fret, the hurry, the strained exertion.",
+          "context": "描写在冥思中失去自我意识的感受，触及了伍尔夫对时间和存在的核心思考"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1824"
+}
