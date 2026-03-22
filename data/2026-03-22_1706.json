@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "数字化生存",
+      "title_en": "Being Digital",
+      "author_zh": "尼古拉斯·尼葛洛庞蒂",
+      "author_en": "Nicholas Negroponte",
+      "year": "1995",
+      "category": "科技哲学",
+      "one_liner": "一本预见互联网未来的科技经典，让你理解为什么数字化改变了一切。",
+      "deep_dive": "这是一部超前的著作，写于万维网还不普及的年代。尼葛洛庞蒂用最清晰的语言描绘了数字化世界的想象：从原子到比特，从被动接收到主动定制，从地理位置到虚拟社区。读这本书最有意思的地方是，你会惊叹于作者对今天现实的准确预测——移动优先、个性化推荐、虚拟身份、甚至是AI改变工作的趋势。但更重要的是，他教你换一个视角看世界。不是技术决定了我们的未来，而是我们如何理解和运用技术。这本书的优雅之处在于，它不是用复杂的理论吓人，而是像朋友聊天一样，循循善诱地让你明白：你正活在一个前所未有的时代。如果你想理解为什么互联网、AI、元宇宙这些概念会出现，这是最好的入门读物。",
+      "quotes": [
+        {
+          "text": "Being digital is different. We are not waiting on any invention; it is here.",
+          "context": "强调数字化时代已经来临，不是未来的幻想，而是当下的现实"
+        },
+        {
+          "text": "The information superhighway should increase personal choice, and it should help the individual.",
+          "context": "数字化的终极目标是赋能个人，而不是被动接收"
+        }
+      ]
+    },
+    {
+      "title_zh": "人性论",
+      "title_en": "A Treatise of Human Nature",
+      "author_zh": "大卫·休谟",
+      "author_en": "David Hume",
+      "year": "1740",
+      "category": "哲学",
+      "one_liner": "一部深刻剖析人性的哲学经典，问出了最本质的问题：我们究竟是什么？",
+      "deep_dive": "想象一下，你问自己：我是谁？大卫·休谟就是这么一个不安分的人。他拒绝接受那些虚幻的答案，反而一层层剥开人类心理的外衣。最著名的结论是「我检视自己时，总只能发现这样那样的知觉」——也就是说，可能根本没有一个永恒不变的「自我」，只有不断变化的感受和思想。这听起来有点沮丧，但也很解放。因为如果我们不是被固定的本质所束缚，那么我们可以不断进化、改变、成长。书里还讨论了情感、理性、习惯如何塑造我们，为什么我们会相信因果关系（其实这种信念来自习惯而非逻辑），以及道德感的来源。你可能会在某些章节里找到关于自己的答案，或者发现新的疑问。这就是伟大哲学的魅力——它不是给你现成的答案，而是教你如何思考。",
+      "quotes": [
+        {
+          "text": "I am nothing but a bundle of perceptions.",
+          "context": "对自我本质的核心论述，挑战了笛卡尔以来的理性主体论"
+        },
+        {
+          "text": "Custom is the great guide of human life.",
+          "context": "阐明了习惯在人类行为中的根本性作用，比理性更深层"
+        }
+      ]
+    },
+    {
+      "title_zh": "大外交",
+      "title_en": "Diplomacy",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "1994",
+      "category": "国际关系",
+      "one_liner": "一部从宏大视角解读五百年世界政治的战略思想著作。",
+      "deep_dive": "如果你想理解当今世界为什么这样运转，基辛格这本书是必读。他从15世纪的威斯特伐利亚条约讲起，一直到冷战结束，用宏大的视角串联起了五百年的国际政治。最精妙的地方是，他告诉你每个伟大的国家领导人都在思考同一个问题：如何在无政府的国际体系中生存和发展？欧洲的列强是怎么从宗教争纷走向均势外交的，拿破仑如何重塑了欧洲格局，为什么一战后的凡尔赛体系注定失败，冷战中美苏两强如何对峙……这些历史不是枯燥的年表，而是人性、理想和现实不断碰撞的戏剧。你会明白，外交不是空洞的口号，而是对国家利益的精准计算。读完这本书，你看新闻时会有完全不同的理解——你会看到历史的回音，预见未来的可能。",
+      "quotes": [
+        {
+          "text": "The statesman's duty is to bridge the gap between his experience and his vision.",
+          "context": "定义了真正的战略家必须兼具历史感和前瞻性"
+        },
+        {
+          "text": "Stability is the precondition for peace and development.",
+          "context": "强调国际秩序稳定的根本重要性，这是大外交的核心逻辑"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1706"
+}
