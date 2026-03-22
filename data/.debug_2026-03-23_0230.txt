@@ -1,1 +1,1 @@
-已经为三本书生成了完整的推荐内容（包含deep_dive、quotes等）。等待您授权以保存JSON文件到 `/Users/carol/Documents/daily-books/data/2026-03-23.json`，然后我会更新索引并推送到 GitHub Pages。
+需要您的授权来保存这个推荐文件。请允许我写入 `/Users/carol/Documents/daily-books/data/2026-03-23.json`。
