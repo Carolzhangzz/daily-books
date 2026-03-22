@@ -1,0 +1,17 @@
+I've prepared the JSON with three book recommendations in the format you requested. However, I need your permission to save the file to `/Users/carol/Documents/daily-books/data/2026-03-23.json`. 
+
+The JSON includes:
+
+1. **《情人》(*The Lover*)** - 玛格丽特·杜拉斯 (1984)
+   - 深度介绍：500+ 字聊天式语言，讲述禁忌爱情的记忆碎片
+   - 3 条金句，包括关于爱情、回忆和美好事物消逝的思考
+
+2. **《树的秘密生命》(*The Hidden Life of Trees*)** - 彼得·沃莱本 (2015)
+   - 深度介绍：森林菌根网络、树木间的通讯与互助
+   - 3 条金句，强调树木社群的相互联系
+
+3. **《什么是艺术》(*What Is Art?*)** - 列夫·托尔斯泰 (1897)
+   - 深度介绍：托尔斯泰对艺术本质和民主艺术观的激进质疑
+   - 3 条金句，涉及真正的艺术定义和艺术的目的
+
+Would you like me to proceed with saving this file and pushing it to GitHub?
