@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "心理学导论",
+      "title_en": "Introduction to Psychology",
+      "author_zh": "大卫·迈尔斯",
+      "author_en": "David Myers",
+      "year": "2014",
+      "category": "科学与认知",
+      "one_liner": "从大脑科学到社交行为，一本让你理解人类心理运作的全景导览书",
+      "deep_dive": "《心理学导论》是心理学领域最畅销的教科书，迈尔斯用清晰而有趣的方式向读者展示了心理学如何解释我们的思维、感知和行为。这不是一本沉闷的学术著作，而是一场关于人类自身的对话。书里讲了不少你日常生活中经历过的现象——为什么你会被某些人吸引，为什么压力会让你生病，为什么有时候你会做出完全不理性的决定。迈尔斯的厉害之处在于他不仅告诉你"是什么"，还解释"为什么"。他涵盖了从神经生物学、感知、学习记忆，到发展心理学、人格、心理障碍，再到社会心理学的几乎所有主要领域。读完这本书，你会意识到很多自己习以为常的行为其实都有科学解释。比如为什么你在人多的时候容易紧张，为什么看到别人打哈欠你也想打，为什么广告总能说服你。这是一本既能应用到生活中，又能拓宽认知边界的书，特别适合想快速了解心理学全貌的人。",
+      "quotes": [
+        {
+          "text": "We are, each of us, a collection of our experiences.",
+          "context": "强调了个人经历对性格和认知的深刻塑造作用"
+        },
+        {
+          "text": "The person who says it cannot be done should not interrupt the person doing it.",
+          "context": "激励人们打破固有观念，相信改变和成长的可能性"
+        },
+        {
+          "text": "Forgetting is an active process, not a passive failure.",
+          "context": "揭示了记忆和遗忘的心理机制，改变我们对学习的理解"
+        }
+      ]
+    },
+    {
+      "title_zh": "丰乳肥臀",
+      "title_en": "Big Breasts and Wide Hips",
+      "author_zh": "莫言",
+      "author_en": "Mo Yan",
+      "year": "1996",
+      "category": "文学",
+      "one_liner": "一个母亲和她的儿子跨越半个多世纪的中国故事，充满荒诞、黑色幽默和对人性的深入拷问",
+      "deep_dive": "《丰乳肥臀》是莫言最雄心勃勃的作品之一，讲的是一个叫上官北漂的人，通过他的回忆讲述了他的母亲和这个家族在20世纪中国剧变中的故事。这是一部充满魔幻现实主义的小说——真实和虚幻交织，历史和个人记忆混杂。小说从日本侵华开始，跨越了新中国建立，经历了各种政治运动，充满了黑色幽默和讽刺。莫言笔下的人物不是简单的好人或坏人，而是在历史洪流中被裹挟、扭曲、改变的活生生的人。书中对人性的描写相当直白——贪婪、欲望、生存的本能——不加任何修饰。这就是为什么很多人觉得这部作品既令人不适，又令人震撼。它不仅仅是在讲故事，而是在用一个家族的悲欢离合来折射整个时代的荒唐和悲剧。这部作品展示了莫言独特的叙事风格和对人性的深刻洞察，也正因为如此他赢得了诺贝尔文学奖。",
+      "quotes": [
+        {
+          "text": "每个人都是历史的产物，也是历史的创造者",
+          "context": "小说在探讨个人与历史的关系，表明人在历史中的双重身份"
+        },
+        {
+          "text": "母亲像大地一样，无论发生什么，她都承受着一切",
+          "context": "对母亲形象的象征性描写，体现了女性在历史变迁中的坚韧与牺牲"
+        },
+        {
+          "text": "生与死，快乐与痛苦，都只是人生中的一个瞬间",
+          "context": "对人生无常和生命周期的深刻感悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "增长黑客",
+      "title_en": "Hacking Growth",
+      "author_zh": "肖恩·埃利斯,摩根·布朗",
+      "author_en": "Sean Ellis, Morgan Brown",
+      "year": "2017",
+      "category": "商业与技术",
+      "one_liner": "用数据驱动、创意十足的方式让产品爆炸性增长——从创业公司到科技巨头的成长秘诀",
+      "deep_dive": "《增长黑客》系统地介绍了"增长黑客"这个概念的完整方法论，而肖恩·埃利斯正是这个概念的发明人。他在Dropbox、Pinterest等公司的早期阶段工作过，亲眼见证了这些公司是如何从零到一百的。这不是一本告诉你"购买广告就能增长"的书，而是讲如何用创意、数据和快速实验来发现和优化产品增长的杠杆。书中的核心思想是：找到产品的"北极星指标"（最能代表产品核心价值的单一指标），然后围绕这个指标进行持续的小实验和优化。Uber如何获得第一批用户？Pinterest如何实现病毒式增长？Slack如何从零到英雄？书里都有具体的案例和可复制的方法。最精妙的部分是，这个方法论特别适合资源有限的初创公司，因为它强调的是创意和聪明，而不是烧钱。即使你不是创业者，作为产品经理或营销人员，这本书也会彻底改变你思考增长的方式。",
+      "quotes": [
+        {
+          "text": "Find your North Star Metric—the one metric that best represents the core value your product delivers to customers.",
+          "context": "增长黑客方法论的核心概念，所有实验都围绕这个指标进行，它是决策的唯一参考"
+        },
+        {
+          "text": "Growth comes from a continuous process of rapid experimentation and learning, not from grand plans.",
+          "context": "强调在增长过程中快速迭代和学习的重要性，优于完美计划"
+        },
+        {
+          "text": "Everyone in the company, regardless of role, should understand and be motivated by the North Star.",
+          "context": "跨职能团队对增长目标的一致理解和执行力是成功的关键"
+        }
+      ]
+    }
+  ]
+}
+```
