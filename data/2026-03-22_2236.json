@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "尤利西斯",
+      "title_en": "Ulysses",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "二十世纪最具实验性的现代主义小说，追踪都柏林普通人一天的意识流动",
+      "deep_dive": "《尤利西斯》就像把人的整个思维过程直接倒在纸上。你会跟着Leopold Bloom在都柏林走过一整天——1904年6月16日，从早上出门到深夜回家——但这不是普通的故事。乔伊斯用意识流技巧，把人物的想法、记忆、感官知觉全混在一起，就像你脑子里真实发生的那样。这部小说几乎没有传统的对话和情节，取而代之的是一个普通上班族的内心独白。\\n为什么这么难读？因为乔伊斯在实验如何用语言捕捉人的真实体验。他创造新词、混用多种语言、打破句子结构，就为了让你能感受到人物的思维是如何跳跃、如何联想的。读它就像进入别人的梦境。\\n但这的确值得。你会发现乔伊斯对细节的痴迷——一个人怎么喝咖啡，怎么看报纸，怎么想起一句歌词——这些看似无关的碎片最后拼成了整个人生。这部小说改变了后来所有对意识的文学表现。它不是在讲什么大事件，而是在问：生活的本质是什么？是这无数微小时刻的流动。",
+      "quotes": [
+        {
+          "text": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.",
+          "context": "小说开篇的那句话，用最平凡的语句开启了意识流的大门。Bloom吃着内脏这件事本身不重要，重要的是这种直白而荒诞的叙述方式预告了整个小说的风格。"
+        },
+        {
+          "text": "I am, a child, a girl, a woman, a mother, a wife, a widow.",
+          "context": "关于女性身份和人生阶段的流动性思考。反映了小说对时间、身份、变化的深刻洞察。"
+        },
+        {
+          "text": "Every life is in many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love. But always meeting ourselves.",
+          "context": "这段台词触及了小说的核心——所有的经历最后都是与自己的相遇。"
+        }
+      ]
+    },
+    {
+      "title_zh": "理智与情感",
+      "title_en": "Sense and Sensibility",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1811",
+      "category": "文学",
+      "one_liner": "两个姐妹，两种性格，在金钱和爱情的压力下各自走向不同的人生",
+      "deep_dive": "Elinor和Marianne是两个完全相反的女人。Elinor理性克制，懂得隐忍和社交礼仪，心里再难受也要在人前表现得体面。Marianne热情奔放，相信真爱和浪漫，为情感完全敞开心扉。当她们的父亲去世，家族失去经济来源，两个女孩都陷入了爱情和现实的困境。\\n乔伊斯用意识流，奥斯汀用讽刺——她在讲故事的同时不断评论人性。你能感受到这个时代对女性有多残酷：没有钱就没有选择权，没有独立的人生，只能靠联姻改变命运。但奥斯汀聪明就聪明在，她不是在哭诉，而是用很轻松很聪慧的方式把这些不公平暴露出来。\\n两个女孩的故事各自走向对立的方向。一个在保持理智的同时失去了爱情，一个在追求爱情的时候彻底受伤。但这不是说某一方对了。奥斯汀真正想说的是，生活就是要在理想和现实之间找平衡。你不能光有感情，也不能完全冷漠。这就是为什么两百多年后我们还在读这部小说——因为这个问题从未过时。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "context": "开篇最著名的一句话，用绝对理性的语气说最不理性的事。这就是奥斯汀式讽刺的完美示范。"
+        },
+        {
+          "text": "The more I know of the world, the more I am convinced that I shall never see a man whom I can really love.",
+          "context": "Marianne说这话时还相信真爱的存在。但现实会教她什么叫妥协和成长。"
+        },
+        {
+          "text": "There is nothing I would not do for those who are really my friends.",
+          "context": "Elinor的理性不是冷漠，而是一种深层的忠诚。这个角色代表的是一种被低估的、不够浪漫但足够可靠的爱。"
+        }
+      ]
+    },
+    {
+      "title_zh": "千高原",
+      "title_en": "A Thousand Plateaus",
+      "author_zh": "吉尔·德勒兹 & 费利克斯·瓜塔里",
+      "author_en": "Gilles Deleuze & Félix Guattari",
+      "year": "1987",
+      "category": "哲学",
+      "one_liner": "后现代哲学的狂野实验，用'高原'和'根茎'概念彻底颠覆线性思维",
+      "deep_dive": "《千高原》就像一场哲学的越狱。德勒兹和瓜塔里拒绝了传统哲学书的那种线性逻辑——从开头、中间、到结尾。他们说，思想不是树，不该有一个根然后分枝。思想更像根茎(rhizome)——可以从任何地方生长，向任何方向延伸，没有中心也没有终点。\\n全书不是一个连贯的论证，而是13个'高原'(plateau)，每个都可以独立阅读。你可以从任何一个开始，就像进入地下城的任何一扇门。有讨论音乐的，有讨论蟑螂的，有讨论游牧民族的。这些看似散乱的话题其实都在问同一个问题：我们怎样才能逃脱被权力结构束缚的思维方式？\\n他们最著名的概念就是'光滑空间'vs'条纹空间'。条纹空间被分割、被制度化、被国家权力管理——这是现代社会。光滑空间是流动的、无秩序的、游牧的。整个哲学就在这种张力中展开。\\n为什么难读？因为这不是给你讲故事或论证。这是一场思想的狂欢。但正因为难，所以有趣。你会发现自己的思维方式在被挑战。最后你会明白，这本书其实是在要求你用不同的方式思考——不是线性的、不是有目的的、而是像游牧民族一样流动和连接。",
+      "quotes": [
+        {
+          "text": "A rhizome ceaselessly establishes connections between semiotic chains, organizations of power, and circumstances relative to the arts, sciences, and social struggles.",
+          "context": "对'根茎'概念的定义。这是全书的哲学基础——思想是多维度、多源头、永远在连接的。"
+        },
+        {
+          "text": "One of the most important things to understand is that the tree is not the image of the world according to the rhizome theory.",
+          "context": "明确否定树形结构，提出根茎作为替代范式。这是对所有二元对立和等级制度的挑战。"
+        },
+        {
+          "text": "There is no God, no subject, no foundation, no origin, only rhizomatic becoming.",
+          "context": "最激进的宣言。这句话总结了整个后现代哲学的反叛精神——反对任何中心、任何绝对、任何基础。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2236"
+}
