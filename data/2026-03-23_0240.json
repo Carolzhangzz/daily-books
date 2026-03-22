@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "人类的误测",
+      "title_en": "The Mismeasure of Man",
+      "author_zh": "史蒂芬·杰·古尔德",
+      "author_en": "Stephen Jay Gould",
+      "year": "1981",
+      "category": "科学史/社会科学",
+      "one_liner": "一部科学侦探故事，揭示测量如何被用来伪装和强化偏见。",
+      "deep_dive": "这本书就像一场知识法庭，古尔德扮演检控官。他带我们回到19世纪，看看怎么有些聪明的科学家用尺子、秤子和数字给人类分等级，然后用这些精确的测量来证明他们预设的社会等级。你会看到头颅测量学如何堂皇冠冕地为奴隶制和帝国主义背书，IQ测试如何被美国用来筛选移民，基因决定论怎样成为优生学的工具。最有趣的是，古尔德不是简单地说\"科学坏\"，而是展示了科学方法本身没问题，问题在于科学家是人，人会带着自己的偏见和时代的烙印。这让你重新思考：当我们看到一个数字、一个排名、一份测试结果时，真正衡量的是什么？背后隐藏了什么假设？这不仅是历史课，更是关于如何批判性地看待我们今天正在做的测量和分类。",
+      "quotes": [
+        {
+          "text": "Science cannot work by faith: it is fundamentally a procedure for testing and rejecting hypotheses. But science can go just as far astray as any other institution when scientists stop doing their job and instead let existing biases override their commitment to truth.",
+          "context": "说明科学需要不断的自我批评，而不是被权力和偏见所绑架。"
+        },
+        {
+          "text": "I am, I hope, a pluralist, and for a pluralist, the search for ranking of values—in absolute terms—is a fruitless endeavor.",
+          "context": "古尔德强调多元性，反对一切以单一标准衡量人类价值的做法。"
+        }
+      ]
+    },
+    {
+      "title_zh": "万物简史",
+      "title_en": "A Short History of Nearly Everything",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2003",
+      "category": "科学/历史",
+      "one_liner": "宇宙、地球、生命的一次漫游式讲述，充满惊奇和幽默。",
+      "deep_dive": "想象有个朋友在酒吧里给你讲科学的故事——就是这种感觉。布莱森不是在写教科书，他是在讲故事。他告诉你宇宙大爆炸有多奇怪（根本无法想象），地球怎样从一个熔融的球体变成一颗活着的行星，恐龙统治地球期间发生了什么，为什么我们的身体容易出错，人类如何从猿进化而来，自然界有多么凶险。你会发现，历史上一些最伟大的发现往往不是因为科学家多聪明，而是因为他们运气好、很固执，或者刚好在正确的地点出现。每一章都能让你说出\"原来如此！\"，而他的幽默感让这趟科学之旅从不显得枯燥。这是一本让你更好地理解自己和世界的书，方式是既严肃又轻松的。",
+      "quotes": [
+        {
+          "text": "Atoms are made from subatomic particles, which are made from even more subatomic particles, which in turn are made from—well, nobody knows.",
+          "context": "传达了科学认识的局限性，以及自然界的深不可测。"
+        },
+        {
+          "text": "The remarkable thing about nature is that it is capable of creating such complexity from such simplicity.",
+          "context": "强调了自然界从简单原理产生复杂现象的奇妙性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "基辛格传",
+      "title_en": "Kissinger: A Biography",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "1992",
+      "category": "传记/政治史",
+      "one_liner": "一个难民男孩如何成为塑造冷战世界格局的政治家。",
+      "deep_dive": "这部传记读起来像一部政治惊悚小说。从一个逃离纳粹德国的犹太难民男孩，到哈佛教授，再到美国国务卿和国家安全顾问，基辛格的人生轨迹本身就很戏剧性。但艾萨克森真正做得好的是，他让你理解基辛格的决策——不只是评价对错，而是解释这个人怎么思考的。你会看到越南战争、中美建交、印巴战争、中东冲突这些历史时刻，从一个亲历者和决策者的角度。基辛格的现实主义外交（放弃意识形态，专注国家利益）改变了冷战的走向，但代价是什么？有些决定拯救了生命，有些带来了悲剧。这本书不会给你简单的答案，但它会让你明白，大国政治如何在道德和现实之间走钢丝。如果你想理解20世纪后半叶的世界是怎样形成的，这是必读之作。",
+      "quotes": [
+        {
+          "text": "The statesman's duty is to serve the national interest, not to gratify popular sentiments or to make moral judgments about the international system.",
+          "context": "体现了基辛格的现实主义外交哲学，强调国家利益的优先性。"
+        },
+        {
+          "text": "Accept everything about yourself—I mean everything. You are you and that is the beginning of all wisdom.",
+          "context": "基辛格关于自我认知和自我接纳的思想，体现了他的人生智慧。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0240"
+}
