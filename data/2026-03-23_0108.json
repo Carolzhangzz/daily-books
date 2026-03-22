@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "项塔兰",
+      "title_en": "Shantaram",
+      "author_zh": "格雷戈里·大卫·罗伯茨",
+      "author_en": "Gregory David Roberts",
+      "year": "2003",
+      "category": "文学",
+      "one_liner": "一个逃犯在印度孟买的救赎之旅",
+      "deep_dive": "想象一下，一个澳洲逃犯在孟买这座混乱、拥挤、神秘的城市里重生的故事。《项塔兰》就是这样一部壮阔的小说——厚重到可以当砖头砸人的那种。格雷戈里·大卫·罗伯茨本人就有过坐牢和逃狱的经历，所以这个故事有种真实感是其他虚构作品很难比的。小说的主人公叫林赛，一个澳洲逃犯在孟买落脚，用假名\"蛇行者\"(Shantaram)生活。小说不是线性的，它更像一部交响乐，把犯罪、爱情、友谊、哲学、印度文化、黑帮编织在一起。最吸引人的地方在于，它既是冒险小说，又是哲学思辨，还是关于人性的深刻观察。林赛在孟买学会了什么是真正的自由——不是物理意义上的逃脱，而是精神上的解放。每个人物都鲜活复杂，用自己的方式与命运搏斗。作者用约1000页的篇幅呈现了孟买地下世界和一个灵魂的救赎。读这部书时，孟买本身就像一个活生生的主人公。贫民窟、豪华别墅、港口、神庙，这些地方都有生命。虽然写于2003年，但关于流亡、身份、救赎的主题仍闪闪发光。许多人说这是读过最厚重、最感人、最冒险的小说。",
+      "quotes": [
+        {
+          "text": "It is said that something as small as a smile can change the world. But sometimes a smile is all we need to survive it.",
+          "context": "体现小说核心——在苦难中寻找人性和温暖的力量。"
+        },
+        {
+          "text": "Everyone of us is a moon, and has a dark side which he never shows to anybody.",
+          "context": "反映人物在隐居身份与真实自我间的张力，暗示每个人内心的复杂性。"
+        },
+        {
+          "text": "I love the way this city changes the way you love.",
+          "context": "关于孟买如何改变一个人的灵魂和爱的方式，是对这座城市魔力的致敬。"
+        }
+      ]
+    },
+    {
+      "title_zh": "观看之道",
+      "title_en": "Ways of Seeing",
+      "author_zh": "约翰·伯格",
+      "author_en": "John Berger",
+      "year": "1972",
+      "category": "艺术与美学",
+      "one_liner": "改变你看待艺术和世界的方式",
+      "deep_dive": "这本书改变了无数人看待艺术和图像的方式。约翰·伯格原是艺术评论家，这本书来自他在BBC拍摄的同名电视节目。与其说是学术著作，不如说是一份邀请——重新思考什么是艺术，为什么我们以某种方式看待它。《观看之道》核心观点是：视觉永远不是中立的。我们看一幅画、一张照片、一则广告时，观看本身就是一种文化行为，受社会、历史、权力结构影响。伯格用简单但深刻的想法开篇：在前摄影时代，一幅画的唯一性赋予权力。但摄影改变了一切，照片可无限复制，原作和复制品的区别被模糊。书中讨论艺术如何被制度化、广告如何操纵欲望、女性在艺术中如何被物化……这些议题70年代写就，到现在仍像警醒的刺。特别在社交媒体时代，每个人学习\"如何被看见\"，这本书对理解图像权力仍最尖锐。伯格写作风格友好、不晦涩、充满热爱。他不是教你欣赏艺术，而是问：你为什么这样欣赏？谁决定了好艺术？权力如何通过图像流动？这些问题一旦提出，难以被忽略。许多设计师、艺术家、批评家把这本书当作启蒙读物。",
+      "quotes": [
+        {
+          "text": "The way we see things is affected by what we know or what we believe.",
+          "context": "对全书最简洁的总结。观看不仅是眼睛的事，更是思想的事。"
+        },
+        {
+          "text": "A photograph is not necessarily created by a camera... Every photograph presents a world.",
+          "context": "强调照片不是客观记录，而是选择和权力的体现。"
+        },
+        {
+          "text": "All art exerts power, but that power is localized and contextualized.",
+          "context": "阐释艺术权力的相对性和历史性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "增长黑客",
+      "title_en": "Hacking Growth",
+      "author_zh": "肖恩·埃利斯",
+      "author_en": "Sean Ellis",
+      "year": "2016",
+      "category": "商业与技术",
+      "one_liner": "用数据和创意驱动指数级增长",
+      "deep_dive": "如果你创过业或在创业公司工作过，你可能听说过\"增长黑客\"。肖恩·埃利斯是这个概念的发明人之一，《增长黑客》是他和摩根·布朗写的实战指南。什么是增长黑客？传统营销花大钱做广告，增长黑客用最少的钱、最聪明的办法获得和保留用户。这在Airbnb、Uber、Slack、Instagram身上最明显。比如Airbnb早期怎么获得房源？创始人直接去Craigslist爬数据、打电话。这就是增长黑客——不按套路，用创意和数据解决不可能的问题。书的结构很实用。讲了七个关键步骤：找到产品市场匹配、分析用户行为、找到增长杠杆、测试创意、规模化策略、优化留存……每章都有真实案例。Pinterest怎么优化邀请流程？Dropbox怎么病毒式增长？Slack怎么从内部工具变成月活几百万的应用？但最有价值的地方不是案例本身，而是它教你思维方式。资源有限时，不能无限试错，所以必须设计清晰实验、快速迭代、用数据说话。增长黑客需要技术、数据分析、创意和心理学结合。如果创业或做产品，这是必读的。即使不在科技行业，这种思维——如何用最少资源达到最大效果——在任何领域都有价值。",
+      "quotes": [
+        {
+          "text": "The best startups have teams that combine both the business and engineering mindset in the pursuit of growth.",
+          "context": "强调增长黑客需要跨学科团队合作。"
+        },
+        {
+          "text": "You have to think of your product as the way to grow. Not marketing.",
+          "context": "颠覆传统营销观，认为产品本身就是增长引擎。"
+        },
+        {
+          "text": "Your job is to figure out what activities will have the most impact on your business.",
+          "context": "在无数可能性中，找到最有杠杆作用的那个。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0108"
+}
