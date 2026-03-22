@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "甘地自传",
+      "title_en": "The Story of My Experiments with Truth",
+      "author_zh": "莫罕达斯·甘地",
+      "author_en": "Mohandas Karamchand Gandhi",
+      "year": "1927",
+      "category": "传记与回忆录",
+      "one_liner": "一个印度律师如何通过非暴力抵抗改变了世界",
+      "deep_dive": "这本自传是甘地对自己一生的坦诚回顾。有意思的是他并不是一开始就知道自己的使命，而是在南非律师生涯中一次次失败和尝试后才找到方向。最打动人的是他对"真理"的执着——他把政治和伦理完全结合在一起，认为任何违背真理的手段最后都会失败。他在南非反对种族歧视的经历中，慢慢意识到暴力解决不了问题，反而非暴力抵抗能够唤醒人心。后来回到印度，他用这套理论带领整个民族争取独立，影响了马丁·路德·金和曼德拉。这不是简单的历史记录，而是一个人追求真理过程中的灵魂拷问。他坦诚地讲述了自己的错误和缺点，这种诚实本身就很打动人。",
+      "quotes": [
+        {
+          "text": "In a gentle way, you can shake the world.",
+          "context": "甘地相信温和而坚定的力量能够改变一切，这句话总结了他一生的哲学。"
+        },
+        {
+          "text": "The truth is like a vast tree which keeps growing and giving more fruit the more you tend it.",
+          "context": "反映了他对真理的理解——真理不是固定的，而是需要不断追求和完善的。"
+        }
+      ]
+    },
+    {
+      "title_zh": "维特根斯坦传",
+      "title_en": "Ludwig Wittgenstein: The Duty of Genius",
+      "author_zh": "瑞·蒙克",
+      "author_en": "Ray Monk",
+      "year": "1990",
+      "category": "传记与回忆录",
+      "one_liner": "20世纪最天才的哲学家在追求绝对真理中的挣扎与救赎",
+      "deep_dive": "维特根斯坦绝对是个奇人。这部传记讲的是一个奥地利富豪家族出身的人，本来可以养尊处优，但他非要把所有遗产都捐出去，然后去当中学教师、建筑师，甚至在一战中做工程兵。他的哲学生涯也跟人生一样极端——写出《逻辑哲学论》后就说哲学问题全解决了，离开学术圈。十年后又回来推翻自己的理论。蒙克笔下的维特根斯坦不是冷冰冰的天才，而是极其痛苦的人——对自己和他人都有不合理的道德要求，为每一点虚伪而折磨自己。他关心的不是学术成就，而是活出诚实和真理。这是个智识天才和精神苦行者永恒冲突的故事。",
+      "quotes": [
+        {
+          "text": "The problems are solved, not by giving new information, but by arranging what we have always known.",
+          "context": "来自《逻辑哲学论》，体现了他对哲学本质的理解——哲学不是发现新真理，而是理清我们已有的东西。"
+        },
+        {
+          "text": "A man can only be his authentic self when he admits to his weaknesses.",
+          "context": "蒙克强调的维特根斯坦核心信念，也是他一生不断自我批评和完善的原因。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论确实性",
+      "title_en": "On Certainty",
+      "author_zh": "路德维希·维特根斯坦",
+      "author_en": "Ludwig Wittgenstein",
+      "year": "1969",
+      "category": "哲学",
+      "one_liner": "用日常语言摧毁笛卡尔式怀疑论，回到生活的坚实基础",
+      "deep_dive": "这是维特根斯坦临终前的笔记，是他对整个西方哲学传统的一次挑战。他质疑一个看似简单的问题：我们怎么知道什么是确定的？传统哲学家从笛卡尔开始就想证明一切，甚至怀疑自己的手是否真的存在。维特根斯坦说：停止这种疯狂吧！我们日常生活中已经建立在某些确定的基础上，比如"我有两只手"这样的常识，它不需要被证明。他用语言游戏的概念来分析，认为确定性不是逻辑问题，而是语言使用问题。很多人读这本书会恍然大悟，原来哲学纠缠不清的问题，都是因为我们用错了词。虽然篇幅短，但密度很高，每段都能引发深思。",
+      "quotes": [
+        {
+          "text": "If I want the door to turn, the hinges must stay put.",
+          "context": "全书最著名的比喻——有些基础性的信念必须保持稳定，才能让思想的'门'转动。"
+        },
+        {
+          "text": "My life shows that I am relying on the bank of a river. Sure, it is very much overgrown, but so far it has not let me down.",
+          "context": "反映了他对日常确定性的理解——生活基础不需要绝对，只需足够稳定就可以。"
+        }
+      ]
+    }
+  ]
+}
+```
