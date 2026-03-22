@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "米德尔马契",
+      "title_en": "Middlemarch",
+      "author_zh": "乔治·艾略特",
+      "author_en": "George Eliot",
+      "year": "1871",
+      "category": "文学",
+      "one_liner": "19世纪英国最伟大的小说，通过小镇众人的梦想与失落，深刻剖析人生的复杂性与遗憾。",
+      "deep_dive": "《米德尔马契》不讲英雄壮举，而是把你带入一个虚构小镇，观察普通人如何在现实中妥协。年轻理想主义者多罗西亚嫁给冷酷学者卡苏邦却发现婚姻是幻灭；医学志向远大的利德盖茨为爱情与梦想纠缠；银行家布尔斯特罗德因往日秘密面临道德危机。\n\n艾略特的天才在于她从不简单判断任何人物。每个失败都有其深刻的人性根源。多罗西亚追求精神提升却被现实击碎，利德盖茨的雄心被贫困所困。读到后来你会明白，这其实是关于一个永恒主题：理想与现实的鸿沟。\n\n最打动人的是对人生选择后悔与妥协的刻画。没人能完全实现梦想，但每个人都在试图做得更好。这种对平凡生活的深入观察，让它成为了一部关于什么是有意义人生的沉思之作。",
+      "quotes": [
+        {
+          "text": "If we had a keen vision of all that is ordinary in human life, it would be like hearing the grass grow, and we should die of that roar which lies on the other side of silence.",
+          "context": "反思日常生活的深刻性——那些被视而不见的平凡时刻，其实充满了生命的律动。"
+        },
+        {
+          "text": "Taxation of earnings from labor is on a par with forced labor.",
+          "context": "对理想主义的无奈——即使怀揣最崇高的理想，也改变不了现实世界的粗糙。"
+        }
+      ]
+    },
+    {
+      "title_zh": "无政府主义国家与乌托邦",
+      "title_en": "Anarchy, State, and Utopia",
+      "author_zh": "罗伯特·诺齐克",
+      "author_en": "Robert Nozick",
+      "year": "1974",
+      "category": "哲学",
+      "one_liner": "政治哲学经典之作，用逻辑严密的论证挑战现代国家的合法性，为极小国家辩护。",
+      "deep_dive": "这部著作用一个看似简单但逻辑绝妙的论证来撼动我们对国家的认知。诺齐克从个人拥有对自己的权利这一基本假设出发，逐步推导出什么样的政治制度才是道德正当的。他的核心观点是：从无政府状态出发，通过个人权利与自愿交易，最终可以正当化一个极小国家，但任何超越此界限的国家行为——包括高额税收、福利制度——都构成了对个人权利的侵犯。\n\n这本书最有趣的地方在于论证方式。诺齐克反对罗尔斯的平等主义正义理论，用一个个例子说明看似公平的制度其实是对权利的侵犯。他认为强制征税来重分配财富，本质上是对有产者的奴役。读这本书时，你会不断被挑战既有的政治常识。即使最终不同意他的结论，也会对自己为什么不同意有更深的理解。",
+      "quotes": [
+        {
+          "text": "Individuals have rights, and there are things no person or group may do to them without violating those rights.",
+          "context": "诺齐克的核心信念——个人权利不可侵犯，是整个哲学体系的基石。"
+        },
+        {
+          "text": "The minimal state, limited to the narrow functions of protection against force, theft, and fraud, is justified, and any more extensive state will be unjustified.",
+          "context": "对理想国家形式的定义——极小国家是唯一正当的政治制度。"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的森林",
+      "title_en": "The Forest Unseen",
+      "author_zh": "大卫·乔治·哈斯凯尔",
+      "author_en": "David George Haskell",
+      "year": "2012",
+      "category": "自然与科学",
+      "one_liner": "生物学家用一年时间观察森林中一平方米的土地，在细微处发现自然界的壮阔与相互联系。",
+      "deep_dive": "哈斯凯尔选择了一个极具体的地点——田纳西州一片森林中的一平方米——然后用整整一年定期回到那里观察。这种做法的妙处在于它改变了我们看待自然的方式。我们通常觉得大自然很远、很宏大，但当你专注于一平方米的土壤、植物、昆虫和微生物时，你会发现宇宙的复杂性就在脚下。\n\n一只蚂蚁搬运死去的昆虫，一棵树的根系如何与真菌共生，一场雨水如何改变整个微观世界的运作——这些看似微小的细节，其实是整个生命网络的关键环节。哈斯凯尔用诗意而精准的语言讲述发现，不仅是科学家，更是敏锐的观察者。通过他的眼睛，我们学会了真正地停留、观察、思考。\n\n这本书教会我们的是对自然的尊重与谦卑：我们以为了解的世界，其实充满了从未察觉的奇迹。",
+      "quotes": [
+        {
+          "text": "Every breath of air carries within it a network of relationships, ancient and modern, visible and invisible.",
+          "context": "提示无生命的空气其实是充满生命相互联系的网络，体现了生态学的核心洞见。"
+        },
+        {
+          "text": "The forest is not a collection of trees. It is a community, a network of relationships and dependencies.",
+          "context": "森林的真正本质不在树木本身，而在它们之间的相互联系——理解自然的关键。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2348"
+}
