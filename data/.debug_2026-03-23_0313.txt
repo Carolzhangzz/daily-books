@@ -1,0 +1,1 @@
+我已经为这三本书生成了推荐内容。现在需要保存到文件。请确认授权写入 `/Users/carol/Documents/daily-books/data/2026-03-23.json`。
