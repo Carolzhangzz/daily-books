@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "清单革命",
+      "title_en": "The Checklist Manifesto",
+      "author_zh": "阿图·葛文德",
+      "author_en": "Atul Gawande",
+      "year": "2009",
+      "category": "商业与技术",
+      "one_liner": "用一张简单清单拯救生命：如何在复杂的现代世界中减少人为失误。",
+      "deep_dive": "这本书改变了我对「完美」的理解。葛文德是一位外科医生，他从飞行员使用检查清单避免灾难的经验出发，发现高风险领域（医疗、建筑、金融）都在与同一个敌人作战：复杂性导致的人为失误。书里最震撼的案例是在不发达地区医院，一份简单的19项清单能将手术死亡率从1.5%降到0.5%。葛文德的核心洞察是，在知识爆炸的时代，聪慧反而成为陷阱——我们自信到忽视细节。一张清单不是为了限制聪明人，而是给团队一个共同的心智框架，像乐队的乐谱一样。书中还涉及医疗、建筑、投资等多个领域，每个故事都在讲同一个真理：最好的表现来自谦逊和系统。这本书让我重新审视工作方式，意识到有时候简单的工具比聪慧的脑子更能救命。",
+      "quotes": [
+        {
+          "text": "The volume and complexity of what we know has exceeded our individual ability to deliver its benefits correctly, safely, or reliably.",
+          "context": "书的核心主题——为什么再聪明的人也需要清单。这句话点出了现代社会的根本困境"
+        },
+        {
+          "text": "The checklist gets the stupid stuff out of the way.",
+          "context": "葛文德对清单最简洁有力的定义。不是为了聪慧，而是为了不犯愚蠢的错误"
+        }
+      ]
+    },
+    {
+      "title_zh": "文明的冲突",
+      "title_en": "The Clash of Civilizations",
+      "author_zh": "塞缪尔·亨廷顿",
+      "author_en": "Samuel P. Huntington",
+      "year": "1996",
+      "category": "社科与历史",
+      "one_liner": "冷战结束后，世界将沿着文化和宗教线索分裂成不同的文明对阵。",
+      "deep_dive": "如果说冷战框架是「资本主义vs共产主义」，亨廷顿用《文明的冲突》告诉我们，新时代的框架是「西方vs其他」。出版于1996年的这部著作预言性地指出，未来的冲突不再是意识形态之争，而是不同文明（西方、伊斯兰、儒家、印度教、斯拉夫东正教、拉丁美洲等）的根本差异导致的对抗。亨廷顿认为，这些差异来自几千年的宗教、哲学和历史积淀，远深于政治制度。他的分析既有令人不适的洞察力——比如「伊斯兰的血腥边界」和「西方的衰落」——也引发了持续的争议。30年后回看，这本书像一面镜子，照出全球化时代我们忽视的深层断裂。它不是预言，但它重新定义了国际政治的语言。对于理解伊朗、中国、俄罗斯与西方的对立，这本书提供了一个令人不安但清晰的框架。",
+      "quotes": [
+        {
+          "text": "The great divisions among humankind and the dominating source of conflict will be cultural.",
+          "context": "亨廷顿对后冷战世界的核心论断——文化而非意识形态才是冲突的根源"
+        },
+        {
+          "text": "Western civilization is the only non-Western civilization to lose confidence in itself.",
+          "context": "对西方衰退的犀利观察，指出西方自我怀疑的独特性"
+        }
+      ]
+    },
+    {
+      "title_zh": "甘地自传",
+      "title_en": "An Autobiography: The Story of My Experiments with Truth",
+      "author_zh": "莫罕达斯·卡拉姆昌德·甘地",
+      "author_en": "Mahatma Gandhi",
+      "year": "1927",
+      "category": "传记与回忆录",
+      "one_liner": "从律师到圣雄：一个人如何通过真理和非暴力改变了一个国家的命运。",
+      "deep_dive": "这不是一部歌功颂德的传记，而是甘地本人对自己心路历程的坦诚记录。他用「真理实验」（experiments with truth）这个比喻贯穿全书，每一段人生都像一次科学试验。年轻的甘地曾是伦敦的彬彬有礼的律师，后来在南非经历种族歧视，逐渐找到了自己的道路。最触动人心的是，甘地从不把自己当作完人。他承认犯过错误、有过私欲、对性欲的持久斗争。书中涉及他对禁欲、素食、手纺布、印地语的执着，这些不是政治宣言，而是一个人对灵魂纯净性的追求。他的非暴力哲学不是消极退缩，而是积极的爱与抵抗的结合。读这本书最深刻的体验是，甘地教会我们何为「道德勇气」——不是推翻制度的暴力，而是坚守原则的温柔力量。在暴力和虚伪充斥的世界里，这本书像一盏灯。",
+      "quotes": [
+        {
+          "text": "All of us do not have the same capacities. It is necessary therefore that we recognize this fundamental diversity.",
+          "context": "甘地对人类多样性的认可，是他非暴力哲学的基础——尊重差异而非消灭差异"
+        },
+        {
+          "text": "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.",
+          "context": "面对压迫和苦难时，甘地对人类本质善良的永久信念，这也是他坚持非暴力的深层原因"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0231"
+}
