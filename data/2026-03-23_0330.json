@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "傲慢与偏见",
+      "title_en": "Pride and Prejudice",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1813",
+      "category": "文学",
+      "one_liner": "通过伊丽莎白和达西的故事探讨爱情与社会阶层，深刻揭示固有偏见如何阻碍人们看清真实。",
+      "deep_dive": "这不只是部爱情小说，而是对人性的深刻剖析。伊丽莎白最初厌恶达西，源于他在舞会上的冷漠和对她家人的嘲笑。但随着故事发展，她逐渐发现自己的判断有多片面——达西的骄傲背后是责任感和真诚，而看似迷人的威克姆却道德沦丧。这个发现改变了她对达西的看法，更让她反思自己的傲慢和偏见。在当今社交媒体时代，这个主题格外相关。我们经常基于表面信息对人做出快速判断，很少深入了解真相。班纳特家族虽生活在19世纪，但他们对婚姻的焦虑、对社会地位的执着、对八卦的热衷，在今天仍触动人心。这部作品经久不衰，不仅因爱情动人，更因触及人性中永恒的主题：自我欺骗、成长与救赎。奥斯汀的才华在于用平凡的人物和家庭故事，照亮人类共同的弱点和可能性。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "context": "开篇讽刺地陈述社会对单身富人的期待，为全书奠定讽刺幽默的基调，暗示人们对婚姻的执念如何扭曲了理性。"
+        },
+        {
+          "text": "I am not at all in a humour for talking. Go away!",
+          "context": "伊丽莎白对达西的直言，体现了她不顾社会期待、坚守自我的独立性格，正是这种真实打动了达西。"
+        },
+        {
+          "text": "Silly things do cease to be silly if they are done by sensible people in an impudent way.",
+          "context": "奥斯汀对社会虚伪的精妙讽刺——背景和方式能改变人们对行为的评价，揭露了上流社会的双重标准。"
+        }
+      ]
+    },
+    {
+      "title_zh": "进化心理学",
+      "title_en": "Evolutionary Psychology: The New Science of the Mind",
+      "author_zh": "大卫·巴斯",
+      "author_en": "David Buss",
+      "year": "1999",
+      "category": "科学与认知",
+      "one_liner": "用进化论的视角解释人类心理和行为，揭示我们的大脑如何被数百万年自然选择塑造。",
+      "deep_dive": "这本书最激进的主张是：我们的思想、情感和行为不是从零开始的，而是被进化塑造的产物。想象你为什么害怕蛇但不害怕汽车，尽管汽车在现代世界更危险？答案在于祖先——那些害怕蛇的人活了下来并繁殖，不警惕蛇的人没有。我们的恐惧偏好就这样被刻进DNA。巴斯用这样的例子解释从求偶选择、嫉妒、合作到父母养育的各种行为。最引人思考的是性别差异讨论。为什么男性和女性在配偶选择、嫉妒反应和性态度上有系统差异？不是社会压制，而是进化中的不同成本与收益。这不意味着这些差异应被接受，但理解起源能帮助我们做出明智选择。这本书面临批评，尤其担心被用来为有害行为辩护，但正因如此，更需要理性批判思维。巴斯的工作为现代心理学、经济学和社会学提供深刻框架，强迫我们重新审视人类本性这个永恒问题。",
+      "quotes": [
+        {
+          "text": "Humans are sophisticated pleasure machines that evolved mechanisms to experience pleasure in circumstances that would have increased genetic success in ancestral environments.",
+          "context": "概括了进化心理学的核心观点：我们的快乐系统被设计来应对祖先环境，而非现代世界，这解释了现代人的许多困境。"
+        },
+        {
+          "text": "Jealousy is an emotional mechanism that was designed by natural selection to solve the adaptive problem of mate retention.",
+          "context": "用嫉妒这种复杂情感说明，看似非理性的感受其实都有进化上的逻辑和深层功能。"
+        },
+        {
+          "text": "The human mind is not a single, general-purpose computer. Instead, it is composed of many specialized mechanisms, each designed by natural selection to solve problems ancestral humans faced.",
+          "context": "挑战了传统心智观，提出我们的思维是许多专化工具的集合，而不是单一的理性引擎，具有重大哲学意义。"
+        }
+      ]
+    },
+    {
+      "title_zh": "商业冒险",
+      "title_en": "Business Adventures: Twelve Classic Tales from the World of Wall Street",
+      "author_zh": "约翰·布鲁克斯",
+      "author_en": "John Brooks",
+      "year": "1969",
+      "category": "商业与技术",
+      "one_liner": "通过十二个精彩的商业故事，展现美国资本主义的人性面，从华尔街的繁荣到企业的致命决策。",
+      "deep_dive": "这是沃伦·巴菲特最喜爱的商业书之一，当你读完就能理解为什么。这不是教你如何成为百万富翁的自助书，也不是充满公式的管理学教科书。相反，它是十二个叙述性故事，每一个都像精彩的戏剧一样展开。布鲁克斯以财经记者的敏锐眼光，挑选了美国商业史的关键时刻：1929年股市崩盘的导火索、福特推出新车的混乱、电话公司的政治博弈、药品公司的失败决策。每个故事涉及真实人物、具体决定和意外后果。你会看到聪明人做出愚蠢决定，看到这些决定如何导致数百万美元损失或意想不到的成功。最令人着迷的是，这些教训都来自现实而非理论。西林德鲁格公司的故事展现了组织如何在错误信息和群体思维下做出致命决定。AT&T的故事揭示了垄断企业如何在权力中变得怠惰。这些教训对今天的硅谷创业者同样适用。在充满MBA理论和硅谷神话的时代，《商业冒险》提醒我们，真实的商业故事往往比虚构更离奇，更有启发性。它教会我们谦虚，因为最聪明的人有时做出最愚蠢的决定；它教会我们怀疑，因为群体智慧有时会变成群体疯狂。",
+      "quotes": [
+        {
+          "text": "The most interesting thing about business history is not the things that happened but the things that could have happened or might happen.",
+          "context": "强调对历史细节的关注和对未来可能性的思考，而不仅仅接受已发生的事实，这种思维方式对决策者至关重要。"
+        },
+        {
+          "text": "In the stock market, there is no such thing as a good or bad move; there are only winning and losing moves, and mostly luck determines which is which.",
+          "context": "反映了金融市场不可预测性的本质，以及人们将运气解释为技能的倾向，这是投资中最危险的错觉。"
+        },
+        {
+          "text": "The essence of great leadership is not brute strength but the ability to inspire confidence and manage change.",
+          "context": "通过众多案例阐述真正伟大领导者的特质——不是权力，而是获得信任和驾驭变化的能力。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0330"
+}
