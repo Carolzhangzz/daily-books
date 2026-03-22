@@ -2,62 +2,74 @@
   "date": "2026-03-23",
   "books": [
     {
-      "title_zh": "人类的误测",
-      "title_en": "The Mismeasure of Man",
-      "author_zh": "史蒂芬·杰·古尔德",
-      "author_en": "Stephen Jay Gould",
-      "year": "1981",
-      "category": "科学史/社会科学",
-      "one_liner": "一部科学侦探故事，揭示测量如何被用来伪装和强化偏见。",
-      "deep_dive": "这本书就像一场知识法庭，古尔德扮演检控官。他带我们回到19世纪，看看怎么有些聪明的科学家用尺子、秤子和数字给人类分等级，然后用这些精确的测量来证明他们预设的社会等级。你会看到头颅测量学如何堂皇冠冕地为奴隶制和帝国主义背书，IQ测试如何被美国用来筛选移民，基因决定论怎样成为优生学的工具。最有趣的是，古尔德不是简单地说\"科学坏\"，而是展示了科学方法本身没问题，问题在于科学家是人，人会带着自己的偏见和时代的烙印。这让你重新思考：当我们看到一个数字、一个排名、一份测试结果时，真正衡量的是什么？背后隐藏了什么假设？这不仅是历史课，更是关于如何批判性地看待我们今天正在做的测量和分类。",
+      "title_zh": "情人",
+      "title_en": "The Lover",
+      "author_zh": "玛格丽特·杜拉斯",
+      "author_en": "Marguerite Duras",
+      "year": "1984",
+      "category": "文学",
+      "one_liner": "一部半自传体小说，讲述了作者与一位中国富商的禁忌爱情故事。",
+      "deep_dive": "这是杜拉斯最著名的作品，也是她真实人生的文学化呈现。小说讲述了十五岁的法国少女与年长的中国富商的爱情故事，发生在殖民地越南。你会被那种克制而深沉的情感震撼——两个来自不同世界的人，被强烈的欲望和社会禁忌所束缚。杜拉斯的笔触很特别，她不会给你传统的爱情故事，而是一种剥离了修饰的、几近冷漠的叙述。女主角的声音在你脑海中回响，她谈论身体、金钱、家庭，用一种成熟而又带着青春期困惑的语气。整部作品充满了张力——表面的平静下是无法消解的渴望。这不是一部让人舒服的书，反而会让你不断思考爱情、阶级、权力之间的关系。",
       "quotes": [
         {
-          "text": "Science cannot work by faith: it is fundamentally a procedure for testing and rejecting hypotheses. But science can go just as far astray as any other institution when scientists stop doing their job and instead let existing biases override their commitment to truth.",
-          "context": "说明科学需要不断的自我批评，而不是被权力和偏见所绑架。"
+          "text": "他从来不知道我爱他。我从来没有告诉过他。在和他在一起的时候，我一直在演戏。",
+          "context": "反映了女主角对爱情的复杂态度——她既沉溺于这段关系，又保持着一种冷眼旁观的距离"
         },
         {
-          "text": "I am, I hope, a pluralist, and for a pluralist, the search for ranking of values—in absolute terms—is a fruitless endeavor.",
-          "context": "古尔德强调多元性，反对一切以单一标准衡量人类价值的做法。"
+          "text": "15岁时，我就已经很漂亮。这件事从此改变了我的人生。",
+          "context": "开篇的著名句子，揭示了女性身体与命运之间的不可避免的联系"
+        },
+        {
+          "text": "我记得那个下午，我在渡轮上，脸上涂着口红。就是那一刻，一切都改变了。",
+          "context": "象征了青春与诱惑、命运的分界线，以及不可逆转的人生转变"
         }
       ]
     },
     {
-      "title_zh": "万物简史",
-      "title_en": "A Short History of Nearly Everything",
-      "author_zh": "比尔·布莱森",
-      "author_en": "Bill Bryson",
-      "year": "2003",
-      "category": "科学/历史",
-      "one_liner": "宇宙、地球、生命的一次漫游式讲述，充满惊奇和幽默。",
-      "deep_dive": "想象有个朋友在酒吧里给你讲科学的故事——就是这种感觉。布莱森不是在写教科书，他是在讲故事。他告诉你宇宙大爆炸有多奇怪（根本无法想象），地球怎样从一个熔融的球体变成一颗活着的行星，恐龙统治地球期间发生了什么，为什么我们的身体容易出错，人类如何从猿进化而来，自然界有多么凶险。你会发现，历史上一些最伟大的发现往往不是因为科学家多聪明，而是因为他们运气好、很固执，或者刚好在正确的地点出现。每一章都能让你说出\"原来如此！\"，而他的幽默感让这趟科学之旅从不显得枯燥。这是一本让你更好地理解自己和世界的书，方式是既严肃又轻松的。",
+      "title_zh": "穷查理宝典",
+      "title_en": "Poor Charlie's Almanack",
+      "author_zh": "查理·芒格",
+      "author_en": "Charlie Munger",
+      "year": "2005",
+      "category": "商业与技术",
+      "one_liner": "沃伦·巴菲特的搭档、伯克希尔哈撒韦公司副主席的智慧语录和投资哲学集。",
+      "deep_dive": "如果你想了解如何像芒格一样思考，这本书就是他思维方式的直接窗口。芒格在过去几十年里发表的演讲、信件和评论被汇编成了这本书，你会发现他的投资哲学其实就是一套通用的思维框架。他强调的是跨学科思维——从心理学、历史、数学到物理学，再把这些知识融合在一起做决策。最有意思的部分是他对人性弱点的洞察，以及为什么大多数人会在投资和人生中犯同样的错误。芒格不会告诉你买什么股票，而是教你如何避免愚蠢。他反复强调的那些\"害人不浅\"的思维方式——如何识别它们，如何克服它们——这些才是真正的财富。读完这本书，你会重新思考自己的决策方式。",
       "quotes": [
         {
-          "text": "Atoms are made from subatomic particles, which are made from even more subatomic particles, which in turn are made from—well, nobody knows.",
-          "context": "传达了科学认识的局限性，以及自然界的深不可测。"
+          "text": "我们所做的就是不断地寻找傻瓜想做的事情，然后我们就去做。",
+          "context": "芒格对投资策略的精妙总结——投资成功不在于复杂，而在于发现那些显而易见的真理"
         },
         {
-          "text": "The remarkable thing about nature is that it is capable of creating such complexity from such simplicity.",
-          "context": "强调了自然界从简单原理产生复杂现象的奇妙性。"
+          "text": "最重要的是独立思考。如果你不能独立思考，你就很容易被利用。",
+          "context": "强调了理性思维和个人判断在投资和人生中的核心价值"
+        },
+        {
+          "text": "如果你想变得聪明，你必须阅读。没有捷径。",
+          "context": "芒格对知识积累的坚持，反映了他认为持续学习是致胜的关键"
         }
       ]
     },
     {
-      "title_zh": "基辛格传",
-      "title_en": "Kissinger: A Biography",
-      "author_zh": "沃尔特·艾萨克森",
-      "author_en": "Walter Isaacson",
-      "year": "1992",
-      "category": "传记/政治史",
-      "one_liner": "一个难民男孩如何成为塑造冷战世界格局的政治家。",
-      "deep_dive": "这部传记读起来像一部政治惊悚小说。从一个逃离纳粹德国的犹太难民男孩，到哈佛教授，再到美国国务卿和国家安全顾问，基辛格的人生轨迹本身就很戏剧性。但艾萨克森真正做得好的是，他让你理解基辛格的决策——不只是评价对错，而是解释这个人怎么思考的。你会看到越南战争、中美建交、印巴战争、中东冲突这些历史时刻，从一个亲历者和决策者的角度。基辛格的现实主义外交（放弃意识形态，专注国家利益）改变了冷战的走向，但代价是什么？有些决定拯救了生命，有些带来了悲剧。这本书不会给你简单的答案，但它会让你明白，大国政治如何在道德和现实之间走钢丝。如果你想理解20世纪后半叶的世界是怎样形成的，这是必读之作。",
+      "title_zh": "苏菲的世界",
+      "title_en": "Sophie's World",
+      "author_zh": "乔斯坦·贾德",
+      "author_en": "Jostein Gaarder",
+      "year": "1991",
+      "category": "哲学",
+      "one_liner": "一部融哲学史教程和推理小说于一体的作品，通过一个少女的哲学启蒙之旅，揭示了西方哲学的核心思想。",
+      "deep_dive": "这本书很特别——它既是一部惊人的哲学史入门，又是一个引人入胜的悬念故事。苏菲是一个十四岁的挪威女孩，某天她开始收到一些神秘的信件，有人在教她从古希腊哲学一路讲到现代哲学。随着故事推进，你会发现这不仅仅是一场哲学课，而是一个关于现实本质的谜团。作者用巧妙的方式让你在跟随苏菲学习哲学的同时，陷入一个不断深化的谜题。什么是现实？我们为什么会存在？这些大问题不再是抽象的，而是和苏菲的切身经历紧密相连。书中从苏格拉底讲到康德、黑格尔，再到当代哲学，每一位哲学家的思想都被解释得异常清晰，就像有一位智慧的朋友在和你谈心。最妙的是，整部作品本身就是一个哲学命题的体现。",
       "quotes": [
         {
-          "text": "The statesman's duty is to serve the national interest, not to gratify popular sentiments or to make moral judgments about the international system.",
-          "context": "体现了基辛格的现实主义外交哲学，强调国家利益的优先性。"
+          "text": "你不应该想当然地接受任何事物。你应该始终问'为什么'。",
+          "context": "这是整部作品的核心理念——鼓励读者和苏菲一样，保持哲学思维的好奇心"
         },
         {
-          "text": "Accept everything about yourself—I mean everything. You are you and that is the beginning of all wisdom.",
-          "context": "基辛格关于自我认知和自我接纳的思想，体现了他的人生智慧。"
+          "text": "我们就像兔子，被从帽子里拉出来一样。关键是要弄清楚这个魔术是如何运作的。",
+          "context": "用比喻说明了哲学的本质——理解我们从何而来、世界如何运作"
+        },
+        {
+          "text": "没有人能真正解释为什么会有某种东西而不是根本没有。",
+          "context": "触及了最深层的哲学问题——存在本身的谜团，激发了对终极真理的探求"
         }
       ]
     }
