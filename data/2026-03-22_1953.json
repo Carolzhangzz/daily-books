@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "监视资本主义时代",
+      "title_en": "The Age of Surveillance Capitalism",
+      "author_zh": "肖莎娜·祖博夫",
+      "author_en": "Shoshana Zuboff",
+      "year": "2019",
+      "category": "社会观察/技术批评",
+      "one_liner": "揭露科技巨头如何通过数据开采和行为预测，把我们的生活变成了利润工厂。",
+      "deep_dive": "这本书真的让人有点细思极恐。祖博夫在书里详细剖析了谷歌、Facebook这些科技巨头是怎么从\"免费服务\"起家，逐渐演变成「监视资本主义」的怪物的。她把我们每一次点击、每一条搜索、每一个位置信息都看作是被「开采」的原始数据。这些数据被加工成精准的行为预测模型，再被卖给广告商和其他企业。最恐怖的是，这种监视不是政府强制，而是我们「自愿」交出去的——因为那些APP又好用又免费。书中强调，这不仅是隐私问题，而是涉及到自由意志和民主制度的根本威胁。读完你会发现，你以为在用手机，其实是手机在用你。",
+      "quotes": [
+        {
+          "text": "Surveillance capitalism unilaterally claims private experience as raw material for behavioral prediction and modification.",
+          "context": "祖博夫在定义监视资本主义的核心本质时的表述，指出这种系统如何将私人体验商品化。"
+        },
+        {
+          "text": "权力掌握在拥有最多数据的人手中，而不是拥有最多金钱的人。",
+          "context": "书中揭示了信息时代权力结构的转变，数据成为了比金钱更有价值的资产。"
+        }
+      ]
+    },
+    {
+      "title_zh": "哲学的故事",
+      "title_en": "The Story of Philosophy",
+      "author_zh": "威尔·杜兰特",
+      "author_en": "Will Durant",
+      "year": "1926",
+      "category": "哲学入门/历史",
+      "one_liner": "用故事而不是艰涩的定义来讲解西方哲学史，让你发现每个哲学家都曾经和你一样困惑过。",
+      "deep_dive": "这本书的妙处在于杜兰特把哲学家的思想讲得像在聊天。他不会堆砌术语，而是先问「为什么古代人要思考这些问题」，然后再带你进入柏拉图、亚里士多德、笛卡尔这些大人物的思想世界。读这本书你会意识到，哲学其实不是高高在上的学问，而是人类对永恒问题的追问：什么是真实？什么是正义？我们应该怎样生活？杜兰特特别聪明的地方在于，他把每个哲学家放在他所处的时代背景里，解释为什么那个时代会产生那样的思想。比如笛卡尔为什么要怀疑一切，斯宾诺莎为什么那么乐观。读完这本书，你会对西方思想传统有个清晰的全景图。",
+      "quotes": [
+        {
+          "text": "Philosophy is the adjustment of imagination to fact.",
+          "context": "杜兰特对哲学本质的定义，强调哲学是想象与现实的不断调和。"
+        },
+        {
+          "text": "Every man is a philosopher, though he may not know it.",
+          "context": "指出哲学思维并非精英专属，每个人都在进行哲学思考，无论他是否意识到。"
+        }
+      ]
+    },
+    {
+      "title_zh": "怪诞行为学",
+      "title_en": "Predictably Irrational",
+      "author_zh": "丹·艾瑞里",
+      "author_en": "Dan Ariely",
+      "year": "2008",
+      "category": "心理学/行为经济学",
+      "one_liner": "用科学实验证明我们的决策其实远没有自己想象的那么理性，而且这种不理性是有规律可循的。",
+      "deep_dive": "艾瑞里是个天才的故事讲手，他用一个又一个实验告诉你，我们每天做的那些决定其实都在犯同样的「错误」。比如为什么免费的东西会让我们疯狂（即使它其实不值钱）？为什么我们倾向于懒得改变现状（即使现状并不好）？为什么买东西的时候脑子一热就会花比平时多十倍的钱？最有趣的是，艾瑞里证明了这些不理性不是随机的，而是有规律的——你可以预测人们会怎么犯傻。这改变了传统经济学假设「人是理性的」这个基础。书里的例子特别生活化，从餐厅菜单设计、药物定价到男性荷尔蒙对决策的影响，读起来特别有意思。你会开始怀疑自己的每一个选择是不是真的来自理性的思考。",
+      "quotes": [
+        {
+          "text": "We are not as rational as we like to think we are.",
+          "context": "艾瑞里对人类决策本质的核心观点，是整本书的主题。"
+        },
+        {
+          "text": "The prices we pay in the marketplace for goods and services are not necessarily correlated with their value.",
+          "context": "阐述了市场价格与实际价值之间的断裂，揭示消费者心理中的非理性定价认知。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1953"
+}
