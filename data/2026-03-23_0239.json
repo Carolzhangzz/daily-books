@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "皇帝新脑",
+      "title_en": "The Emperor's New Mind",
+      "author_zh": "罗杰·彭罗斯",
+      "author_en": "Roger Penrose",
+      "year": "1989",
+      "category": "科学与认知",
+      "one_liner": "物理学家论证人类意识无法完全被经典计算机制解释，需要量子现象来理解思维本质。",
+      "deep_dive": "这本书绝对是烧脑的，但值得一读。彭罗斯是顶级物理学家，他在这里挑战一个很流行的想法——人的思维本质上就是计算，比电脑复杂点而已。他说不对，人类意识有某种特殊的东西，这东西不能被传统计算机科学完全解释。\n\n他提出大胆理论：意识产生可能涉及量子力学现象，特别是大脑微管中的量子过程。听起来科幻，但他用了大量数学和物理论证支撑。他还讨论哥德尔定理，说人的数学直觉能理解某些机器永远无法证明的真理，暗示人类思维超越机械计算。\n\n核心争议是：如果AI只能进行经典计算，它永远无法拥有真正的意识和理解力。这在AI领域引发长期辩论。但无论你最后同意不同意，这本书都会让你重新思考什么是意识、什么是理解、机器和人脑的本质区别。读完后你看待人工智能的态度可能完全改变。",
+      "quotes": [
+        {
+          "text": "When a conscious being, such as a human, perceives a situation, that being's consciousness is associated with a specific pattern of physical activity in the brain.",
+          "context": "指出意识与大脑物理活动的关联，为后续论证量子现象参与意识做铺垫。"
+        },
+        {
+          "text": "The very same physical laws that we use to describe the inanimate world also apply to the biological world, but consciousness may require something beyond classical physics.",
+          "context": "强调经典物理学可能不足以解释意识现象，需要量子现象的参与。"
+        }
+      ]
+    },
+    {
+      "title_zh": "活出生命的意义",
+      "title_en": "Man's Search for Meaning",
+      "author_zh": "维克多·弗兰克尔",
+      "author_en": "Viktor Frankl",
+      "year": "1946",
+      "category": "传记与回忆录",
+      "one_liner": "集中营幸存者通过亲身经历证明，在最黑暗的处境中找到意义，就能坚持活下去。",
+      "deep_dive": "这是极其深刻的著作。作者是心理学家，也是奥斯维辛和达豪集中营幸存者。这不仅是回忆录，更是关于人性和希望的哲学论证。\n\n弗兰克尔在集中营看到了人类最残忍的一面，也看到最顽强的精神。他发现，在绝望中活下来的人往往不是身体最强壮的，而是那些坚持生活有意义的人。一个人只有找到生活的\"为什么\"，才能承受任何\"怎样\"的苦难。\n\n他提出\"意义疗法\"：心理健康基础是对生活意义的追求，不是对幸福或快乐的追求。这听起来反直觉，但想想——只追求快乐的人，一旦快乐消失就绝望；但有更大目标和意义的人，即使苦难中也能坚持。\n\n这本书改变了对人生的看法。它告诉我们，生活意义不是给予的，而是我们自己创造选择的。在任何情况下，我们都有自由选择态度。这是关于人类尊严和自由的宣言。",
+      "quotes": [
+        {
+          "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+          "context": "强调面对不可改变困境时，改变自我态度和选择的重要性。"
+        },
+        {
+          "text": "Those who have a 'why' to live can bear with almost any 'how'.",
+          "context": "全书核心观点，说明生活意义对于承受苦难的关键作用。"
+        },
+        {
+          "text": "Man's search for meaning is the primary motivation in his life.",
+          "context": "阐述追求生活意义是人类最基本动力，比追求快乐或权力更深层。"
+        }
+      ]
+    },
+    {
+      "title_zh": "百年孤独",
+      "title_en": "One Hundred Years of Solitude",
+      "author_zh": "加西亚·马尔克斯",
+      "author_en": "Gabriel García Márquez",
+      "year": "1967",
+      "category": "文学",
+      "one_liner": "拉美小镇百年家族史，用魔幻现实主义讲述爱、死亡、循环和孤独的永恒主题。",
+      "deep_dive": "这是文学史上的杰作，也最难读。马尔克斯创造了马孔多小镇，世代重复的名字——七代布恩迪亚家族，每一代都重复上一代故事，仿佛被诅咒。\n\n最强大的地方是\"魔幻现实主义\"手法。在这世界里，人可能浮起来，死人回来找活人谈话，一场雨可能下三四年。这些荒诞事件发生得很自然，没惊讶余地，好像日常生活一部分。这手法让我们看到现实另一面——生活本身充满无法解释的事件，习以为常的世界其实也很荒诞。\n\n核心是关于孤独的。虽然镇上有很多人，但每个人最终都陷入某种孤独——爱的人无法相爱，理解渴望无法满足，历史不断重复。这孤独不是缺乏陪伴，而是无法真正被理解和被记忆。\n\n读这本书很累，因为需要跟着它在时间里迷茫，但这迷茫正是它想传达的——生命循环、遗忘的力量、在无尽重复中如何保持自我。这是关于人类处境最深刻的思考。",
+      "quotes": [
+        {
+          "text": "It was as if God had decided to put to the test every capacity for surprise and was keeping the inhabitants of Macondo in a permanent alternation between doubt and revelation.",
+          "context": "体现魔幻现实主义核心特质，以及马孔多居民被命运戏弄的宿命感。"
+        },
+        {
+          "text": "Years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
+          "context": "小说开篇著名句子，通过倒叙展现记忆、时间和命运的交织。"
+        },
+        {
+          "text": "The only evidence of their existence was the terrible smell of corruption.",
+          "context": "反映小说中关于遗忘、死亡和孤独的主题，人类存在的虚幻和易逝。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0239"
+}
