@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "居里夫人传",
+      "title_en": "Madame Curie",
+      "author_zh": "艾芙·居里",
+      "author_en": "Ève Curie",
+      "year": "1937",
+      "category": "传记与回忆录",
+      "one_liner": "一个女性科学家如何突破时代的限制，为人类揭示放射性的秘密",
+      "deep_dive": "这是玛丽亚·居里女儿艾芙写的传记，不是学术著作，而是充满人性温度的故事。读过很多次才明白，居里夫人不只是一个伟大的科学家，更是一个有血有肉的女人——她为科学痴迷，为丈夫的去世悲伤，为社会的冷漠感到愤怒。这本书的魅力在于它捕捉了两个截然不同的时代。在19世纪末的巴黎，一个女人想进入科学的殿堂有多难？当时的大学甚至不允许女性做讲师。但居里夫人就是有这种执着——在简陋的实验室里，日夜不休地用镐子敲击沥青铀矿，提取放射性物质。她和皮埃尔发现了镭，这个发现改变了物理学和医学的进程。你会看到她的脆弱和坚强。失去丈夫后，她没有选择退缩，反而更加投入研究。她成为了第一个获得两次诺贝尔奖的女性。但这种牺牲有代价——她的身体在与放射线的接触中逐渐被摧毁，最终死于恶性贫血。这个故事既激励人心，又令人唏嘘。读这本传记，你不是在学物理，而是在看一个普通女人如何用一生去追求自己相信的东西。",
+      "quotes": [
+        {
+          "text": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.",
+          "context": "居里夫人关于坚持与自信的言论，反映了她面对科学困境时的心态"
+        },
+        {
+          "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+          "context": "这句话体现了她对科学认识论的哲学思考，也是她人生态度的写照"
+        },
+        {
+          "text": "Be less curious about people and more curious about ideas.",
+          "context": "体现了她将科学研究置于人事纷扰之上的执着信念"
+        }
+      ]
+    },
+    {
+      "title_zh": "太阳照常升起",
+      "title_en": "The Sun Also Rises",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1926",
+      "category": "文学",
+      "one_liner": "一群困顿在物质富足但精神空虚的战后青年，在跨越大陆的旅程中寻找生活的意义",
+      "deep_dive": "这是海明威的处女作，也是他最有名的作品之一，被誉为迷茫的一代文学的代表作。我第一次读的时候，被它的简洁和冷漠所震撼——没有华丽的辞藻，只有短句和对白，却能传达出深深的虚无感。故事围绕杰克·巴恩斯展开，他是一个战伤者，在巴黎和几个朋友一起混日子。他们有钱，能去酒吧、能旅行、能追求艳遇，但所有这一切都无法填补内心的空虚。这群人经历了一战，看到了人性的黑暗，于是陷入了一种无目的的漂浮状态。最有趣的是这本书如何反映了一个时代的气质。1920年代的巴黎是欧洲的文化中心，充满了艺术家、作家、音乐家。但在海明威的笔下，这种繁荣的表面下是一种深深的虚无——人们纵欲、逃避、自我消耗。当他们去西班牙观看斗牛，那场面就像是人生的隐喻：激烈、残酷，最后总是以死亡结束。重读这本书时，我发现它依然很现代。虽然背景是百年前，但那种精神上的困顿，对生活意义的追问，今天依然存在。",
+      "quotes": [
+        {
+          "text": "The world breaks everyone, and afterward, many are strong at the broken places.",
+          "context": "这句话是对人类韧性的深刻观察，也是整部作品的精神核心"
+        },
+        {
+          "text": "Isn't it pretty to think so?",
+          "context": "小说的最后一句，体现了对美好事物最后的无奈放弃，是全书最令人心碎的结尾"
+        },
+        {
+          "text": "I can't stand it to think my life is going so fast and so stupidly.",
+          "context": "反映了迷茫一代对自我生活的困顿和批评"
+        }
+      ]
+    },
+    {
+      "title_zh": "空间诗学",
+      "title_en": "The Poetics of Space",
+      "author_zh": "加斯东·巴舍拉尔",
+      "author_en": "Gaston Bachelard",
+      "year": "1958",
+      "category": "哲学与美学",
+      "one_liner": "在日常建筑空间中发现诗意，空间不仅是几何形状，更是人类想象和记忆的容器",
+      "deep_dive": "这是一部关于想象的杰作。巴舍拉尔不是建筑师或空间规划师，他是一个哲学家和诗人，用诗意的语言来探讨我们如何居住在这个世界。这本书改变了我对日常空间的理解——房子、地下室、阁楼、抽屉、壳体，这些看似平凡的空间，其实承载着人类最深层的心理和精神活动。巴舍拉尔的核心观点是：空间不仅仅是物理的维度，它首先是想象的维度。一个房间对你意味着什么？一个壳体为什么让我们感到安全？为什么我们童年的房子在记忆中如此巨大和神圣？这些问题看似简单，但答案涉及到人类最根本的存在体验。这本书充满了诗人的直觉和哲学家的深度。巴舍拉尔引用了大量的诗歌和文学作品来说明空间如何在想象中展开。读这本书的时候，你会开始注意到自己周围的空间细节。在当下，这本书显得特别有意义。我们越来越多地生活在非常现代、冷漠的空间中——标准化的办公室、千篇一律的公寓。但巴舍拉尔提醒我们，我们仍然可以在这些空间中注入想象和诗意。一个家不仅是房子，它是你的精神的映射。",
+      "quotes": [
+        {
+          "text": "If I were asked to name the chief benefit of the house, I should say: the house shelters daydreaming.",
+          "context": "点出了空间的本质功能——提供想象和白日梦的场所，而非仅仅是物理保护"
+        },
+        {
+          "text": "For all really inhabited space bears the essence of home.",
+          "context": "揭示了'家'的哲学本质，任何被我们真正居住的空间都具有家的属性"
+        },
+        {
+          "text": "The house is the dwelling place that shelters the daydreaming that protects the dreamers.",
+          "context": "强调了空间对人类精神生活的保护和培育作用，是全书最核心的观点"
+        }
+      ]
+    }
+  ]
+}
+```
