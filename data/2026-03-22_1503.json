@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "第三波",
+      "title_en": "The Third Wave",
+      "author_zh": "艾尔文·托夫勒",
+      "author_en": "Alvin Toffler",
+      "year": "1980",
+      "category": "社会学/未来学",
+      "one_liner": "一部预言了信息时代的经典著作，认为人类社会将经历农业、工业、信息三波革命",
+      "deep_dive": "托夫勒在这部著作中大胆预测了人类社会的未来走向。想象一下，早在1980年代，他就描绘出了信息革命将如何改变我们的生活方式——从工作到家庭，从教育到政治，几乎涉及社会的每个角落。他把人类历史划分为三个时代：农业文明让人们在土地上定居，工业文明通过标准化和大规模生产彻底改造了社会结构，而正在到来的第三波——信息文明，将带来去中心化、个性化和多样化的新世界。虽然有些预测显得有点超前（或者说过于乐观），但他关于信息技术如何改变权力结构、工作方式和个人生活的许多观察，现在看来简直像是在写今天的新闻。这本书的魅力就在于它能让你重新审视自己所处的时代——我们究竟在经历什么？未来又会如何？",
+      "quotes": [
+        {
+          "text": "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.",
+          "context": "强调在信息时代，适应能力和学习能力比基础知识更重要"
+        },
+        {
+          "text": "The future cannot be predicted, but it can be invented.",
+          "context": "托夫勒对人类未来的乐观态度"
+        },
+        {
+          "text": "You must never confuse faith that you will prevail in the end with the discipline to confront the most brutal facts of your current reality.",
+          "context": "关于面对现实和拥抱变化的深刻思考"
+        }
+      ]
+    },
+    {
+      "title_zh": "秋园",
+      "title_en": "The Autumn Garden",
+      "author_zh": "莉莲·海尔曼",
+      "author_en": "Lillian Hellman",
+      "year": "1951",
+      "category": "戏剧",
+      "one_liner": "一部深入人性的心理戏剧，在秋日别墅里展开的人性冲突和自我欺骗",
+      "deep_dive": "这部戏剧就像是一个心理诊疗室——一群陌生人在一个南方的乡间别墅里度假，表面上是闲适的秋日休闲，但实际上每个人都背负着自己的秘密、遗憾和自欺欺人的故事。海尔曼用精妙的对话和微妙的人物互动，逐步揭露这些人物内心的伤痕。一个曾经的风云人物如今沦落到无关紧要，一段失败的爱情关系被掩藏在虚伪的礼节之下，各种人生选择的后悔在酒水和闲聊中若隐若现。戏剧的精妙之处在于，没有什么戏剧化的冲突，没有什么大事件，却能让观众感受到一种深沉的人生无奈——我们都在用谎言和习惯来保护自己，但代价是什么呢？海尔曼以女性视角深刻洞察了人类的虚伪，这部作品虽然有些压抑，但却异常真实和动人。",
+      "quotes": [
+        {
+          "text": "We are always looking for the truth. But we don't always know what we will do with it when we find it.",
+          "context": "关于人类面对真实时的矛盾心理"
+        },
+        {
+          "text": "I came here to be buried. I can't do it. I got myself into this at the wrong time.",
+          "context": "人物对过往选择的后悔和对现状的绝望"
+        }
+      ]
+    },
+    {
+      "title_zh": "等待戈多",
+      "title_en": "Waiting for Godot",
+      "author_zh": "塞缪尔·贝克特",
+      "author_en": "Samuel Beckett",
+      "year": "1952",
+      "category": "戏剧/荒诞文学",
+      "one_liner": "一部没有传统情节的存在主义经典，两个人无休止地等待一个永远不会出现的人",
+      "deep_dive": "这部戏剧就像是一个哲学实验：舞台上只有两个人，他们在等待。等待什么？一个叫戈多的人，他最终永远不会出现。看起来很简单，甚至有点无聊，但这就是天才之处。贝克特用这个看似无聊的等待，抓住了人类存在的核心问题——我们在生活中究竟在等待什么？我们存在的意义是什么？当你看这部戏时，会发现里面充满了黑色幽默和荒诞感。两个角色时而绝望，时而又找到某种奇怪的乐趣。他们做无意义的事，说无意义的话，然后重复，日复一日。这种重复和无意义，实际上深深反映了我们现代人对生活的某种感受——那种虚无感，那种等待但又不知道在等什么的感受。即使这部作品写于1950年代，它对当今社会的描写仍然惊人地准确。",
+      "quotes": [
+        {
+          "text": "Nothing to be done.",
+          "context": "剧中的开篇台词和贯穿始终的主题，象征着存在的无力感"
+        },
+        {
+          "text": "We are waiting for Godot.",
+          "context": "剧中反复出现的台词，代表人类对希望的执着追求"
+        },
+        {
+          "text": "Habit is a great deadener.",
+          "context": "关于人如何在日常生活的习惯中失去生命意义的深刻反思"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1503"
+}
