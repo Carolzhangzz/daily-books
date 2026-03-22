@@ -1,0 +1,1 @@
+我已为三本书生成了推荐内容。需要您授予权限来保存 JSON 文件到 `/Users/carol/Documents/daily-books/data/`，然后会推送到 GitHub Pages。
