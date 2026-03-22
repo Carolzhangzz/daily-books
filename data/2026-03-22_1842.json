@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "基因组",
+      "title_en": "Genome: The Autobiography of a Species in 23 Chapters",
+      "author_zh": "马特·里德利",
+      "author_en": "Matt Ridley",
+      "year": "1999",
+      "category": "科普/遗传学",
+      "one_liner": "用23条染色体的故事讲述人类基因密码的奥秘。",
+      "deep_dive": "这本书太有趣了，里德利用一种全新的方式把遗传学从实验室搬到了日常对话中。他没有去写什么《DNA是什么》这样的枯燥教科书，而是挑了23条染色体，每条一章，通过讲述那些疾病、性格、才能背后的基因故事，让你发现人类就像是一部由基因编写的自传。你会了解到为什么有些人天生就容易抑郁，为什么智力会遗传，为什么男女差异远不止表面那么简单。最妙的是，他一边讲科学，一边在问一个根本问题：基因决定了什么，又没决定什么？看完后你会重新思考关于本性与后天的那个永恒辩题。这种深入浅出的科普写法真的改变了很多人对自己的理解。",
+      "quotes": [
+        {
+          "text": "We are not the slaves of our genes. They are the servants of our happiness.",
+          "context": "里德利关于基因与自由意志的核心观点，强调基因是工具而非宿命。"
+        },
+        {
+          "text": "Nature is not a democracy. It is not even a dictatorship. It is a monarchy that does not consult with the ruled.",
+          "context": "探讨基因如何塑造我们却不受我们控制的讽刺现象。"
+        },
+        {
+          "text": "If a gene is selfish, what does that tell you about the way natural selection works?",
+          "context": "提出基因层面的自私性如何推动进化的深刻问题。"
+        }
+      ]
+    },
+    {
+      "title_zh": "选择的悖论",
+      "title_en": "The Paradox of Choice: Why More Is Less",
+      "author_zh": "巴里·施瓦茨",
+      "author_en": "Barry Schwartz",
+      "year": "2004",
+      "category": "心理学/自助",
+      "one_liner": "选择越多，幸福感反而越低——现代生活的残酷真相。",
+      "deep_dive": "施瓦茨这本书戳中了现代人的痛点。我们都以为自由就是选择更多，但他用一个接一个的心理学实验和生活故事告诉你，事实恰恰相反。超市里1000种酸奶让人反而无所适从，约会App里的无限选项让人始终觉得下一个更好，职业选择太多反而让人更焦虑。选择过多带来的不是自由感，而是决策瘫痪、责任压力和永远的后悔。你会不断想，要不选另一个会不会更好？这种心理学陷阱在消费社会里无处不在。书里最有意思的是他提出的解决方案——其实我们需要的不是减少选择权，而是改变对选择的态度，学会在「足够好」的时候满足，而不是永远追求「完美」。读完这本书你会明白，为什么有时候选择少反而能活得更幸福。",
+      "quotes": [
+        {
+          "text": "The secret to happiness is high expectations and low expectations.",
+          "context": "施瓦茨的核心观点——满足感来自于调整期待，而非完美选择。"
+        },
+        {
+          "text": "With the explosion of choice comes the explosion of expectations about how good life can be.",
+          "context": "解释为什么更多选择导致更多失望的根本原因。"
+        },
+        {
+          "text": "Maximizers will always be less happy than satisficers.",
+          "context": "提出追求最优的人注定比接受足够好的人更不快乐。"
+        }
+      ]
+    },
+    {
+      "title_zh": "失控",
+      "title_en": "Out of Control: The New Biology of Machines, Social Systems, and the Economic World",
+      "author_zh": "凯文·凯利",
+      "author_en": "Kevin Kelly",
+      "year": "1994",
+      "category": "科技/复杂系统",
+      "one_liner": "生命、机器和社会的共同法则——适应、进化和自组织。",
+      "deep_dive": "这本书在1994年出版时简直超前了二十多年。凯文·凯利在里面探讨的东西现在听起来就像是在讲AI和互联网的未来。核心思想是：控制是幻觉，我们应该向生物系统学习。他用养蜂场、蚁群、免疫系统、进化算法这些案例说明，最复杂、最强大的系统其实都是分布式的、没有中央控制的。每个个体或单位很简单，但当它们相互作用时就产生了难以预测的涌现现象。这对我们的产品设计、公司管理、甚至互联网架构都有深远影响。书里讨论了为什么你无法完全控制一个复杂系统，为什么应该设计让系统自组织而不是自上而下管理，为什么生物系统的进化方法比理性设计更强大。读这本书的有趣之处在于，你会发现它对当下的科技发展预言得惊人准确，同时也会改变你对「控制」这个概念的理解。",
+      "quotes": [
+        {
+          "text": "The only way to create a system that is more complex than you are is to embrace system which you don't fully understand.",
+          "context": "凯利关于复杂系统的核心悖论——你无法通过理性设计完全掌控一个超越你智力的系统。"
+        },
+        {
+          "text": "Control is not a thing you do to a system. Control is a property of a system.",
+          "context": "从本质上重新定义了控制的含义，强调分布式系统的自我调节能力。"
+        },
+        {
+          "text": "The most reliable way to forecast the future is to try to understand the present.",
+          "context": "强调观察和适应当前系统运作规律的重要性，而非预测未来。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1842"
+}
