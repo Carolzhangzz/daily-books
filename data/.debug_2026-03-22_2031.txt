@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "枪炮、病菌与钢铁",
+      "title_en": "Guns, Germs, and Steel",
+      "author_zh": "贾雷德·戴蒙德",
+      "author_en": "Jared Diamond",
+      "year": "1997",
+      "category": "社科与历史",
+      "one_liner": "地理决定论——为什么欧洲人征服了世界，而不是反过来？",
+      "deep_dive": "读这本书时，我最深的感受就是'原来历史可以这样解释'。你有没有想过，为什么欧洲人能征服美洲，而不是反过来？如果纯粹从人的角度讲，很难解释。但戴蒙德给了我们全新视角——问题根本不在于人，而在于地理。\n\n他的核心论点围绕三个东西：枪炮、病菌和钢铁。这些东西的出现不是因为某个民族更聪明，而是因为地理和环境的巧合。欧亚大陆有更多可驯化的大型动物——马、牛、羊，有了这些，人们可以进行规模化农业，支撑更密集的人口。密集人口带来的关键'副产品'是传染病。欧洲人在与牲畜共处的漫长历史中，进化出了对麻疹、流感的免疫力。但美洲原住民没有这样的历史，所以当欧洲人到来时，病菌几乎是致命的。真正征服美洲的不是枪炮，而是病菌。\n\n书中还讨论了粮食驯化。有些地区的地理气候条件根本不适合种植高产粮食作物。没有足够粮食，就没法支撑大规模城市和国家。这不是人不够聪明，而是环境决定了选择空间。\n\n这本书让我重新思考什么是'先进'和'落后'。国家间发展差异背后有深层的地理和环境因素，而非什么文明程度高低。读完后，你会对'地理即命运'这句话有全新的理解。",
+      "quotes": [
+        {
+          "text": "History followed different courses for different peoples because of differences among peoples' environments, not because of biological differences among peoples themselves.",
+          "context": "全书最核心的论点，直接反驳种族论，指出历史进程差异源于环境而非人种本身"
+        },
+        {
+          "text": "Geography is history's greatest hero.",
+          "context": "强调地理因素在塑造人类历史和文明发展中的决定性作用"
+        }
+      ]
+    },
+    {
+      "title_zh": "学会提问",
+      "title_en": "Asking the Right Questions: A Guide to Critical Thinking",
+      "author_zh": "M. 尼尔·布朗、斯图亚特·基利",
+      "author_en": "M. Neil Browne, Stuart M. Keeley",
+      "year": "1998",
+      "category": "科学与认知",
+      "one_liner": "批判性思维的核心是学会提出好问题——这本书教你像侦探一样审视每个论证。",
+      "deep_dive": "你有没有注意到，生活中我们经常被各种论证淹没？新闻标题、广告、朋友的建议，甚至专家意见。大多数人的反应是要么全信，要么全反驳。但这本书教我们第三种方式——学会提问。\n\n作者的核心观点很简单但很强大：论证的质量取决于你问了哪些问题。他们提出了一系列'关键问题'框架，帮助快速识别任何论证中的漏洞。这些问题包括：理由是什么？有哪些假设没质疑？还有其他解释吗？数据从哪来？\n\n这不是教你如何辩论赢的书，也不是教说服别人的书。恰恰相反，它教你如何保护自己不被说服，除非那个论证真的站得住脚。在信息爆炸时代，这个技能变得越来越重要。\n\n有趣的是，学会提问的过程其实是学会谦虚。当你开始问'这个证据有多强？''可能还有其他原因吗？'这些问题时，你会发现很多事情其实没你想象的那么确定。这可能让你不适，但这正是批判性思维的价值。它不是让你总反对别人，而是让你成为独立思考的人。",
+      "quotes": [
+        {
+          "text": "A critical thinker is someone who refuses to accept something just because someone says it is true.",
+          "context": "批判性思维的本质不是反对，而是拒绝盲目接受权威，强调独立思考的重要性"
+        },
+        {
+          "text": "What are the reasons and evidence? This is the first question we must ask in evaluating any claim.",
+          "context": "强调理由和证据是评估任何主张的基础，是所有批判性思维的起点"
+        }
+      ]
+    },
+    {
+      "title_zh": "丝绸之路",
+      "title_en": "The Silk Roads: A New History of the World",
+      "author_zh": "彼得·弗兰克帕恩",
+      "author_en": "Peter Frankopan",
+      "year": "2015",
+      "category": "社科与历史",
+      "one_liner": "改写我们对历史认知的力作——丝绸之路不仅是贸易线，更是理解当今世界的钥匙。",
+      "deep_dive": "读完这本书，我对世界历史的整个理解都被重新组织了一遍。我们学校学的历史总围绕欧洲——古希腊、罗马、中世纪、文艺复兴、大航海、欧洲上升。但弗兰克帕恩问了个简单到被忽视的问题：如果不从欧洲角度看历史，会怎样？\n\n答案是丝绸之路——从中国经中亚到波斯、再到地中海的贸易网络，重要性远超我们认识。它不仅是运输丝绸瓷器的路线，更是思想、宗教、技术、文化的交汇点。通过丝绸之路，佛教从印度传入东亚，伊斯兰教向东扩展，中国的造纸术和火药最终到达欧洲。\n\n弗兰克帕恩跨越两千多年讲述，展示了在中世纪和近代早期，东方——特别是波斯和中亚——其实比欧洲更繁荣强大。欧洲最终'崛起'不是自身优势，而是地理和历史偶然。丝绸之路衰落、奥斯曼帝国崛起切断东西贸易，迫使欧洲寻找新通路，导致了大航海和全球扩张。\n\n最有意思的是，虽然丝绸之路历史上衰落，但从未消失。在当今'一带一路'倡议中，我们看到的是古老道路的重新启动。这让历史和现实连接，让我们能从更深视角理解当今地缘政治。读完这本书，你会发现许多当今国际关系、贸易格局，甚至冲突，其实都有深厚的历史根源。",
+      "quotes": [
+        {
+          "text": "The Silk Roads were not just one trade route; they were a complex network of routes, a web of connections that linked merchants and ideas across vast distances.",
+          "context": "强调丝绸之路不是单一贸易路线，而是复杂网络，其价值远超商业，包含思想和文化交流"
+        },
+        {
+          "text": "The road to the future was being paved in the East, not in the West.",
+          "context": "颠覆传统欧洲中心观，指出在历史上很长的时期内，东方才是文明的中心"
+        }
+      ]
+    }
+  ]
+}
+```
