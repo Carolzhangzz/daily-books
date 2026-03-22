@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "信任",
+      "title_en": "Trust: The Social Virtues and the Creation of Prosperity",
+      "author_zh": "弗朗西斯·福山",
+      "author_en": "Francis Fukuyama",
+      "year": "1995",
+      "category": "社科与历史",
+      "one_liner": "社会信任是现代繁荣的隐形基础，比制度和法律更重要。",
+      "deep_dive": "这本书改变了我对经济发展的理解。福山告诉我们一个反直觉的真相：一个国家的财富，根本不取决于自然资源或技术有多先进，而是取决于这个社会的人们彼此有多信任。听起来有点虚，但他举的例子特别扎心——美国和日本之所以能产生大规模的公司合作，背后是深层的社会信任；而一些资源丰富的国家反而因为信任破裂，陷入贪腐和内耗。这让我重新思考：为什么有的团队能高效协作，有的再多流程也白搭？答案可能就藏在信任这两个字里。福山还区分了\"高信任社会\"和\"低信任社会\"，指出中国的家族式企业文化，本质上是因为只有血缘关系才能建立信任。这对理解不同文化的商业模式特别有启发。读完后我对\"制度究竟能改变什么\"有了更深的思考——制度重要，但信任是底层的底层。",
+      "quotes": [
+        {
+          "text": "Trust is the expectation that arises within a community of regular, honest, and cooperative behavior.",
+          "context": "福山对信任的核心定义，强调信任不是道德说教，而是可预期的社会行为。"
+        },
+        {
+          "text": "The wealth of nations depends on habitual levels of sociability and trust.",
+          "context": "直指核心观点，社会信任是国家繁荣的真正来源，比GDP和政策更根本。"
+        },
+        {
+          "text": "In high-trust societies, people can cooperate on large scales without detailed rules and monitoring.",
+          "context": "解释为什么高信任社会能产生大企业和复杂的经济体系，而无需过度管理。"
+        }
+      ]
+    },
+    {
+      "title_zh": "重新定义公司",
+      "title_en": "How Google Works",
+      "author_zh": "埃里克·施密特、乔纳森·罗森伯格",
+      "author_en": "Eric Schmidt, Jonathan Rosenberg",
+      "year": "2014",
+      "category": "商业与技术",
+      "one_liner": "谷歌用数据、信息透明和人才自由度，颠覆了传统企业的管理逻辑。",
+      "deep_dive": "读这本书的时候我才意识到，为什么谷歌能一直走在创新前沿——他们根本不是在做传统管理。施密特和罗森伯格直白地说，互联网时代的公司需要重新定义一切：招聘、决策、创新的方式。最打动我的是他们关于\"信息对称\"的论述。在谷歌，几乎所有决策数据都对所有员工开放，这听起来疯狂，但结果是员工能做出更聪明的决定，创新自然就来了。他们还强调\"聪明人\"的重要性——与其招10个平庸员工，不如招1个天才。这改变了我对\"团队规模\"的思考。另一个核心观点是\"目标的力量\"，一个明确的、令人振奋的目标能让整个组织自发地优化，比KPI和奖惩更有效。这本书不光讲谷歌，更重要的是展示了一种思维方式：在信息爆炸的时代，传统的等级制和信息控制已经过时，只有拥抱开放和相信员工的公司，才能真正适应变化。",
+      "quotes": [
+        {
+          "text": "The Internet dissolves the barriers of traditional management. You have to trust your employees.",
+          "context": "信息时代管理的核心转变，强调信任和透明比控制更有力。"
+        },
+        {
+          "text": "Hire people smarter than you and get out of their way.",
+          "context": "谷歌的招聘哲学，宁要天才一人也不要平庸十人，给他们自由度比管理更重要。"
+        },
+        {
+          "text": "Innovation happens at the intersection of disciplines.",
+          "context": "解释为什么谷歌鼓励跨部门协作和开放信息，多元视角产生创意。"
+        }
+      ]
+    },
+    {
+      "title_zh": "道德形而上学基础",
+      "title_en": "Groundwork for the Metaphysics of Morals",
+      "author_zh": "伊曼纽尔·康德",
+      "author_en": "Immanuel Kant",
+      "year": "1785",
+      "category": "哲学",
+      "one_liner": "道德不来自后果或感受，而来自理性——你应该做的事，是所有人都能作为普遍法则来遵循的事。",
+      "deep_dive": "这本书一开篇就砸碎了我对道德的幼稚想法。康德说，真正的道德不是为了得到好结果，也不是因为这样做会让我们快乐，而是因为理性本身命令我们这样做。他引入的\"绝对命令\"概念特别深刻：一个行为只有在能被作为普遍法则对所有人适用时，才是道德的。换句话说，你欺骗别人只有在全世界所有人都可以欺骗你时才是对的——听起来荒谬，对吧？正是这种荒谬，说明了我们的欺骗本质上是不道德的。康德还区分了\"出于责任的行为\"和\"符合责任的行为\"，前者才是真正有道德价值的。一个人帮助别人因为他想获得名声，和因为道德责任而帮助，虽然结果一样，但道德价值天壤之别。这对我的人生选择影响很大——它让我思考，我做的决定是因为它们对吗，还是因为它们对我有利？这本书很硬核，康德的逻辑严密到近乎刚硬，但正是这种不妥协，让现代伦理学有了牢固的基础。",
+      "quotes": [
+        {
+          "text": "Act only according to that maxim whereby you can at the same time will that it should become a universal law.",
+          "context": "康德的绝对命令核心表述，要求我们只做那些我们希望所有人都遵循的事。"
+        },
+        {
+          "text": "An action done from duty has its moral worth not in the purpose which is to be attained by it, but in the maxim by which it is determined.",
+          "context": "强调道德的本质在于意愿和原则，而非结果，这与功利主义的伦理观根本不同。"
+        },
+        {
+          "text": "Act so that you treat humanity, whether in your own person or in that of another, always as an end and never as a means only.",
+          "context": "康德关于尊重人的尊严的重要论述，反对把人作为达成目标的工具。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1835"
+}
