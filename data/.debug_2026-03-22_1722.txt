@@ -1,15 +1,22 @@
-我在书单中查找了这三本书，发现：
+根据 daily-books 技能的工作流程，我检查了这三本书在经典书单中的状态：
 
-**找到的书籍：**
-- 《心流》(*Flow*) - 米哈里·契克森米哈赖 ✓
-- 《进化心理学》(*Evolutionary Psychology*) - 大卫·巴斯 ✓
+✅ **心流** (*Flow*) - 米哈里·契克森米哈赖 - 在书单中  
+✅ **进化心理学** (*Evolutionary Psychology*) - 大卫·巴斯 - 在书单中  
+❌ **科学的旅程** - 未在书单中找到
 
-**未找到的书籍：**
-- 《科学的旅程》— 这本书在我的经典书单中未找到。可能你指的是以下之一？
-  - 《万物简史》(*A Short History of Nearly Everything*) - 比尔·布莱森
-  - 《时间简史》(*A Brief History of Time*) - 斯蒂芬·霍金
-  - 《混沌》(*Chaos: Making a New Science*) - 詹姆斯·格雷克
+现在为找到的两本书生成内容：
 
-为了继续，我已为找到的两本书生成了推荐内容。请告诉我《科学的旅程》的英文书名或作者，或者选择上面的替代书籍之一，我可以为其生成推荐：
+```json
+{"date":"2026-03-22","books":[{"title_zh":"心流","title_en":"Flow: The Psychology of Optimal Experience","author_zh":"米哈里·契克森米哈赖","author_en":"Mihaly Csikszentmihalyi","year":"1990","category":"科学与认知","one_liner":"探索人生最幸福的时刻，发现最优体验的秘密。","deep_dive":"你有没有过那种完全沉浸在做某件事的时刻？时间好像飞快流逝，你忘记了周围的一切，只专注于眼前的挑战。这就是契克森米哈赖所说的"心流"——人生中最充实、最幸福的时刻。\n\n这本书的核心观点很简单：幸福不是来自金钱、名利或被动的享乐，而是来自那些充满挑战、需要全力投入的活动。作者通过几十年的研究采访了数千人，他们来自各行各业——艺术家、运动员、企业家、外科医生，甚至普通的工厂工人。\n\n什么时候我们最快乐？当我们面对一个自己有能力胜任但又足够挑战的任务时。如果任务太简单，我们会感到无聊；如果太难，我们会焦虑。只有在这个"金发女孩区间"，我们才能进入心流状态。这个概念既简单又深刻。\n\n最吸引人的是，心流解释了为什么有人可以在看似枯燥的工作中找到快乐，也解释了为什么我们坐在沙发上刷手机，即使看了几小时内容也不觉得充实。在注意力经济时代，我们被设计好的成瘾系统包围，容易陷入假快乐的陷阱。这本书提醒我们，更深层、更持久的幸福来自那些需要我们全身心投入的活动。\n\n重要的是，心流不是奢侈品。无论你从事什么工作，都有可能通过调整让日常活动变成心流体验。这也是为什么这本书不仅对寻求幸福的人有用，对想优化生活和工作的人也很有启发。","quotes":[{"text":"The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.","context":"心流状态最经典的定义，解释了为什么挑战和奋斗能带来幸福"},{"text":"Unless a person learns to enjoy work, he or she will never be really satisfied with life.","context":"指出工作和生活质量的深层联系，强调找到工作中的意义有多重要"},{"text":"Enjoyment is not a passive state; it must be produced.","context":"强调幸福是积极创造出来的，而不是消极等待或消费"}]},{"title_zh":"进化心理学","title_en":"Evolutionary Psychology: The New Science of the Mind","author_zh":"大卫·巴斯","author_en":"David Buss","year":"2015","category":"科学与认知","one_liner":"用进化的眼光理解人类行为的深层逻辑。","deep_dive":"如果你曾想过为什么我们总是被某些人吸引，为什么我们在乎别人对我们的看法，为什么嫉妒会让我们做出不理性的事，答案可能藏在我们的进化历史里。大卫·巴斯的著作用一个优雅的框架解释了我们看似奇怪或自相矛盾的行为。\n\n核心思想是：我们的心理机制是在数百万年的进化过程中形成的，用来解决祖先面临的生存和繁殖问题。我们现在的大脑本质上是一个远古的大脑，被现代的皮肤包裹着。这解释了为什么我们对高糖、高脂肪的食物如此渴望，或为什么我们对权力和地位如此感兴趣。\n\n巴斯深入探讨了众多话题：为什么男女的择偶标准不同、为什么人类会嫉妒（男女的嫉妒内容实际不同）、为什么我们会欺骗、为什么我们渴望联系和地位。最有趣的是它不在道德评判，而在解释。当你理解了为什么我们有某个倾向，你就不再对它感到困惑或内疚。\n\n这并不意味着我们被完全决定了。进化心理学提供的是倾向，不是命运。知道我们有嫉妒的倾向，意识到这一点，我们就能有意识地调整行为。这就是为什么这门学科既有趣又实用，既谦逊又强大。\n\n书中的许多研究案例来自真实的人类行为观察，涵盖了爱情关系、工作竞争、友谊到家族冲突。巴斯用清晰的语言和丰富的例子，让这个可能很学术的主题变得非常易读和吸引人。","quotes":[{"text":"An astonishing fact about Homo sapiens is that we are exquisitely sensitive to precisely those social devaluations that would have caused our ancestors to lose status, resources, or mates.","context":"解释了为什么我们对社会评价如此敏感，这种敏感性在进化上是有意义的"},{"text":"Our minds are not blank slates on which experience writes what it will. Rather, they are collections of specialized mechanisms, each exquisitely designed by natural selection to solve particular adaptive problems.","context":"进化心理学的核心观点——心理机制是特化的工具，而不是通用的处理器"},{"text":"Conflict is an inevitable consequence of the human social world because the goals of different individuals are often fundamentally opposed.","context":"强调人类冲突的必然性和根源，来自于个体目标的对立"}]}]}
+```
 
-{"date":"2026-03-22","books":[{"title_zh":"心流：最优体验心理学","title_en":"Flow: The Psychology of Optimal Experience","author_zh":"米哈里·契克森米哈赖","author_en":"Mihaly Csikszentmihalyi","year":"1990","category":"科学与认知","one_liner":"揭示人类最幸福的时刻——当专注与挑战完美平衡时的心理状态。","deep_dive":"你有没有过那种时光飞逝的体验？完全沉浸在某件事中，忘记了时间，忘记了烦恼，只有纯粹的专注和快乐。这就是心流。契克森米哈赖花了几十年研究这种最优体验，访问了各行各业的人——运动员、艺术家、外科医生、禅僧——他们都描述了相同的心理状态：完全投入、高度专注、获得感十足。心流不是天赋，而是一种可以培养的心理条件。它需要三个元素的碰撞：明确的目标、即时反馈，以及技能与挑战的平衡。太简单了无聊，太困难了焦虑，只有恰到好处的难度才能让你进入心流状态。这本书改变了我们对幸福的理解——幸福不在于被动娱乐，而在于主动创造和投入。无论你是想提升工作效率，还是想在爱好中找到更深的满足感，心流理论都能给你实用的启发。","quotes":[{"text":"The best moments in our lives are not passive, receptive, leisure times... The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.","context":"契克森米哈赖定义了人生最值得的时刻——不是舒适安逸，而是充满挑战的努力"},{"text":"Happiness is not by chance, but by choice.","context":"强调幸福和心流状态可以通过主动选择和行动而获得，而非消极等待"},{"text":"The secret to a happy life is to achieve a state of flow in whatever you do.","context":"揭示了幸福生活的核心秘诀——在任何活动中都能进入心流状态"}]},{"title_zh":"进化心理学：心理的新科学","title_en":"Evolutionary Psychology: The New Science of the Mind","author_zh":"大卫·巴斯","author_en":"David M. Buss","year":"2008","category":"科学与认知","one_liner":"用进化生物学的视角解读人类心理，从择偶到嫉妒，从合作到竞争的深层根源。","deep_dive":"为什么女性更看重男性的资源和地位，而男性更看重女性的年轻和外貌？为什么亲兄弟姐妹之间会产生嫉妒？为什么我们对陌生人的不公平待遇比对亲人更宽容？传统心理学往往把这些现象看作文化建构或个人选择，但进化心理学给出了一个激进的答案：这些行为模式都是几百万年进化的结果。大卫·巴斯是进化心理学的奠基人之一，这本书系统地展示了如何用自然选择理论来解释人类的心理机制。我们的大脑是一个装满"心理适应"的工具箱，每个工具都是祖先在特定环境中解决生存和繁衍问题时演化出来的。从配对制度到亲缘识别，从社会地位竞争到联盟形成，进化心理学都能给出深刻的解释。最引人入胜的是，这个视角让我们既能理解人类行为的普遍性——为什么世界各地的婚配模式惊人相似——又能理解个体差异的来源。不过要注意，理解了进化根源并不意味着接受现状；认识我们的心理偏见反而是改变它们的第一步。","quotes":[{"text":"Evolutionary psychologists do not claim that all behavior is adaptive—only that the human mind contains evolved psychological mechanisms.","context":"澄清进化心理学的核心观点：我们的心理机制是进化产物，但不是所有行为都有适应性"},{"text":"The mind evolved to solve adaptive problems that recurred in ancestral environments.","context":"解释为什么人类心理的很多特点看起来"过时"——因为它们是为了解决远古环境中的问题"},{"text":"Jealousy appears to be an emotion shaped by evolution to solve a critical problem for ancestral men—paternity uncertainty.","context":"用嫉妒情绪的进化来解释性别差异，说明进化心理学如何解释复杂情感"}]}]}
+---
+
+**关于"科学的旅程"**：这本书不在经典书单中。你可能是指以下相近的著作之一：
+
+- 《万物简史》(*A Short History of Nearly Everything*) - 比尔·布莱森 - 讲述宇宙、地球、生命的演化历程
+- 《时间简史》(*A Brief History of Time*) - 斯蒂芬·霍金 - 物理学和宇宙学的科学之旅
+- 《信息简史》(*The Information*) - 詹姆斯·格雷克 - 从鼓声到互联网的信息演化史
+- 《宇宙的琴弦》(*The Elegant Universe*) - 布莱恩·格林 - 现代物理学的发现之旅
+
+请告诉我你具体想了解的是哪一本，我会立即为你生成完整的推荐内容！
