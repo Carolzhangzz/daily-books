@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "逻辑的引擎",
+      "title_en": "Engines of Logic: Mathematicians and the Origin of the Computer",
+      "author_zh": "马丁·戴维斯",
+      "author_en": "Martin Davis",
+      "year": "2000",
+      "category": "数学与逻辑",
+      "one_liner": "追溯从莱布尼茨到图灵的逻辑发展史，揭示计算机的理论根源",
+      "deep_dive": "这是一部引人入胜的知识史诗。戴维斯用讲故事的方式，把你带到数学史上最璀璨的时刻。从莱布尼茨梦想的通用语言，到布尔的逻辑代数，再到哥德尔的不完全定理，你会看到一个个天才是如何一步步为现代计算机的诞生铺路的。最妙的是，书中不是干巴巴地列举公式和定理，而是讲述这些数学家的人生故事——他们如何思考，如何被问题困扰，如何有了突破。你会理解为什么图灵的工作不是凭空想象，而是站在巨人肩膀上的自然结果。读完这本书，你不仅明白了计算机是怎么来的，更重要的是体会到了人类理性思维的进化轨迹。这些逻辑学家们虽然从未见过现代电脑，但他们的思想像种子一样，最终长成了改变世界的树。",
+      "quotes": [
+        {
+          "text": "Logic is the study of valid reasoning, and once systematized, it becomes a kind of machinery that can be set in motion by purely mechanical means.",
+          "context": "强调逻辑可以被机械化，这是计算机的理论基础"
+        },
+        {
+          "text": "The Analytical Engine is the embodiment of every mechanical principle which is known to us.",
+          "context": "巴贝奇对分析引擎的描述，体现了逻辑向物理实现的转化"
+        },
+        {
+          "text": "The child of that intellectual ferment of the nineteenth century was the electronic computer.",
+          "context": "说明计算机是19世纪逻辑学发展的必然产物"
+        }
+      ]
+    },
+    {
+      "title_zh": "君主论",
+      "title_en": "The Prince",
+      "author_zh": "尼可罗·马基雅维利",
+      "author_en": "Niccolò Machiavelli",
+      "year": "1532",
+      "category": "政治哲学",
+      "one_liner": "一部直言不讳的权力圣经，颠覆了西方关于政治的浪漫想象",
+      "deep_dive": "这是一本会让你感到不适的书——用最直白的方式。马基雅维利没有讲述政治应该怎样，而是冷酷地分析权力实际上是怎样的。他告诉你，一个有效的统治者需要什么？不是道德、仁慈或高尚的理想，而是实实在在的权术——必要时不择手段。这在16世纪是革命性的，在今天仍然让人不安。但这正是这本书的力量所在。五百年来，它困扰着思想家、吓坏了道德家、却启发了无数政治家。马基雅维利的语言很直接，没有华丽的修饰，读起来就像他坐在你对面，用现实的冷酷来戳破你对权力的浪漫幻想。他分析国家的兴衰，讨论如何维持权力，如何对待敌人和朋友。无论你最终是否同意他的观点，这本书都会深刻改变你对权力、政治和人类本性的理解。它是一面镜子，反射出权力政治的真实面貌。",
+      "quotes": [
+        {
+          "text": "It is better to be feared than loved, if you cannot be both.",
+          "context": "关于领导力的核心观察，突破了道德禁忌，指向权力的现实运作逻辑"
+        },
+        {
+          "text": "Men are so simple and so readily obey that those who play the part of the lion make greater progress than those who play the part of the fox.",
+          "context": "讨论力量与狡猾在权力中的作用，显示马基雅维利的现实主义风格"
+        },
+        {
+          "text": "Everyone sees what you appear to be, few experience what you really are.",
+          "context": "揭示权力中最关键的洞察——appearance和reality的差距，强调形象管理的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "梦的解析",
+      "title_en": "The Interpretation of Dreams",
+      "author_zh": "西格蒙德·弗洛伊德",
+      "author_en": "Sigmund Freud",
+      "year": "1900",
+      "category": "心理学",
+      "one_liner": "打开潜意识之门的经典著作，用梦揭示隐藏在心底的欲望与恐惧",
+      "deep_dive": "这本书改变了人类对自己的理解方式。在弗洛伊德之前，梦被视为无意义的神经噪音或上帝的信号。弗洛伊德提出了一个激进的想法：梦不是随机的，而是有规律的、有目的的——它们是通往潜意识的皇家大道。他系统地分析了梦的机制，展示梦如何通过压缩、转移和象征来隐藏我们真正的欲望和恐惧。读这本书就像学会了一种新的语言。你开始理解为什么自己反复梦见某些人或某些场景，为什么梦中的逻辑那么奇怪却又似曾相识。虽然现代神经科学已经修正了弗洛伊德的某些观点，但他的基本洞察——梦是心理活动的表现，而不是毫无意义的——仍然深刻而真实。更重要的是，这本书开启了整个现代心理学的大门，影响了从临床治疗到电影编剧、广告创意的一切。梦不再是谜语，而是一扇窗，透过它你可以看到自己心灵的真实样貌。",
+      "quotes": [
+        {
+          "text": "The dream is a small hidden door in the deepest and most intimate sanctuary of the soul, which opens into that primeval cosmic secret that is the soul's own origin.",
+          "context": "对梦本质的诗意描述，强调梦与潜意识深刻而神秘的联系"
+        },
+        {
+          "text": "Dreams are the royal road to the unconscious.",
+          "context": "弗洛伊德最著名的表述，强调梦在心理学中的核心地位"
+        },
+        {
+          "text": "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind.",
+          "context": "强调通过解析梦境，我们可以获得对潜意识的深入理解"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1315"
+}
