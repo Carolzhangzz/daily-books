@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "万物简史",
+      "title_en": "A Short History of Nearly Everything",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2003",
+      "category": "科学与认知",
+      "one_liner": "从宇宙起源到人类现在的一场妙趣横生的科学之旅。",
+      "deep_dive": "你有没有想过，我们脚下的地球是怎么来的？原子是怎么组成的？为什么会有物种大灭绝？布莱森用最讨喜的方式把这些问题讲了一遍。这本书的厉害之处在于，它没有把科学写成枯燥的教科书。他会告诉你，科学家们有多离奇古怪，发现有多困难波折，甚至有多少次人类差点就灭亡了。读这本书就像跟一个知识渊博的朋友聊天，他不仅告诉你事实，还讲故事、讲人物、讲那些科学背后的荒诞剧情。你会发现，地球的历史就是一部充满巧合和奇迹的大戏——一个小陨石改变了历史，一个病毒塑造了人类。它让你既感到宇宙的宏大，又感到人类的渺小，同时又被知识和好奇心照亮。如果你觉得科普很无聊，这本书会改变你的想法。",
+      "quotes": [
+        {
+          "text": "We are, in the most literal sense, made of stardust.",
+          "context": "布莱森用这句话提醒我们，我们身体里的每一个原子都来自遥远的星星，这让人感到既渺小又神圣。"
+        },
+        {
+          "text": "The extraordinary thing about nature is that it is extraordinary.",
+          "context": "这是对自然界最朴素又最深刻的赞美，提醒我们日常见到的一切都是奇迹。"
+        },
+        {
+          "text": "Being a scientist requires a kind of faith. This is not a bad thing.",
+          "context": "布莱森在讨论科学精神时说的话，点出了科学探索的本质——一种对真理的执着信念。"
+        }
+      ]
+    },
+    {
+      "title_zh": "带小狗的女人",
+      "title_en": "The Lady with the Dog",
+      "author_zh": "安东·契诃夫",
+      "author_en": "Anton Chekhov",
+      "year": "1899",
+      "category": "文学",
+      "one_liner": "一段不期而至的邂逅，揭示了人生中最深刻的孤独与爱。",
+      "deep_dive": "这是一个有点伤感，又有点温暖的爱情故事。一个中年男人在海滨小城遇见了一个年轻女人，她带着一只小狗。本来只以为是场风流韵事，但后来，他们才发现自己已经深深爱上了对方。问题是，他们各自都有各自的家庭和生活——这个爱情注定是秘密的，无法被承认的。契诃夫的高明之处在于，他没有写成狗血三角恋，而是用细腻的笔触描绘了两个被困在生活里的灵魂在彼此身上找到了共鸣。这个故事让你看到，最深的爱有时候就藏在日常的细节里——一个眼神，一句对话，一个秘密的拥抱。同时，它也问了一个扎心的问题：我们是在真正地活着，还是在演一场戏？为什么真正的幸福总是和秘密绑在一起？读完之后，你会重新思考什么是爱，什么是人生中真正重要的东西。",
+      "quotes": [
+        {
+          "text": "If we are honest with ourselves, we have to admit that not all of our dreams are pure.",
+          "context": "契诃夫提醒我们，人性是复杂的，欲望和爱往往纠缠在一起，这是人之常情。"
+        },
+        {
+          "text": "He had two lives: an open one, seen and known by all who needed to know it, full of conventional truth and conventional falsehood, exactly like the lives of his friends and acquaintances; and another life running its course in secret.",
+          "context": "这段话道出了故事的核心——我们每个人都在过着双重生活，表面生活和内心生活的冲突。"
+        },
+        {
+          "text": "What tormented him was that she seemed to care so little.",
+          "context": "揭示了爱情最深的痛楚——不是失去，而是对方的冷漠。"
+        }
+      ]
+    },
+    {
+      "title_zh": "银河系搭车客指南",
+      "title_en": "The Hitchhiker's Guide to the Galaxy",
+      "author_zh": "道格拉斯·亚当斯",
+      "author_en": "Douglas Adams",
+      "year": "1979",
+      "category": "文学",
+      "one_liner": "荒诞幽默与哲学思辨的完美结合，用笑声解构宇宙。",
+      "deep_dive": "想象一下，地球突然被拆除了，人类文明在瞬间消失，而你的英国邻居正好搭上了一艘外星飞船。这就是《银河系搭车客指南》的开场。这部作品看起来是个疯狂的喜剧，充满了荒诞的笑料——一个神经病的机器人、会自动翻译任何语言的鱼、宇宙中最不可能的事件。但实际上，它在用笑声问最深刻的问题：宇宙的意义是什么？生命的目的是什么？我们在宇宙中有多渺小？作品还用黑色幽默嘲讽了人类的自大和官僚制度。有趣的是，亚当斯本来是想写一个广播剧脚本，结果意外地创造了一个文化现象，影响了几代科幻迷。这本书教会我们，在一个看似荒诞的宇宙中，最好的应对方式就是带着幽默去生活。它让你在捧腹大笑的同时，突然陷入深思。",
+      "quotes": [
+        {
+          "text": "The Answer to the Ultimate Question of Life, the Universe, and Everything is...42.",
+          "context": "这是全书最著名的梗——超级计算机花费750万年才算出来的答案是42，讽刺了人类对宇宙终极真理的执着。"
+        },
+        {
+          "text": "Don't Panic.",
+          "context": "这是《银河系搭车客指南》上印的最重要的建议，代表了面对不可知之事时的最佳态度。"
+        },
+        {
+          "text": "In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.",
+          "context": "对人类对创造论的执着的完美讽刺，用荒诞逻辑戳破我们的自以为是。"
+        }
+      ]
+    }
+  ]
+}
+```
