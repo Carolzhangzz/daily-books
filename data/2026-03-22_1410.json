@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "规模",
+      "title_en": "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies",
+      "author_zh": "杰弗里·韦斯特",
+      "author_en": "Geoffrey West",
+      "year": "2017",
+      "category": "科学/系统科学",
+      "one_liner": "用复杂科学揭示自然界和社会的普遍数学规律",
+      "deep_dive": "这本书真的挺有意思的，作者是圣塔菲研究所前主任，专门研究为什么规模这么重要。核心观点就是，无论是细胞、树木、鸟类，还是城市、公司，都遵循着出人意料的数学规律。比如物体规模翻倍时，能量消耗不是翻倍，而是按幂律增长。更有意思的是这些规律在生物界和社会界都适用。书里用大量数据分析了为什么大公司创新难、城市越大生产力越高但生活成本也越高。如果你想理解从微观到宏观的系统性真相，这本书会给你全新视角。特别推荐给喜欢思考大问题的人。",
+      "quotes": [
+        {
+          "text": "The larger a city becomes, the greater the increase in wages, wealth, property values, economic productivity, innovation, and patents.",
+          "context": "城市规模与经济发展的幂律关系"
+        },
+        {
+          "text": "Life is an emergent phenomenon that has evolved through natural selection to be a self-sustaining, complex system.",
+          "context": "生命本质与规模的哲学思考"
+        }
+      ]
+    },
+    {
+      "title_zh": "权力意志",
+      "title_en": "The Will to Power",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1901",
+      "category": "哲学",
+      "one_liner": "对人性、价值观和生命本质的颠覆性反思",
+      "deep_dive": "尼采这部著作是烧脑的哲学冒险，直接挑战我们对善恶和力量的所有传统认知。核心思想是，人类被一种基本驱力所驱动——权力意志，这不是权力欲，而是不断创造、超越、自我完善的内在动力。他狠批被动的宗教道德观，主张人应该主动塑造自己的价值观，成为真正的自己。书中充满了对人性黑暗面的坦诚，也对人的潜能充满热血。这不是好消化的读物，但一旦理解核心思想，它会彻底改变你看待自己和社会的方式。特别是对感到束缚、想打破传统的人来说，这本书像一声警钟。",
+      "quotes": [
+        {
+          "text": "What is good? Everything that heightens the feeling of power, the will to power, power itself in man.",
+          "context": "尼采对道德的重新定义，颠覆传统价值观"
+        },
+        {
+          "text": "To live is to suffer, to survive is to find some meaning in the suffering.",
+          "context": "对生命意义和苦难本质的深刻洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "第四消费时代",
+      "title_en": "The Age of Ambivalence: The Third and Fourth Consumer Eras in Japan",
+      "author_zh": "三浦展",
+      "author_en": "Hiroshi Miura",
+      "year": "2012",
+      "category": "社会学/消费文化",
+      "one_liner": "日本消费社会从物质追逐到精神回归的演变史",
+      "deep_dive": "三浦展是日本著名社会评论家，这本书把战后日本消费社会分成四个时代，观察很有意思。第一时代是物资短缺，大家拼命攒钱；第二时代是高速增长期，人们追求品牌炫耀；第三时代个性化消费兴起；到了第四时代，整个社会心理根本转变——人们不再盲目追求物质和品牌，回归本质，追求安心、可持续、共同体的生活。书里有大量数据和案例，展示这种转变如何影响零售、房地产、教育等各领域。有意思的是中国等亚洲国家也在走类似消费升级路径。如果想理解当代社会的深层变化，这本书提供了很好的框架。",
+      "quotes": [
+        {
+          "text": "第四消费时代的人们，不再想要更多的东西，而是想要更好的关系。",
+          "context": "总结第四时代消费价值观的根本转变"
+        },
+        {
+          "text": "消费社会的进化不是线性增长，而是螺旋式的回归与超越。",
+          "context": "描述消费文化发展的非线性特征"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1410"
+}
