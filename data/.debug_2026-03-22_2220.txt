@@ -1,3 +1,79 @@
 ```json
-{"date":"2026-03-22","books":[{"title_zh":"等待戈多","title_en":"Waiting for Godot","author_zh":"塞缪尔·贝克特","author_en":"Samuel Beckett","year":"1953","category":"戏剧/荒诞主义","one_liner":"两个人在路边等一个永远不会来的人，整个人类存在的隐喻就藏在这虚无的等待里。","deep_dive":"你知道吗，这部戏剧看似什么都没有发生——两个流浪汉在树下翘首以盼，期待一个叫戈多的人出现。但就是这个「什么都不发生」，戳中了人生的本质。贝克特用极简的舞台、重复的对白和荒诞的情节，把我们每个人都装进了这个等待的框架里。我们都在等，等下一个机会、等生命有意义、等某个救赎者出现。但核心问题是：戈多永远不会来。读这部作品的妙处在于，它不给你答案，只给你一面镜子。你会发现自己的生活何尝不是某种等待？但更重要的是，在等待的过程中，两个流浪汉依然谈笑、争执、思考——生活就在虚无之中继续。这不是悲观，反而是一种顽强的存在主义精神。","quotes":[{"text":"我们在等待戈多。","context":"全剧的核心，两个主人公对一切的解释和理由"},{"text":"没有什么可做的。","context":"当被问及在等待时应该做什么，人物的回应，象征着人类面对荒诞宇宙的无能为力"}]},{"title_zh":"超越自由与尊严","title_en":"Beyond Freedom and Dignity","author_zh":"伯尔赫斯·弗雷德里克·斯金纳","author_en":"B.F. Skinner","year":"1971","category":"心理学/哲学","one_liner":"忘掉你对「自由意志」和「个人尊严」的幻想吧，我们的行为其实都是环境塑造出来的。","deep_dive":"斯金纳这本书一出版就炸了锅，因为他干了一件很不受欢迎的事——用科学证据挑战我们最珍视的东西：自由和尊严。他的观点很直接：你觉得你有自由意志在做决定？其实不然。你的每个行为都是过去强化历史的产物，是环境里的刺激在操纵你。这听起来很绝望，对吧？但斯金纳想说的是，一旦我们承认这一点，我们反而能更理性地设计社会，创造更好的强化制度来引导人类行为向更积极的方向发展。他挑战了整个人文主义传统对个人自主性的浪漫化想象。这本书在学术界和文化圈引发了持久的争议——有人说他是科学进步的先驱，有人说他的观点威胁人性尊严。无论如何，读这本书能让你重新审视自己做的每个选择，是否真的源于自由意志，还是只是条件反射的演绎。","quotes":[{"text":"自由和尊严本身就是社会的幻想，它们阻碍了我们理解和改变人类行为。","context":"斯金纳核心论点，质疑传统价值观的基础"},{"text":"我们应该设计环境来塑造更好的行为，而不是寄希望于人类神话般的自由。","context":"他对未来社会工程的主张，体现了行为主义的乐观与争议"}]},{"title_zh":"聆听音乐","title_en":"What to Listen for in Music","author_zh":"亚伦·科普兰","author_en":"Aaron Copland","year":"1957","category":"音乐欣赏/教育","one_liner":"音乐不是高雅艺术的专属品，只要你学会用耳朵思考，任何人都能成为倾听者。","deep_dive":"科普兰这本经典著作的伟大之处在于，它把音乐欣赏从音乐学院的象牙塔里拉了出来，用普通人能理解的语言讲解音乐如何工作。他告诉你，不需要读五线谱也能听懂音乐的精妙之处。书里他分解了音乐的三个平面：感官平面（好听不好听）、表达平面（音乐想表达什么情感）和纯形式平面（音乐本身的结构和组织）。真正的倾听，就是在这三个层次上同时活动。科普兰自己是个作曲家，所以他能从创作者的角度告诉你，当你听一首交响乐时，作曲家实际在做什么——怎样发展一个主题、怎样制造张力和缓解。最妙的是，他鼓励你带着批判性去听，去问「为什么」，而不是被动地接受。这本书让你发现，音乐欣赏不是装逼，而是一种思维方式，一种理解世界的途径。","quotes":[{"text":"好的音乐倾听需要主动的参与——你必须用你的想象力和知识去完成作曲家开始的旅程。","context":"强调倾听是一种主动而非被动的行为，需要听众的心智参与"},{"text":"音乐最伟大的力量在于，它能传达那些言语无法表达的情感和思想。","context":"阐述音乐作为表达媒介的独特性和普遍性"}]}]}
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "在路上",
+      "title_en": "On the Road",
+      "author_zh": "杰克·凯鲁亚克",
+      "author_en": "Jack Kerouac",
+      "year": "1957",
+      "category": "文学",
+      "one_liner": "一部关于年轻人追寻自由和意义的公路冒险小说，代表了整个时代的精神探索",
+      "deep_dive": "你知道吗，这本书就像是一场永不停歇的公路旅行。萨尔和迪恩这两个年轻人，一个是观察者，一个是疯狂的梦想家，他们驾车在美国大陆上来回奔驰，追寻着某种说不清道不明的东西。读着读着你会发现，他们要找的不是终点，而是旅程本身——那种突破束缚、拥抱生命的感觉。凯鲁亚克用这部作品捕捉了整个\"垮掉的一代\"的脉搏：对现存秩序的怀疑、对生活极致体验的渴望、对人与人之间真诚连接的期许。书里最打动人的不是那些精妙的情节，而是对生命本质的拷问——我们究竟应该怎样生活？是要按部就班地融入社会，还是应该冒着一切风险去追寻真实的自己？这部小说影响了几代人的人生选择，当你翻开这本书时，你也会感受到那种召唤——去拥抱不确定性，去相信生命中总有比金钱和地位更值得追求的东西。",
+      "quotes": [
+        {
+          "text": "I realized that over the years I'd been getting some of the people in my life just right. The longing to escape the human condition entirely seemed to me to be what the best writers all had.",
+          "context": "凯鲁亚克对逃离现实、追求精神自由的执着，这正是整部作品的核心驱动力"
+        },
+        {
+          "text": "Nothing behind me, everything ahead of me, as is ever so on the road.",
+          "context": "书中最经典的一句，体现了主人公不顾过去、全力向前的生活态度"
+        },
+        {
+          "text": "Because in the end you won't remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain.",
+          "context": "对于什么才是人生中真正值得做的事情的深刻思考"
+        }
+      ]
+    },
+    {
+      "title_zh": "如何解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "科学与认知",
+      "one_liner": "一部教你用科学方法解决任何问题的经典著作，简洁而深刻",
+      "deep_dive": "这本小书的威力在于它的简洁。波利亚只给了你四个步骤：第一步，你要真正理解你面对的问题；第二步，想出解决方案；第三步，付诸实践；第四步，回过头来看看你是否理解透彻了。听起来简单？但当你真的用这个框架去思考时，你会发现自己的思维方式完全改变了。作为一位杰出的数学家，波利亚知道最好的问题解决者不是那些记住最多公式的人，而是那些知道如何分解问题、灵活思考的人。这本书出版于1945年，但它的影响力跨越了数十年——从数学课堂到商业战略，从科学研究到日常生活中的困境，这套方法论始终有效。更妙的是，波利亚用大量例子展示了如何启发学生的创意思维，而不是简单地灌输答案。如果你想提升自己的问题解决能力，这是必读的一本。",
+      "quotes": [
+        {
+          "text": "A great discovery solves a great problem but there is a grain of discovery in the solution of any problem.",
+          "context": "波利亚强调，解决任何问题的过程都包含发现和创新的元素，不只是大问题才值得深入思考"
+        },
+        {
+          "text": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+          "context": "对于遇到难题时的经典建议——通过简化和分解来突破困局"
+        },
+        {
+          "text": "Understanding a problem is a prerequisite for solving it.",
+          "context": "强调了深入理解问题的重要性，这是整个方法论的基础"
+        }
+      ]
+    },
+    {
+      "title_zh": "雪国",
+      "title_en": "Snow Country",
+      "author_zh": "川端康成",
+      "author_en": "Yasunari Kawabata",
+      "year": "1956",
+      "category": "文学",
+      "one_liner": "一部诗意的日本文学经典，用冷静的笔触描绘人生中无法逃避的孤独",
+      "deep_dive": "川端康成笔下的雪国是个魔幻的地方。故事很简单——富商岛村与温泉艺妓驹子在雪乡的邂逅和反复相逢——但表面的简单下隐藏着极其复杂的人性。岛村是个有妇之夫，驹子是个沦为艺妓的女人，他们之间既有吸引又有隔阂，既渴望亲近又注定无法真正拥有彼此。川端康成不屑于讲述一个完整的爱情故事，他只是在诗意地描绘人物在相遇中感受到的那种深刻的孤独——即使两个人坐在一起，也各自陷入各自的虚无。书中关于美的描写令人窒息：雪景、镜像、列车车窗映出的虚幻世界。这些意象不只是装饰，而是川端要表达的核心——美和悲哀是一体的，生命中最动人的时刻往往就是最虚幻、最无法把握的时刻。这部作品影响深远，甚至为川端康成赢得了诺贝尔文学奖的提名，因为它触及了人类共同的精神困境：我们都在经历各自的雪国，在虚幻与真实的边界上，寻找意义而又陷入虚无。",
+      "quotes": [
+        {
+          "text": "The evening landscape in the print had moved him. The dark mountains were not portrayed so much as suggested. The print had long been exposed to the sun, and had faded, but in its faded beauty he found something touching.",
+          "context": "川端用褪色的美学来比喻人生——那些失去鲜艳色彩的东西，往往能触动人心最深的地方"
+        },
+        {
+          "text": "If I were to see her often, how long would her beauty hold me? Perhaps it was the moment that mattered.",
+          "context": "岛村关于驹子的思考，揭示了美在时间中的易逝性和人生中那些难以把握的瞬间"
+        },
+        {
+          "text": "In the depths of the mirror the evening landscape moved by, the mirror and the real night becoming one.",
+          "context": "川端用镜像和现实的混淆来表现虚幻与真实的边界，这也是整部作品意象系统的核心"
+        }
+      ]
+    }
+  ]
+}
 ```
