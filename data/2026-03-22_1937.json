@@ -1,0 +1,76 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "达洛维夫人",
+      "title_en": "Mrs. Dalloway",
+      "author_zh": "弗吉尼亚·伍尔夫",
+      "author_en": "Virginia Woolf",
+      "year": "1925",
+      "category": "文学",
+      "one_liner": "一个女人一天的生活如何在意识流中展开了整个人生的悲欢离合。",
+      "deep_dive": "这是伍尔夫最著名的小说，描写上流社会女性克拉丽莎·达洛维在伦敦度过的一个夏日。你可能觉得好像什么都没发生——就是买花、开派对、接待宾客——但伍尔夫的天才在于，她让你看到了人物的整个灵魂。通过意识流手法，你会随着达洛维的思绪跳跃，从当下的一朵花想到多年前的初恋，再跳到对自己人生选择的深深疑虑。你会遇到一个经历过战争、精神崩溃的退伍兵塞普蒂默斯，他的悲剧和达洛维的优雅生活形成对比。《达洛维夫人》之所以伟大，不仅用全新方式讲故事，更捕捉了人心最微妙的刹那——那些你以为平凡的时刻，其实藏着生命最深的意义。",
+      "quotes": [
+        {
+          "text": "What a lark! What a plunge!",
+          "context": "达洛维走出家门的那一刻，对生活的热爱和兴奋涌上心头，是整个故事的精神基调。"
+        },
+        {
+          "text": "Death is the only experience I shall never describe.",
+          "context": "伍尔夫对死亡的思考，反映在塞普蒂默斯之死这一关键情节中，探讨人生的终极意义。"
+        },
+        {
+          "text": "For it was the middle of June when the thickness of the trees is green.",
+          "context": "对季节、自然的细致刻画，展现伍尔夫笔下意识流的诗意和美感。"
+        }
+      ]
+    },
+    {
+      "title_zh": "音乐的极境",
+      "title_en": "Music at the Limits",
+      "author_zh": "爱德华·萨义德",
+      "author_en": "Edward Said",
+      "year": "2003",
+      "category": "艺术与美学",
+      "one_liner": "一场跨越文化和历史的音乐对话，探索音乐如何超越言语与权力。",
+      "deep_dive": "萨义德是20世纪最伟大的文化批评家，而这本书是他对音乐的沉思。他不是音乐理论家，反而更像一个思想家在音乐的指引下冥想。书中讨论了贝多芬、瓦格纳、莫扎特等大师，但视角很独特——音乐对权力、殖民主义、文化身份意味着什么？为什么音乐能让不同文明的人产生共鸣？萨义德认为音乐是一种超越国界的语言，它能表达言语无法表达的东西。读这本书，你会重新思考听音乐的方式，理解音乐如何成为抵抗压迫、追求自由的力量。这不是教你欣赏音乐的书，而是让你思考音乐本质的书。",
+      "quotes": [
+        {
+          "text": "Music is the most abstract of the arts.",
+          "context": "萨义德指出音乐的抽象性质使其成为最纯粹的艺术形式，超越具体的符号指涉。"
+        },
+        {
+          "text": "The relationship between composer and audience is mediated by performance.",
+          "context": "强调音乐实现的过程——通过演奏——使音乐变得活生生，而非仅是纸面上的音符。"
+        }
+      ]
+    },
+    {
+      "title_zh": "算法之美",
+      "title_en": "Algorithms to Live By",
+      "author_zh": "布莱恩·克里斯汀",
+      "author_en": "Brian Christian",
+      "year": "2015",
+      "category": "科学与认知",
+      "co_author_zh": "汤姆·格里菲思",
+      "co_author_en": "Tom Griffiths",
+      "one_liner": "计算机科学的算法原理如何指导我们做出更好的人生决策。",
+      "deep_dive": "这是一本神奇的书，它告诉你：你的人生其实就是在运行各种算法。什么是最优的求职策略？怎样快速找到停车位？什么时候该放弃完美答案而接受'足够好'的方案？作者用计算机科学的经典算法——贪心算法、动态规划、缓存策略等——来解释日常决策。你会发现，计算机在面对资源有限、信息不完全的问题时，已经找到了优雅的解决方案，而我们人类其实也在用类似的直觉。这本书最妙的地方在于，它不会让你变成冷冰冰的人，反而让你理解：为什么有时坚持最优解不如接受'好就行'，为什么有些决定最重要的是做出决定的过程本身。",
+      "quotes": [
+        {
+          "text": "Satisficing: when faced with unlimited options, stop searching once you find something good enough.",
+          "context": "这个原理应用到婚姻、工作选择等人生重大决定，提醒我们完美主义的代价。"
+        },
+        {
+          "text": "Explore and exploit: too much exploration leaves you never enjoying anything; too much exploitation leaves you missing better opportunities.",
+          "context": "解释了冒险与稳定之间的平衡，是理解人生策略的关键。"
+        },
+        {
+          "text": "The computer science answer to an old philosophical question is: just try it.",
+          "context": "体现了算法思维的实用性和试错精神，对人生决策很有启发。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1937"
+}
