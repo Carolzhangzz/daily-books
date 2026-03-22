@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "独自打保龄",
+      "title_en": "Bowling Alone",
+      "author_zh": "罗伯特·普特南",
+      "author_en": "Robert Putnam",
+      "year": "2000",
+      "category": "社科与历史",
+      "one_liner": "美国社区参与度下降，社会资本流失的警示录",
+      "deep_dive": "这本书讲的是个很有意思但又有点令人沮丧的话题。作者发现，虽然现在打保龄的人不少，但一起去保龄球馆的人反而越来越少了。这个\"独自打保龄\"的比喻背后反映的是美国社会的深层变化：人们参与社区组织、公民活动、邻里互动的频率都在大幅下降。曾经那些把人聚在一起的东西——教堂、工会、志愿组织、体育俱乐部——现在都在萎缩。普特南用大量数据和研究告诉我们，社会资本（人与人之间的信任、规范和网络）的丧失，正在削弱美国社会的凝聚力。为什么重要？因为这不仅是说人们变得孤独了，更深层的问题是，当社会资本减少时，整个社会的运作效率、人民的幸福感、民主制度的健康程度都会受影响。这本书出版于2000年，但现在看起来更有先见之明——随着互联网和社交媒体的发展，这种趋势似乎进一步加强了。如果你想理解现代社会为什么感觉越来越分裂，为什么人们虽然连接更多却更孤独，这本书会给你一个很好的框架。",
+      "quotes": [
+        {
+          "text": "The evidence suggests that we have experienced a significant erosion of social capital in America in the last quarter of the twentieth century.",
+          "context": "普特南在书中反复强调的核心观点，用数据说话，说明美国社会资本的流失不是小现象，而是系统性的、大规模的变化"
+        },
+        {
+          "text": "Community and equality are mutually reinforcing, just as individualism and inequality reinforce each other.",
+          "context": "揭示了一个深刻的社会学真理：没有真正的社区参与，平等就难以维持；反之亦然"
+        },
+        {
+          "text": "The most important consequence of the declining stock of social capital in America is the increased vulnerability to social problems.",
+          "context": "说明社会资本流失带来的不仅是人的孤独，更是社会整体的脆弱性增加"
+        }
+      ]
+    },
+    {
+      "title_zh": "第二性",
+      "title_en": "The Second Sex",
+      "author_zh": "西蒙娜·德·波伏瓦",
+      "author_en": "Simone de Beauvoir",
+      "year": "1949",
+      "category": "哲学",
+      "one_liner": "女性不是天生的，而是被塑造的——对父权制的终极解剖",
+      "deep_dive": "这是一部沉甸甸的经典，也是女性主义的奠基之作。波伏瓦的核心论断就是那句名言：\"人不是天生就是女人，而是成为女人的。\"这句话听起来简单，但背后的含义极其深刻——意味着女性的所有特质、局限、角色，都不是生物学决定的，而是由父权制社会系统强加给她们的。她在书中深入分析了女性在历史、神话、文学、经济中如何被定义、被压制、被限制。从远古社会到她所处的现代社会，波伏瓦追踪了女性被标签化为\"他者\"的全过程——男性是主体，女性是附属品。这本书不是简单的抱怨，而是一次冷静的、哲学层面的解剖。她讨论了女性的身体如何被社会规训、性欲如何被压制、母性如何被理想化却又被贬低。最震撼的是，即使在75年后的今天，这本书依然闪闪发光，因为她触及的那些问题——女性的自主性、经济独立、性别平等——仍然是我们在努力解决的。",
+      "quotes": [
+        {
+          "text": "One is not born, but rather becomes, a woman.",
+          "context": "女性主义最经典的论述，一句话颠覆了性别的本质主义理解，奠定了现代女性主义的理论基础"
+        },
+        {
+          "text": "Woman is the Other. She is regarded as immanent; she is trapped within the sphere of the home.",
+          "context": "波伏瓦用哲学的精确性描述了父权制如何把女性困在私人领域，剥夺她们的公共话语权和社会参与"
+        },
+        {
+          "text": "To be a woman is to belong to a sex; woman is the absolute female, whereas man is a human being who happens to be male.",
+          "context": "揭露了一个隐藏的不公正：男性被当成普遍的人类代表，女性则被时刻提醒她的性别身份"
+        }
+      ]
+    },
+    {
+      "title_zh": "美国大城市的死与生",
+      "title_en": "The Death and Life of Great American Cities",
+      "author_zh": "简·雅各布斯",
+      "author_en": "Jane Jacobs",
+      "year": "1961",
+      "category": "社科与历史",
+      "one_liner": "城市不是建筑的聚集，而是生活的织锦——对现代城市规划的革命性批判",
+      "deep_dive": "这是一本改变了城市规划思想的经典。雅各布斯在1961年就看穿了现代城市规划的一个致命缺陷：那些大城市改造项目，虽然看起来宏伟壮观，却把活生生的城市社区杀死了。她观察到，那些看似\"混乱\"的老社区——小街道、小店铺、居民之间的日常互动——实际上构成了城市最有生命力的地方。而那些规划师们用高速公路、高楼大厦、清一色的商业区替代这些地方后，城市反而变得冷漠、危险、没有生气了。雅各布斯主张的是个与时下流行相反的观点：城市的活力来自于多样性、密度、短街道段、混合的用途（商业、住宅、文化混杂）。她用一个简单却深刻的观点来看城市安全：不是警察和高墙创造了安全，而是\"眼睛看着街道\"的邻居们——一个有活力的社区自然会照顾自己。这本书影响深远，促使全世界重新思考城市规划。如果你看过你所在城市那些\"死亡\"的商业区、空荡荡的公共广场，就会明白为什么这本书60多年后仍然闪闪发光。",
+      "quotes": [
+        {
+          "text": "The city is not a work of art, it is a living process that requires the participation of its citizens.",
+          "context": "雅各布斯反对把城市当作可以被规划者完全塑造的艺术品，强调城市生命的有机性和自下而上的参与"
+        },
+        {
+          "text": "Cities are built of networks and ecosystems, not zones.",
+          "context": "批判了功能分区制（把不同功能区分离）的做法，主张混合多样、相互联系的城市结构"
+        },
+        {
+          "text": "A good city street network requires short blocks with a variety of intersections that create the conditions for eyes on the street.",
+          "context": "解释了看似简单的街道设计对城市安全和活力的决定性影响，以及为什么古老社区的设计往往优于现代规划"
+        }
+      ]
+    }
+  ]
+}
+```
