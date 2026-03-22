@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "马斯克传",
+      "title_en": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2023",
+      "category": "传记",
+      "one_liner": "一个改变了电动车、太空探索和能源未来的疯狂梦想家的人生史诗",
+      "deep_dive": "这部传记就像看着一个现实中的钢铁侠养成记。艾萨克森用八年时间跟踪采访马斯克，把这个矛盾体的一生写得特别生动——一个既能在深夜与工程师一起改装汽车，又能发推特怼全世界的家伙。最有意思的不是他的成功（Tesla、SpaceX、Neuralink），而是他失败的故事、他的偏执、他怎样用一种近乎疯狂的方式推动整个行业。你会理解为什么他总是说\"first principles\"，为什么他对完美的执着能把员工逼疯又让他们愿意跟随。这不是一部歌颂传，反而很坦诚地展现了一个天才的代价。适合想理解现代企业家精神、或者干脆就想看看有钱人怎样折腾世界的读者。",
+      "quotes": [
+        {
+          "text": "When something is important enough, you do it even if the odds are not in your favor.",
+          "context": "马斯克对创业和克服困难的哲学态度，体现了他为何能坚持特斯拉和SpaceX这样看似不可能的项目"
+        },
+        {
+          "text": "I think it's important to reason from first principles rather than by analogy.",
+          "context": "他一直强调的工程方法论，是他能够打破行业常规、做出革命性创新的核心思维方式"
+        }
+      ]
+    },
+    {
+      "title_zh": "大师和玛格丽特",
+      "title_en": "The Master and Margarita",
+      "author_zh": "米哈伊尔·布尔加科夫",
+      "author_en": "Mikhail Bulgakov",
+      "year": "1966",
+      "category": "文学小说",
+      "one_liner": "魔鬼在莫斯科捣乱，一个被压制的作家和他深爱的女人最终找到了救赎",
+      "deep_dive": "这部苏联文学的杰作在出版时被禁了三十年，现在读起来依然魔力十足。故事有三条线：魔鬼和他的帮手在1930年代莫斯科的疯狂冒险、一部被禁的关于耶稣的小说手稿的命运、以及大师和玛格丽特的爱情悲剧。布尔加科夫用讽刺和黑色幽默狠狠地批评了苏维埃时期的虚伪和专制，但这不仅是政治隐喻那么简单——这是关于艺术、爱情、自由和救赎的深刻思考。最绝的是他居然能把喜剧、悲剧、奇幻和哲学完美混合，让你时而狂笑时而叹气。如果你喜欢有野心、有深度、有点怪诞的小说，这一定是你的菜。",
+      "quotes": [
+        {
+          "text": "Manuscripts don't burn.",
+          "context": "整部小说的核心主题，强调艺术和真理的永恒性，无论权力如何压制都无法摧毁"
+        },
+        {
+          "text": "True, true I tell you, that no one has ever escaped from me, and no one ever will.",
+          "context": "魔鬼的台词，隐喻了专制权力对人的控制，但故事最后证明爱和艺术能超越这种束缚"
+        }
+      ]
+    },
+    {
+      "title_zh": "论美国的民主",
+      "title_en": "Democracy in America",
+      "author_zh": "亚历克西斯·德·托克维尔",
+      "author_en": "Alexis de Tocqueville",
+      "year": "1835",
+      "category": "政治哲学",
+      "one_liner": "一个19世纪法国贵族对美国民主制度的观察，至今仍是理解现代民主的经典",
+      "deep_dive": "托克维尔1831年来美国考察了几个月，然后写了一部影响了两个世纪的著作。这家伙的观察力真的变态——他看到了美国民主的本质，同时也预言了它可能面临的问题。最有意思的是，他既热爱民主带来的平等和自由，又担心民主社会会陷入多数人的专制和盲从。两百年后，这些忧虑好像都成真了。这不是一部容易读的书（有些部分确实冗长），但它能让你从宏观的角度理解民主制度怎样运作、美国文化为什么是这样、以及民主社会可能面临的陷阱。对关心政治制度、美国文化或民主制度未来的读者来说，这是必读的经典。",
+      "quotes": [
+        {
+          "text": "Americans are so enamored of equality that they would rather be equal in slavery than unequal in freedom.",
+          "context": "托克维尔对美国民众追求平等的执着的警告，暗示过度追求平等可能导致个人自由的丧失"
+        },
+        {
+          "text": "The tyranny of the majority",
+          "context": "这部著作最著名的概念，指出民主制度中多数人的意见可能压制少数人的权利，至今仍是政治哲学讨论的核心"
+        }
+      ]
+    }
+  ]
+}
+```
