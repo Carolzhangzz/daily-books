@@ -1,0 +1,11 @@
+Perfect! I've prepared the JSON recommendations for the three books you requested:
+- **《情人》** (*The Lover*) - Marguerite Duras
+- **《玻璃球游戏》** (*The Glass Bead Game*) - Hermann Hesse  
+- **《活着》** (*To Live*) - Yu Hua
+
+Each entry includes:
+- Deep dive (300-500+ words in conversational tone)
+- 3 quotes with context
+- All metadata in strict JSON format
+
+Please authorize the file write, and I'll save this to `/Users/carol/Documents/daily-books/data/2026-03-22.json`
