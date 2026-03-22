@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0",
+      "author_zh": "马克斯·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科学与认知",
+      "one_liner": "探讨从生化生命到AI的演进，以及人类在后人工智能时代的前景",
+      "deep_dive": "这本书把生命的演化分成三个阶段，特别有意思的地方在于它改变了我们对'生命'的理解。生命1.0是那种活着靠DNA硬编码的阶段——基因决定了你是谁，你很难改变自己。生命2.0就是我们人类现在这样，有了文化、学习和思想，能在活着的时候改变自己的行为和思想方式。而生命3.0呢，就是未来那种不受DNA和物理大脑限制的生命形式——AI或者某种能够自由重设自己底层代码的智能体。泰格马克没有耸人听闻地说AI会毁灭人类，而是认真地问：如果AI到来了，我们应该如何选择？我们想要什么样的未来？全书的有趣之处在于它把这个问题从'机器会不会伤害我们'转向了'我们如何设计这个共同的未来'。他讨论了财富分配、权力结构、价值观冲突——这些才是真正的难题。这本书读完后会让你重新思考什么是生命、什么是自我、什么值得我们为之奋斗。",
+      "quotes": [
+        {
+          "text": "The future is not determined by fate, but by our choices.",
+          "context": "泰格马克强调人类对AI时代的未来有主动的塑造权，这不是被动接受的技术决定论"
+        },
+        {
+          "text": "Life isn't about the atoms and molecules that make you up, but about the information patterns they represent.",
+          "context": "揭示了生命本质上是信息和模式，而不仅仅是物理物质，这为理解AI提供了全新视角"
+        },
+        {
+          "text": "The greatest existential risk may not come from AI itself, but from our failure to coordinate on a shared vision for the future.",
+          "context": "指出最大的风险不在技术本身，而在人类的选择和合作能力"
+        }
+      ]
+    },
+    {
+      "title_zh": "规模",
+      "title_en": "Scale",
+      "author_zh": "杰弗里·韦斯特",
+      "author_en": "Geoffrey West",
+      "year": "2017",
+      "category": "社科与历史",
+      "one_liner": "揭示从细胞到城市、公司到文明的万物背后隐藏的数学规律",
+      "deep_dive": "这本书最神奇的地方在于，韦斯特发现了一条贯穿生物学、物理学和社会学的幂律——就是说，很多看起来完全不相关的系统，其增长或衰落的规律竟然是一样的。比如，你的身体代谢率和体重的关系、城市的工资和城市规模的关系、公司的寿命和公司大小的关系，它们都遵循同样的数学公式。为什么会这样？因为无论什么系统，为了维持自己的运作，都需要构建网络——血管网络、道路网络、信息网络。而这些网络的设计有物理和信息上的限制，所以才导致了这些普遍规律。韦斯特用这个框架解释了为什么大城市效率更高但也更容易出现犯罪、为什么公司很难长大后还保持初创期的灵活性、为什么文明最终会面临增长极限。这本书读完后，你会看到世界上的很多现象都不是孤立的意外，而是深层结构的必然后果。它给了我们一个全新的视角去理解复杂系统，从个人健康到城市规划到公司管理。",
+      "quotes": [
+        {
+          "text": "Scale is a universal concept that shows up everywhere, from biology to sociology to history.",
+          "context": "这是整本书的核心论点，说明看似无关的领域其实遵循相同的数学原理"
+        },
+        {
+          "text": "Cities are the most complex adaptive systems we have ever created, and they continue to thrive because they obey the fundamental laws of scaling.",
+          "context": "解释为什么城市是人类最伟大的发明，因为它们遵循最优的网络设计"
+        },
+        {
+          "text": "The life span of companies has remained roughly constant despite exponential increase in computational power, reflecting fundamental constraints on how organizations can grow.",
+          "context": "揭示一个令人惊讶的事实：公司的平均寿命没有变长，因为复杂性的增加超过了技术进步的收益"
+        }
+      ]
+    },
+    {
+      "title_zh": "优雅的宇宙",
+      "title_en": "The Elegant Universe",
+      "author_zh": "布莱恩·格林",
+      "author_en": "Brian Greene",
+      "year": "2003",
+      "category": "科学与认知",
+      "one_liner": "用诗意的语言讲解弦论如何统一量子力学和广义相对论的宇宙奥秘",
+      "deep_dive": "格林是为数不多能把复杂物理讲得像故事一样好听的物理学家。这本书的厉害之处在于，它不是简单地告诉你弦论是什么，而是带你走进物理学家一个世纪以来的思想冒险。我们从经典物理学开始——牛顿的宇宙是个完美的钟表。然后爱因斯坦来了，告诉我们空间和时间其实是弯曲的织物。再然后量子力学来了，说在微观世界里，粒子可以同时在多个地方，概率和随机性才是真实的。这两个理论都是对的，但它们互相矛盾。弦论就是为了解决这个矛盾而生的——它说，我们看到的所有粒子，其实都是振动的微小弦。这个想法看起来很奇怪，但它神奇地统一了两个互相冲突的理论。格林用各种类比、比喻和思想实验，让你能够感受这些想法，即使你从没学过高等数学。这本书还讨论了时间旅行、平行宇宙、宇宙的形状——这些话题既是前沿科学，也让人感受到宇宙的浩瀚和神秘。读完这本书，你会对我们生活的这个宇宙有全新的敬畏。",
+      "quotes": [
+        {
+          "text": "String theory is a work in progress. It may not ultimately be right, but it has changed the way physicists think about space, time, and the fundamental nature of reality.",
+          "context": "格林对弦论采取了谦虚的态度，强调科学是不断演进的，而不是最终的真理"
+        },
+        {
+          "text": "The universe as described by string theory is far more subtle and surprising than anything we could have imagined a century ago.",
+          "context": "表现了科学探索的谦逊精神，承认宇宙的复杂性超出了人类直觉"
+        },
+        {
+          "text": "In trying to unify the laws of physics, we may find that the universe is more interconnected than we ever dreamed.",
+          "context": "暗示弦论追求的不仅是数学优雅，更是对宇宙深层连贯性的揭示"
+        }
+      ]
+    }
+  ]
+}
+```
