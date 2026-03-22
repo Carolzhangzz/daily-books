@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "生命之网",
+      "title_en": "The Web of Life",
+      "author_zh": "弗里乔夫·卡普拉",
+      "author_en": "Fritjof Capra",
+      "year": "1996",
+      "category": "科学与认知",
+      "one_liner": "从古代东方智慧到现代系统论，揭示宇宙万物相互联系的深层结构。",
+      "deep_dive": "这是一部令人眼界大开的著作。卡普拉用跨越东西方的宏大视角，向我们展示了一个被遗忘的真理：宇宙中的一切都是相互连接、相互影响的。从量子物理学到生态学，从古老的东方哲学到现代系统论，他编织出一幅壮美的图景。\n\n让我给你讲讲这本书最迷人的部分。卡普拉指出，西方科学长期陷入还原主义的陷阱——认为通过不断分解和孤立地研究部分，就能理解整体。但现代物理学和生物学的最新发现恰恰相反：宇宙是一个动态的、相互关联的网络。一个粒子的变化会影响另一个粒子，一个物种的消亡会波及整个生态系统。这不仅是科学发现，而是古代道家、佛教思想早已领悟到的智慧。\n\n最打动人的是，这本书让你重新理解自己在宇宙中的位置。你不是独立的、分离的个体，而是这个伟大网络中的一个节点。你的每个选择、每个行动，都会通过这条"生命之网"影响更广阔的世界。这种认识既谦卑又赋能——它让我们意识到责任，也让我们看到希望。",
+      "quotes": [
+        {
+          "text": "The systems view of life is ecological. It is based on the perception of the world as an integrated whole, not as a collection of dissociated parts.",
+          "context": "卡普拉对系统思维本质的定义，强调整体大于部分之和的哲学原理"
+        },
+        {
+          "text": "In nature, nothing is constant except change. The rhythm of nature, of life, is rhythmic change.",
+          "context": "这句话捕捉了《生命之网》的核心——变化和动态平衡才是生命的本质"
+        },
+        {
+          "text": "The more we study the major problems of our time, the more we come to realize that they cannot be understood in isolation.",
+          "context": "说明了为什么系统思维对于解决现代社会问题至关重要"
+        }
+      ]
+    },
+    {
+      "title_zh": "素数的音乐",
+      "title_en": "The Music of the Primes",
+      "author_zh": "马库斯·杜·索托伊",
+      "author_en": "Marcus du Sautoy",
+      "year": "2003",
+      "category": "数学与逻辑",
+      "one_liner": "从古希腊到现代数学，追踪那些神秘素数背后的深层和谐。",
+      "deep_dive": "如果你认为数学是枯燥的，那《素数的音乐》会彻底改变你的想法。这本书就像是一部数学冒险小说，讲的是一个两千年来悬而未决的大谜团：素数究竟遵循什么规律？\n\n想象你在听一首复杂的乐曲。乍一听，音符似乎毫无规律，但仔细聆听，你会发现深层的模式和和谐。素数就像这样的音乐——2、3、5、7、11、13...看似随意分布，但数学家们一直坚信，这些神秘的数字背后隐藏着优美的音乐。\n\n杜·索托伊将你带回两千多年前的古希腊，从欧几里得谈起，然后跳跃到17、18、19世纪那些为素数着迷的数学天才。高斯用他的头脑绘制素数的分布，黎曼提出了一个关于素数的假设——至今未被证明，却被称为数学中最美的猜想。这本书的魅力在于，它讲述了这些伟大的心智如何在黑暗中摸索，如何在挫折中坚持。最后，你会明白为什么素数对现代密码学、互联网安全如此重要。这不仅是一部数学史，更是一部关于人类智慧和好奇心的史诗。",
+      "quotes": [
+        {
+          "text": "Prime numbers are what is left when you have taken all the patterns away, I think prime numbers are like atoms.",
+          "context": "这个比喻将素数的基础性地位阐释得深入浅出，说明了为什么素数如此特殊"
+        },
+        {
+          "text": "The Riemann Hypothesis is equivalent to the assertion that the primes are distributed as evenly as possible.",
+          "context": "黎曼假设是数学中最伟大的未解之谜之一，揭示了素数分布的深层秩序"
+        },
+        {
+          "text": "Mathematics is the music of reason, and music is the mathematics of the soul.",
+          "context": "诗意地表达了数学与艺术的内在联系，也是本书书名的精神内核"
+        }
+      ]
+    },
+    {
+      "title_zh": "中国哲学简史",
+      "title_en": "A Short History of Chinese Philosophy",
+      "author_zh": "馮友蘭",
+      "author_en": "Feng Youlan",
+      "year": "1948",
+      "category": "哲学",
+      "one_liner": "从孔孟老庄到现代，一部中国思想文明的完整脉络。",
+      "deep_dive": "要理解中国文化，你必须读馮友蘭的《中国哲学简史》。这不仅仅是一本历史书，而是一个深邃的思想之旅。馮先生用他特有的清晰笔触，将绵延数千年的中国哲学思想化繁为简，让你看到那些伟大的思想家如何一步步塑造了中国人的心灵。\n\n从孔子的"仁义礼智信"开始，你会感受到这位古代圣人对人伦秩序的深刻洞察。然后是孟子，他相信人性本善，这个观点曾激励了无数中国知识分子。紧接着，老子和庄子用他们的"道"为我们打开了另一扇门——一个更神秘、更自然的世界。这些思想家不像西方哲学家那样执着于逻辑论证，而是用诗意和隐喻来表达深层的智慧。\n\n馮友蘭最绝妙的地方在于，他不仅讲述这些思想本身，更讲述它们如何在历史的流转中演变和融合。你会看到儒学和道教如何碰撞，如何在佛教传入后产生新的化学反应。这种对中国思想内在生命力的把握，让这本书远超过一般的历史叙述。读完这本书，你不仅了解了中国哲学的发展脉络，更重要的是，你开始理解为什么中国人看待世界、人生的方式与西方人如此不同。",
+      "quotes": [
+        {
+          "text": "中国哲学家们关注的不是'世界是什么'，而是'我该如何生活'。",
+          "context": "馮友蘭概括了中国哲学的根本特点——实践理性而非理论理性，强调伦理道德而非形而上学"
+        },
+        {
+          "text": "道可道，非常道；名可名，非常名。",
+          "context": "老子开篇之言，从这句话开始，中国哲学进入对终极真理的不可言说的深思"
+        },
+        {
+          "text": "修身齐家治国平天下",
+          "context": "儒家的终极理想，体现了从个人修养到世界秩序的完整哲学链条，是几千年中国智识精英的行动指南"
+        }
+      ]
+    }
+  ]
+}
+```
