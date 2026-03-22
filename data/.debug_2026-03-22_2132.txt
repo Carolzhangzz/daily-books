@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "东方化",
+      "title_en": "Orientalism",
+      "author_zh": "爱德华·萨义德",
+      "author_en": "Edward W. Said",
+      "year": "1978",
+      "category": "文化理论/后殖民研究",
+      "one_liner": "西方如何通过话语权力想象、建构和统治了东方",
+      "deep_dive": "这是一部真正改变了知识体系的著作。萨义德用精妙的论证揭示了一个隐藏已久的真相：我们对\"东方\"的认知，其实都是西方通过各种学科、艺术、政治手段精心编织出来的幻象。他论证说，西方对东方的描述和研究，本质上是为了建立统治的合理性。你读的那些东方旅行记、东学研究、艺术作品，看似在认识东方，实际上是西方在定义、塑造、甚至消费东方。这不是说东方本身不存在，而是我们接收到的关于东方的所有知识，都经过了权力的过滤。特别有意思的是，这个论断今天仍然适用——当我们看一部关于亚洲的好莱坞电影、读一篇西方媒体的报道，我们面对的很可能就是这种\"东方化\"的延续。读这本书会让你重新审视自己如何看待陌生文化。",
+      "quotes": [
+        {
+          "text": "The Orient was almost a European invention, and had been since ancient times a place of romance, exotic beings, haunting memories and landscapes, remarkable experiences.",
+          "context": "开篇即揭示西方对东方的想象性本质，指出东方更多是欧洲心理的投射"
+        },
+        {
+          "text": "As much as the West itself, the Orient is an idea that has a history and a tradition of thought, imagery, and vocabulary that have attached themselves to it.",
+          "context": "强调东方不是客观存在，而是被赋予了历史和话语的观念构造"
+        }
+      ]
+    },
+    {
+      "title_zh": "变形记",
+      "title_en": "The Metamorphosis",
+      "author_zh": "弗兰茨·卡夫卡",
+      "author_en": "Franz Kafka",
+      "year": "1915",
+      "category": "文学/短篇小说",
+      "one_liner": "一个人一觉醒来变成了巨大的甲虫，却没人觉得奇怪",
+      "deep_dive": "当你打开《变形记》第一页，就会被那种诡异的平静震撼。格里高尔·萨姆莎一觉醒来发现自己变成了虫子，但故事的疯狂之处不在这个荒诞的设定本身，而在于他和家人对此的反应——惊讶之后迅速归于日常，开始为"实际问题"担忧：怎么去公司上班、怎么付房租、怎么处理这个突然废用的家庭劳动力。整个故事充满了窒息感，不是因为虫子的恐怖，而是这个变成虫子的人所经历的孤立和被抛弃。卡夫卡用这个荒诞隐喻刻画了现代人的异化——我们是否都在变成某种"虫子"，被剥夺了人性但仍要维持生活的假象？这部作品太短了，却能在你心里久久作响。有人说这是关于贫困的，有人说这是关于疾病的，有人说这是关于被社会抛弃的恐惧。或许它什么都是，什么都不是。",
+      "quotes": [
+        {
+          "text": "When Gregor Samsa woke up one morning from unsettling dreams, he found himself changed in his bed into a monstrous vermin.",
+          "context": "故事的开篇一句，用最直白的方式呈现最荒诞的变化，冷静的笔调与内容的荒诞形成极大反差"
+        },
+        {
+          "text": "He must go back to the office today, no matter what, because his boss had been asking for a report.",
+          "context": "变身后，家人依然陷入日常的琐碎担忧，反讽了人在资本制度下的无力感"
+        }
+      ]
+    },
+    {
+      "title_zh": "蓝海战略",
+      "title_en": "Blue Ocean Strategy",
+      "author_zh": "W·钱·金、勒妮·莫博涅",
+      "author_en": "W. Chan Kim and Renée Mauborgne",
+      "year": "2005",
+      "category": "商业战略/企业管理",
+      "one_liner": "与其在血红的竞争市场内厮杀，不如开创全新的蓝色市场",
+      "deep_dive": "这本书抓住了一个商业世界的永恒悖论：大多数企业都在红海里激烈竞争——价格战、功能比较、市场份额争夺——结果利润越来越薄，创新越来越难。作者提出\"蓝海\"的概念，就是指那些未被开发、充满机遇的新市场空间。不是更便宜，也不是功能更多，而是完全改变消费者的价值定义。举个例子，马戏团曾在\"更多狮子、更多特技\"的红海里竞争得筋疲力尽，直到太阳马戏团出现——它不比动物、不比传统特技，而是创造了一种融艺术、音乐、故事的全新体验，竟然还能收更高的票价。这书最聪明的地方是提供了\"价值创新\"的工具框架，让你能具体思考如何消除行业内的低价值竞争因素，强化真正重要的价值。如果你在创业或做产品，这个思维框架能帮你跳出\"比别人更好\"的陷阱，去思考\"如何做完全不同的东西\"。",
+      "quotes": [
+        {
+          "text": "The best way to beat the competition is to stop trying to beat the competition.",
+          "context": "核心思想概括——停止在红海中的恶性竞争，创造新的市场空间"
+        },
+        {
+          "text": "Create and capture new demand. This is achieved by linking innovation with utility, price, and cost.",
+          "context": "蓝海战略的关键是价值创新，不仅要创新产品，更要创新整个价值链"
+        }
+      ]
+    }
+  ]
+}
+```
