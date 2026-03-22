@@ -1,0 +1,4 @@
+需要权限批准。请允许我保存推荐内容到：
+- `/Users/carol/Documents/daily-books/data/2026-03-22.json`
+
+这样才能继续完成流程。
