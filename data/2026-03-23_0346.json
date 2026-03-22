@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "定位",
+      "title_en": "Positioning: The Battle for Your Mind",
+      "author_zh": "艾·里斯、杰克·特劳特",
+      "author_en": "Al Ries, Jack Trout",
+      "year": "1981",
+      "category": "商业与技术",
+      "one_liner": "在消费者心智中找到独特位置，这才是营销的真正战场。",
+      "deep_dive": "这本书改变了我对商业的理解。核心洞察是：营销的战场不在产品本身，而在消费者的心智。艾·里斯和杰克·特劳特论证，人类心智容量有限，会自动建立排序和分类，所以首先进入某个品类的品牌往往能赢得消费者的首选。可口可乐不是最好喝的，但它首先占据了人们对「可乐」的认知，这是不可撼动的优势。\n\n书中最妙的地方在于它打破了「更好的产品会赢」这个神话。沃尔沃之所以代表安全，奔驰代表豪华，不是因为它们产品最优秀，而是因为它们抢先在消费者心智中建立了这个定位。一旦建立，就像刻在消费者脑子里的标签。\n\n定位的核心是「简化」——把复杂的产品特性压缩成一句话，让消费者瞬间理解你是谁、你与竞争者的区别。这对创业者和品牌人来说至关重要。当你无法成为主品类的第一名时，创造一个新的细分品类并成为第一名，往往是更聪明的策略。这种「心智占位」的思维方式，改变了我对品牌和营销的所有认知。",
+      "quotes": [
+        {
+          "text": "Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.",
+          "context": "定位论的终极秘密——你做的一切，本质上都是在影响消费者如何在心智中对你分类和记忆。"
+        },
+        {
+          "text": "The mind is a filing cabinet. Once the files are full, it is extremely difficult to put new information in.",
+          "context": "解释了为什么成为第一个进入某个品类的品牌如此珍贵——一旦消费者的认知被填满，后来者很难改变。"
+        },
+        {
+          "text": "In advertising, when you can't be first in a category, you should try to be first in a sub-category.",
+          "context": "如果你无法在主战场赢，不如开辟新的细分战场，在新品类中成为第一名。"
+        }
+      ]
+    },
+    {
+      "title_zh": "当呼吸化为空气",
+      "title_en": "When Breath Becomes Air",
+      "author_zh": "保罗·卡拉尼什",
+      "author_en": "Paul Kalanithi",
+      "year": "2016",
+      "category": "传记与回忆录",
+      "one_liner": "一位年轻医生确诊癌症后，在生命的最后时光里对存在意义的终极追问。",
+      "deep_dive": "这是我读过最震撼的书。保罗·卡拉尼什是才华横溢的神经外科医生，36岁被诊断出肺癌晚期，这本书是他生命最后时光的记录。什么让我印象深刻？不是悲剧本身，而是他如何直面这个悲剧。\n\n书的前半部分讲他如何成为医生——那种执着、那种对治愈他人的渴望、那种对掌控生命的期待。他花了十多年训练，终于站在了手术台上。但一切在确诊时瓦解了。他从医者变成了患者，从救人者变成了被救的人，这种身份的转换本身就是震撼。\n\n最令人敬佩的是他的态度。他没有绝望，反而思考了一个更深层的问题：如果生命有限，我应该如何度过？是继续治疗争取时间，还是专注于找到生活的意义？他选择写这本书，选择在生命即将结束时与妻子生一个孩子——这是对生命最后的肯定。\n\n书中关于父爱、关于留下什么、关于放下什么的思考，让我意识到一个真理：生命的意义不在长度，而在深度和选择。当你知道时间有限时，每一个时刻都变得无比珍贵。",
+      "quotes": [
+        {
+          "text": "You can't ever reach perfection, but if you chase perfection, you can catch excellence.",
+          "context": "这是他的人生哲学——不追求遥远的完美，而是在当下追求卓越。在生命的倒计时中，这个哲学变得格外有力。"
+        },
+        {
+          "text": "I began to realize that coming into work each day, despite my illness, helped me feel human.",
+          "context": "即使在疾病阴影下，他仍然坚持工作和追求，因为这给了他存在感，让他感到自己仍然活着。"
+        },
+        {
+          "text": "The fact of your death is the one fact no one wants to know.",
+          "context": "对人类回避死亡这一事实的深刻观察，也是他决定直面和记录这个事实的原因——让死亡不再是禁忌。"
+        }
+      ]
+    },
+    {
+      "title_zh": "确定性的终结",
+      "title_en": "The End of Certainty: Time, Chaos, and the New Laws of Nature",
+      "author_zh": "伊利亚·普里高金",
+      "author_en": "Ilya Prigogine",
+      "year": "1997",
+      "category": "科学与认知",
+      "one_liner": "诺奖物理学家挑战经典决定论，揭示混沌、时间和不可预测性是宇宙的根本特性。",
+      "deep_dive": "如果你认为宇宙是完全可预测的机器，这本书会颠覆你的世界观。伊利亚·普里高金是诺贝尔物理学奖得主，他在这本书中论证，传统物理学关于宇宙的决定论观点从根本上是错误的。\n\n问题在于经典物理学的成就太过巨大——牛顿的方程、拉普拉斯的魔鬼都告诉我们，如果知道所有粒子的初始状态，就能完全预测未来。但生活不是这样的。天气无法预测，生物系统无法预测，人的行为也无法预测。普里高金认为这不是知识缺陷，而是自然界本身的特性——不确定性和混沌根植于宇宙的深层结构。\n\n书中最重要的贡献是对「耗散结构」和「非平衡热力学」的阐述。在远离热力学平衡的系统中，会自发产生新的有序结构。这解释了为什么生命能在一个熵增的宇宙中不断涌现出复杂和秩序——这简直是物理学的奇迹。\n\n最深刻的洞察是关于时间的。经典物理学中时间是可逆的，但普里高金证明时间有方向、有不可逆性，这是宇宙的基本特征。过去和未来本质不同。这给了人类自由和创意以物理学基础——在一个充满可能性和混沌的宇宙中，未来是真正开放的。",
+      "quotes": [
+        {
+          "text": "The laws of nature are no longer deterministic, they are probabilistic.",
+          "context": "普里高金对物理学基本假设的挑战——自然界的根本法则不是确定性的，而是概率性的。"
+        },
+        {
+          "text": "Time is irreversible. This is not a limitation of our knowledge, but a fundamental property of nature.",
+          "context": "时间的箭头不是我们理解的缺陷，而是宇宙的基本特性，这重塑了我们对因果关系和历史意义的理解。"
+        },
+        {
+          "text": "In the classical deterministic universe, the present determines the future. In a universe with chaos and unpredictability, the future is open.",
+          "context": "指出在混沌框架下，未来不再被过去绝对决定，存在真正的可能性和人的自由。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0346"
+}
