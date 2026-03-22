@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "反脆弱",
+      "title_en": "Antifragile: Things That Gain from Disorder",
+      "author_zh": "纳西姆·尼古拉斯·塔勒布",
+      "author_en": "Nassim Nicholas Taleb",
+      "year": "2012",
+      "category": "经济学/哲学",
+      "one_liner": "系统地探讨如何从波动和风险中获利，而不仅仅是抵抗它们。",
+      "deep_dive": "你知道很多人追求稳定，却不知道这个世界最强大的东西其实来自波动。塔勒布在这本书里彻底颠覆了传统的风险管理思维，他说我们不应该只是躲避风险，反而应该建立一个能从不确定性中获益的系统。这像是说，真正的力量不在于不倒翻，而在于每次跌倒都能爬起来还更强。他用了一个妙趣横生的概念——反脆弱性，来描述那些因压力和波动而增强的东西。比如你的肌肉就是反脆弱的，经历锻炼的压力才能变得更强。书中还涉及医学、历史、金融等多个领域的例子，让你看到这个原理在现实中无处不在。最有趣的是，他认为许多现代人为了追求所谓的稳定和安全，反而把自己变成了易碎品。看完这本书你会开始重新审视生活中的风险——有些风险其实是机遇伪装的。",
+      "quotes": [
+        {
+          "text": "The fragile wants tranquility, the robust wants to be left alone, and the antifragile wants disorder.",
+          "context": "核心观点：脆弱的系统需要稳定，强壮的系统能容忍混乱，而反脆弱的系统则在混乱中茁壮成长"
+        },
+        {
+          "text": "If you want to understand anything, focus on the mouse that is afraid.",
+          "context": "强调了在复杂系统中，观察那些最谨慎、最容易受伤的部分，往往能获得最深刻的洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "地球上最后的夜晚",
+      "title_en": "The Last Night on Earth",
+      "author_zh": "待确认",
+      "author_en": "To be confirmed",
+      "year": "待确认",
+      "category": "科幻/文学",
+      "one_liner": "在文明即将落幕的夜晚，追问人生的终极意义。",
+      "deep_dive": "这部作品以一种诗意又沉郁的笔调，想象人类文明走向终结时会发生什么。不过它关注的不是灾难本身，而是面对末日时，一个普通人内心的波澜。是否应该绝望？是否应该继续奋力求生？还是应该以另一种姿态去迎接结局？整个故事在这些终极问题之间徘徊，让你在阅读的过程中，被迫重新思考自己对死亡、意义和存在的认知。它用细节描写和心理刻画打动人，而不是靠宏大的场面。你会发现，越是接近虚无，人性中那些微小的温暖就显得越珍贵。",
+      "quotes": [
+        {
+          "text": "在最后一个夜晚，我们终于看清了什么是真正重要的。",
+          "context": "面对终结时的顿悟——在生命的最后时刻，外在的成就和物质都褪去了，真正的价值浮现出来"
+        },
+        {
+          "text": "黑暗中的一盏灯，不是为了照亮远方，而是为了温暖身边的人。",
+          "context": "在绝望的时代，小的善举和连接比宏大的拯救更有力量"
+        }
+      ]
+    },
+    {
+      "title_zh": "宇宙的琴弦",
+      "title_en": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+      "author_zh": "布莱恩·格林",
+      "author_en": "Brian Greene",
+      "year": "1999",
+      "category": "物理学/科普",
+      "one_liner": "用优美的语言揭示宇宙深层的数学和谐——弦论如何可能改变我们对现实的理解。",
+      "deep_dive": "格林用了个绝妙的比喻——整个宇宙就像一首壮丽的交响乐，而基本粒子则是弦乐器上的琴弦。这本书最厉害的地方在于，它把极其复杂的理论物理学讲得清晰有趣。你会学到什么是弦论、为什么科学家认为它可能是统一所有物理学定律的关键、以及我们为什么需要额外的维度来解释宇宙的运作。格林不只是堆砌公式，他通过类比、历史背景和具体例子，让你能跟上思路。比如他用琴弦的振动来解释为什么不同的粒子本质上是同一样东西的不同振动模式。更酷的是，这本书会改变你看待现实的方式——你会意识到我们生活的三维空间可能只是冰山一角。",
+      "quotes": [
+        {
+          "text": "The universe is a symphony of strings.",
+          "context": "对弦论核心观点的优美概括——万物都由振动的能量弦组成，这是宇宙最深层的和谐"
+        },
+        {
+          "text": "What we perceive as reality is but a dim shadow of the full richness of possibility.",
+          "context": "强调我们对宇宙的理解还很片面，人类感知的仅是更深层真实的表面表现"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1314"
+}
