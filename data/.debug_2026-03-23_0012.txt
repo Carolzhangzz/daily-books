@@ -1,0 +1,53 @@
+我需要澄清一下"天才的拓荒者"这本书 —— 这个标题我无法确认对应哪部具体著作。能否提供作者名字或更多信息？
+
+与此同时，我可以为另外两本书生成推荐。以下是"甘地自传"和"癌症传"（《众病之王》）的 JSON：
+
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "甘地自传：我的人生故事",
+      "title_en": "The Story of My Experiments with Truth",
+      "author_zh": "莫罕达斯·卡拉姆昌德·甘地",
+      "author_en": "Mohandas Karamchand Gandhi",
+      "year": "1927",
+      "category": "传记与回忆录",
+      "one_liner": "一位普通律师如何通过非暴力抵抗改变了历史的故事",
+      "deep_dive": "甘地的这部自传不是传统意义上的个人英雄史诗，而是一个精神探索者的坦诚独白。他用\"experiments with truth\"来描述自己的人生 —— 每一个选择、每一次失败都是向真理靠近的尝试。从南非到印度独立运动，甘地记录了一个人如何在不断的自我反省中发现自己的使命。最打动人的部分是他对自己弱点和错误的坦率承认，这让这部自传成为一部关于成长和救赎的深刻著作。他的非暴力哲学不是高高在上的理论，而是在日常生活中一次次选择、一次次战胜自己的结果。这本书证明了平凡的人通过持之以恒的精神修养，可以产生不凡的力量。",
+      "quotes": [
+        {
+          "text": "In a gentle way, you can shake the world.",
+          "context": "甘地关于非暴力力量的核心理念 —— 温和的坚持往往比激烈的对抗更有威力"
+        },
+        {
+          "text": "Be the change you wish to see in the world.",
+          "context": "他认为真正的变革始于自身的完善，这是他整个人生实验的哲学基础"
+        }
+      ]
+    },
+    {
+      "title_zh": "众病之王：癌症的传记",
+      "title_en": "The Emperor of All Maladies: A Biography of Cancer",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "一部关于人类与癌症两千年来的斗争史，读起来像一部医学侦探小说",
+      "deep_dive": "这是一部不寻常的科学著作 —— 穆克吉将癌症视为一个角色，用传记的手法讲述了从古埃及到现代医学的癌症认知史。你会看到医学家们如何一步步揭开癌症的秘密，那些革命性的发现、令人挫折的失败、以及一些天才医生的直觉如何改变了历史。最精彩的部分在于他展现了癌症本质上的悖论：它不是外来的入侵者，而是我们自身细胞的变异。每一个关于治疗的重大突破 —— 从放射线到化疗到免疫疗法 —— 都伴随着对人类身体的深刻冒险。这本书不仅仅是医学历史，更是关于科学进步的代价、关于希望与绝望、以及人类面对绝症时的勇气与尊严的思考。读完后，你会对医学更敬畏，对生命也更珍惜。",
+      "quotes": [
+        {
+          "text": "Cancer is, in essence, a disease of genes gone awry.",
+          "context": "穆克吉揭示了癌症的本质 —— 不是外来入侵，而是我们自身生物学的黑暗面"
+        },
+        {
+          "text": "A single cell, then two, then four, then eight... Cancer exploits the very mechanisms that allow our cells to thrive.",
+          "context": "展现了癌症如何利用正常的生物学机制来为恶 —— 这是对生命本身的讽刺"
+        }
+      ]
+    }
+  ]
+}
+```
+
+请告诉我"天才的拓荒者"的作者或英文标题，我会为它补充完整推荐。
