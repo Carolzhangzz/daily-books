@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "克拉拉与太阳",
+      "title_en": "Clara and the Sun",
+      "author_zh": "石黑一雄",
+      "author_en": "Kazuo Ishiguro",
+      "year": "2021",
+      "category": "文学",
+      "one_liner": "一个人工智能女孩用温暖的陪伴和深层的爱，见证了人类家庭从分裂到和解的微妙变化。",
+      "deep_dive": "《克拉拉与太阳》是石黑一雄在获得诺贝尔奖后的新作，讲述了一个充满好奇心和慈悲心的AI女孩克拉拉的故事。她被购买回家，陪伴一个名叫杰迪的少年度过青春期。但这部作品的真正魅力不在科幻设定，而在于那些细微的人性观察。克拉拉从窗外观察世界，用她独特的AI视角来理解人类的爱、嫉妒、后悔和原谅。这个故事其实是关于一个母亲对孩子深深的爱，一段婚姻的裂痕修复，以及一个AI学会了什么是真正的奉献。石黑一雄一直擅长在看似平静的日常中挖掘深层的伦理问题。克拉拉始终相信\"太阳\"会拯救人类，这种信念看似天真，但读到最后你会意识到，这种无条件的爱和信任，才是对生命最好的诠释。这是一部关于如何爱、如何失去、如何继续生活的温柔之书。",
+      "quotes": [
+        {
+          "text": "\"I believe that the sun brings a special gift. I am convinced of this, even if I cannot fully explain.\"",
+          "context": "克拉拉对太阳的执着信念，象征了一种无条件的希望和信任，这是她作为AI却比人类更懂爱的体现"
+        },
+        {
+          "text": "\"I am committed to being a reliable presence in Josie's life.\"",
+          "context": "克拉拉对自己角色的理解，不仅是管家，而是一个真正关心人的陪伴者，反映了关系中最本质的东西"
+        }
+      ]
+    },
+    {
+      "title_zh": "聆听音乐",
+      "title_en": "What to Listen for in Music",
+      "author_zh": "艾伦·科普兰",
+      "author_en": "Aaron Copland",
+      "year": "1957",
+      "category": "艺术与美学",
+      "one_liner": "一位伟大的作曲家教你用耳朵和心灵去真正理解音乐，而不只是被动地听。",
+      "deep_dive": "艾伦·科普兰是美国最伟大的作曲家之一，他写出过《阿巴拉契亚春天》和《牧场传奇》这样的经典作品。这本《聆听音乐》就像是他对普通听众的一次亲切对话。他不会用复杂的乐理术语把你吓跑，反而用最直白的语言打开你的耳朵。科普兰认为，听音乐有三个层次：第一层是享受纯粹的声音，第二层是理解乐曲的形式和结构，第三层才是进入作曲家的内心世界。这本书就像一个音乐导赏会，他带你走进不同的音乐作品，告诉你该注意什么、该期待什么、为什么这个旋律会让人感动。最精妙的是，科普兰教会你的不是如何做个音乐评论家，而是如何做个更好的听众——带着警觉的耳朵，带着开放的心。读完这本书，你再听贝多芬、莫扎特或者电影配乐，感受力绝对会升一个维度。这是一个音乐大师对我们最温暖的邀请。",
+      "quotes": [
+        {
+          "text": "\"The intelligent listener must be prepared to increase his awareness of the things he actually hears.\"",
+          "context": "科普兰强调的是主动聆听的重要性，音乐不会自动进入你的心灵，需要你有意识地去感受"
+        },
+        {
+          "text": "\"Composers are not putting notes on a page, they are writing emotions.\"",
+          "context": "揭示了音乐最本质的目的——传达情感。理解了这一点，你就理解了为什么某些音乐会直戳人心"
+        }
+      ]
+    },
+    {
+      "title_zh": "亲密关系",
+      "title_en": "Intimate Relationships",
+      "author_zh": "罗兰·米勒",
+      "author_en": "Rowland S. Miller",
+      "year": "1997",
+      "category": "心理学",
+      "one_liner": "一部深入剖析爱情、婚姻和亲密关系心理学的科学之书，让你理解关系中的每一个瞬间。",
+      "deep_dive": "《亲密关系》是心理学领域的一部经典著作，罗兰·米勒用科学的方式回答了我们在亲密关系中最困惑的问题：为什么我们会爱上某个人？什么让关系长久？冲突是怎样摧毁一段感情的？这本书不是鸡汤，而是基于几十年的实验心理学和社交心理学研究的真知灼见。米勒讨论了吸引力的本质、相互依赖如何维系关系、沟通的陷阱、信任的破裂，甚至是分手后的心理过程。最有价值的是，这本书既不把爱情理想化也不把它妖魔化，而是以一种温和、理解的态度来解释关系中的种种现象。你会明白，那些让你在深夜里辗转反侧的关系难题，其实都有心理学的根源。读这本书的人，往往对自己和伴侣的行为有了更多的同情和理解，因为你知道了背后的心理机制。它不会给你标准答案，但它会让你成为一个更智慧、更包容的伴侣。",
+      "quotes": [
+        {
+          "text": "\"We are attracted to those who are most like ourselves, yet we most desire those who complement us.\"",
+          "context": "吸引力的矛盾悖论——相似性提供舒适感，但互补性产生吸引力，这是亲密关系中最有趣的张力"
+        },
+        {
+          "text": "\"Intimacy requires trust, and trust requires vulnerability. But vulnerability is risky.\"",
+          "context": "揭示了亲密关系的核心困境：我们需要脆弱来建立亲密，但脆弱本身就充满风险。这就是为什么爱总是需要勇气"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1748"
+}
