@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "我们内心的冲突",
+      "title_en": "Our Inner Conflicts",
+      "author_zh": "卡伦·霍妮",
+      "author_en": "Karen Horney",
+      "year": "1945",
+      "category": "心理学",
+      "one_liner": "探讨人类内心相互矛盾的需求如何塑造性格和行为模式。",
+      "deep_dive": "霍妮的这本书特别有意思，她把人的心理问题看作是内心冲突而非病态。比如，你既想被人接纳，又想保持独立；既渴望竞争胜利，又害怕伤害关系。这些不是矛盾，而是人性本身的复杂性。她不像弗洛伊德那样只挖过去的创伤，而是问：你现在怎么应对这些冲突？有人选择讨好别人，有人选择好战自我，有人则漠然退缩。最强大的地方在于，霍妮告诉你这些应对策略不是永久的——你可以通过自我认知来理解并调和内心的对立面。这对理解自己为什么会反复做出矛盾的决定特别有帮助，能把你从\"我有病\"的自责中解救出来，转向\"我需要整合这些部分\"的自我接纳。",
+      "quotes": [
+        {
+          "text": "The person who is not capable of creating constructive conflicts within himself, capable of sustaining the tension in them is not able to develop.",
+          "context": "强调个人成长来自于积极面对和整合内心冲突"
+        },
+        {
+          "text": "Real freedom lies within us, as an achievement rather than as a gift.",
+          "context": "说明自由不是外在赋予，而是通过自我认知的精神修炼获得"
+        }
+      ]
+    },
+    {
+      "title_zh": "精神现象学",
+      "title_en": "Phenomenology of Spirit",
+      "author_zh": "格奥尔格·威廉·弗里德里希·黑格尔",
+      "author_en": "Georg Wilhelm Friedrich Hegel",
+      "year": "1807",
+      "category": "哲学",
+      "one_liner": "西方最深邃的哲学著作，描绘意识从朦胧走向绝对知识的螺旋上升之路。",
+      "deep_dive": "老实说，这本书很难，但难正是它的价值所在。黑格尔做了个疯狂的事——他试图描绘意识本身的历史。意识不是静止的，而是在不断自我否定、自我超越中前进。想象一个人从个体觉悟开始，发现自己离不开他人的认可（主奴关系），经历精神上的折磨和修养，最后达到理性认识——这就是他说的辩证运动。整个过程就像爬楼梯，每一级都否定前一级，但也保留了它的精华，不断螺旋上升。虽然充满晦涩术语，但如果你坚持读下去，会发现一个宏大的哲学视野，它改变了几代思想家和革命家的思维方式。对于想真正理解西方思想是怎么来的人来说，这本书是必读的。",
+      "quotes": [
+        {
+          "text": "The true is the whole.",
+          "context": "强调真理必须是完整、整体的认识，而非片段的理解"
+        },
+        {
+          "text": "Freedom is the recognition of necessity.",
+          "context": "说明自由的深层含义在于理解和认识自然必然性"
+        }
+      ]
+    },
+    {
+      "title_zh": "乌合之众",
+      "title_en": "The Crowd: A Study of the Popular Mind",
+      "author_zh": "古斯塔夫·勒庞",
+      "author_en": "Gustave Le Bon",
+      "year": "1895",
+      "category": "社会心理学",
+      "one_liner": "揭示群体如何压倒个人理性，是理解现代社会集体行为的钥匙。",
+      "deep_dive": "勒庞在十九世纪就看穿了一个扎心的现实——个人进了群体，智商就下降了。这不是说每个人都变蠢，而是群体的情绪会吞没个人的理性。一个理性的医生在群体里可能跟着尖叫；一个温和的人可能参与暴力。勒庞指出，群体会本能地寻找一个领袖给它方向，不管这个方向对不对。而且群体特别容易被简单的、重复的暗示所感染，越是虚假的观点，只要重复得够多，群体就越相信。写这本书时还没有互联网，但放到现在的社交媒体年代，简直是完美预言——一条消息的病毒式传播、群体狂欢、集体谩骂，全都符合他的理论。读这本书最大的好处是，当你意识到自己可能在被群体情绪裹挟时，你还有机会停下来问自己：我真的这么想吗？",
+      "quotes": [
+        {
+          "text": "Whoever can supply them with illusions is easily their master; whoever attempts to destroy their illusions is always their victim.",
+          "context": "揭示群体对幻想的执迷和对真相的本能抵触"
+        },
+        {
+          "text": "The masses have never thirsted after truth. They turn aside from evidence that is not to their taste, preferring to deify error.",
+          "context": "说明群体的信仰系统往往优先于事实，情感优先于理性"
+        }
+      ]
+    }
+  ]
+}
+```
