@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "黑客与画家",
+      "title_en": "Hackers & Painters",
+      "author_zh": "保罗·格雷厄姆",
+      "author_en": "Paul Graham",
+      "year": "2004",
+      "category": "商业与技术",
+      "one_liner": "硅谷创业导师用软件工程师的眼光观察创意、财富和人生",
+      "deep_dive": "这本书特别的地方在于，作者不是在讲技术本身，而是在讲技术人如何思考。保罗·格雷厄姆用\"黑客\"和\"画家\"的类比来说明：优秀的程序员和艺术家有很多相似之处，都在探索如何表达和解决问题的优雅之道。书里有几篇让人印象深刻，比如论述财富的那篇，他解释了为什么创业公司能产生真实的财富，而不是零和游戏；还有关于设计和品味的讨论，认为好设计不是靠规则，而是靠品味和感受。整本书读下来像是在听一个经历丰富的导师分享人生洞察。特别适合那些想创业或想理解硅谷文化的人，也适合任何想了解一流程序员如何思考的人。格雷厄姆后来创办了Y Combinator，他在这本书里表达的思想理念基本贯穿了他之后的所有实践。",
+      "quotes": [
+        {
+          "text": "Great hackers also tend to be about the same age as great painters. Creativity seems to peak in the mid-thirties.",
+          "context": "这句话点出了创新者的最佳年龄段，说明创造力是可以观测的规律"
+        },
+        {
+          "text": "If you want to make money, you'll need to make something people want, and do it better than your competitors.",
+          "context": "格雷厄姆关于创业本质的直白表述，财富来自创造真实价值，而不是投机"
+        },
+        {
+          "text": "The best way to get new ideas is to notice anomalies, to pay attention when something surprises you.",
+          "context": "强调了观察和直觉对创新的重要性，这也是黑客精神的核心"
+        }
+      ]
+    },
+    {
+      "title_zh": "大自然的猎人",
+      "title_en": "The Naturalist",
+      "author_zh": "威廉·亨利·哈德森",
+      "author_en": "William Henry Hudson",
+      "year": "1892",
+      "category": "自然与生态",
+      "one_liner": "一位痴迷于鸟类和野生动物的博物学家，用诗意的笔触记录与自然的亲密相遇",
+      "deep_dive": "这本书读起来像是一个人在荒野中漫步时的灵魂独白。哈德森用一种罕见的敏感度去观察鸟类的行为、植物的生长、动物的性格，他不是在写科学论文，而是在分享一种与自然相处的哲学。他在南美洲的草原上度过了大部分人生，对那片大陆的生态系统有着深入而温暖的理解。与同时代的博物学家不同，哈德森从不看重物种收集和标本制作，他关心的是动物的内在生命——它们的情感、恐惧、友谊。读他的作品你会意识到，所谓的\"大自然的猎人\"其实是在猎取灵感和精神共鸣。这本书影响了后来无数的自然写作者，包括阿尔多·利奥波德和蕾切尔·卡松。对现在的读者来说，它提醒我们，在用数据和科学解释世界的同时，也不要忘记用感受和直觉去接近自然。",
+      "quotes": [
+        {
+          "text": "The bird which most interested me was the great kiskadee, a bold and domineering tyrant of the air.",
+          "context": "哈德森赋予鸟类生动的性格特征，体现了他对自然的拟人化理解和深厚感情"
+        },
+        {
+          "text": "I love all the birds, but I am specially fond of those which are common and familiar.",
+          "context": "他不追逐稀有物种，反而对普通生物有着真挚的热爱，这体现了他对自然民主化的理解"
+        },
+        {
+          "text": "To know the bird you must watch it; you cannot know it from a book or a picture or a skin in a museum.",
+          "context": "强调了亲身体验和观察的重要性，这是他与传统博物学家最大的区别"
+        }
+      ]
+    },
+    {
+      "title_zh": "追忆似水年华",
+      "title_en": "In Search of Lost Time / À la Recherche du Temps Perdu",
+      "author_zh": "马塞尔·普鲁斯特",
+      "author_en": "Marcel Proust",
+      "year": "1913-1927",
+      "category": "文学",
+      "one_liner": "一部关于记忆、时间和人生意义的巨著，通过一个个微观时刻开启宏大的精神世界",
+      "deep_dive": "这可能是现代文学最野心勃勃的作品。普鲁斯特不是在讲一个故事，而是在重新定义什么是文学。整部作品围绕一个简单的时刻展开：成年的叙述者吃了一块浸在茶里的玛德琳蛋糕，突然被儿时的回忆淹没。从这一刻开始，他决定重建他整个人生的意义。书里充满了对社交生活的观察、对爱情的剖析、对艺术的思考，但最核心的是对时间的思考——我们如何体验时间，时间如何改变我们，我们又如何通过记忆重新占有失去的时间。普鲁斯特的句子长得令人瞠目结舌，有时一句话就能跨越整页，但那种冗长不是冗余，而是精确性的代价。他要表达的不是什么，而是事物的本质如何在记忆中变化。这部作品影响了现代主义文学的整个方向，从意识流到心理现实主义，几乎所有后来的实验都能找到普鲁斯特的影子。对现代读者，它仍然提供一个激进的观点：人生的意义不在于发生了什么，而在于我们如何记住、如何理解。",
+      "quotes": [
+        {
+          "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+          "context": "这句话简明地概括了普鲁斯特的整个哲学——改变的不是世界，而是我们看待世界的方式"
+        },
+        {
+          "text": "We are dying all the time. In fact, we are dead already; it is not a matter for the future.",
+          "context": "普鲁斯特对时间流逝的悲观而深刻的思考，说明每一刻的过去都是一种死亡"
+        },
+        {
+          "text": "The past is hidden somewhere outside the realm of intellect, in some physical object we don't expect.",
+          "context": "解释了他著名的\"意象记忆\"理论，一个感觉可以唤醒整个过去，这也是开启整部作品的关键"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0212"
+}
