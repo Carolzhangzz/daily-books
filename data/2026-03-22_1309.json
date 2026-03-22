@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author_zh": "麦克斯·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科技/AI/哲学",
+      "one_liner": "从物质、能量和信息三个维度重新定义生命，探讨AI时代人类的未来",
+      "deep_dive": "这本书真的很硬核。泰格马克用「生命1.0」指生物生命只能通过基因进化改进硬件，「生命2.0」指人类可以用文化方式改变想法，「生命3.0」指AI可以自我设计硬件和软件。听起来很遥远？其实不是，ChatGPT的出现已经让我们看到这个时代的开启了。整本书最发人深省的是，如果超级AI真的出现了，我们该怎么办？作者没有给出耸人听闻的答案，反而通过大量科学论证让你思考：人类应该如何与AI共存，而不是被替代。这书不是催眠的，是让你既兴奋又有点紧张的那种。特别是当你意识到，我们现在的每个选择都在塑造那个可能的未来。",
+      "quotes": [
+        {
+          "text": "Life is a process that can construct models of worlds and store the information in a physical substrate.",
+          "context": "生命的本质定义"
+        },
+        {
+          "text": "The future of life depends on our choices, not on the laws of physics alone.",
+          "context": "人类在塑造未来中的角色"
+        }
+      ]
+    },
+    {
+      "title_zh": "知行合一王阳明",
+      "title_en": "Wang Yangming's Philosophy: Knowledge and Action in Unity",
+      "author_zh": "度阴山",
+      "author_en": "Du Yinshan",
+      "year": "2015",
+      "category": "哲学/历史/传记",
+      "one_liner": "明代大儒王阳明「知行合一」的思想精要，打破知识与行动的分割",
+      "deep_dive": "王阳明这个人很有意思，他不仅是伟大的哲学家，还是卓越的军事家和行政官员，真正践行了自己的理论。「知行合一」这四个字听起来简单，实际上是对整个儒学传统的一场革命。他认为知和行不能分开，你「知」的东西必须要在行动中体现出来，否则就不是真知。换到现代语境，就像那些说得漂亮的人，行动跟不上，王阳明会说你还没真正「知」。最有趣的是他的「心学」——认为心是天地万物的主宰，这颠覆了传统的道德观。读这本书的人往往会产生一种共鸣：为什么我知道很多道理，但就是活不好？答案或许就在这里——因为你的知还不够深，不够能指导你的行。",
+      "quotes": [
+        {
+          "text": "知之真切笃实处即是行，行之明觉精察处即是知。知行本来是一物。",
+          "context": "知行合一的核心论述"
+        },
+        {
+          "text": "心即理也。",
+          "context": "心学的基本命题"
+        }
+      ]
+    },
+    {
+      "title_zh": "美国大城市的死与生",
+      "title_en": "The Death and Life of Great American Cities",
+      "author_zh": "简·雅各布斯",
+      "author_en": "Jane Jacobs",
+      "year": "1961",
+      "category": "城市规划/社会学",
+      "one_liner": "经典著作：批判现代城市规划的失败，倡导有机多样化的城市社区",
+      "deep_dive": "这本1961年的书现在读来仍然触目惊心。雅各布斯用尖锐的笔锋批评了那些自以为是的城市规划师们——他们把城市当成机器来改造，用宽阔的马路、单一用途的分区、整齐划一的高楼大厦摧毁了原本充满生活的街区。她观察到，真正活跃的城市街道需要多样性：混杂的建筑、不同用途的商业、多种人群和年龄段的居民。这种「无序」的混乱实际上充满了秩序和生命力。最让人印象深刻的是她对「眼睛盯着街道」（eyes on the street）概念的阐述——社区的安全和活力来自于自然的相互监督，而不是城市规划者的宏大设计。读到现在，你会突然意识到，自己喜欢的那些充满人气的老街区，正在被「现代化」的名义逐渐清除。这本书是对城市灵魂的一次深情的呼吁。",
+      "quotes": [
+        {
+          "text": "The sum of these fragments of urban life adds up to the sidewalk life of city neighborhoods.",
+          "context": "城市生活的本质在街道和人的互动"
+        },
+        {
+          "text": "The art of sidewalk life is being an understandable symbol of something in which people are interested.",
+          "context": "街道生活的艺术与城市活力"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1309"
+}
