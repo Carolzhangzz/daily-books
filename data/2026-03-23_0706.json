@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "微暗的火",
+      "title_en": "Pale Fire",
+      "author_zh": "弗拉基米尔·纳博科夫",
+      "author_en": "Vladimir Nabokov",
+      "year": "1962",
+      "category": "文学",
+      "one_liner": "一部由诗歌、疯狂评注构成的自反性迷宫，现实在其中逐层瓦解。",
+      "deep_dive": "这部小说的结构本身就是个美妙的陷阱：九百九十九行的诗歌加上数百页的学术评注。诗歌作者是约翰·谢德，评注人是他的邻居金博特——一个声称自己是流亡国王、无所不知的学者。你开始以为金博特只是在解释谢德的诗，但随着评注越来越离谱，你意识到金博特其实在讲述他自己的故事：一段关于失落王国、复仇和心理崩溃的疯狂幻想。纳博科夫在这里玩了个绝妙的游戏——谁才是真正的疯子？诗人还是评注者？还是我们这些试图在这个文字迷宫中找到真相的读者？这部作品挑战了叙述的本质，质疑了我们如何理解他人的生活和动机。",
+      "quotes": [
+        {
+          "text": "Life is a great surprise. I do not see why death should not be, also.",
+          "context": "谢德在诗中对死亡的看法，呼应了整部作品对存在意义的终极思考"
+        },
+        {
+          "text": "He was a king. He was that king of his own unreality.",
+          "context": "金博特对自己身份的描述，揭示了主观幻想如何可以完全取代客观现实"
+        }
+      ]
+    },
+    {
+      "title_zh": "苔丝",
+      "title_en": "Tess of the d'Urbervilles",
+      "author_zh": "托马斯·哈代",
+      "author_en": "Thomas Hardy",
+      "year": "1891",
+      "category": "文学",
+      "one_liner": "一个纯真少女如何被社会的虚伪与命运的残忍彻底摧毁。",
+      "deep_dive": "苔丝是那种你读完会心疼好久的人物。她生在穷困的家庭，年仅十六岁就被富有男人亚历克·德博维尔诱奸——这在小说中差点被描写成是她的错。她失贞了，按维多利亚时代的观念，就该被社会抛弃。但苔丝没有认命，她试图通过诚实的劳动和真诚的爱重新开始。她爱上了温文尔雅的克莱尔，他声称接纳她的过去，结果洞房花烛夜发现真相后就抛弃了她。哈代在这里对维多利亚社会的伪善进行了无情的批评——男人可以堕落，可以有过去，但女人的一个错误就足以判她死刑。最后那个复仇式的结局，是对这个不公正社会的彻底否定。",
+      "quotes": [
+        {
+          "text": "Why it was that upon this beautiful feminine tissue, sensitive as gossamer, and practically blank as snow as yet, there should have been traced such a coarse pattern as it was doomed to receive.",
+          "context": "哈代笔下的苔丝——纯洁无辜却注定要被粗暴的命运摧残的女性"
+        },
+        {
+          "text": "'Justice' was done, and the President of the Immortals, in Æschylean phrase, had ended his sport with Tess.",
+          "context": "小说的最后一句，暗示苔丝的悲剧是不公正的宇宙的运作结果"
+        }
+      ]
+    },
+    {
+      "title_zh": "雪国",
+      "title_en": "Snow Country",
+      "author_zh": "川端康成",
+      "author_en": "Yasunari Kawabata",
+      "year": "1956",
+      "category": "文学",
+      "one_liner": "在雪乡的温泉边，两个人的精神相遇闪烁着虚无而绝美的光芒。",
+      "deep_dive": "川端康成用最少的笔触讲述最深的孤独。岛村是个富裕的纺织商，偶尔来到雪国温泉小镇，他在那里邂逅了艺妓驹子。他们的关系很难定义——不完全是爱情，也不仅仅是肉体关系，而是某种精神上的相遇。川端最绝妙的地方在于，他通过温泉、雪景、镜中倒影这些意象，让你感受到一种无言的美。驹子说起自己的梦想、她的虚伪、她的真诚，但岛村始终保持着一种冷漠的距离。他们之间隔着什么？是身份的差异，是岛村对人生的虚无主义，还是人与人之间本质的无法真正相连？这是一部关于美与虚无、连接与疏离的作品，读起来像一首寂寞的诗。",
+      "quotes": [
+        {
+          "text": "She had the neck of a young man. However, it was the neck of a woman, with skin soft as jade.",
+          "context": "川端对驹子的描写，展现了他独特的、细微的、几乎禅意的审美视角"
+        },
+        {
+          "text": "If only this moment could be eternal.",
+          "context": "岛村和驹子在温泉旁的瞬间，代表了对无法留住的美好的哀伤"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0706"
+}
