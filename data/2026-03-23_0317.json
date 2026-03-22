@@ -2,62 +2,74 @@
   "date": "2026-03-23",
   "books": [
     {
-      "title_zh": "失控",
-      "title_en": "Out of Control",
-      "author_zh": "凯文·凯利",
-      "author_en": "Kevin Kelly",
-      "year": "1994",
+      "title_zh": "居里夫人传",
+      "title_en": "Madame Curie",
+      "author_zh": "艾芙·居里",
+      "author_en": "Eve Curie",
+      "year": "1937",
+      "category": "传记与回忆录",
+      "one_liner": "一个波兰女孩如何成为改变世界的科学家，两度获得诺贝尔奖的传奇人生。",
+      "deep_dive": "这本书讲的是玛丽·居里从波兰小镇女孩到两次诺贝尔奖得主的传奇人生。你会看到一个女人是如何在19世纪末、科学界被男性垄断的时代，通过执着和天才突破重重阻力。她发现了放射性，这项发现改变了物理学和医学的整个面貌。但这本书不仅仅讲科学成就，更讲一个人的坚持。玛丽在极其简陋的实验条件下，用了八年时间处理八吨沥青矿渣来提取一克镭。那种执着程度，现在很难想象。她经历了失败、贫穷、丧夫的悲痛，但从未放弃。这本传记由她的女儿写就，充满了温度和细节，你能感受到那个时代的氛围，也能理解什么是真正的科学精神——不是为了名利，而是对真理永不熄灭的渴望。",
+      "quotes": [
+        {
+          "text": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.",
+          "context": "玛丽在经历科研困难时期的感悟，强调毅力和自信的重要性"
+        },
+        {
+          "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+          "context": "体现她的科学精神和人生哲学，认为理解是克服恐惧的途径"
+        },
+        {
+          "text": "I was taught that the way of progress was neither swift nor easy.",
+          "context": "反映她对科学研究长期性和艰巨性的认识"
+        }
+      ]
+    },
+    {
+      "title_zh": "鸟的天赋",
+      "title_en": "The Genius of Birds",
+      "author_zh": "珍妮弗·阿克曼",
+      "author_en": "Jennifer Ackerman",
+      "year": "2016",
+      "category": "自然与生态",
+      "one_liner": "打破\"鸟脑\"刻板印象，揭示鸟类惊人的认知能力和智慧。",
+      "deep_dive": "你知道吗，鸟类的大脑虽然很小，但它们的认知能力会让你震惊。这本书打破了我们对\"鸟脑\"这个词的刻板印象。珍妮弗·阿克曼通过实地采访鸟类学家和做实验，揭示了鸟类惊人的智慧。乌鸦能制作工具、识别人脸、进行复杂的社交活动；鹦鹉有着和4-6岁儿童相当的认知能力；迁徙中的鸟类能在磁场和星星的引导下准确找到路线。这本书最吸引人的地方是，它让你重新思考\"智能\"的定义。鸟类的智能和人类不同，但同样令人印象深刻。读着读着，你会开始尊敬这些羽毛生物的聪慧，也会反思我们人类对自然界的理解还有多浅薄。这不仅是一本科普书，更是一个邀请——邀请你用全新的眼光看待这个世界。",
+      "quotes": [
+        {
+          "text": "The small brain of a bird is a marvel of efficiency.",
+          "context": "说明鸟类虽脑容量小，但神经组织高度集中，计算能力和学习能力惊人"
+        },
+        {
+          "text": "Crows can solve problems, use tools, and demonstrate a level of cognitive ability that rivals many primates.",
+          "context": "以乌鸦为例，展现鸟类具有与灵长类相当的高级认知能力"
+        },
+        {
+          "text": "Birds navigate using multiple cues: the sun, stars, magnetic fields, and landmarks.",
+          "context": "揭示鸟类拥有多种感知系统，在迁徙中利用复杂的导航机制"
+        }
+      ]
+    },
+    {
+      "title_zh": "系统之美",
+      "title_en": "Thinking in Systems: A Primer",
+      "author_zh": "德内拉·梅多斯",
+      "author_en": "Donella H. Meadows",
+      "year": "2008",
       "category": "科学与认知",
-      "one_liner": "探讨复杂系统自我组织和去中心化未来的前瞻性著作",
-      "deep_dive": "这是一本真的让人脑洞大开的书。凯文·凯利在94年就预见了很多现在才出现的东西，比如人工智能、网络文化、分布式系统。整本书的核心思想就是「失控」——当你设计一个系统时，最好的方式不是自上而下的控制，而是让它像生物系统一样自我组织、自我优化。他用了大量例子，从蚂蚁群体到人工生命，论证了复杂系统的涌现特性。读完之后你会重新思考什么是控制、什么是秩序。对我来说最震撼的是他关于互联网发展方向的预测——越开放、越去中心化的系统，反而能创造出最强的秩序。这个洞察现在看来有点先知先觉的味道。",
+      "one_liner": "用系统思维理解复杂世界，发现隐藏在事物背后的结构和杠杆点。",
+      "deep_dive": "如果你想理解这个复杂的世界——从气候变化到经济波动，从公司管理到国际政治——这本书是钥匙。德内拉·梅多斯教你用\"系统思维\"这种强大的思维方式来看待问题。什么是系统？简单说，就是一群相互作用的要素组成的整体，有反馈循环、延迟效应和时间滞后。她用生动的例子说明为什么直观的解决方案往往无效，甚至会产生意想不到的后果。比如，为了杀死老鼠而引进猫头鹰，结果可能破坏整个生态平衡。这本书最精妙的部分是她列出的\"改变系统的杠杆点\"——那些看似微小但能产生巨大影响的地方。她提醒你，制造改变的不是蛮力，而是在对的地方施加适当的力量。读完这本书，你会开始看到生活中隐藏的系统结构，做决定时也会更谨慎和深思。",
       "quotes": [
         {
-          "text": "The only way to discover the limits of the possible is to go beyond them into the impossible.",
-          "context": "体现了凯利对创新和突破的信念，这是贯穿全书的精神"
+          "text": "Before you disturb the system in any way, watch how it behaves.",
+          "context": "强调观察的重要性，只有理解系统的运作方式，才能做出有效的改变"
         },
         {
-          "text": "通过去中心化和涌现的力量，我们能构建自我修复、自我适应的系统",
-          "context": "他对去中心化系统的强调，这在区块链火热的今天显得特别有预见性"
-        }
-      ]
-    },
-    {
-      "title_zh": "春雪",
-      "title_en": "Spring Snow",
-      "author_zh": "三岛由纪夫",
-      "author_en": "Yukio Mishima",
-      "year": "1969",
-      "category": "文学",
-      "one_liner": "跨越阶层的禁忌之爱在日本传统与现代的碰撞中走向悲剧",
-      "deep_dive": "这是一部特别压抑又特别优美的小说。主人公清显是个贵族少年，爱上了一个门第更高的女性完子。两人的爱情被家族反对，但这种反对本身就成了爱情的一部分——它变成了一场对命运的抗争。三岛的文笔绝了，他能把一个不该发生的爱情写得那么纯粹、那么绝望。小说背景是二战前的日本，整个社会在剧变，个人的命运就在这种大时代背景下显得更加无力。读这本书时你会感受到一种宿命感，就像春天的雪花，既美丽又必然消融。书中那种对传统、对秩序、对肉体和精神的思考都特别深。",
-      "quotes": [
-        {
-          "text": "美存在于其转瞬即逝的特质中",
-          "context": "体现三岛对美学的独特理解——短暂的、注定消失的东西才是最美的"
+          "text": "The most influential thing you can do is to understand and work with the delays and feedback loops in systems.",
+          "context": "核心洞察，认为真正的影响力来自于理解系统的时间延迟和反馈机制"
         },
         {
-          "text": "他想起这一年来他所体验的心灵的寒意，不是冬天的严寒，而是更深的绝望的寒冷",
-          "context": "反映主人公对于生命无常和爱情宿命的深刻体悟"
-        }
-      ]
-    },
-    {
-      "title_zh": "社会性动物",
-      "title_en": "The Social Animal",
-      "author_zh": "埃利奥特·阿伦森",
-      "author_en": "Elliot Aronson",
-      "year": "1972",
-      "category": "心理学",
-      "one_liner": "用实验和故事解读人类社交行为背后的心理学原理",
-      "deep_dive": "这本书特别适合想理解为什么人们会做出看起来不理性决定的人。阿伦森是讲故事高手，他不会让你陷在枯燥理论里，而是通过约会、友谊、说服、冲突这些贴近生活的例子来展示人类社交心理的规律。比如他讲了个经典实验，为什么更辛苦得到的东西我们反而更珍视，这原理可以解释从择偶到品尝食物的很多现象。书里还讲到从众、说服、偏见这些话题，每个都能让你想起生活中的场景。最厉害的是，他没有用冷冰冰的学术语言，反而让心理学变得特别有趣、特别实用。",
-      "quotes": [
-        {
-          "text": "我们常常为了让行为与自我形象一致，而对自己的不理性行为进行合理化解释",
-          "context": "认知失调理论的核心——解释了人为什么经常自欺欺人"
-        },
-        {
-          "text": "我们为了给他人留下好印象而做的事，往往正是驱使他们远离我们的原因",
-          "context": "讲述了人类社交中的深层悖论——努力和真诚之间的矛盾"
+          "text": "A system is a set of elements or parts that is coherently organized and interconnected in a pattern or structure that produces a characteristic set of behaviors.",
+          "context": "系统的本质定义，说明系统是有机整体，不是简单的部分加总"
         }
       ]
     }
