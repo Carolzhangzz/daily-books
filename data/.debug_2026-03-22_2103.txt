@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "飞越疯人院",
+      "title_en": "One Flew Over the Cuckoo's Nest",
+      "author_zh": "肯·克西",
+      "author_en": "Ken Kesey",
+      "year": "1962",
+      "category": "文学/社会批评",
+      "one_liner": "一个个性张扬的流浪汉进入精神病院后，与冷酷的护士长展开了一场关乎自由与尊严的对抗。",
+      "deep_dive": "这部作品就像一场精神层面的越狱电影。主人公麦克墨菲是个反叛者，他用欺骗进入精神病院，却在那里遇见了真正的压迫——不是来自患者的疯狂，而是来自制度对人性的压制。最绝妙的地方在于，克西让你慢慢意识到，那些被标签为\"疯子\"的人，其实比那些穿着白大褂的医护人员更清醒、更有人性。麦克墨菲就像一股清风，用他的游戏、他的反抗，唤醒了那些被制度驯化的灵魂。这不仅是关于精神病院的故事，更是关于权力如何摧毁个性，关于在压抑的制度中如何保持做一个人的尊严。读完后你会有种被击中的感觉——因为你会发现，我们每个人其实都在自己的\"疯人院\"里。",
+      "quotes": [
+        {
+          "text": "I'm not saying that all people in the institution are insane, but the place itself is driving me crazy.",
+          "context": "患者对精神病院压抑环境的控诉"
+        },
+        {
+          "text": "One flew east, one flew west, one flew over the cuckoo's nest.",
+          "context": "儿歌般的标题暗示了逃脱的可能性"
+        }
+      ]
+    },
+    {
+      "title_zh": "皇帝新脑",
+      "title_en": "The Emperor's New Mind",
+      "author_zh": "罗杰·彭罗斯",
+      "author_en": "Roger Penrose",
+      "year": "1989",
+      "category": "科学/哲学",
+      "one_liner": "一位杰出物理学家向人工智能和计算机能否复制人类意识的说法发起了哲学和科学的双重挑战。",
+      "deep_dive": "彭罗斯是那种能把复杂的物理学和哲学思想讲得像故事一样的天才。这本书的核心论点是：计算机永远无法复制人类意识，因为人类思维涉及非计算性的过程。他用哥德尔不完备定理、物理学的对称性破缺、甚至量子物理学来论证，人的意识可能需要某种我们还没发现的物理学机制。最有趣的是，他不是简单地说\"AI做不到\"，而是深入探讨了为什么。在AI热潮的今天，这本书显得更有预见性——它提醒我们，理解意识的本质也许比制造聪明的机器更重要。彭罗斯写得很严谨但也相当可读，即使你不是物理学博士也能跟上他的逻辑。",
+      "quotes": [
+        {
+          "text": "Consciousness is not computable.",
+          "context": "彭罗斯对人工智能能否实现人类意识的根本性否定"
+        },
+        {
+          "text": "The human mind is not a computer.",
+          "context": "驳斥强人工智能理论的核心主张"
+        }
+      ]
+    },
+    {
+      "title_zh": "所罗门王的指环",
+      "title_en": "King Solomon's Ring",
+      "author_zh": "康拉德·洛伦茨",
+      "author_en": "Konrad Lorenz",
+      "year": "1952",
+      "category": "动物行为学/科学随笔",
+      "one_liner": "一位动物学家用温暖的笔触讲述他与各种野生动物朝夕相处的故事，揭示人与动物之间的深层联系。",
+      "deep_dive": "这是一部相当迷人的书。洛伦茨不是在写教科书式的动物学，而是在分享他作为一个观察者、一个与动物共同生活的人的个人经历。他有只爱啃他的耳朵的灰雁，有会在他身上叫唤的鱼，有像家人一样的乌鸦。最打动人的是他观察到的那些细节——动物如何学习，如何交流，如何表达感情。读这本书的时候，你会不断地被一些小细节逗笑或感动，比如一只年轻的鹦鹉如何学会模仿主人的说话。洛伦茨用一种近乎诗意的方式描写科学发现，让你明白为什么说了解动物就是了解我们自己。这本书是动物行为学的经典，但更重要的是，它重新连接了我们与自然界的关系，提醒我们人类并不孤立。",
+      "quotes": [
+        {
+          "text": "The animal does not stand alone in his world; he is part of an immense whole which extends far beyond his individual existence.",
+          "context": "洛伦茨对动物与环境关系的深刻理解"
+        },
+        {
+          "text": "Only those who have devote themselves to the open-eyed observation of the living world are granted the enjoyment of its secrets.",
+          "context": "强调细致观察对理解自然的重要性"
+        }
+      ]
+    }
+  ]
+}
+```
