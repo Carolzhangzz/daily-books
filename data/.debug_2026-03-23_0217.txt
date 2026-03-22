@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "思维的版图",
+      "title_en": "Maps of Meaning",
+      "author_zh": "乔丹·彼得森",
+      "author_en": "Jordan B. Peterson",
+      "year": "1999",
+      "category": "哲学与心理学",
+      "one_liner": "用神话、宗教和心理学揭示人类意义系统的深层结构。",
+      "deep_dive": "这是一本相当野心勃勃的书，彼得森想要做的，就是找到贯穿人类文明的深层逻辑。他不是简单地讲述历史或哲学，而是试图通过心理学、神话学、宗教研究和神经科学的融合，来理解为什么人类会按这样的方式组织自己的世界。\n\n最有意思的部分，是彼得森提出的一个核心观点：人类通过叙事、符号和仪式来构建意义。这些不是什么虚浮的东西，而是我们大脑实际上赖以运作的基础。他论证说，从古老的神话到现代的意识形态，人类一直在用相同的原型——英雄、恶龙、启蒙等——来理解混沌和秩序之间的永恒对立。\n\n读这本书有点像看到了一个巨大的思维框架。你会开始看到《圣经》、莎士比亚、甚至你自己的心理问题中的相同模式。这很令人着迷，但我得说，它也相当密集——不是那种你能在地铁上舒服地读完的书。但如果你想理解人类为什么会创造宗教、文化和个人的意义系统，这本书会给你深刻的洞见。",
+      "quotes": [
+        {
+          "text": "The terrible things that are destroying our world are not the fact that some people are evil or that some people are good. The terrible things are that we don't know what we don't know.",
+          "context": "彼得森强调了人类认知的根本局限性，以及无意识领域对我们行为的深刻影响"
+        },
+        {
+          "text": "To stand up straight with your shoulders back is to accept the terrible responsibility of life.",
+          "context": "这成为了彼得森著名的12条人生法则之一，体现了他对个人责任和存在意义的核心思想"
+        },
+        {
+          "text": "The world is not what you think it is. You are not who you think you are.",
+          "context": "指向了意识的局限性和人类需要不断更新自己的心理地图以适应现实的必要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "社会契约论",
+      "title_en": "The Social Contract",
+      "author_zh": "让-雅克·卢梭",
+      "author_en": "Jean-Jacques Rousseau",
+      "year": "1762",
+      "category": "哲学",
+      "one_liner": "人天生自由，却无处不在枷锁中——探讨合法政治权力的来源。",
+      "deep_dive": "卢梭这本书开篇就是一个震撼的宣言：\"人人生而自由，但却无处不在枷锁之中。\"这个起点就已经摆明了问题——为什么我们会心甘情愿地把自己置于他人的统治之下？这本书就是在回答这个根本性的问题。\n\n和霍布斯或洛克不同的是，卢梭不认为人类原始状态就充满冲突。他认为自然状态下的人是孤独但快乐的。权力和不平等是在社会形成过程中才逐渐产生的。所以真正的问题变成了：怎样建立一个既能保护人类自由，又能维持社会秩序的政治制度？\n\n卢梭的答案是\"人民主权\"和\"公意\"。他认为权力的合法性来自于被统治者的同意，来自于一个集体的、理性的、共同指向公共利益的意志。这个想法对后来的民主理论产生了深远的影响。不过，卢梭的理论也很容易被误用——历史上不少独裁者都打着\"代表人民意志\"的旗号。这正是这本书迷人也危险的地方。",
+      "quotes": [
+        {
+          "text": "Man is born free, and everywhere he is in chains.",
+          "context": "卢梭最著名的开场白，直指人类存在的悖论：自由与秩序的冲突"
+        },
+        {
+          "text": "The social contract results in a remarkable change in man. It substitutes justice for instinct in his actions.",
+          "context": "说明了社会契约如何将人从纯粹的自然状态引向理性和道德的生活"
+        },
+        {
+          "text": "The general will is always right and tends invariably towards public utility.",
+          "context": "卢梭核心思想——公意代表了真正的共同利益，这也是民主理论的基石"
+        }
+      ]
+    },
+    {
+      "title_zh": "噪声",
+      "title_en": "Noise",
+      "author_zh": "丹尼尔·卡尼曼、奥利维埃·西博尼、卡斯·桑斯坦",
+      "author_en": "Daniel Kahneman, Olivier Sibony, Cass R. Sunstein",
+      "year": "2021",
+      "category": "科学与认知",
+      "one_liner": "我们都高估了自己判断的一致性，其实充满了随意的噪声。",
+      "deep_dive": "如果你读过卡尼曼的《思考，快与慢》，你会知道他对人类判断偏差的痴迷。这本书《噪声》可以看作是他对这个主题的进一步深化。但这次的焦点不再是系统性的偏差（偏见），而是随机的变异性（噪声）。\n\n什么是噪声？简单说，就是在应该给出相同判断的情况下，我们却给出了不同答案。比如，两个法官对同一个案件可能会判出完全不同的刑期。两个医生对同一个病人可能会开出完全不同的治疗方案。这不是因为他们有不同的偏见，而是因为他们内心的判断过程本身就充满了噪声。\n\n这本书最聪明的地方，在于它揭示了一个令人不安的真相：大多数我们认为是\"专业经验\"在指导的决定，其实有相当大的比例只是随机变异。团队成员之间的判断分歧，往往不是因为信息不对等，而仅仅是因为噪声。这对那些依赖专业人士判断的领域——从医疗到法律到投资——都是一个警钟。卡尼曼他们提出了消除噪声的具体方法，包括结构化决策、算法决策等。如果你曾经对某个重要决定的不一致性感到困惑，这本书会让你恍然大悟。",
+      "quotes": [
+        {
+          "text": "Most of the variation we observe in outcomes like legal judgments, hiring decisions, and diagnoses is noise, not bias.",
+          "context": "这是整本书的核心洞见——我们常常把噪声误认为是信息或偏见，但实际上很多\"差异\"只是随机的变异"
+        },
+        {
+          "text": "The best way to reduce noise is to bring discipline to the decision-making process.",
+          "context": "指出了解决问题的关键在于建立结构化、透明的决策流程，而非依赖个人直觉"
+        },
+        {
+          "text": "Noise is the enemy of justice.",
+          "context": "强调了噪声在影响公正决策中的负面作用，对法律、医疗等领域有重要启示"
+        }
+      ]
+    }
+  ]
+}
+```
