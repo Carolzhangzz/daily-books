@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "华氏451度",
+      "title_en": "Fahrenheit 451",
+      "author_zh": "雷·布拉德伯里",
+      "author_en": "Ray Bradbury",
+      "year": "1953",
+      "category": "科幻小说/反乌托邦",
+      "one_liner": "焚书的年代，一个消防员发现了思想的光芒",
+      "deep_dive": "这部经典科幻小说写于70多年前，但现在读起来特别有共鸣。故事背景是一个被娱乐麻痹的社会，政府雇用消防员焚烧书籍而非灭火。主角盖·蒙太格是位消防员，日复一日地执行焚书任务，直到他遇见一位充满智慧的女孩。通过对话他逐渐觉醒，开始质疑自己的工作——书籍真的这么危险吗？经历了一系列冲击后，他最终选择反抗，踏上寻找真理的孤独之路。布拉德伯里写的不仅是反抗审查，更是关于深度思考在碎片化时代的价值。那些在火中拯救的书、那些坚持阅读和思考的人，代表着人性中最珍贵的东西。读这本书你会问自己：在我们这个娱乐爆炸的时代，什么值得我们真正去珍视？",
+      "quotes": [
+        {
+          "text": "There is more than one way to burn a book. And the world is full of people running about with lit matches.",
+          "context": "关于审查和摧毁思想的多种方式"
+        },
+        {
+          "text": "We are the miracle of consciousness, aware of ourselves. But that's gone. We've traded it for a different miracle.",
+          "context": "人类放弃深度思考换来虚假的快乐"
+        }
+      ]
+    },
+    {
+      "title_zh": "大脑传",
+      "title_en": "The Brain: The Story of You",
+      "author_zh": "戴维·伊格曼",
+      "author_en": "David Eagleman",
+      "year": "2015",
+      "category": "神经科学/科普读物",
+      "one_liner": "大脑如何编织出你的整个世界和自我",
+      "deep_dive": "如果你想了解自己，这本书是个完美的起点。伊格曼是个天才的故事讲述者，他把神经科学写得像悬念小说。从大脑如何欺骗你的时间感知、为什么看不见眼睛的盲点却浑然不觉，到你的道德判断如何被一粒肿瘤改变——每一章都能颠覆你的自我认知。书的精妙之处在于，伊格曼没有说教，而是通过案例研究和实验邀请你思考：如果大脑在幕后操纵一切，那么\"真实的你\"到底是谁？你的决定是否真的是你自己做的？这不是为了让人沮丧，反而很解放——因为理解大脑的局限，能帮我们更谦虚、更同情地对待自己和他人。每一页都闪烁着对人类的好奇和敬畏。",
+      "quotes": [
+        {
+          "text": "You are not conscious of most of what your brain is doing.",
+          "context": "大脑中80%的活动发生在无意识的层面"
+        },
+        {
+          "text": "The brain is a device for survival and reproduction, and it works on a different timescale than consciousness.",
+          "context": "我们的大脑进化的真实驱动力"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author_zh": "麦克斯·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科技/未来学/哲学",
+      "one_liner": "在AI革命中，我们如何定义人类的价值和未来",
+      "deep_dive": "泰格马克是少有的既懂硬科学又能哲学思辨的作者。他把生命的演化分为三个阶段：1.0是生物生命受DNA束缚，2.0是学会制造工具的智人，3.0则可能是超越肉体和DNA的智能生命。关键的是，他不是在危言耸听说AI会奴役人类，而是在严肃地问：如果我们创造出超级智能，什么是我们真正在乎的？书中探讨AI的风险和机遇时既深入又易懂，不会让人感到被技术吓倒。泰格马克最厉害的地方是，他把这个问题归结为根本的价值观问题——在智能爆炸的时代，什么是有意义的生活？什么是值得的未来？读完你会意识到，应对AI时代最重要的不是技术本身，而是我们对未来的愿景和选择。",
+      "quotes": [
+        {
+          "text": "What should we do with our power? This is the ultimate question for the future.",
+          "context": "人类需要回答的最深层问题——我们如何使用力量去塑造未来"
+        },
+        {
+          "text": "The goal isn't to stop progress. It's to steer it toward the brightest possible future.",
+          "context": "面对AI，我们的态度应该是主动塑造而非被动恐惧"
+        }
+      ]
+    }
+  ]
+}
+```
