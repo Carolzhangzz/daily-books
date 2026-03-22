@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "动物农场",
+      "title_en": "Animal Farm",
+      "author_zh": "乔治·奥威尔",
+      "author_en": "George Orwell",
+      "year": "1945",
+      "category": "文学",
+      "one_liner": "一个农场的动物推翻人类统治，却逐渐堕落为新的专制的讽刺寓言",
+      "deep_dive": "你知道吗，这本书其实是一个精妙的政治讽刺——它用一个看似简单的故事，讲述了一个农场的动物是如何推翻人类的压迫，建立了一个\"人人平等\"的社会，结果最后却沦为另一种暴政的故事。最有意思的地方在于，它不是直接批评什么，而是通过动物们逐步的堕落过程让你看清权力的本质。那些最初的理想主义者，拿破仑和雪球，一个镇压了另一个，然后慢慢改写历史、篡改原则，最后甚至和人类统治者混为一体。读着读着，你会发现故事里的每一步堕落都有那么一点合理性——权力确实需要集中才能有效，但集中的权力最终就会腐蚀初心。这本书写得特别聪明的地方是，它用寓言的形式让你既能看到苏联历史的影子，又能理解任何革命、任何权力转移可能面临的陷阱。短小精悍，但包含的思想深度足够让你反复思考。",
+      "quotes": [
+        {
+          "text": "All animals are equal, but some animals are more equal than others.",
+          "context": "这句话标志着农场最终沦为新的专制统治，理想主义彻底破产的转折点——也是对所有权力话语的终极讽刺"
+        },
+        {
+          "text": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+          "context": "故事的结尾，统治者的嘴脸已经无法区分，揭示了新权力的终极宿命与原来压迫者的殊途同归"
+        }
+      ]
+    },
+    {
+      "title_zh": "竞争战略",
+      "title_en": "Competitive Strategy: Techniques for Analyzing Industries and Competitors",
+      "author_zh": "迈克尔·波特",
+      "author_en": "Michael Porter",
+      "year": "1980",
+      "category": "商业与技术",
+      "one_liner": "揭示企业如何通过理解行业结构和竞争力量来制定战略并获得持久竞争优势",
+      "deep_dive": "这本书改变了整个商业世界的思维方式，波特提出了一个超级简洁但威力无穷的框架——五力模型。这个框架告诉你：一个企业的竞争环境由五股力量组成：供应商的议价能力、买方的议价能力、新进入者的威胁、替代品的威胁，以及现有竞争对手的竞争强度。理解这五力，你就能看透任何行业为什么有些公司能赚钱，有些就是死路一条。比如，为什么航空公司利润微薄？因为五力都很强——乘客有议价能力，飞机制造商有议价能力，新航空公司可能进入，还有火车、汽车竞争。但如果你看软件SaaS公司，情况就完全不同了。波特还讲了三种基本的竞争战略：成本领先、差异化，和专注。最聪明的企业往往不是在所有地方都赢，而是选择一个清晰的战略并坚持到底。这本书读起来不是很轻松，有大量的框架和分析，但一旦你掌握了这个思维模式，看待商业世界就完全不一样了。",
+      "quotes": [
+        {
+          "text": "The essence of strategy is choosing what NOT to do.",
+          "context": "战略的核心不在于做什么，而在于选择不做什么——这改变了许多CEO对战略的理解，从追求全能转向专注"
+        },
+        {
+          "text": "Competitive advantage grows fundamentally out of value a firm creates for its buyers.",
+          "context": "提醒企业不要陷入内部竞争，而要时刻关注为客户创造的价值——这是所有商业竞争的根基"
+        }
+      ]
+    },
+    {
+      "title_zh": "午夜之子",
+      "title_en": "Midnight's Children",
+      "author_zh": "萨尔曼·鲁什迪",
+      "author_en": "Salman Rushdie",
+      "year": "1981",
+      "category": "文学",
+      "one_liner": "印度独立那一刻出生的1001个超能力儿童的史诗，融合魔幻现实主义与历史叙述",
+      "deep_dive": "这是一部野心勃勃的小说，它抓住了印度独立那一刻——1947年午夜——作为魔幻现实主义的触发点。故事的讲述者萨利姆·西奈是在独立宣言读出的那一刻出生的，他和其他1000个在那一刻出生的孩子一样，获得了神秘的超能力。有人会读心术，有人能够操纵天气，有人能看见死人。但这不是一个简单的超级英雄故事，而是用魔幻现实主义的手段来讲述印度作为一个新国家的诞生与成长。小说通过萨利姆的视角，将个人的故事与国家命运紧紧缠绕在一起——他经历的创伤、失去和自我认知，映射着印度独立后面临的混乱、暴力和身份危机。最精妙的地方在于，这些超能力并不是拯救世界的工具，反而成了一种诅咒和负担，完全颠覆了人们对超级英雄的浪漫想象。鲁什迪的语言富有魔幻感，充满了印度特有的色彩、气味和声音，让你能感受到一个国家的真实体温。",
+      "quotes": [
+        {
+          "text": "To understand just one life, you have to swallow the world.",
+          "context": "揭示了这部小说的核心野心——通过一个人的故事来理解整个历史和社会，个人与国家命运的深层联系"
+        },
+        {
+          "text": "I am the sum total of everything that went before me, of all I have been seen done, of everything done-to-me.",
+          "context": "萨利姆对自我身份的深刻反思，也是对印度这个新国家身份的隐喻——过去的创伤与遗产如何塑造了当下"
+        }
+      ]
+    }
+  ]
+}
+```
