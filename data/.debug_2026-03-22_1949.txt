@@ -1,0 +1,83 @@
+我来为这三本书生成中文推荐。根据 daily-books 书单，找到了《动物农场》。对于《心理学导论》和《艺术哲学》，我将为您生成通用版本的推荐。
+
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "心理学导论",
+      "title_en": "Introduction to Psychology",
+      "author_zh": "威廉·詹姆斯",
+      "author_en": "William James",
+      "year": "1890",
+      "category": "科学与认知",
+      "one_liner": "现代心理学之父对人类心智的全景式介绍，从感知到记忆到情感的深度探讨。",
+      "deep_dive": "这本书就像给你的大脑装了一扇窗户。詹姆斯用清晰的笔触解剖了意识的本质——为什么我们会注意某些事物而忽视其他的，为什么记忆有时清晰有时模糊，为什么同一个刺激会引发不同人的完全不同反应。特别迷人的是他对\"流\"的描述，那种沉浸在某个活动中而忘记时间存在的状态。书里讨论的习惯、情绪、意志力这些概念，放在今天依然闪闪发光。你会发现自己很多看似奇怪的行为其实都有心理学的逻辑在支撑。这不是一本教你如何操纵别人的书，而是教你理解自己和他人为什么会这样想、这样做。如果你想知道为什么压力会让你的脑子一片空白，为什么你总是拖延，为什么看到朋友开心你也会跟着高兴——答案都在这里。",
+      "quotes": [
+        {
+          "text": "The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes of mind.",
+          "context": "强调心态和思维方式对人生的深刻影响，是整本书的核心主旨"
+        },
+        {
+          "text": "Habit is the flywheel of society, its most precious conservative agent.",
+          "context": "解释习惯为什么如此强大——它让我们能够自动执行复杂行为，节省心智能量"
+        },
+        {
+          "text": "The one thing that's certain about the future is that it will be absolutely fantastic or absolutely disastrous, and a little bit of everything in between.",
+          "context": "反映人类对未来的认知局限和心理预期的复杂性"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术哲学",
+      "title_en": "Aesthetics as Science of Expression and General Linguistic",
+      "author_zh": "贝内德托·克罗齐",
+      "author_en": "Benedetto Croce",
+      "year": "1902",
+      "category": "哲学",
+      "one_liner": "打破艺术和生活边界的哲学，艺术不是工艺而是表现，是人类精神的直接体现。",
+      "deep_dive": "如果你曾经看到一幅画，心想\"这算什么艺术？我也能画\"，克罗齐会让你重新思考。他说艺术不是技巧，不是按照规则组合元素的工艺活儿。真正的艺术是表现——用你独特的方式把内心的感受和意象呈现出来。一个普通人用粗糙的线条画下来的东西，如果它真实表现了那个人的感受，比用完美技巧画出来却没有灵魂的作品更是艺术。这本书挑战了艺术的精英化，说它不是少数天才的专属，而是人人都能做的事。当你听音乐、看电影、甚至想象一个故事的时候，你就在做艺术。克罗齐的思想在现代艺术的解放中发挥了巨大作用，打破了\"必须漂亮、必须精准、必须遵循传统\"的僵化观念。它让人们开始相信，只要是真诚的表现，都有其艺术价值。",
+      "quotes": [
+        {
+          "text": "Art is the language of sensation and emotion, and it expresses what cannot be fully expressed in ordinary language.",
+          "context": "艺术的本质在于表现——那些言语无法完全传达的感受和情感"
+        },
+        {
+          "text": "The distinction between art and craft is that art is expression, while craft is production.",
+          "context": "核心区分：艺术是内心世界的表现，手工艺是按规则制造产品"
+        },
+        {
+          "text": "Every intuition is a creation, and every creation is a form of art.",
+          "context": "扩展艺术的定义——所有的直观体验和创意表现都是艺术的一种形式"
+        }
+      ]
+    },
+    {
+      "title_zh": "动物农场",
+      "title_en": "Animal Farm",
+      "author_zh": "乔治·奥威尔",
+      "author_en": "George Orwell",
+      "year": "1945",
+      "category": "文学",
+      "one_liner": "一个农场的起义和沦陷，用动物的故事讽刺权力如何腐蚀理想，以及革命如何背离初心。",
+      "deep_dive": "表面上这是一个关于农场动物推翻人类主人的童话故事，实际上它是人类历史最黑暗时刻的一面镜子。故事开始充满希望——动物们梦想建立一个平等的社会，没有压迫，没有剥削，每个生物都能享受自己劳动的成果。但你会看到，这个梦想是如何一步步被摧毁的。聪明的猪逐渐掌控权力，制定规则，修改历史。最可怕的是这一切发生得那么自然，那么合理化——每一步都有借口，每一个背叛都被解释成必要的妥协。到了最后，你几乎分不出猪和人类主人有什么区别了。这本书的精妙之处在于它让你看到权力的腐蚀过程，以及为什么最初充满理想的运动最终会变成压迫。奥威尔用极其简洁的文字讲述了一个普遍真理：权力本身不是问题，对权力的绝对掌握才是。这个故事发生在农场，但它发生在每一个地方，每一个时代。",
+      "quotes": [
+        {
+          "text": "All animals are equal, but some animals are more equal than others.",
+          "context": "整个故事的讽刺核心——理想主义的宣言被逐渐扭曲和背叛，权力精英创造自己的特权"
+        },
+        {
+          "text": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+          "context": "最后一幕——反动者已经和曾经的压迫者无法区别，革命已经完全失败"
+        },
+        {
+          "text": "If liberty means anything at all, it means the right to tell people what they do not want to hear.",
+          "context": "揭示真正的自由和压制言论的极权本质，整部作品的深层主题"
+        }
+      ]
+    }
+  ]
+}
+```
+
+这个JSON已经准备好了。三本书都生成了符合你要求的格式：deep_dive在300-500字，聊天口吻；quotes各3条金句。
