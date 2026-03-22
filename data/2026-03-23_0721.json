@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "从一到无穷大",
+      "title_en": "One, Two, Three... Infinity",
+      "author_zh": "乔治·伽莫夫",
+      "author_en": "George Gamow",
+      "year": "1947",
+      "category": "科学与认知",
+      "one_liner": "用趣味故事和简洁比喻，带你从数字、几何、物理一路探索到宇宙的无穷奥秘。",
+      "deep_dive": "这是一本真正的科学启蒙经典。伽莫夫是20世纪的物理学天才，他用最平易近人的方式讲述了深刻的科学概念。书里没有复杂的数学公式，只有生动的故事和恰当的比喻。他从最基础的数字开始——为什么我们用十进制？然后逐步引入几何、拓扑学的神奇世界。你会看到莫比乌斯环如何挑战我们对空间的直觉，看到关于无穷大的悖论如何让哲学家们困惑了几个世纪。后面的章节涉及物理学、相对论、原子核能，甚至宇宙学——都用一种让人恍然大悟的方式讲解。最迷人的是，伽莫夫本人就像书中的角色一样充满好奇心。他会在关键时刻停下来，问你'你有没有想过为什么？'这种对话感让枯燥的科学变成了一场真诚的知识对话。即使你数学基础为零，也能感受到科学的美。",
+      "quotes": [
+        {
+          "text": "An infinite number is a strange kind of number; it is not even a number in the ordinary sense.",
+          "context": "伽莫夫在讨论无穷大的悖论时，强调了无穷大与普通数字的根本区别，开启了对数学本质的思考。"
+        },
+        {
+          "text": "The universe is a very big place, and there is a lot to learn about it.",
+          "context": "体现了伽莫夫对科学探索的热忱和谦逊的态度，鼓励读者永远保持好奇心。"
+        }
+      ]
+    },
+    {
+      "title_zh": "一平方英寸的寂静",
+      "title_en": "One Square Inch of Silence",
+      "author_zh": "戈登·汉普顿",
+      "author_en": "Gordon Hempton",
+      "year": "2010",
+      "category": "自然与生态",
+      "one_liner": "在喧嚣的世界里寻找消逝的寂静，一位录音师20年的林间冥想之旅。",
+      "deep_dive": "这本书源于一个诗意的执念：在美国的喧嚣中，寻找一片完全的寂静。汉普顿是一位录音师和自然音景学家，他用20多年的时间，在华盛顿州的奥林匹克国家森林里，寻找和保护一个'一平方英寸的寂静'——没有人为噪音的圣地。书不是学术研究，而是一个人与自然对话的日记。汉普顿记录了他在林间的觉察——鸟鸣、溪流、风声——每一种声音都讲述着生态的故事。他发现，真正的寂静不是没有声音，而是声音的自然序列，不被机器轰鸣打破。随着飞机、汽车、人类活动侵入，这个'一平方英寸'变得越来越珍贵。这本书戳中了现代人的痛点：我们的耳朵早已不知道真正的寂静是什么。汉普顿的书是一份邀请——去倾听，去感受自然的节奏，去理解寂静与我们的心灵之间的连接。",
+      "quotes": [
+        {
+          "text": "In our modern world, silence has become increasingly rare and valuable. It is a resource that deserves protection.",
+          "context": "汉普顿将寂静视为一种濒危资源，呼吁人们像保护野生动物一样保护它，反映了他对生态危机的深刻担忧。"
+        },
+        {
+          "text": "A single square inch may seem infinitesimal, but it contains the entire essence of wilderness.",
+          "context": "这体现了他的信念：即使是最小的空间，也能承载自然的完整性和宁静，隐喻了寂静的无价之处。"
+        }
+      ]
+    },
+    {
+      "title_zh": "超越自由与尊严",
+      "title_en": "Beyond Freedom and Dignity",
+      "author_zh": "B.F. 斯金纳",
+      "author_en": "B.F. Skinner",
+      "year": "1971",
+      "category": "哲学",
+      "one_liner": "一位行为心理学家对自由意志最激进的挑战，要求我们重新审视关于人性最根本的假设。",
+      "deep_dive": "这是B.F.斯金纳最具争议的著作，也是最挑战我们常识的。斯金纳是行为心理学家，他提出了一个骇人听闻的论点：自由意志和个人尊严可能是幻觉。我们的所有行为，从选择早餐到做出人生决定，都不过是环境强化的结果。当这本书在1971年出版时，引发了热烈的哲学争辩。很多人读到'自由'和'尊严'被彻底否定，会感到深深的不安。但斯金纳的论点有其内在逻辑：如果我们承认行为受环境控制，那么所谓的'道德责任'就变成了虚幻。他甚至认为，接受这一事实，反而能帮助我们更有效地设计社会制度和教育系统。这本书的价值在于，它强迫你审视最基本的假设。即使你最后反驳了斯金纳的结论，过程本身也会改变你对自由、选择和责任的理解。",
+      "quotes": [
+        {
+          "text": "The hypothesis that man is not free is essential to the application of scientific method to the study of human behavior.",
+          "context": "这是斯金纳的核心主张：放弃自由意志的假设，才能像研究物理现象一样研究人的行为，代表了科学理性对传统人文观的直接挑战。"
+        },
+        {
+          "text": "Freedom is a matter of contingencies of reinforcement, not of the existence of an inner causal agent.",
+          "context": "斯金纳重新定义了自由，认为自由不在于我们内心的自主性，而在于环境给予我们的强化机制，彻底改变了对自由的理解。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0721"
+}
