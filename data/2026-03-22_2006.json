@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "雪崩",
+      "title_en": "Snow Crash",
+      "author_zh": "尼尔·史蒂芬森",
+      "author_en": "Neal Stephenson",
+      "year": "1992",
+      "category": "科幻小说",
+      "one_liner": "在虚拟世界元宇宙与现实黑客阴谋交织的冒险中，一个比萨外卖员成为改变世界的英雄。",
+      "deep_dive": "想象一个世界，人们在虚拟空间里的活动跟现实一样重要——这就是《雪崩》给我们的未来图景。故事发生在21世纪末的美国，现实社会已经衰退，人们大多沉浸在一个叫做元宇宙的巨大虚拟世界里。主角Hiro Protagonist是个黑客和比萨外卖员，他偶然发现了一个能够同时影响虚拟世界和现实的病毒——雪崩。这个病毒可以冻结人们的大脑，无论他们是在虚拟世界还是现实中。\n\n这部1992年出版的小说现在看来简直是预言。Stephenson完整地想象了互联网的未来形态，从化身、虚拟房产、数字身份，到网络货币，再到大公司对虚拟空间的控制——这些概念现在都成了现实或正在成为现实。更有意思的是，他思考的不只是技术本身，而是技术如何改变社会结构、权力关系和人性。书中充满了计算机文化的细节、黑客精神和对人类本性的深刻洞察。\n\n这不是纯粹的冒险小说。Stephenson在故事中穿插了关于病毒学、宗教、语言学甚至古代苏美尔文明的讨论，阅读就像进入了一个由代码、神话和技术交织的迷宫。它预示了元宇宙、AI对人类意识的影响等当代核心议题，让你开始思考：虚拟和现实的边界在哪里？",
+      "quotes": [
+        {
+          "text": "The Street is 65 meters of hard, light-absorbing asphalt, with narrow striping painted in faded yellow.",
+          "context": "Stephenson对元宇宙的描写精确而生动。这句话体现了他将虚拟世界具象化的方式，让读者能够真切地想象这个数字空间。"
+        },
+        {
+          "text": "Information is power.",
+          "context": "这是《雪崩》反复出现的主题。在虚拟和现实都被信息定义的世界里，掌握信息就是掌握权力。"
+        },
+        {
+          "text": "When you are overmatched, you don't try to give and take in a sword fight. You kick 'em in the balls.",
+          "context": "Hiro的黑客哲学——在面对不可战胜的对手时，创意和非正统思维才是真正的武器。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论确实性",
+      "title_en": "On Certainty",
+      "author_zh": "路德维希·维特根斯坦",
+      "author_en": "Ludwig Wittgenstein",
+      "year": "1969",
+      "category": "哲学",
+      "one_liner": "一部关于我们如何知道什么是真的、知识的基础是什么的哲学沉思，用日常例子拆解最深刻的认识论问题。",
+      "deep_dive": "《论确实性》是维特根斯坦生前最后的著作，整部书其实是一系列笔记，围绕一个简单但深刻的问题展开：我们如何知道某件事是确定的？什么构成了知识的基础？\n\n维特根斯坦通过批评哲学家G.E. Moore的一句话开始——Moore说「我知道这是一只手」。这句话看似显而易见，但维特根斯坦问：我们是如何知道的？要证明这一点需要什么？这个简单问题引出了整个知识论的困境。\n\n传统认识论认为知识建立在绝对确定的基础之上。但维特根斯坦提出了革命性观点：不是所有信念都需要证明，有些信念就像游戏规则一样——它们是我们思考和行动的基础。这些基础性信念（比如「世界存在」「我有过去」）我们无法逻辑证明，但也不能怀疑它们，因为怀疑本身就需要这些信念的支持。\n\n这个观点改变了对知识、信念和理性的理解。它解释了为什么某些信念对我们不可撼动，也解释了为什么人们会相信看起来没有根据的东西——他们可能有不同的基础性信念。这对理解人类分歧、信仰差异乃至当代的「后真相」现象都有深刻启示。",
+      "quotes": [
+        {
+          "text": "At the foundation of well-founded belief lies belief that is not founded.",
+          "context": "维特根斯坦最著名的论断。所有知识最终都建立在某些无法再被证明的基本信念之上——不是因为它们不重要，而是因为它们是所有证明的起点。"
+        },
+        {
+          "text": "I do not have reasons for everything.",
+          "context": "这个简洁陈述抓住了整部书的核心。我们无法为一切都提供理由，某些时刻必须停止，接受某些信念是思考的基础。"
+        },
+        {
+          "text": "These stand fast for me now.",
+          "context": "维特根斯坦强调，确实性不是来自逻辑推导，而是来自我们实际生活中那些不可动摇的信念体系。"
+        }
+      ]
+    },
+    {
+      "title_zh": "理解媒介",
+      "title_en": "Understanding Media: The Extensions of Man",
+      "author_zh": "马歇尔·麦克卢汉",
+      "author_en": "Marshall McLuhan",
+      "year": "1964",
+      "category": "社科与传播",
+      "one_liner": "一部改变了人们思考媒介方式的经典著作，核心观点是「媒介即讯息」——媒介本身的影响比内容更深远。",
+      "deep_dive": "1964年，McLuhan用《理解媒介》这部著作颠覆了传播学的传统思维。在那个电视刚刚普及的时代，大多数人认为媒介只是承载内容的工具，重要的是内容。但McLuhan说：错了。\n\n他的核心主张——「媒介即讯息」(The Medium is the Message)——简单却革命性。媒介的形式和特性对人类和社会的影响，远比通过它传播的任何特定内容都要深刻。电视不重要的是你看什么节目，重要的是电视这个媒介本身如何改变了你的感知、认知和社交方式。文字的出现改变了人类思维结构，从口头传统转向线性逻辑思维。而电视则带来了直观的、多感官的感知方式。\n\nMcLuhan用「媒介是人的延伸」这个框架分析所有通信工具——文字、印刷术、电报、电视。每种媒介都扩展了人类的某种能力，同时也限制了其他能力。这解释了为什么不同时代的人思维方式不同——因为他们接触的主要媒介不同。\n\n这部1964年出版的著作在互联网、社交媒体、短视频时代显得尤其预言性。算法、平台设计、信息流的形式——这些都在深刻重塑我们的思维。阅读这部书不仅能理解过去的媒介如何塑造了我们，还能帮你思考现在的数字生态如何继续这个过程。",
+      "quotes": [
+        {
+          "text": "The medium is the message. This is merely to say that the personal and social consequences of any medium result from the new scale that is introduced into our affairs by each extension of ourselves.",
+          "context": "McLuhan最著名的论述。它打破了传统观念，指出媒介本身（而非内容）才是对人类社会最重要的影响因素。在社交媒体时代显得格外有先见之明。"
+        },
+        {
+          "text": "The alphabet, when pushed to a high degree of abstract visual coding, has psychic and social consequences.",
+          "context": "McLuhan探讨了文字如何改变了人类的认知结构。这展现了他多么深入地思考每一种媒介对人类意识的塑造。"
+        },
+        {
+          "text": "We shape our tools and thereafter our tools shape us.",
+          "context": "这个简洁而深刻的论断总结了人类与媒介之间的互动关系。我们创造工具，但工具随后塑造了我们——这是一个动态的、往复的过程。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2006"
+}
