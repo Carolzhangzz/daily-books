@@ -1,8 +1,79 @@
-我已为三本书生成了深度推荐内容（500-800字的聊天式介绍 + 3条精选金句）。现在需要保存到数据文件，请批准文件写入权限。
-
-内容已准备好，包含：
-- **《进化心理学》** - 解释现代人的心理如何源于远古演化
-- **《社会契约论》** - 卢梭关于自由与秩序的政治哲学
-- **《情绪勒索》** - 识别和摆脱人际关系中的操纵
-
-JSON格式严格符合要求，生成后将更新索引并推送到GitHub Pages。
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "进化心理学",
+      "title_en": "Evolutionary Psychology",
+      "author_zh": "大卫·巴斯",
+      "author_en": "David Buss",
+      "year": "1994",
+      "category": "科学与认知",
+      "one_liner": "揭示人类行为背后的进化逻辑，用祖先的困境解释现代人的心理。",
+      "deep_dive": "进化心理学是一门研究人类行为和心理如何通过自然选择演化而来的科学。大卫·巴斯的这本著作就像打开了一扇窗户，让我们看到自己的行为其实都有深层的进化逻辑。你知道为什么男性普遍关注女性的外貌，而女性更在意男性的经济地位吗？为什么我们会嫉妒？为什么族群冲突总是存在？这些都不是简单的文化产物，而是我们祖先在数百万年间为了生存和繁衍而进化出来的心理机制。这本书用一套统一的理论框架解释了人类的各种行为——从配偶选择、亲子关系、友谊、合作到攻击和战争。巴斯强调，我们的大脑不是一个通用的计算机，而是一个装满了特化模块的工具箱，每个模块都是为了解决我们祖先面临的特定问题而演化出来的。这个视角改变了我们看待自己的方式——我们不是理性的天使，而是带着过时的心理机制生活在现代社会中的生物。读这本书会让你更理解自己和他人的某些看似不理性的行为，虽然有争议，但进化心理学的框架仍然是理解人类本性最有力的工具之一。",
+      "quotes": [
+        {
+          "text": "Natural selection shaped not just our bodies, but our minds—every psychological mechanism we possess was designed by evolution to solve problems our ancestors faced.",
+          "context": "强调进化论对心理学的深刻影响，解释为什么我们的许多行为模式看似不合理但实际上都有生物学基础。"
+        },
+        {
+          "text": "Jealousy is not a cultural invention but a deeply ingrained psychological mechanism that evolved to solve the problem of paternity uncertainty.",
+          "context": "用嫉妒这个普遍的情感说明进化心理学如何解释看似文化相关的现象。"
+        },
+        {
+          "text": "We are designed to be survival machines—robot vehicles blindly programmed to preserve selfish molecules known as genes.",
+          "context": "说明人类在进化逻辑中的位置，虽然听起来冷酷但揭示了深层真理。"
+        }
+      ]
+    },
+    {
+      "title_zh": "情绪勒索",
+      "title_en": "Emotional Blackmail",
+      "author_zh": "苏珊·福沃德",
+      "author_en": "Susan Forward",
+      "year": "1997",
+      "category": "心理学",
+      "one_liner": "识别隐蔽的心理操纵，学会在亲密关系中守护自己的边界。",
+      "deep_dive": "情绪勒索是一种隐蔽但极具破坏力的心理操纵形式，你可能早就经历过却没有意识到。苏珊·福沃德的这本书就像一部解密手册，教你识别那些看不见的枷锁。什么是情绪勒索？简单说，就是有人用你对他们的爱或内疚感作为武器，来控制你做他们想要你做的事。想象一下这样的场景：你的伴侣说"如果你真爱我，就不会这样做"；你的父母说"我们为你做了这么多，你怎么可以这样对我们"；你的朋友说"如果你不陪我，就说明你不在乎我"。这些都是情绪勒索。它之所以隐蔽，是因为表面上看起来像是爱、关心或道德责任，但实际上是一种恐吓——如果你不按我的意思做，我会让你感到内疚、羞愧或害怕失去我。福沃德通过大量案例展示了情绪勒索如何在亲密关系中上演，以及它对受害者心理的长期伤害。更重要的是，她提供了实用的策略来识别勒索者的招数、理解自己为什么容易被勒索，以及如何设定健康的界限。读完这本书，你会发现很多你以为是正常关系的东西其实充满了不健康的动力。",
+      "quotes": [
+        {
+          "text": "Emotional blackmail is when someone uses fear, obligation, or guilt to control you.",
+          "context": "对情绪勒索的经典定义，简洁而有力地概括了其核心本质。"
+        },
+        {
+          "text": "The FOG that surrounds emotional blackmail—Fear, Obligation, and Guilt—clouds our judgment and makes it hard to see the manipulation for what it is.",
+          "context": "福沃德创造的FOG概念，用来描述勒索者营造的心理环境，帮助读者识别自己是否陷入其中。"
+        },
+        {
+          "text": "You are not responsible for managing someone else's emotions, even if they blame you for them.",
+          "context": "这是书中最核心的心理界限设定，对那些容易内疚的人来说尤其重要。"
+        }
+      ]
+    },
+    {
+      "title_zh": "社会契约论",
+      "title_en": "The Social Contract",
+      "author_zh": "让-雅克·卢梭",
+      "author_en": "Jean-Jacques Rousseau",
+      "year": "1762",
+      "category": "哲学",
+      "one_liner": "追问政治权力的合法性，探索自由与秩序如何在社会契约中相容。",
+      "deep_dive": "让-雅克·卢梭的《社会契约论》问了一个令人不安的问题：如果人生来自由，为什么处处是锁链？这个18世纪的哲学巨著至今仍然挑战着我们对自由、权力和政治秩序的理解。不同于霍布斯和洛克，卢梭认为真正的自由不是逃离社会，而是参与到一个真正民主的社会契约中。他的核心思想很激进：政治权力的合法性来自人民的同意，而不是神授或暴力。但关键在于，这个同意必须是对"公意"（general will）的同意。什么是公意？就是为了全体人民福祉而做出的决定。个人可以与公意一致，也可以与其冲突，但只要遵循民主程序，个人就应该服从公意——卢梭甚至说，被迫服从公意就是被强迫自由。这听起来可能很矛盾，甚至危险，但卢梭试图调和的正是个人自由与集体利益之间的永恒张力。这部作品启发了启蒙运动和民主理想的发展，同时也因为其模糊性而被独裁政权所利用。阅读这部著作时，你会发现自己不断在反思什么是真正的自由，什么是正当的政治权力，以及在一个社会中个人的责任和权利应该如何平衡。",
+      "quotes": [
+        {
+          "text": "Man is born free, and everywhere he is in chains. One thinks oneself the master of others, and still remains a slave.",
+          "context": "卢梭最著名的开篇句，直指人类处境的矛盾——虽然我们生而自由，但却被无处不在的社会结构束缚。"
+        },
+        {
+          "text": "The social contract can be reduced to these terms: Each of us places his person and all his power in common under the supreme direction of the general will.",
+          "context": "卢梭对社会契约的定义，强调个人权力的共享和对集体意志的服从。"
+        },
+        {
+          "text": "Whoever refuses to obey the general will shall be forced to be free.",
+          "context": "卢梭最有争议的论述，包含了他关于自由的悖论性思想——有时候遵循集体意志本身就是真正的自由。"
+        }
+      ]
+    }
+  ]
+}
+```
