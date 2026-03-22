@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "艺术的故事",
+      "title_en": "The Story of Art",
+      "author_zh": "恩斯特·贡布里希",
+      "author_en": "E. H. Gombrich",
+      "year": "1950",
+      "category": "艺术与美学",
+      "one_liner": "从史前洞穴到现代艺术，一部跨越时代的艺术演变简史，改变你看待每一幅画的方式",
+      "deep_dive": "贡布里希这本书真的改变了很多人看待艺术的方式。在读这本书之前，很多人觉得艺术史就是死记硬背大师名字和时间。但贡布里希不是这样讲的，他把艺术当作一个有生命的、不断演进的故事来讲述。\n\n整本书的核心观点其实很简单：艺术不是凭空出现的天才杰作，而是一代代艺术家在解决具体问题时留下的痕迹。文艺复兴的透视法？那是为了让画面看起来更真实。印象派的色彩？那是艺术家们对光线的新认识。每个风格的转变都有它的"为什么"。\n\n他从古埃及、古希腊讲起，一路讲到20世纪的现代艺术。但这不是枯燥的编年史。他会告诉你为什么米开朗琪罗的人体和波提切利的不一样，为什么梵高的笔触那么疯狂，为什么毕加索要把人脸拆成碎片。每个问题的背后都是艺术家们对自己时代的回应。\n\n最让人印象深刻的是，他真的把艺术民主化了。他说没有什么叫"高雅艺术"和"通俗艺术"的绝对区别，重要的是理解艺术家在做什么、为什么这样做。读完以后，你再看画展就不一样了。你不会问"这是不是名画"，而是会问"这个艺术家在解决什么问题"。",
+      "quotes": [
+        {
+          "text": "There is no such thing as Art. There are only artists.",
+          "context": "贡布里希颠覆性的观点：艺术的本质在于创作者的意图和思考，而非作品本身是否被冠以"艺术"之名"
+        },
+        {
+          "text": "The artist does not aim at reproducing an optical impression, but at expressing a truth which he feels.",
+          "context": "解释为什么艺术的历史是观念的演进而非技法的简单改进，每个时代的艺术都在寻求表达那个时代所感受到的真理"
+        },
+        {
+          "text": "What we call art in our times is but a memory of what art once was.",
+          "context": "提示现代艺术与传统艺术的断裂，但也暗示艺术精神的延续性"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命之网",
+      "title_en": "The Web of Life",
+      "author_zh": "弗里乔夫·卡普拉",
+      "author_en": "Fritjof Capra",
+      "year": "1996",
+      "category": "科学与认知",
+      "one_liner": "用系统论重新理解生命，发现自然界中的网络智慧，从微观分子到宏观生态的统一法则",
+      "deep_dive": "卡普拉是个很有趣的物理学家。他最开始在研究量子力学，后来觉得整个现代科学的世界观有问题。这本书就是他的"改邪归正"之作。\n\n核心思想是：我们一直把生命看成机械的、可以拆解的东西——就像一部精密的机器。但实际上，生命是网络。不是一个零件加一个零件的堆积，而是一个高度互联的、动态的整体。细胞是这样的网络，一个生命体是这样的网络，整个生态系统也是这样的网络。甚至人类社会也是这样的网络。\n\n他特别强调"自组织"这个概念。生命系统不需要一个中央指挥官来告诉它该怎么做。相反，千百万个简单的相互作用，就能涌现出高度复杂的秩序。想想蚁群、想想人脑，没有任何一个蚂蚁或神经元知道整体计划，但整体系统却能做出智能决策。\n\n这本书读起来有点跨度大。卡普拉会从化学、生物学、物理学一路讲到哲学、心理学。他想表达的是，这个世界从微观到宏观，从物质到精神，其实都遵循同样的网络逻辑。对我们理解生态危机特别有启发。气候变暖、生物多样性丧失，不是某个单独问题，而是整个全球系统失衡的表现。你改变一个环节，整个网络都会感受到。",
+      "quotes": [
+        {
+          "text": "Life is a self-organizing system that exhibits a property called organization. The organization of living systems is defined by a process known as autopoiesis.",
+          "context": "卡普拉在书中重复强调自组织是生命的核心特征，这推翻了机械论对生命的解释"
+        },
+        {
+          "text": "The key to understanding whole systems is to shift our perspective from the parts to the relationships among the parts.",
+          "context": "系统论的核心洞察：整体的特性不在组成部分本身，而在于它们如何相互作用和联系"
+        },
+        {
+          "text": "At the heart of this realization lies the understanding that life is a cosmic phenomenon, and that we must understand it at all levels of organization simultaneously.",
+          "context": "卡普拉试图建立跨越不同科学领域的统一理解，生命不仅仅是生物学现象，更是宇宙现象"
+        }
+      ]
+    },
+    {
+      "title_zh": "黑天鹅",
+      "title_en": "The Black Swan",
+      "author_zh": "纳西姆·塔勒布",
+      "author_en": "Nassim Nicholas Taleb",
+      "year": "2007",
+      "category": "科学与认知",
+      "one_liner": "那些不可预测的重大事件如何形塑历史，为什么我们总是为之措手不及，如何在不确定性中生存",
+      "deep_dive": "塔勒布这个人很特殊。他既是数学家和交易员，又是个很爱挑衅的作家。这本书的中心概念——"黑天鹅"事件——简单得不像话，但影响力却很大。\n\n黑天鹅事件就是指那些：（1）在历史上极其罕见，（2）一旦发生就有巨大的影响，（3）在事后看起来好像是不可避免的事件。比如9/11、金融危机、互联网的出现。没人真正预测到这些事件，但事后所有人都说"哦当然，这是必然的"。\n\n塔勒布指出，我们的大脑有个致命的偏差：我们喜欢把世界想象成钟形曲线分布——也就是说，大部分时候事情都在平均水平上下波动。但现实？现实充满了黑天鹅。历史上最重大的事件往往都是异常事件，是"正态分布尾部"的东西。我们用常见的东西学会的规则，对付不了罕见但致命的异常。\n\n书里有个很强悍的观点：你无法预测黑天鹅，所以与其花力气预测，不如花力气做好准备。你的投资组合应该抵抗黑天鹅冲击。你的事业应该有反脆弱性。你应该从容对待不确定性，而不是自欺欺人地假装自己能预测未来。读完以后，特别是经历过2008金融危机、2020疫情这样的事件，你会发现塔勒布说的全中了。",
+      "quotes": [
+        {
+          "text": "Our world is dominated by the extreme, the unknown, and the very improbable—in the rare, not the common. Yet we spend most of our time studying minutiae, not important things.",
+          "context": "塔勒布的核心控诉：人类错误地关注日常琐碎而忽视了影响历史的罕见事件，这导致我们对风险的估计严重偏差"
+        },
+        {
+          "text": "The more unexpected the surprise, the less equipped our minds are to deal with it.",
+          "context": "解释为什么黑天鹅事件总是让所有人措手不及，因为我们的直觉和经验都无法帮助我们应对真正前所未有的局面"
+        },
+        {
+          "text": "We favor the confirmation of the knowledge we already have, the consecration of what we believe we have already learned, over the wisdom of admitting our ignorance.",
+          "context": "人类心理的又一个偏差——确认偏差。我们倾向于寻找支持已有信念的证据，而拒绝承认自己的无知"
+        }
+      ]
+    }
+  ]
+}
+```
