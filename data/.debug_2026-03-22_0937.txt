@@ -1,1 +1,14 @@
-Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CZHJFA8uCyGc17e85s5Mr"}
+这三本书不在我的经典书单中。根据 skill 设计，我应该告知你这一点。不过，既然你明确指定了这三本书，我可以为你生成推荐内容。
+
+请确认以下信息，以便生成准确的推荐：
+
+1. **《地理与世界霸权》** — 这部著作的作者是谁？我需要确认是否是：
+   - 弗朗索瓦·蒂里安的《地理与世界霸权》？
+   - 还是其他作者的作品？
+
+一旦你确认作者，我会立即为这三本书生成完整的 JSON 推荐，格式如下：
+- 深度介绍 300-500 字（聊天口吻）
+- 2-3 条精选金句
+- 严格 JSON 格式（无 markdown 代码块）
+
+请提供第二本书的作者信息，我就能立即生成。
