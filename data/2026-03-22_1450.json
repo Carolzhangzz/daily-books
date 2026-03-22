@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "独裁者手册",
+      "title_en": "The Dictator's Handbook",
+      "author_zh": "布鲁斯·布恩诺·德·梅斯基塔",
+      "author_en": "Bruce Bueno de Mesquita",
+      "year": "2011",
+      "category": "社科与历史",
+      "one_liner": "揭示权力运作的隐藏规则，解释为什么独裁者的行为方式如此一致",
+      "deep_dive": "这本书用博弈论和政治经济学的角度，分析了从独裁者到民主领导人的所有统治者如何维持权力。核心论点是，统治者不是通过意识形态或个人特质来统治，而是通过管理三个关键群体：赢家联盟（key supporters）、影响力者（influencers）和公众。作者用大量历史例子说明，为什么独裁者需要保持军队的忠诚、为什么他们会贪污、为什么他们害怕言论自由。这本书改变了我对权力本质的理解——它不是关于邪恶或善良，而是关于激励机制。你会发现现代民主国家的政治人物也遵循这些规则，只是约束条件不同。读完这本书，你会用新的眼光看待历史事件和新闻里的权力斗争。",
+      "quotes": [
+        {
+          "text": "The fundamental problem of governance is not choosing between good and evil, but between different systems of incentives.",
+          "context": "这句话揭示了作者的核心观点：权力运作的本质不在道德，而在激励机制"
+        },
+        {
+          "text": "All leaders, whether in democracies or autocracies, are fundamentally concerned with staying in power.",
+          "context": "无论是独裁者还是民主领导人，保持权力的逻辑是相同的，只是约束条件不同"
+        }
+      ]
+    },
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Polya",
+      "year": "1945",
+      "category": "数学与逻辑",
+      "one_liner": "数学大师的通用问题解决方法论，教你如何思考和解决任何难题",
+      "deep_dive": "这本薄书却是解题方法论的经典之作。波利亚把解题分为四个阶段：理解问题、制定计划、执行计划、回顾反思。听起来简单，但每个阶段都有具体的启发式问题引导你。比如在理解问题阶段，他会问：未知数是什么？条件是什么？你能画个图吗？这本书虽然用数学题举例，但方法完全适用于编程、写作、工程设计等任何领域。我最喜欢的是回顾反思部分——他强调解完题后看看能否用不同方法、能否推广到更大问题，这正是深度学习的核心。如果你经常卡在问题上，这本书会像一盏灯。读完后你会发现，很多时候我们不是不聪明，而是没有用对方法来思考。",
+      "quotes": [
+        {
+          "text": "If you can't solve a problem, then there is an easier problem you can solve: find it.",
+          "context": "当陷入困境时，学会降低难度、分解问题的智慧"
+        },
+        {
+          "text": "In order to solve this problem, you must first get a clear idea of what is to be found.",
+          "context": "强调理解问题本身的重要性，很多时候我们根本没有真正理解问题"
+        }
+      ]
+    },
+    {
+      "title_zh": "解忧杂货店",
+      "title_en": "Namiya Convenience Store",
+      "author_zh": "东野圭吾",
+      "author_en": "Keigo Higashino",
+      "year": "2012",
+      "category": "文学",
+      "one_liner": "一家神秘杂货店在夜间为迷茫的人答疑解惑，每个回答都改变一个人的人生轨迹",
+      "deep_dive": "这是东野圭吾最温暖的作品。一家老杂货店有个特殊的信箱，人们在迷茫时把烦恼投进去，店主浑浊老人会在隔夜用毛笔回信。小说通过五个不同的来信人，展开了他们各自的故事：放弃梦想成为销售员的女孩、为了养家放弃音乐的青年、深陷爱情困境的女律师……看似独立的故事线，到最后会神奇地交织在一起，形成一个完整的因果循环。最打动人的地方不在解答本身，而在于一个简单的真理：你现在的选择，会影响别人的人生，而别人的选择也会循环回到你身上。没有绝对正确的答案，但有更好的生活方式。这本书治愈了无数迷茫的人，它告诉我们，看似微小的建议，也许正在改变另一个人的人生。",
+      "quotes": [
+        {
+          "text": "世界上没有绝对的正确答案，但有比昨天更好的选择。",
+          "context": "这是整部小说的核心哲学——鼓励我们不要被完美答案所困，而是在每个时刻做出相对更好的选择"
+        },
+        {
+          "text": "你的烦恼不是因为你不够努力，而是因为你忽视了某种可能性。",
+          "context": "杂货店老人对来信者的启示，让读者意识到许多困境其实是视角问题"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_1450"
+}
