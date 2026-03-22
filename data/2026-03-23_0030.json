@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "到灯塔去",
+      "title_en": "To the Lighthouse",
+      "author_zh": "弗吉尼亚·伍尔夫",
+      "author_en": "Virginia Woolf",
+      "year": "1927",
+      "category": "文学",
+      "one_liner": "一个家庭前往灯塔的旅途，却成了对时间流逝、生死轮回的深刻冥想。",
+      "deep_dive": "这部小说看起来讲的是一个简单的故事：一家人想去海边的灯塔，但最后没去成。但伍尔夫用意识流的手法把这个平凡的日常撕开了，让你看到人物内心的波澜、时间无声的流逝、甚至是死亡就在身边的触感。\n\n最妙的地方在于中间那一段——母亲去世了，但作者没有像传统小说那样详细描写葬礼或哀悼，而是用一句括号里的话轻轻带过。这种处理方式震撼人心，因为它反映了真实生活的荒诞：我们经历的最大事件，有时只占据时间中很小的一部分。\n\n读这部书的时候，你会觉得在照镜子。伍尔夫把那些被我们忽视的时刻——等待、失望、某个瞬间的顿悟——都写成了诗。尤其是对女性心理的捕捉，那种被期待、被忽视、被束缚的微妙感受，至今都能扎人。这不是一部容易的书，但读完后你会重新看待生命中那些「没有发生」的事。",
+      "quotes": [
+        {
+          "text": "One cannot think well, love well, sleep well, if one has not dined well.",
+          "context": "这是全书的开篇，看似平凡的一句话道出了一个真理：身体的满足是精神充实的基础。"
+        },
+        {
+          "text": "For nothing is so strange when you are alone in the depths of night and something creaks—you do not know what—in the depths of the house.",
+          "context": "伍尔夫对孤独和恐惧的诗意描写，那种在黑夜中被未知吞没的感觉，道出了人的脆弱与永恒的焦虑。"
+        },
+        {
+          "text": "It will end, it will end, she said. It will come, it will come, she said.",
+          "context": "对时间和命运的执念，反映了人在面对无法改变的事物时的心理状态——既期待又绝望。"
+        }
+      ]
+    },
+    {
+      "title_zh": "伊豆的舞女",
+      "title_en": "The Izu Dancer",
+      "author_zh": "川端康成",
+      "author_en": "Yasunari Kawabata",
+      "year": "1926",
+      "category": "文学",
+      "one_liner": "一个孤独的少年与舞女的邂逅，用温柔治愈了彼此的伤痕。",
+      "deep_dive": "这是川端康成的代表作之一，却比他其他作品温柔得多。故事很简单：一个20岁的男性旅行者在伊豆遇到了一个舞女，他们一起旅行，在温泉旅馆里相处，然后分离。但就在这个简短的邂逅中，川端写出了人与人之间最纯净的理解。\n\n最感人的地方是，这个少年本来对世界充满了厌倦和绝望，但这个舞女——一个被社会贬低、被当作消费品的女性——却用她最简单的存在治愈了他。不是通过深刻的对话，也不是通过激情，而就是两个被伤害过的灵魂在对方身上找到了一点温度。\n\n川端的笔触在这里特别温婉。他没有把舞女理想化成救赎者，也没有陷入廉价的感伤。他只是真实地写出：有一刻，你看到了另一个人，完全看到了，接纳了。这样的时刻，在生命中是多么珍贵。这部作品虽然短，但那份淡淡的哀愁和温柔，会长久地留在你心里。",
+      "quotes": [
+        {
+          "text": "一看到她，我心里忽然升起一种既不是恋爱，也不是同情的感情，比这些都要更温柔。",
+          "context": "这是整部小说的核心。作者道出了一种超越常规情感分类的东西——一种纯粹的、没有欲望的、只有接纳的温柔。"
+        },
+        {
+          "text": "孤独的我，第一次被人这样接受了。",
+          "context": "少年在舞女身上找到的不是爱，而是被看见、被接纳的感觉。这是人类最深的渴望。"
+        },
+        {
+          "text": "我想，无论怎样的绝望，都是少年时代的绝望。",
+          "context": "川端对青春的悲伤的诗意总结。那些伤痛虽然真实，但终会成为记忆中闪闪发光的过去。"
+        }
+      ]
+    },
+    {
+      "title_zh": "费曼物理学讲义",
+      "title_en": "The Feynman Lectures on Physics",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard P. Feynman",
+      "year": "1963-1965",
+      "category": "科学与认知",
+      "one_liner": "一位天才物理学家用最简洁、最有趣的方式重新定义了我们对物理世界的理解。",
+      "deep_dive": "这不是一本普通的物理教科书。费曼在加州理工学院讲了三年的基础物理课，这些讲义后来被整理成书。他的独特之处在于，他不是在传授已有的知识，而是在教你如何像科学家一样思考。\n\n费曼有个哲学：如果你不能用简单的语言解释某个概念，说明你根本没有真正理解它。所以他从不躲在复杂的数学后面。他会告诉你为什么万有引力定律的形式是这样的，而不只是让你记住公式。他会讨论光是什么，讨论到你觉得自己真的看到了光。\n\n读这部书最妙的是，你会发现世界比你想象的既更简单也更奇妙。费曼有种魔力，能把最深的物理洞察讲得像讲故事一样。而且他经常会加入他自己的想法和疑惑——有时候他会说「嗯，这个地方我也不完全明白」，这让整个学习过程变得非常人性化。这三卷书覆盖了从力学到量子力学的所有基础物理，但它们读起来永不乏味。",
+      "quotes": [
+        {
+          "text": "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.",
+          "context": "费曼对宇宙统一性的诗意表达。这说明了为什么理解基本原理如此重要。"
+        },
+        {
+          "text": "The principle of science is that if an idea can be disproved, it is not science.",
+          "context": "费曼对科学精神的定义。这提醒我们科学的本质是可证伪性，而不是寻找绝对真理。"
+        },
+        {
+          "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
+          "context": "这体现了费曼的科学哲学和人生态度——保持好奇心和怀疑精神，永远不要停止追问。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0030"
+}
