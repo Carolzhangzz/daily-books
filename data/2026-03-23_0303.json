@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "看得见风景的房间",
+      "title_en": "A Room with a View",
+      "author_zh": "爱德华·摩根·福斯特",
+      "author_en": "Edward Morgan Forster",
+      "year": "1908",
+      "category": "文学/经典小说",
+      "one_liner": "一个年轻女性在爱情与社会期望的碰撞中寻找真实的自我",
+      "deep_dive": "这部小说讲的是露西的成长故事，你看啊，她在意大利旅行中邂逅了真爱，内心被唤醒了，可回到英国后立刻被社会的虚伪规则束缚住。福斯特用优雅又讽刺的笔触，描绘了维多利亚时代贵族社会的虚伪面纱，以及人类追求自由与真诚的永恒冲动。最妙的是，这不仅是一个爱情故事，更是一场关于自我认知的觉醒。露西必须在顺从的淑女身份和内心真实的渴望之间做出选择，这种抉择的过程触及了人性最深层的问题——我们到底是活给别人看，还是活给自己看？整部作品弥漫着对人性、爱情和自由的深刻思考，读起来既轻盈又沉重。",
+      "quotes": [
+        {
+          "text": "If I stopped loving you, I should stop living.",
+          "context": "露西对真爱的坚定表白，道出了爱情对生命的本质意义"
+        },
+        {
+          "text": "The only thing to do is to love each other.",
+          "context": "小说对人生最高智慧的简洁总结"
+        }
+      ]
+    },
+    {
+      "title_zh": "罪与罚",
+      "title_en": "Crime and Punishment",
+      "author_zh": "费奥多尔·陀思妥耶夫斯基",
+      "author_en": "Fyodor Dostoevsky",
+      "year": "1866",
+      "category": "文学/心理小说",
+      "one_liner": "一个贫困大学生犯下谋杀后，在无尽的内心折磨和救赎中对人性进行的终极拷问",
+      "deep_dive": "拉斯科尼科夫是个穷困的大学生，他构想出一套病态的理论，认为某些超人可以超越道德和法律。为了验证自己的理论，他杀死了一个放高利贷的老妇人。但这里的高明之处在于，真正的折磨不是来自警察的追捕，而是来自他自己分裂的灵魂——良心的谴责、理性的怀疑、精神的崩溃。陀思妥耶夫斯基用这个故事向我们展示，人根本无法超越道德而活着，违反内心深处的道德律令会导致精神的死亡。小说不是在问\"谁杀了人\"，而是在追问\"人为什么而活\"。通过拉斯科尼科夫最终的悔悟和救赎，作者昭示了信仰、悔恨和爱才是拯救人类灵魂的唯一力量。",
+      "quotes": [
+        {
+          "text": "Beauty is mysterious as well as terrible. God and the devil are fighting there, and the battlefield is the heart of man.",
+          "context": "对人性中善恶对抗的深刻思索"
+        },
+        {
+          "text": "The more I love humanity in general, the less I love man in particular.",
+          "context": "对人类本性矛盾的讽刺洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "基业长青",
+      "title_en": "Built to Last",
+      "author_zh": "吉姆·柯林斯",
+      "author_en": "Jim Collins",
+      "year": "1994",
+      "category": "商业/管理",
+      "one_liner": "揭示卓越企业百年长青的秘诀——清晰的核心价值观和制度化的追求",
+      "deep_dive": "柯林斯和他的团队研究了18家百年以上的优秀企业，想找出它们长期成功的奥秘。有趣的是，他们发现一个反直觉的结论：伟大企业的成功往往不是因为有个救世主级别的领导者，也不是因为有什么神奇的战略，而是因为它们拥有清晰的核心意识形态，以及相对稳定的组织制度。换句话说，伟大不是被创造出来的，而是被设计和建立起来的。这些公司像一台精密的机器，能够源源不断地吸引志同道合的人才，自我纠正，不断演进。无论你是在经营企业还是规划人生，这个洞察都很有启发——真正的基业长青，靠的是清晰的愿景、坚定的原则、以及能够适应时代变化的学习能力。",
+      "quotes": [
+        {
+          "text": "A visionary company is an organization that is held together by a core ideology and aligned people.",
+          "context": "对卓越企业本质的精准定义——核心价值观和人的统一"
+        },
+        {
+          "text": "The old adage 'build it and they will come' is not a strategy.",
+          "context": "对战略规划的实用警醒"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0303"
+}
