@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "长尾理论",
+      "title_en": "The Long Tail",
+      "author_zh": "克里斯·安德森",
+      "author_en": "Chris Anderson",
+      "year": "2006",
+      "category": "商业与技术",
+      "one_liner": "互联网时代，小众产品聚合成的市场规模足以与热门产品比肩甚至超越。",
+      "deep_dive": "在互联网刚开始改变零售时，克里斯·安德森提出了一个令人兴奋的观点：以前因为流通成本太高无法到达消费者的小众产品，现在通过互联网可以聚合起来，形成不容小觑的市场力量。想象亚马逊的书店——物理书店只能放几千本畅销书，这是\"头部\"。但亚马逊可以存放几百万本书，那些永远登不上畅销榜的小众书籍、专业书、冷门题材，这些构成了\"长尾\"。关键发现是：这条长长的尾部加起来的收益，可能和少数几个\"大恐龙\"差不多，甚至超过。这本书解释了为什么Netflix击败了Blockbuster、为什么YouTube聚集全球视频创作者、为什么Spotify让每个人都能发现小众音乐。长尾理论说的是：边缘不再是边缘，小众聚合就成了大众。对创业者特别有启发——你不一定要做下一个iPhone才能成功，因为可能有足够多人想要你的小众产品。互联网解决了传统商业的根本问题：流通和发现成本。这个理论在电商、内容平台、音乐流媒体时代证明了它的预见性。",
+      "quotes": [
+        {
+          "text": "Hit-driven economics is a feature of a scarcity of shelf space.",
+          "context": "说明为什么传统零售只有少数畅销品能活下来——零售空间有限，流通成本决定了市场结构。"
+        },
+        {
+          "text": "The Long Tail is really a challenge to the emphasis on hits.",
+          "context": "核心观点：长尾时代挑战了传统\"只有大热才有价值\"的商业思维。"
+        },
+        {
+          "text": "People are going deep into the catalog, down the long tail.",
+          "context": "描述互联网改变的用户行为——从被动接受热门转向主动探索小众精品。"
+        }
+      ]
+    },
+    {
+      "title_zh": "什么是艺术",
+      "title_en": "What Is Art?",
+      "author_zh": "列夫·托尔斯泰",
+      "author_en": "Leo Tolstoy",
+      "year": "1897",
+      "category": "艺术与美学",
+      "one_liner": "艺术的本质不在精妙的技巧，而在于是否能真挚地传达人的情感体验。",
+      "deep_dive": "托尔斯泰在年迈时写的这部著作，是一次灵魂的自我拷问。19世纪末艺术评论界被各种理论淹没：有人说艺术是美的追求，有人说是技巧展示，有人说是高雅品味象征。但托尔斯泰不满意这些答案。他认为真正的艺术根本不在这些地方，它在于感受和传达。艺术的本质就是一个人把自己真挚的情感传递给另一个人。你写诗、画画、作曲，为的是让别人感受到你的感受。如果做不到这一点，再精妙的技巧、再华丽的修辞都是空的。这也意味着很多被奉为艺术的东西，其实不过是装饰品、时尚商品或精英阶层的玩物。真正伟大的艺术作品往往很朴素，能触动普通人的心。一个民间故事、一支民谣，这些就是艺术。而那些标榜自己\"高雅\"\"复杂\"的东西，如果无法传达人性，就不是艺术。这本书像是老人最后的警告，但它的价值在商业化和流量化时代变得更有意义。",
+      "quotes": [
+        {
+          "text": "Art is a human activity consisting of this, that one man consciously, by means of certain external signs, hands on to others feelings he has lived through, and that other people are infected by these feelings and also experience them.",
+          "context": "托尔斯泰对艺术最核心的定义——关键词是\"传达情感\"和\"感染\"。"
+        },
+        {
+          "text": "To evoke in oneself a feeling one has once experienced, and having evoked it in oneself, then by means of movements, lines, colors, sounds or forms expressed in words, so to transmit that feeling—this is the activity of art.",
+          "context": "进一步解释艺术的过程，强调需要先在自己心中唤起真实感受，才能真正创作艺术。"
+        },
+        {
+          "text": "All that is not art is art that has no purpose.",
+          "context": "反讽地说，那些为了炫耀、金钱或虚荣的\"艺术\"，其实都不是真正的艺术。"
+        }
+      ]
+    },
+    {
+      "title_zh": "局外人",
+      "title_en": "The Stranger",
+      "author_zh": "阿尔贝·加缪",
+      "author_en": "Albert Camus",
+      "year": "1942",
+      "category": "文学",
+      "one_liner": "一个对世界无动于衷的男人，因不符合社会期待而被判处死刑的黑色寓言。",
+      "deep_dive": "加缪的这部小说像是对现代人的诊断。主人公莫尔索是个奇怪的人——母亲去世他不哭，有女朋友但无所谓，因为太阳太刺眼就开了枪杀人。整个故事像在看一个人如何被社会一步步判处死刑。但这部小说的伟大之处在于，它让你慢慢意识到莫尔索其实没大问题。他的问题是没有按社会期望的方式感受。人们期望他在葬礼上哭泣，期望他对爱情表现热情，期望他为罪行忏悔。但莫尔索做不出来，不是因为他是怪物，而是因为他无法被社会的虚伪程式规范。前半部分平静得令人不安，没有任何道德判断。莫尔索像在看黑白电影，观察一切但不评价。到了法庭，法官律师开始表演他们的\"人性\"，尖叫着这个人应该因为不够悲伤而被处死。讽刺达到高潮。加缪后来说这本书表达的是荒诞性——世界的运作逻辑与我们对生命意义的寻求之间存在无法调和的矛盾。莫尔索就是在这个矛盾中保持清醒的那个人，这让他看起来像个局外人。",
+      "quotes": [
+        {
+          "text": "Mother died today. Or maybe yesterday; I can't be sure.",
+          "context": "小说开篇这句话立刻奠定基调——莫尔索对时间、情感、他人之死都很陌生。"
+        },
+        {
+          "text": "I realized then that a man who has lived only one day could easily live for a hundred years in prison. He would have enough memories to keep him from being bored.",
+          "context": "莫尔索在监狱里的思考，展现他独特的生命观——充实与否取决于内心，而非外部时间。"
+        },
+        {
+          "text": "It occurred to me that anyway one more or less could be of no importance.",
+          "context": "莫尔索对杀人这件事的态度，突显了他与常人道德观的根本差异，体现了无所谓的存在状态。"
+        },
+        {
+          "text": "And I had thought I heard somewhere that man was tried on earth and judged by his earthly fellow-citizens before being presented before his God.",
+          "context": "在法庭上莫尔索对人类司法制度的讽刺观察，质疑人们凭什么判断他人。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0715"
+}
