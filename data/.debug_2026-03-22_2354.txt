@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "第六次大灭绝",
+      "title_en": "The Sixth Extinction",
+      "author_zh": "伊丽莎白·科尔伯特",
+      "author_en": "Elizabeth Kolbert",
+      "year": "2014",
+      "category": "自然与生态",
+      "one_liner": "人类活动正在导致地球历史上第六次物种大灭绝，速度之快前所未有",
+      "deep_dive": "这本书会让你重新思考人类在地球上的角色。科尔伯特带你踏上一场全球之旅，从巴拿马的青蛙，到中国的白鳍豚，再到北极的冰川，揭示了一个令人震撼的事实：我们正在经历地球历史上第六次物种大灭绝——而且这一次，罪魁祸首就是我们。最牛的地方在于，她不是用冰冷的数据轰炸你，而是通过亲身采访科学家、实地考察濒危物种，把干巴巴的生态学变成了一个又一个的故事。白鳍豚不是某个统计数据，而是一个物种的完整消亡，永远从地球上擦除了。这本书既不是环保主义的说教，也不是末世论的绝望——它就是在陈述事实。读完这本书，你会更深刻地理解，为什么气候变化、栖息地丧失和污染不仅仅是环保的问题，而是整个人类文明的存亡问题。",
+      "quotes": [
+        {
+          "text": "We are now in the midst of the sixth extinction, this one caused entirely by us.",
+          "context": "科尔伯特在序言中的核心论点，直接点明了人类在当代物种灭绝危机中的责任"
+        },
+        {
+          "text": "The speed of modern extinctions is shocking. We are wiping out species faster than they can evolve new ones.",
+          "context": "强调了当代灭绝速度的紧迫性，突出了与以往五次大灭绝的本质差异"
+        }
+      ]
+    },
+    {
+      "title_zh": "尤利西斯",
+      "title_en": "Ulysses",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "一个普通人在都柏林平凡一天的完整心理活动，用意识流技法重新演绎了荷马史诗",
+      "deep_dive": "《尤利西斯》是部有点疯狂的书，但如果你能进入它的节奏，它会改变你对小说的理解。乔伊斯把荷马的《奥德赛》浓缩到1904年6月16日都柏林的一天，主角不是英雄而是两个普通人——广告推销员布鲁姆和学生斯蒂芬。这本书有点像一个人脑子的实时转播。乔伊斯用了\"意识流\"的技术，把人物的每一个想法、联想、记忆、欲望都倾泻出来，不管逻辑如何。你会看到他们走过街道时的零碎思绪，对过去的突然回忆，甚至他们的下流笑话。读的时候你会觉得有点累，因为没有传统的叙事框架来引导你，但正是这种真实性让小说感觉活生生的。这部书打破了小说应该怎样的规则，证明了你可以用语言本身做实验，可以通过形式来创造意义。而且在所有晦涩句子后面，讲的是最普通人类的故事——爱、欲望、寂寞、信仰。",
+      "quotes": [
+        {
+          "text": "A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.",
+          "context": "乔伊斯对艺术创新的信念，说明了他在文学实验中为何要突破传统规则"
+        },
+        {
+          "text": "History, Stephen said, is a nightmare from which I am trying to awake.",
+          "context": "反映了小说中对历史、民族身份和个人认同的深层思考，也是年轻一代对束缚的反抗"
+        }
+      ]
+    },
+    {
+      "title_zh": "非暴力沟通",
+      "title_en": "Nonviolent Communication",
+      "author_zh": "马歇尔·卢森堡",
+      "author_en": "Marshall Rosenberg",
+      "year": "1999",
+      "category": "心理学",
+      "one_liner": "通过观察、感受、需求和请求四步法，实现真诚有效的沟通，化解人际冲突",
+      "deep_dive": "《非暴力沟通》这本书教你的其实是一种完全不同的说话方式。卢森堡发现，很多人际冲突的根源不是观点不同，而是我们说话的方式。我们常常在表达观察时加入了判断，在提出需求时夹杂了指责，这样自然容易激怒对方。书里的方法很简单，但很有力：先说观察（我看到...），然后说感受（我感到...），再说需求（我需要...），最后说请求（你能否...）。听起来容易，但实践起来需要真诚和觉察。这不是一个操纵技巧，而是一种在交流中回归人性的方式，承认对方的感受和需求，同时清晰地表达自己。当你用这种方式沟通时，即使内容没变，对方的反应也会完全不同。因为你不再是在评判或攻击，而是在分享你的内心世界。读完这本书，你会发现很多\"难以沟通\"的人，其实只是缺少了更好的沟通框架。",
+      "quotes": [
+        {
+          "text": "Nonviolent Communication is based on the simple premise that we are all here to enrich life, rather than to harm.",
+          "context": "卢森堡阐述的NVC核心哲学，强调沟通的本质目标是相互滋养而非伤害"
+        },
+        {
+          "text": "The goal of NVC is to create human connections based on honesty and empathy.",
+          "context": "说明了非暴力沟通的根本目标，强调诚实和同理心是建立真实人际关系的基础"
+        }
+      ]
+    }
+  ]
+}
+```
