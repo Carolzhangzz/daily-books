@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "金枝",
+      "title_en": "The Golden Bough",
+      "author_zh": "詹姆斯·乔治·弗雷泽",
+      "author_en": "James George Frazer",
+      "year": "1890",
+      "category": "社科与历史",
+      "one_liner": "从魔法、宗教到科学，追溯人类精神世界的演进史",
+      "deep_dive": "很久很久以前，人类对世界的理解就是通过各种神话、仪式和魔法实践建立的。《金枝》这部宏大的著作，就像一场穿越时空的人类学之旅。弗雷泽花了几十年的时间，收集了来自世界各地的民俗、宗教和神话故事，试图找出隐藏在这些表象之后的深层规律。这本书的名字来自于罗马传说中的金色树枝，代表着人类对神秘力量的永恒追寻。在书中，弗雷泽论证了一个大胆的观点：人类的精神发展遵循着一条进化的路径，从最初的魔法信仰，经过宗教阶段，最终到达科学理性。虽然后来的人类学家已经修正了他的某些观点，但《金枝》仍然是理解人类文化多样性和宗教心理的经典之作。读这本书就像走进一个巨大的博物馆，看到人类各个民族的宗教智慧和精神追求，不禁让人反思：我们今天的理性科学，会不会在未来也被视为一种'宗教信仰'呢？",
+      "quotes": [
+        {
+          "text": "Magic is the primitive man's attempt to control his environment by supernatural means.",
+          "context": "魔法在原始人的思维中是最初的控制世界的手段，代表了人类理解自然的早期尝试"
+        },
+        {
+          "text": "Religion appears to be a modification or refinement of magic.",
+          "context": "宗教是在魔法基础上的演变，显示了人类精神发展的连续性"
+        }
+      ]
+    },
+    {
+      "title_zh": "硅谷钢铁侠",
+      "title_en": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author_zh": "阿什利·万斯",
+      "author_en": "Ashlee Vance",
+      "year": "2015",
+      "category": "商业与技术",
+      "one_liner": "硅谷最具远见的企业家如何用梦想和决心改变世界的故事",
+      "deep_dive": "埃隆·马斯克是个很难用一句话定义的人物。他可能是世界上最有野心的企业家，也可能就是个疯子——取决于你怎么看待一个想要把人类送上火星、让电动车成为主流的人。《硅谷钢铁侠》记录了这位南非天才从小在野心和痛苦中长大，一步步创造PayPal、特斯拉和SpaceX的奇迹。万斯采访了马斯克身边的人和竞争对手，还原了一个真实的、闪闪发光又令人困扰的形象。你会看到他的坚韧和执着——在特斯拉和SpaceX都濒临破产的时刻，他如何靠着纯粹的意志力和融资才能活了下来；你也会看到他的傲慢和冷漠——对员工的苛刻要求，对竞争对手的蔑视。这本书之所以深刻，不仅因为它记录了改变世界的企业帝国的诞生，更因为它让你思考：什么样的性格特质能成就伟大的企业家？偏执狂和远见者的界限在哪里？",
+      "quotes": [
+        {
+          "text": "If you want to make a real difference, you need to have a long-term vision, and be willing to take risks.",
+          "context": "马斯克对长期愿景和风险的理解，是他所有大胆决策背后的哲学"
+        },
+        {
+          "text": "Work like hell. I mean you just have to put in 80 to 100 hour weeks every week.",
+          "context": "这句话反映了马斯克对工作强度的态度，也是他要求员工的标准"
+        }
+      ]
+    },
+    {
+      "title_zh": "哲学的慰藉",
+      "title_en": "The Consolations of Philosophy",
+      "author_zh": "阿兰·德波顿",
+      "author_en": "Alain de Botton",
+      "year": "2000",
+      "category": "哲学",
+      "one_liner": "用伟大哲学家的智慧来面对现代生活的六大困境",
+      "deep_dive": "现代生活太容易让人感到困顿和迷茫。工作压力山大，感情总是出问题，社会竞争激烈，身份焦虑不断……德波顿在这本书里做了一件聪明的事：他没有给出一堆心灵鸡汤，而是回到了六位伟大哲学家的思想中，去寻找对现代人真正有用的安慰。比如，当你感到不够聪慧时，苏格拉底告诉我们，承认无知本身就是智慧的开始；当你为失败而沮丧时，蒙田的随笔可以告诉你，失败和脆弱其实是人之常情；当你在爱情中受伤时，叔本华的悲观主义反而能给你一种解脱感——爱本来就不是完美的。这本书最妙的地方在于，德波顿把深奥的哲学思想翻译成了现代语言，用具体的例子和温暖的语气，让你不再觉得哲学是高高在上的象牙塔学问，而是生活本身的指南。读完这本书，你或许不会解决所有问题，但你会觉得更坦然地接纳生活的不完美。",
+      "quotes": [
+        {
+          "text": "Not to need money is elegant; to have it and not use it is vulgar.",
+          "context": "德波顿借由蒙田的观点，讽刺现代人对物质的执着和虚荣心"
+        },
+        {
+          "text": "We accept everything about our minds except the possibility that they might be wrong about something important.",
+          "context": "这反映了人性中的固执——我们很难承认自己可能错了，而这正是哲学思考的起点"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0142"
+}
