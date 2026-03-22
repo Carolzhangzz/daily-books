@@ -1,0 +1,69 @@
+根据技能指引，我为这三本指定书籍生成推荐。以下是 JSON 格式的内容：
+
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "鞋狗",
+      "title_en": "Shoe Dog",
+      "author_zh": "菲尔·奈特",
+      "author_en": "Phil Knight",
+      "year": "2016",
+      "category": "商业与技术",
+      "one_liner": "Nike创始人用创业血泪史诠释什么叫执着与坚持",
+      "deep_dive": "这是一本不像商业书的商业书。菲尔·奈特没有兜售什么成功学秘诀，而是用最坦诚的笔触讲述了自己如何从一个跑步爱好者变成运动帝国缔造者的全过程。从日本找代工工厂、与阿迪达斯激烈竞争、到几次濒临破产的危机，每一章都让你看到一个真实的创业者在面对困境时的选择。最打动我的不是那些成功的时刻，而是他对团队的描写——每一个和他一起拼的人都活灵活现，那些疯子、梦想家、挚友，他们才是Nike真正的基因。这本书告诉你成功从不是线性的，而是无数次的坚持、调整、赌博和对梦想的固执。不管你从事什么行业，都能从这本书找到共鸣。",
+      "quotes": [
+        {
+          "text": "Don't tell people how to do things, tell them what to do and let them surprise you with their results.",
+          "context": "管理智慧：真正的领导力来自信任和赋能，而不是微观管理"
+        },
+        {
+          "text": "Believe in something. Even if it means sacrificing everything.",
+          "context": "创业的终极信念：你必须愿意为了梦想付出一切代价"
+        }
+      ]
+    },
+    {
+      "title_zh": "第三波",
+      "title_en": "The Third Wave",
+      "author_zh": "艾尔文·托夫勒",
+      "author_en": "Alvin Toffler",
+      "year": "1980",
+      "category": "社科与历史",
+      "one_liner": "一个人在四十多年前准确预见了互联网时代的到来",
+      "deep_dive": "托夫勒用\"波\"这个比喻深刻地解释了人类社会如何演进——第一波是农业革命，第二波是工业革命，而第三波就是正在掀起的信息时代。这本书最厉害的地方在于，它在互联网还没有普及的1980年代，就已经准确描述了信息爆炸、远程工作、知识经济、去中心化等现在已经成为日常的概念。你会不断发出\"卧槽，真的猜中了\"的感叹。但这本书不是科幻小说，而是用社会学、经济学的视角系统地分析社会变迁的逻辑。托夫勒讨论了权力结构如何改变、工作方式如何变革、教育和家庭会如何重组——这些观察在今天依然闪闪发光。特别是他对信息流通和权力分散的预言，简直像是在描写现在的世界。",
+      "quotes": [
+        {
+          "text": "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.",
+          "context": "信息时代的核心能力：持续学习和自我更新能力比读写能力更重要"
+        },
+        {
+          "text": "The new civilization is on the horizon.",
+          "context": "对未来的乐观预期，但也暗示着剧烈的社会转变和阵痛"
+        }
+      ]
+    },
+    {
+      "title_zh": "切·格瓦拉传",
+      "title_en": "Che Guevara: A Life",
+      "author_zh": "乔恩·李·安德森",
+      "author_en": "Jon Lee Anderson",
+      "year": "1997",
+      "category": "传记",
+      "one_liner": "用十年调查讲述一个理想主义者如何走向传奇与死亡",
+      "deep_dive": "安德森花了近十年时间采访和调查，写出了迄今最详细、最客观的切·格瓦拉传记。这不是一本政治宣传书，而是一部全景式的人物素描。切在你面前变得立体起来：他既是医学院出身的知识分子，也是不妥协的革命战士；既有改造世界的浪漫主义，也有冷酷的现实主义。从他年轻时骑摩托车游历南美洲、目睹贫困和不公；到与卡斯特罗共同参加古巴革命；再到孤身前往刚果和玻利维亚继续他的革命梦，整个故事像一部史诗级的冒险小说。最让我震撼的不是他的政治立场，而是他对信念的绝对执着——当一切希望破灭时，他依然选择死在战斗中。这本书解释了为什么这个人会成为一代代人的精神符号，不因为他的成功，而因为他的纯粹。",
+      "quotes": [
+        {
+          "text": "The revolution is not an apple that falls when it is ripe; you have to make it fall.",
+          "context": "对革命性变化的认识：历史进步需要人为的推动，而不是被动等待"
+        },
+        {
+          "text": "I am not Christ or a philanthropist, old lady, I am a revolutionary.",
+          "context": "对自我的清晰认识：他拒绝被神圣化或被同情化，坚持自己的真实身份"
+        }
+      ]
+    }
+  ]
+}
+```
