@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "论自由",
+      "title_en": "On Liberty",
+      "author_zh": "约翰·穆勒",
+      "author_en": "John Stuart Mill",
+      "year": "1859",
+      "category": "政治哲学",
+      "one_liner": "为个人自由与社会控制的边界辩护的经典之作",
+      "deep_dive": "这本书堪称自由主义的圣经。穆勒在19世纪就提出了一个超前的观点：个人的自由应该被最大化尊重，除非你的行为直接伤害他人。这听起来简单，但深意深远。他在论证为什么言论自由、思想自由这么关键时，用了一个很有趣的角度——即使你要反驳的观点完全是错的，允许这种错误的声音存在，反而能让真理更闪闪发光。而且，哪怕真理本身，如果不经常被挑战，它也会退化成教条，失去生命力。读这本书的时候，你会发现它在讨论言论自由、个性发展、多样性的重要性，这些在今天的互联网时代显得更加珍贵。穆勒的笔触优雅而理性，观点犀利但从不傲慢，会让你重新思考自由的真正含义。",
+      "quotes": [
+        {
+          "text": "He who knows only his own side of the case knows little of that.",
+          "context": "论述为什么需要允许反对意见存在，只有了解对方观点才能真正理解自己"
+        },
+        {
+          "text": "The only freedom which deserves the name is that of pursuing our own good in our own way.",
+          "context": "阐述个人自由的核心——按照自己的方式追求幸福"
+        }
+      ]
+    },
+    {
+      "title_zh": "独裁者手册",
+      "title_en": "The Dictator's Handbook",
+      "author_zh": "布鲁斯·德·梅塞奎塔，艾利斯通·史密斯",
+      "author_en": "Bruce Bueno de Mesquita, Alastair Smith",
+      "year": "2011",
+      "category": "政治学/经济学",
+      "one_liner": "用博弈论揭露权力运作的黑暗逻辑",
+      "deep_dive": "这本书颠覆了你对权力的想象。你以为独裁者维持统治靠的是什么？残暴？意识形态？错！作者用冰冷的博弈论证明，任何统治者——无论独裁还是民主——都在玩一个数学游戏：用最少的支持者维持最大的权力。核心就是三个数字：有多少人支持我？我需要多少人来推翻自己？我怎样用最少的资源收买他们？这就是为什么独裁者总是贪污、搞裙带关系，为什么他们必须这样做——因为这是权力的数学。而民主之所以相对好一些，不是因为民众更善良，而是因为竞争机制让统治者必须争取更广泛的支持。你读完会对权力、腐败、为什么有些国家注定贫穷有全新的认识。有点黑暗，但真的很聪明。",
+      "quotes": [
+        {
+          "text": "The desire to stay in power is the primary motivation of those in power.",
+          "context": "点明所有权力运作的根本动力——维持权力本身"
+        },
+        {
+          "text": "A leader must spend enough on public goods to keep the essential supporters happy, and just enough to placate the rest.",
+          "context": "解释为何独裁者总是贪腐却又必须维系基本的国家运转"
+        }
+      ]
+    },
+    {
+      "title_zh": "定位",
+      "title_en": "Positioning: The Battle for Your Mind",
+      "author_zh": "杰克·特劳特，艾·里斯",
+      "author_en": "Jack Trout, Al Ries",
+      "year": "1981",
+      "category": "市场营销",
+      "one_liner": "改变营销游戏规则的理论——占据消费者心智的制高点",
+      "deep_dive": "如果你觉得好产品自己会说话，那你对营销的理解就太天真了。这本书说的是一个残酷的真相：在信息爆炸的年代，消费者的心智已经饱和。你的产品有多好根本不重要，重要的是你在消费者脑子里占据了什么位置。定位的核心思想就是：不要试图改变人们的想法，而是要利用他们已有的认知结构。比如说，提到可靠的汽车你想到沃尔沃，提到年轻活力你想到苹果。这不是偶然，这是精心设计的定位战略。这本书写于1981年，但它的影响力穿越了时间。现在的所有成功品牌——无论是科技、消费品还是服务——背后都在应用定位的原理。读这本书你会理解，为什么某些品牌能击败更强大的对手，为什么你的营销努力可能完全白费。这是商业世界里最实用的洞察。",
+      "quotes": [
+        {
+          "text": "The mind of the prospect is the battleground. The brand that wins is the one that gets into the mind first.",
+          "context": "定位理论的核心——争夺消费者心智的第一位置"
+        },
+        {
+          "text": "Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.",
+          "context": "澄清定位的本质——关乎心智而非产品本身"
+        }
+      ]
+    }
+  ]
+}
+```
