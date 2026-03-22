@@ -1,0 +1,15 @@
+我在书单中查找了这三本书，发现：
+
+**找到的书籍：**
+- 《心流》(*Flow*) - 米哈里·契克森米哈赖 ✓
+- 《进化心理学》(*Evolutionary Psychology*) - 大卫·巴斯 ✓
+
+**未找到的书籍：**
+- 《科学的旅程》— 这本书在我的经典书单中未找到。可能你指的是以下之一？
+  - 《万物简史》(*A Short History of Nearly Everything*) - 比尔·布莱森
+  - 《时间简史》(*A Brief History of Time*) - 斯蒂芬·霍金
+  - 《混沌》(*Chaos: Making a New Science*) - 詹姆斯·格雷克
+
+为了继续，我已为找到的两本书生成了推荐内容。请告诉我《科学的旅程》的英文书名或作者，或者选择上面的替代书籍之一，我可以为其生成推荐：
+
+{"date":"2026-03-22","books":[{"title_zh":"心流：最优体验心理学","title_en":"Flow: The Psychology of Optimal Experience","author_zh":"米哈里·契克森米哈赖","author_en":"Mihaly Csikszentmihalyi","year":"1990","category":"科学与认知","one_liner":"揭示人类最幸福的时刻——当专注与挑战完美平衡时的心理状态。","deep_dive":"你有没有过那种时光飞逝的体验？完全沉浸在某件事中，忘记了时间，忘记了烦恼，只有纯粹的专注和快乐。这就是心流。契克森米哈赖花了几十年研究这种最优体验，访问了各行各业的人——运动员、艺术家、外科医生、禅僧——他们都描述了相同的心理状态：完全投入、高度专注、获得感十足。心流不是天赋，而是一种可以培养的心理条件。它需要三个元素的碰撞：明确的目标、即时反馈，以及技能与挑战的平衡。太简单了无聊，太困难了焦虑，只有恰到好处的难度才能让你进入心流状态。这本书改变了我们对幸福的理解——幸福不在于被动娱乐，而在于主动创造和投入。无论你是想提升工作效率，还是想在爱好中找到更深的满足感，心流理论都能给你实用的启发。","quotes":[{"text":"The best moments in our lives are not passive, receptive, leisure times... The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.","context":"契克森米哈赖定义了人生最值得的时刻——不是舒适安逸，而是充满挑战的努力"},{"text":"Happiness is not by chance, but by choice.","context":"强调幸福和心流状态可以通过主动选择和行动而获得，而非消极等待"},{"text":"The secret to a happy life is to achieve a state of flow in whatever you do.","context":"揭示了幸福生活的核心秘诀——在任何活动中都能进入心流状态"}]},{"title_zh":"进化心理学：心理的新科学","title_en":"Evolutionary Psychology: The New Science of the Mind","author_zh":"大卫·巴斯","author_en":"David M. Buss","year":"2008","category":"科学与认知","one_liner":"用进化生物学的视角解读人类心理，从择偶到嫉妒，从合作到竞争的深层根源。","deep_dive":"为什么女性更看重男性的资源和地位，而男性更看重女性的年轻和外貌？为什么亲兄弟姐妹之间会产生嫉妒？为什么我们对陌生人的不公平待遇比对亲人更宽容？传统心理学往往把这些现象看作文化建构或个人选择，但进化心理学给出了一个激进的答案：这些行为模式都是几百万年进化的结果。大卫·巴斯是进化心理学的奠基人之一，这本书系统地展示了如何用自然选择理论来解释人类的心理机制。我们的大脑是一个装满"心理适应"的工具箱，每个工具都是祖先在特定环境中解决生存和繁衍问题时演化出来的。从配对制度到亲缘识别，从社会地位竞争到联盟形成，进化心理学都能给出深刻的解释。最引人入胜的是，这个视角让我们既能理解人类行为的普遍性——为什么世界各地的婚配模式惊人相似——又能理解个体差异的来源。不过要注意，理解了进化根源并不意味着接受现状；认识我们的心理偏见反而是改变它们的第一步。","quotes":[{"text":"Evolutionary psychologists do not claim that all behavior is adaptive—only that the human mind contains evolved psychological mechanisms.","context":"澄清进化心理学的核心观点：我们的心理机制是进化产物，但不是所有行为都有适应性"},{"text":"The mind evolved to solve adaptive problems that recurred in ancestral environments.","context":"解释为什么人类心理的很多特点看起来"过时"——因为它们是为了解决远古环境中的问题"},{"text":"Jealousy appears to be an emotion shaped by evolution to solve a critical problem for ancestral men—paternity uncertainty.","context":"用嫉妒情绪的进化来解释性别差异，说明进化心理学如何解释复杂情感"}]}]}
