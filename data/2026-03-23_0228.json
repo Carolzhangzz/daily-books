@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "观看之道",
+      "title_en": "Ways of Seeing",
+      "author_zh": "约翰·伯格",
+      "author_en": "John Berger",
+      "year": "1972",
+      "category": "艺术与美学",
+      "one_liner": "颠覆你对图像的理解，揭示视觉背后隐藏的权力和意识形态结构。",
+      "deep_dive": "这本书从BBC同名电视纪录片衍生而来，伯格用最温和却最深刻的方式告诉我们：看见从来不是被动的。每当我们观看一幅画、一张照片或一个人，我们的视角都被无数文化、历史和权力结构塑造着。他特别谈到了女性在艺术中的呈现方式——被凝视的对象而非观看者，这如何反映了整个社会的权力失衡。伯格认为，理解视觉就是理解权力。这本书改变了整个艺术评论和媒体研究领域的思考方式。读这本书时你会不断想起日常生活中那些看似理所当然的图像——广告、新闻、社交媒体——它们其实都在讲述特定的故事，推销特定的价值观。一旦你开始用伯格的视角看世界，就很难再回到之前的天真。这也是为什么它50年后仍然被广泛阅读和引用。",
+      "quotes": [
+        {
+          "text": "Seeing comes before words. The child looks and recognizes before it can speak.",
+          "context": "伯格开篇即阐明的核心观点——视觉经验先于语言和理论，但这也意味着我们的看法并非天然而是被塑造的"
+        },
+        {
+          "text": "We never look at just one thing; we are always looking at the relation between things and ourselves.",
+          "context": "强调观看的主体性——我们看到的不仅是对象本身，更是我们与对象的关系和我们的投射"
+        }
+      ]
+    },
+    {
+      "title_zh": "查拉图斯特拉如是说",
+      "title_en": "Thus Spoke Zarathustra",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1885",
+      "category": "哲学",
+      "one_liner": "尼采通过先知查拉图斯特拉宣扬超人哲学，呼唤对传统道德的彻底反抗和自我超越。",
+      "deep_dive": "这可能是西方哲学中最具文学性和冲击力的著作。尼采用诗意的寓言而非严密的论证来传递他最激进的思想。主角查拉图斯特拉从山洞下山向人类传道，宣称上帝已死，传统的奴隶道德必须被超越。他提出了\"超人\"的概念——不是指身体上的优越，而是精神上完全自主、敢于创造自己价值观的人。这本书充满了关于权力、创造力、痛苦和自我超越的激烈论述。令人困惑的是，这本最崇尚个性和反叛的著作却被纳粹政权扭曲利用——尼采的妹妹选择性编辑了文本用于政治宣传，这是20世纪思想史上的一场悲剧。读尼采很容易上瘾，他的文字有一种炽烈的力量，让你想要推翻一切陈旧的东西。但也正因此，这本书最好不要被盲目追随，而是要与之对话、质疑甚至反驳。",
+      "quotes": [
+        {
+          "text": "God is dead. God remains dead. And we have killed him.",
+          "context": "尼采最著名的宣言，标志着一个时代的终结——传统的信仰和绝对真理不复存在，人类必须承担重新创造意义的责任"
+        },
+        {
+          "text": "You must have chaos within you to give birth to a dancing star.",
+          "context": "关于创造力和自我超越——只有包容矛盾和痛苦，才能创造出真正有生命力的东西"
+        }
+      ]
+    },
+    {
+      "title_zh": "非暴力沟通",
+      "title_en": "Nonviolent Communication",
+      "author_zh": "马歇尔·卢森堡",
+      "author_en": "Marshall B. Rosenberg",
+      "year": "1999",
+      "category": "心理学",
+      "one_liner": "一套实用的沟通框架，通过识别需要而非批评指责，将冲突转化为同理心的对话。",
+      "deep_dive": "这本书的神奇之处在于其极度的简洁性和有效性。卢森堡提出的NVC框架只有四个步骤：观察事实（不加评判）、表达感受、说出需要、提出请求。听起来容易，实践却需要深刻的自我觉察。书中的故事令人印象深刻——从家庭冲突到国际谈判，这套方法都曾化解过僵局。核心洞察是：冲突的根源往往不是立场的对立，而是未被听见的需要。当一个人说\"你总是自私\"，背后可能是对被重视的渴望；当另一个人防御性地反击，其实是在保护自己的自主需求。一旦双方都能看到彼此的真实需要而非防御面具，神奇的事就发生了。这本书最适合那些陷入重复冲突模式的人——亲密关系中的争执、职场的误解、甚至跨文化的隔阂。它不是心灵鸡汤，而是一套可验证的技能。缺点是它的理想主义——不是所有人都愿意或能够进行这样的深层对话，特别是在权力失衡的关系中。",
+      "quotes": [
+        {
+          "text": "The most dangerous of all behaviors may be one that is very common: the habit of blaming and punishing others for failing to live up to our expectations.",
+          "context": "指出了我们最常见的沟通陷阱——用批评和指责来试图改变他人，而这往往导致防御和冲突升级"
+        },
+        {
+          "text": "Empathy lies in our ability to be present without trying to fix, to listen without agreeing, to inquire without commanding.",
+          "context": "对真正的同理心的定义——不是认同对方，而是完整地听见对方，这是NVC的核心"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0228"
+}
