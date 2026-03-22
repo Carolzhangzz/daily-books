@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "看得见风景的房间",
+      "title_en": "A Room with a View",
+      "author_zh": "E·M·福斯特",
+      "author_en": "E. M. Forster",
+      "year": "1908",
+      "category": "文学",
+      "one_liner": "一个年轻女性在压抑的维多利亚社会与真实自我之间的觉醒之旅。",
+      "deep_dive": "这是一部关于成长和自由的优美小说。女主角露西·哈尼卡特起初被困在社会期许的框框里，被迫按照淑女的规则生活。但当她在意大利短暂接触到真实的世界——一段意外的亲吻、真诚的情感——她开始质疑那些被灌输的价值观。小说的妙处在于福斯特用看似轻松的笔调讨论了很沉重的主题：女性的自主权、社会规范的束缚、以及跟随内心究竟需要多大的勇气。露西最终选择了爱情而非安全的婚配，这在当时是一个相当激进的结局。书里有很多细节值得品味，比如那个象征性的'房间'——它代表了一个人拥有自己视角和声音的可能性。这部小说至今仍然深刻，因为它问的问题从未过时：我们究竟是在活自己的人生，还是在表演别人期待我们活的样子？",
+      "quotes": [
+        {
+          "text": "The world is full of interesting things but nobody knows them.",
+          "context": "这句话道出了小说的核心——大多数人被社会规范蒙蔽，看不见真实世界的美和可能性，只有敢于打破常规的人才能发现生活的真相。"
+        },
+        {
+          "text": "Life is easy to chronicle, but bewildering to practice.",
+          "context": "福斯特对人生困境的深刻观察——我们可以讲述历史，但活出真正的人生远比讲述它复杂得多，充满了不确定和抉择。"
+        }
+      ]
+    },
+    {
+      "title_zh": "都柏林人",
+      "title_en": "Dubliners",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1914",
+      "category": "文学",
+      "one_liner": "一部短篇故事集，用微观细节刻画都柏林中产阶级的日常生活与精神困境。",
+      "deep_dive": "乔伊斯的这部作品是现代主义文学的里程碑，看似简单的故事却藏着无尽深度。全书由15个短篇组成，带你走进20世纪初都柏林的各个角落——一个仆人的日常、一场聚会、一段感情、一次宗教对话。你会发现每个人物都在某种程度上被困住了：被家庭束缚、被宗教束缚、被经济困境束缚、或被自己的怯懦束缚。乔伊斯管这叫'精神瘫痪'。但这不是一部沉闷的书。相反，它充满了人性的温暖、黑色幽默和对细节的迷人观察。乔伊斯没有道德评判，只是用精准的笔触捕捉人物那些微妙的时刻——一个眼神、一句未说出的话、一个突然的悔悟。如果你喜欢在日常生活中发现诗意，如果你想理解为什么普通人的故事能像莎士比亚一样重要，这本书会改变你。",
+      "quotes": [
+        {
+          "text": "Mr. Duffy lived a short distance from his body.",
+          "context": "乔伊斯对现代人精神分裂状态的绝妙总结——很多人活着，但并未真正'居住'在自己的生活中，而是与自己的身体和欲望疏离。"
+        },
+        {
+          "text": "His soul had approached that region where dwell the vast hosts of the dead.",
+          "context": "描写一个人陷入深深的失望和孤独时的灵魂状态，暗示即使活着，人也可能如同死人般存在。"
+        },
+        {
+          "text": "Better pass boldly into that other life than fade and wither dismally within.",
+          "context": "这是关于勇气和选择的沉思——与其在平庸中慢慢消亡，不如鼓起勇气进入未知，这也是整部作品的哲学内核。"
+        }
+      ]
+    },
+    {
+      "title_zh": "文化的解释",
+      "title_en": "The Interpretation of Cultures",
+      "author_zh": "克利福德·格尔茨",
+      "author_en": "Clifford Geertz",
+      "year": "1973",
+      "category": "社科与历史",
+      "one_liner": "一部开创性的人类学论文集，重新定义了我们如何理解文化、宗教和社会意义。",
+      "deep_dive": "格尔茨是20世纪最具影响力的人类学家之一，这部作品集合了他最精彩的论文。最著名的是开篇的'厚描述'概念——这改变了整个人文科学的研究方式。简单说，厚描述就是不只记录表面现象，而是深入挖掘行为背后的所有文化背景、历史含义和社会语境。他用巴厘岛的鸡尾赛这个例子来阐释：看起来只是赌博，但实际上蕴含了整个社会的权力结构、荣誉观念和性别关系。格尔茨反复强调，理解文化不能从局外人的科学角度冷眼旁观，必须进入那个文化内部，去感受它的逻辑。书中还包括关于宗教、艺术、政治的深刻论述。特别有趣的是他关于'意义的形成'的讨论——人类不是被文化编程的机器，而是通过创造和诠释符号来建构现实。这部书对后来的社会学、传播学、政治学都产生了深远影响，也是理解当代社会的必读之作。",
+      "quotes": [
+        {
+          "text": "Man is an animal suspended in webs of significance he himself has spun.",
+          "context": "格尔茨对人类本质的终极定义——我们是唯一会创造意义、被意义束缚、又通过意义来理解世界的生物。"
+        },
+        {
+          "text": "Believing, with Max Weber, that man is an animal suspended in webs of significance he himself has spun, I take culture to be those webs, and the analysis of it to be therefore not an experimental science in search of law but an interpretive one in search of meaning.",
+          "context": "格尔茨提出文化研究应该是解释性而非科学性的——我们需要理解意义，而不是发现规律，这为整个现代人文研究奠定了理论基础。"
+        },
+        {
+          "text": "The Balinese never do anything in a simple way that could be done in a complicated one.",
+          "context": "一个看似玩笑的观察，实际上道出了不同文化有不同的逻辑和价值观，我们不能用自己的常识去评判他人。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2026"
+}
