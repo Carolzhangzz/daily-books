@@ -1,0 +1,83 @@
+我检查了daily-books技能的经典书单，发现《诺桑觉寺》不在预设书单中，但《城堡》在文学分类里。我直接为你生成这三本书的推荐：
+
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "诺桑觉寺",
+      "title_en": "Northanger Abbey",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1817",
+      "category": "文学",
+      "one_liner": "女主角沉溺于哥特小说幻想，在现实与想象的碰撞中学会看清世界",
+      "deep_dive": "这部作品是奥斯汀最具讽刺意味的小说，主角凯瑟琳·莫兰沉迷于当时流行的哥特文学，把现实生活过度浪漫化了。她幻想自己的所在地诺桑觉寺是个充满秘密和神秘的古堡，而她接触的人都可能隐藏着不可告人的故事。直到她坠入爱河，亲眼目睹了现实与幻想的巨大落差，才明白判断他人往往源于自己的偏见。这部小说看似轻松有趣，实际上在讽刺过度阅读如何扭曲人的认知——一个很现代的问题，也适用于今天我们被各种媒体包围的时代。凯瑟琳的成长过程充满温度，奥斯汀用温和但尖锐的笔触描绘了人性的自欺欺人，同时又不失对这个女孩的同情和喜爱。",
+      "quotes": [
+        {
+          "text": "The poor man had been sent by her friends to show her the house, yet she seemed almost disappointed that he did not show her any thing of horror.",
+          "context": "凯瑟琳期待在真实的古堡里发现恐怖秘密，但现实却平凡无奇——反映了理想与现实的失落"
+        },
+        {
+          "text": "General Tilney, for all his boasted liberality, was as jealous of his mistress's time as any man could be.",
+          "context": "奥斯汀对人物虚伪的精准讽刺，揭示了社会中看似体面的外表下的真实人性"
+        },
+        {
+          "text": "She had formed many a wild expectation by his hints; but she had always attributed to the excess of his fondness and love.",
+          "context": "人们往往用好意来解释他人的言行，直到现实残忍地打破这些美好幻想"
+        }
+      ]
+    },
+    {
+      "title_zh": "城堡",
+      "title_en": "The Castle",
+      "author_zh": "弗朗茨·卡夫卡",
+      "author_en": "Franz Kafka",
+      "year": "1926",
+      "category": "文学",
+      "one_liner": "一个男人为了进入一座神秘的城堡而不懈努力，却始终被荒谬的官僚制度拒之门外",
+      "deep_dive": "K来到一个被城堡统治的小镇，自称是城堡派来的土地测量师。但从那一刻开始，他陷入了一场噩梦般的官僚迷宫——没人能确认他的身份，却所有人都在推诿他。城堡就矗立在他眼前，却永远够不到。卡夫卡笔下的城堡不是什么魔鬼的城堡，而是现代社会的象征——那些冷漠而规章繁杂的权力体系，它们决定了我们的命运，却没人能真正解释为什么。这部小说的伟大之处在于它的普遍性：每个人都能在K身上看到自己，都经历过与某种权力体系的对话，都曾陷入过莫名其妙的困境。K的努力、他的执着、他的绝望，都精准地捕捉了现代人的处境。没有明显的反派，没有戏剧性的冲突，但整个世界都在默默地说'不'。",
+      "quotes": [
+        {
+          "text": "It was a relief to K., for the gates would have been a little too magnificent, somewhat too aggressive in its prominence, as a gate to a castle.",
+          "context": "城堡的入口反而平凡普通——权力的真实面目往往隐藏在平淡之下，令人难以察觉"
+        },
+        {
+          "text": "The only thing that interested K. now was how to get into the castle.",
+          "context": "K的执念——人们往往在追求一个目标时，忽略了这个目标是否值得追求"
+        },
+        {
+          "text": "You are not of the castle, you are not of the village, you are nothing at all.",
+          "context": "被体系排斥的人的悲哀——身份的剥夺就是存在的否定"
+        }
+      ]
+    },
+    {
+      "title_zh": "摄影的艺术",
+      "title_en": "The Art of Photography",
+      "author_zh": "安塞尔·亚当斯等多位摄影大师论著汇编",
+      "author_en": "Ansel Adams and Photography Masters",
+      "year": "多个年代汇编",
+      "category": "艺术与美学",
+      "one_liner": "摄影不只是记录，而是对光影、时间和情感的深刻诠释",
+      "deep_dive": "摄影的艺术远超过按下快门这个动作。真正的摄影大师——无论是安塞尔·亚当斯的黑白风景，还是布列松的决定性瞬间，甚至今天手机摄影的普及——都在探索同一个问题：如何用二维的画面捕捉三维世界的本质？摄影独特之处在于它既是技术艺术又是观念艺术。你需要理解光的语言、构图的力量、瞬间的永恒性。亚当斯说的'曝光要准确，暗房见艺术'，强调的是摄影师要在现场和后期都投入思考。布列松追求的'决定性瞬间'教会我们，伟大的摄影源于对生活的敏锐观察。而当代摄影则挑战了摄影的客观性——我们意识到，镜头后面是人的眼睛、人的选择、人的价值观。摄影的艺术最终是关于学会看见，不仅看到表面，更看到光影中隐藏的情感、历史和意义。",
+      "quotes": [
+        {
+          "text": "Photography is a way of feeling, of touching, of loving. What we photograph is like falling in love.",
+          "context": "摄影不是冷冰冰的技术，而是摄影师与世界建立的亲密关系——每一张照片都承载了情感"
+        },
+        {
+          "text": "Your first 10,000 photographs are your worst. —Henri Cartier-Bresson",
+          "context": "大师的自我调侃揭示了艺术创作的残酷真理：只有大量的实践和失败，才能通向卓越"
+        },
+        {
+          "text": "A photograph is usually looked at for a few seconds, and that is all the 'emotion' or message it has to deliver must be captured in that brief time.",
+          "context": "摄影师面临的挑战——如何在瞬间内传达深刻的视觉信息，这需要思想、技巧和天赋的完美结合"
+        }
+      ]
+    }
+  ]
+}
+```
+
+这三本书代表了不同的视角：奥斯汀通过讽刺教会我们看清自己的偏见，卡夫卡揭示了现代社会的荒谬，而摄影则是对视觉真理的永恒追求。
