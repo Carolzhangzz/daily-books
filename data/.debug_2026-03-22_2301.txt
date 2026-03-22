@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "极权主义的起源",
+      "title_en": "The Origins of Totalitarianism",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1951",
+      "category": "哲学",
+      "one_liner": "极权主义如何从现代性危机中诞生，摧毁人的尊严和个性。",
+      "deep_dive": "这是20世纪最震撼的政治哲学著作。阿伦特在二战后写这本书，不是宣传反苏，而是试图理解纳粹和斯大林极权的本质——它们怎么会出现，怎么会夺取那么多人的灵魂。\n\n她的核心论点很犀利：极权主义不是历史的异常现象，而是现代性的产物。它需要三个条件同时具备。第一，大量无根的浮流人口——失业、贫穷、没有社会归属的人，他们渴望找到意义和归属。第二，一个绝对的意识形态——宣称掌握了历史发展的绝对真理，承诺一个完美的未来。第三，全面的恐怖统治——秘密警察、密告制度、集中营，把人们的日常生活都变成监狱。\n\n最让人后脊梁发凉的是，阿伦特指出极权的可怕不仅是暴力，而是它如何把普通人变成没有自我的工具。在集中营里，人性被系统地摧毁。人们失去了自主性、道德感，甚至失去了对自己遭遇的讲述能力。\n\n现在读这本书依然有现实意义。任何地方只要看到权力集中、意识形态绝对化、制造敌人和恐惧，就都应该警醒。这是对自由民主最深刻的辩护。",
+      "quotes": [
+        {
+          "text": "Totalitarianism begins not with murderous actions, but with a complete denial of the distinction between truth and lies.",
+          "context": "极权主义的第一步不是杀戮，而是摧毁真实本身。这句话在信息时代尤其有现实意义。"
+        },
+        {
+          "text": "The fundamental mistake of the totalitarian regimes is that they use terror as an instrument of rule rather than as an instrument to maintain power.",
+          "context": "说明极权为什么最终必然走向失败——它把手段当成了目的，最后吞噬了自己。"
+        },
+        {
+          "text": "Totalitarianism in power invariably replaces all first-rate talents, regardless of their sympathies, with second and third-raters.",
+          "context": "极权制度本质上是反智的，必然选拔平庸之人，因为真才实学的人有独立思考。"
+        }
+      ]
+    },
+    {
+      "title_zh": "日瓦戈医生",
+      "title_en": "Doctor Zhivago",
+      "author_zh": "鲍里斯·帕斯捷尔纳克",
+      "author_en": "Boris Pasternak",
+      "year": "1957",
+      "category": "文学",
+      "one_liner": "在俄国大革命的风暴中，一个医生诗人为爱而活，为艺术而存在。",
+      "deep_dive": "这部小说之所以伟大，正是因为它被禁。帕斯捷尔纳克因为写它获得诺贝尔文学奖，却被迫拒绝领奖，因为苏联当局不能容忍它的存在。为什么？不是因为它攻击革命本身，而是因为它坚持了人类最顽固的东西——个人的灵魂和内心世界的优先性。\n\n主人公尤里·日瓦戈经历了十月革命的全部变迁。他既不是革命的信徒，也不是贵族的守护者。他只是想活着、感受、爱、创作。在战争、饥荒、政治肃清的漫天风沙中，他偷偷地活着自己的精神生活——这在意识形态的视角看来，就是最大的背叛。\n\n小说的灵魂是他与拉拉的爱情。这段禁忌之爱并不是煽情的八卦，而是对人性中最纯净的东西——相互理解、感受彼此、在绝望中找到温暖——的颂歌。在那个一切都被政治化、集体化的时代，两个个人灵魂的相遇就成了最激进的反抗。\n\n帕斯捷尔纳克的文笔像音乐。整部小说充满了抒情性、沉思的力量和对自然的细致观察。最后附录的日瓦戈诗集，是全书的精神高潮——那些关于艺术如何拯救灵魂、关于爱如何证明生命价值的诗行。\n\n这不仅是历史小说，更是对一个永恒问题的回答：在专制和压力面前，我们如何保持自我的完整？答案就在日瓦戈身上——通过爱、通过艺术、通过对真实感受的坚守。",
+      "quotes": [
+        {
+          "text": "You in others - this is your soul. This is what you are.",
+          "context": "爱的本质就是看见另一个人，被另一个人看见。这是关于人与人之间最深层的相互认可。"
+        },
+        {
+          "text": "And yet the beauty of the world, when it reveals itself to us, speaks of something other than the world.",
+          "context": "艺术和精神之美的超越性——它指向更高的、非物质的东西，这就是为什么专制权力必须摧毁艺术自由。"
+        },
+        {
+          "text": "I don't like people who have never fallen or stumbled. Their virtue is lifeless and it isn't of any great consequence.",
+          "context": "真实的人性来自经历苦难、跌倒、反思。没有痛楚的完美是空洞的。"
+        }
+      ]
+    },
+    {
+      "title_zh": "身体从未忘记",
+      "title_en": "The Body Keeps the Score",
+      "author_zh": "贝塞尔·范德科尔克",
+      "author_en": "Bessel van der Kolk",
+      "year": "2014",
+      "category": "心理学",
+      "one_liner": "创伤被身体记住，理解和治愈的钥匙在于重新连接心和身。",
+      "deep_dive": "如果你经常感到莫名的焦虑、身体紧张、容易惊吓，却不知道为什么，这本书会给你答案。范德科尔克是创伤研究领域的先驱，这部著作融合了最新的神经科学发现、临床案例和治疗实践。\n\n核心观点是：创伤不仅改变你的思想，更改变你的大脑和身体。当人经历创伤时，大脑中负责恐惧的杏仁核会被永久激活，而负责语言和理性的布罗卡区则被压制。结果是什么？受害者说不出来发生了什么，身体却记得一切——你会不自觉地蜷缩，呼吸变浅，对某些声音或气味产生过度反应。\n\n书中从多个角度讨论创伤。从战争和严重虐待，到更微妙的——被父母忽视的童年、关系中的反复背叛。范德科尔克重要的贡献是指出，传统的谈话疗法有其局限——因为创伤根本不是用语言存储的，理性的讨论无法改变身体的记忆。\n\n因此治疗需要多层面的方法：瑜伽重新教会身体什么是安全，冥想平静神经系统，眼动脱敏和重处理（EMDR）帮助大脑整理创伤记忆，艺术创作给予表达的出口。这些看似"另类"的方法，其实都基于神经科学的扎实理论。\n\n这本书充满了希望。它告诉我们，大脑和身体是可塑的。创伤不是终身的判决。通过正确的方法，我们能重写神经回路，找到真正的安全感和自由。对于任何经历过压力、焦虑或创伤的人，这都是必读的。",
+      "quotes": [
+        {
+          "text": "The single most important issue for traumatized people is to find a sense of safety in their own bodies.",
+          "context": "治疗的最终目标不是忘记过去，而是重建对自己身体的信任和安全感。"
+        },
+        {
+          "text": "Trauma is not just an event that took place sometime in the past; it is also the imprint left by that experience on mind, brain, and body.",
+          "context": "创伤的全面性——它不是一个历史事件，而是活生生地存在于我们的神经和肌肉里。"
+        },
+        {
+          "text": "As long as we perceive our world as dangerous, our brain will continue to trigger the stress response and cast us in the role of victim.",
+          "context": "说明仅有理性理解是不够的——如果身体不相信你是安全的，再多的逻辑也改变不了什么。"
+        }
+      ]
+    }
+  ]
+}
+```

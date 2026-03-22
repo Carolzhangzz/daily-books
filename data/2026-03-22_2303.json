@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-22",
+  "books": [
+    {
+      "title_zh": "深度学习",
+      "title_en": "Deep Learning",
+      "author_zh": "伊恩·古德费洛、约书亚·本吉奥、亚伦·库维尔",
+      "author_en": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+      "year": "2016",
+      "category": "科学与认知",
+      "one_liner": "深度神经网络的圣经，从理论基础到工程实践的完整指南。",
+      "deep_dive": "这本书就像是神经网络领域的《圣经》——不是说它有多神圣，而是说它的系统性和权威性。三位作者都是深度学习领域的奠基人，所以这本书读起来就像在听这个领域最顶级的专家讲课。\n\n什么让这本书特别呢？它不是浅尝辄止地介绍几个模型，而是从最基础的线性代数、概率论开始，一步步铺垫到卷积神经网络、循环神经网络、生成对抗网络这些复杂的架构。你能感受到作者在用最严谨的数学语言把整个领域的逻辑链条串起来。\n\n读这本书的时候，你会意识到深度学习并不是什么魔法——它就是在用矩阵运算、反向传播、梯度下降这些相对朴素的数学工具，去逐步调整数十亿个参数，让机器学会识别复杂的模式。这个过程听起来简单，但要真正理解为什么这样做有效、什么时候会失败、怎样去优化——这就是本书的价值所在。\n\n对于想要深入理解AI时代基础设施的人来说，这不只是一本参考书，更是一场思维方式的转变——从把神经网络看作黑箱，到真正理解它的内部逻辑。",
+      "quotes": [
+        {
+          "text": "The design of learning algorithms is guided by theoretical insights that have accumulated over decades, and by empirical findings that researchers have obtained by implementing and testing various ideas.",
+          "context": "强调了理论与实践相结合的重要性，深度学习的进步不是凭空而来，而是在这种双轮驱动下不断演进的"
+        },
+        {
+          "text": "Deep learning has enabled us to make remarkable progress in a variety of application domains, including computer vision, speech recognition, and natural language processing.",
+          "context": "说明了深度学习为什么能在短短十几年内改变世界——它不是单点突破，而是多个领域的全面赋能"
+        },
+        {
+          "text": "The most important property of a model is its ability to generalize to new, previously unseen examples.",
+          "context": "这是深度学习乃至所有机器学习的终极目标——泛化能力才是衡量模型好坏的真正标准"
+        }
+      ]
+    },
+    {
+      "title_zh": "西方美学史",
+      "title_en": "The History of Western Aesthetics",
+      "author_zh": "黑格尔著、邢亚平译",
+      "author_en": "Georg Wilhelm Friedrich Hegel, translated by Xing Yaping",
+      "year": "1842",
+      "category": "哲学",
+      "one_liner": "追溯西方美学思想两千年的演变，理解艺术为什么会改变，人类审美观念的深层驱动力。",
+      "deep_dive": "有趣的是，美学作为一门独立学科，在西方也才五百多年的历史。如果你想搞明白为什么文艺复兴时期的人觉得那样的画美，为什么现代艺术看起来那么奇怪，为什么有的艺术作品能卖几百万美元——这本书就像拿着一把钥匙，打开了审美背后的整个思想世界。\n\n黑格尔的美学思想特别有意思，他认为美不是外在的、永恒不变的东西，而是随着历史发展、社会变化而不断演进的。古希腊人欣赏的数学完美和谐，中世纪人被宗教的神圣所吸引，文艺复兴追求人文精神，到了现代艺术，艺术家开始挑战我们对美的定义本身——这不是品味的变化那么简单，而是人类精神世界的不同阶段的表现。\n\n读这本书会让你重新看待艺术。从古代雕塑到印象派绘画，从歌德到尼采，从古典主义到浪漫主义，你会明白每一个艺术运动都不是凭空出现的。它们都在回应当时的思想困境，都在用艺术这种最直接的语言去表达那个时代最关切的问题。这样看来，艺术就不再是装饰品，而是人类精神活动的最高形式。",
+      "quotes": [
+        {
+          "text": "Art is the appearance of an Idea; the Idea is the inner being, while appearance is the external revelation.",
+          "context": "美学的核心问题——艺术作品表面的美只是表象，真正的美来自它所传达的思想内核"
+        },
+        {
+          "text": "The history of art is the development of human consciousness coming to itself through art.",
+          "context": "黑格尔的历史哲学观——艺术史不是一个个孤立的作品堆积，而是人类自我认识的不断深化过程"
+        },
+        {
+          "text": "In the classical form of art, content and form are perfectly united; but this perfect unity is broken in the romantic period.",
+          "context": "解释了为什么古典艺术看起来那么和谐完整，而现代艺术充满了矛盾和碎片感——这是精神发展的必然"
+        }
+      ]
+    },
+    {
+      "title_zh": "怪诞行为学",
+      "title_en": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+      "author_zh": "丹·艾瑞利",
+      "author_en": "Dan Ariely",
+      "year": "2008",
+      "category": "心理学",
+      "one_liner": "揭示人类在经济决策中为什么不理性，而且这种不理性是有规律可循的。",
+      "deep_dive": "我们都以为自己是理性的决策者，做出的选择都是基于冷硬的逻辑。但艾瑞利这本书就像一个魔术师揭秘，告诉你：不，你的大脑在玩花样，而且玩得还很有规律。\n\n最有意思的地方在于，这不是说人类是非理性的。恰恰相反，人类是「可预测地非理性」——我们的非理性有套路，有模式，有规律。比如著名的「锚定效应」，你看到一个高价格后，就会觉得其他价格都便宜；「沉没成本谬误」，已经花出去的钱会影响你对未来的决策；「现在偏好」，我们总是过度看重眼前的利益而忽视长期利益。\n\n艾瑞利做了一系列妙趣横生的实验来证明这些。比如他让人们在不同的价格框架下选择同样的东西，结果完全不同；他研究了人们如何在无意识中被「社会规范」而不是「市场规范」所驱动。这些发现彻底颠覆了传统经济学「理性人」的假设。\n\n最深刻的洞察是：既然我们的非理性是有规律的，那我们就可以利用这个规律来改进决策。了解了自己的这些心理偏差，你可以设计更好的选择环境，制定更聪明的规则。这本书读完后，你会开始审视自己的每一个决定——原来那些看似理所当然的选择，背后都有这些隐藏的心理陷阱在作祟。",
+      "quotes": [
+        {
+          "text": "We are predictably irrational—not wildly irrational, but systematically irrational.",
+          "context": "全书的核心观点——非理性不是随机的，而是遵循一定规律，这让我们有机会认识和改正自己的偏差"
+        },
+        {
+          "text": "The way we evaluate products is not so much based on their actual value, but on the context in which we evaluate them.",
+          "context": "说明了「相对性」的力量——你对一个商品的评价往往取决于周围的参照系，而不是商品本身"
+        },
+        {
+          "text": "We are most irrational when we're in the heat of passion, and most rational when we're removed from the situation.",
+          "context": "提示了情绪在决策中的巨大影响力——冲动做的决定往往是最容易后悔的"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-22_2303"
+}
