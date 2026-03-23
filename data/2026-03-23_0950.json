@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "富兰克林自传",
+      "title_en": "The Autobiography of Benjamin Franklin",
+      "author_zh": "本杰明·富兰克林",
+      "author_en": "Benjamin Franklin",
+      "year": "1791",
+      "category": "传记与回忆录",
+      "one_liner": "从贫困印刷工到开国元勋的自我奋斗史，记录了美国独立运动时期一位伟大人物的成长与思想蜕变",
+      "deep_dive": "这部自传就像一个朋友坐下来跟你讲述他如何从一无所有变成了美国历史上最伟大的人物之一。富兰克林十多岁时从波士顿逃离家庭，只身前往费城闯荡，从学徒干起，一步步成为成功的印刷商人。他的故事充满了对自我完善的执念——定下具体的目标，制定详细的计划，一项一项地克服自己的缺点。他不仅是商人和发明家，还是科学家、政治家、外交官。最打动人心的地方在于，他把自己的人生当成一个持续的实验项目，不断反思、调整、进步。这种务实的理想主义精神和对理性的推崇，深刻影响了美国文化和价值观。读这部书，你会被他那种\"我能做得更好\"的执念所感染，同时也能看到一个活生生的18世纪人物在应对机遇与困难时的真实思考。",
+      "quotes": [
+        {
+          "text": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+          "context": "富兰克林强调实践和参与的重要性，这成为了他一生学习和工作的核心原则。他相信真正的学习来自于亲身体验。"
+        },
+        {
+          "text": "Either write something worth reading or do something worth writing.",
+          "context": "这句话体现了富兰克林对价值和意义的追求，无论是笔端还是行动，都要留下有意义的痕迹。"
+        },
+        {
+          "text": "We are all born ignorant, but one must work hard to remain stupid.",
+          "context": "他用幽默的方式表达了对持续学习和自我提升的坚持，认为保持愚昧需要刻意的放弃努力。"
+        }
+      ]
+    },
+    {
+      "title_zh": "心理学与生活",
+      "title_en": "Psychology and Life",
+      "author_zh": "理查德·格里格，菲利普·津巴多",
+      "author_en": "Richard J. Gerrig, Philip G. Zimbardo",
+      "year": "1992",
+      "category": "心理学",
+      "one_liner": "用深入浅出的方式将心理学从象牙塔中解放出来，帮助普通人理解自己和他人行为背后的心理机制",
+      "deep_dive": "这本书的妙处在于它让你突然意识到，你每天做的大多数事情背后都有有趣的心理学原理在作用。它从感知、记忆、思维一直讲到压力、心理障碍、人际关系，就像在你脑子里装了一盏灯，照亮了很多之前不理解的地方。你会发现为什么你总是记得一些不重要的小事，为什么你在人多的时候会改变行为，为什么有些人更容易陷入抑郁。书中充满了真实的案例和经典的心理学实验，读起来不枯燥，反而像是在看一个个谜题的解答。津巴多和格里格的编写风格很亲切，他们不是在教你深奥的理论，而是在帮你看清楚自己和周围的人。特别是当你理解了某个行为背后的心理原因后，你对人生的很多困惑都会有新的认识，有时候甚至能直接改变你的一些想法或做法。",
+      "quotes": [
+        {
+          "text": "The person you know best is yourself, yet the self is not always an easy subject to study.",
+          "context": "指出了自我认知的悖论——我们最了解的是自己，但最难客观研究的也是自己。"
+        },
+        {
+          "text": "Memory is not a filing system. It is a reconstructive process.",
+          "context": "颠覆了人们对记忆的传统理解，记忆不是简单的回放，而是每次都被重新建构的过程。"
+        },
+        {
+          "text": "Behavior is a function of the person and the environment.",
+          "context": "心理学的核心公式，说明人的行为既取决于个人特质，也取决于所处的环境。"
+        }
+      ]
+    },
+    {
+      "title_zh": "癌症传",
+      "title_en": "The Emperor of All Maladies: A Biography of Cancer",
+      "author_zh": "悉达多·穆克吉",
+      "author_en": "Siddhartha Mukherjee",
+      "year": "2010",
+      "category": "科学与认知",
+      "one_liner": "一部融科学、历史、人性于一体的癌症编年史，展现了人类与这个\"万病之王\"的漫长搏斗",
+      "deep_dive": "这是一部不像普通科学著作的科学著作。作者穆克吉是一位医生，同时也是一位讲故事的高手，他用了四百多年的历史跨度来讲述人类对癌症的认识和对抗。从文艺复兴时期对癌症本质的最初猜测，到19世纪对细胞学的发现，再到20世纪一场又一场的医学突破和挫折，每一个时代的医生都在尝试理解和战胜这个疾病。你会读到很多个人的故事——那些坚持不懈的科学家，那些在死亡边缘挣扎的患者，那些在实验室里日夜工作的研究人员。更深层的是，这本书让你理解癌症不仅仅是一种生物学现象，它还代表了人类对抗不确定性、死亡和苦难的努力。穆克吉用诗意而精准的语言，把分子生物学、遗传学、化学的复杂概念讲得通俗易懂，却丝毫没有降低其思想的深度。读完这部书，你不仅会对癌症有全新的理解，还会被人类在绝望中坚持不懈的精神所打动。",
+      "quotes": [
+        {
+          "text": "Cancer is, in essence, a disease of genes—but genes that are somatically mutated (altered in body cells, not inherited).",
+          "context": "揭示了癌症的遗传学本质，这个认识革新了人们对癌症的理解，从器官疾病转向基因疾病。"
+        },
+        {
+          "text": "If cancer is a systematic disease, so is the cure.",
+          "context": "强调了对抗癌症必须采取系统性、整体性的方法，而不是简单的单一治疗手段。"
+        },
+        {
+          "text": "The transformation of normal cells to cancer is a process, not a sudden event.",
+          "context": "解释了癌症的发展是一个长期的、多阶段的演变过程，而非突然出现的疾病。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0950"
+}
