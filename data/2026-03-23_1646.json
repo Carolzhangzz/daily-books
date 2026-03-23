@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "洛丽塔",
+      "title_en": "Lolita",
+      "author_zh": "弗拉基米尔·纳博科夫",
+      "author_en": "Vladimir Nabokov",
+      "year": "1955",
+      "category": "文学",
+      "one_liner": "一个中年男人对少女的执迷与堕落",
+      "deep_dive": "这部小说就像一场精心编排的陷阱——纳博科夫用最华丽的语言讲述了最黑暗的故事。主人公亨伯特·亨伯特是个文化修养极高的知识分子，却因为对幼女的病态欲望彻底崩坏。他绑架了年仅十二岁的洛丽塔，展开了一场纵横美国的荒诞逃亡。你会发现自己被叙述者的聪慧和文采所迷惑，甚至一度同情他的疯狂，但这正是纳博科夫的高明之处——他让你看到人性最深的扭曲，而不是用道德说教去评判。这本书之所以伟大，不是因为它讲了什么故事，而是因为它展现了语言的力量和人类欲望的复杂性。读完后你会意识到，每个人的心里都可能潜伏着某种危险的执念，而文明的外衣有多么容易被撕破。它影响了整个20世纪的文学，也一直是争议之作，但正因如此，它值得被阅读和思考。",
+      "quotes": [
+        {
+          "text": "Lolita, light of my life, fire of my loins. My sin, my soul.",
+          "context": "小说开篇最著名的句子，纳博科夫用这句话将亨伯特对洛丽塔的执迷浓缩成了一句绝望而优美的宣言，展现了欲望和罪恶的交织"
+        },
+        {
+          "text": "You can always count on a murderer for a fancy prose style.",
+          "context": "这是小说中关于叙述者本身的讽刺评论，暗示再华丽的语言也掩盖不了人性的丑陋"
+        },
+        {
+          "text": "I am not concerned with so-called 'confession' or 'self-exposure,' but with the novel of ideas.",
+          "context": "纳博科夫本人对这部作品的评价，强调这不是忏悔，而是对人性、欲望和社会的深层思考"
+        }
+      ]
+    },
+    {
+      "title_zh": "情人",
+      "title_en": "The Lover",
+      "author_zh": "玛格丽特·杜拉斯",
+      "author_en": "Marguerite Duras",
+      "year": "1984",
+      "category": "文学",
+      "one_liner": "越南少女与中国富商的禁忌之恋与阶级悖论",
+      "deep_dive": "《情人》是杜拉斯唯一获得龚古尔奖的作品，也是她最具个人色彩的自传体小说。这个故事发生在法属印度支那的西贡，讲述了一个贫穷法国殖民家庭的少女与一个富有的中国商人的爱情。这不是一个浪漫的爱情故事，而是关于权力、阶级和身体的残酷现实。少女为了帮助陷入经济困境的家庭，开始与这个男人的关系，逐渐演变成了一段真实的情感，但最终在社会约束和种族偏见面前破裂。杜拉斯用碎片化的叙述和诗化的语言把这段往事重新组织，不追求情节的完整，而是捕捉那些片段记忆中最本质的东西。书中对身体、欲望和爱情的描写毫不含糊，但又充满了哲学思辨的冷静。你会感受到一种被压抑的热烈和无言的伤痛，那是贫穷对青春的戕害，也是爱情在现实面前的无力。",
+      "quotes": [
+        {
+          "text": "I loved him. Theresa, that's where Aurélie was, she was his mistress. I was not his mistress but his lover.",
+          "context": "杜拉斯用这句话区分了'情人'与'情妇'的区别，前者是出于真实感情的关系，是一种更本质的联系"
+        },
+        {
+          "text": "He could never have crossed the channel between us. Because I would have died of it.",
+          "context": "小说中关于阶级与种族鸿沟的最深层表达，两人之间的障碍不仅是社会的，也是永恒的"
+        },
+        {
+          "text": "It's gone now, the era I was a woman. It's after that now.",
+          "context": "暗示青春和性魅力的流逝，也象征了被社会改造后的自我的消失"
+        }
+      ]
+    },
+    {
+      "title_zh": "单向度的人",
+      "title_en": "One-Dimensional Man",
+      "author_zh": "赫伯特·马尔库塞",
+      "author_en": "Herbert Marcuse",
+      "year": "1964",
+      "category": "哲学",
+      "one_liner": "现代资本主义社会如何消灭了批判性思维和真正的自由",
+      "deep_dive": "这是60年代最具影响力的社会批评著作之一，书名本身就是一个诊断：现代工业社会把人类压扁成了一个维度。马尔库塞的核心论点是，发达的资本主义社会虽然在物质上极其丰富，却通过巧妙的方式消灭了人的批判性思维能力。它不是用暴力压制异议，而是通过广告、消费文化和心理操纵，让人们心甘情愿地接受现状。人们被淹没在商品和娱乐中，失去了想象另一种生活方式的能力。真正的反对声音被吸收、被收编，甚至被包装成商品卖给你。最可怕的是，你根本没意识到这一切，因为你拥有前所未有的自由——选择哪个品牌、哪个政党、哪种生活方式。但这些选择都在系统预设的范围内。马尔库塞认为这比公开的专制更危险，因为它摧毁的是思考本身。读这本书时会有种被击中的感觉，尤其当你意识到自己的许多想法可能都是被塑造的时候。",
+      "quotes": [
+        {
+          "text": "The most effective and enduring form of warfare is the unconscious manipulation of basic human needs and satisfactions.",
+          "context": "核心观点：现代社会的压制不是来自明显的暴力，而是通过满足虚假需求的隐蔽方式"
+        },
+        {
+          "text": "Freedom of enterprise was from the beginning not altogether a blessing. As the liberty to work or to starve, it spelled toil, misery, and injustice to the individual.",
+          "context": "马尔库塞对资本主义'自由'的批判性重新定义，揭示了这种自由对大多数人的实际含义"
+        },
+        {
+          "text": "A comfortable, smooth, reasonable, democratic unfreedom prevails in advanced industrial civilization, a token of technical progress.",
+          "context": "对当代社会最著名的描述，指出压迫可以以舒适和理性的面目出现"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1646"
+}
