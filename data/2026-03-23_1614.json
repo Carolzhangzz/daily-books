@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "逻辑哲学论",
+      "title_en": "Tractatus Logico-Philosophicus",
+      "author_zh": "路德维希·维特根斯坦",
+      "author_en": "Ludwig Wittgenstein",
+      "year": "1921",
+      "category": "哲学",
+      "one_liner": "用逻辑分析世界的本质，探索语言与现实的关系边界。",
+      "deep_dive": "《逻辑哲学论》是维特根斯坦的处女作，也是现代分析哲学的奠基之作。这本书很有意思，维特根斯坦用极其简洁的方式——七个主要命题加上一堆解说——来构建整个哲学体系。他的核心想法是：世界由事实组成，语言则是对事实的图像化描述。换句话说，一个有意义的命题就像一幅地图，它的结构必须与现实的结构相对应。\n\n最精妙的地方在于维特根斯坦对语言界限的讨论。他认为有些东西——比如伦理学、美学、宗教——根本无法用逻辑语言表达，因为它们超越了事实的范畴。所以他才会在书的最后说那句著名的话：\"凡是不能说的，就应该沉默。\"这听起来很绝对，但其实他是在保护这些深层的人生价值不被肤浅的理性分析所损害。这本书篇幅不大，却密度极高，每一句都值得反复思考。",
+      "quotes": [
+        {
+          "text": "The world is the totality of facts, not things.",
+          "context": "维特根斯坦对现实本质的定义，奠定了整个逻辑图像论的基础"
+        },
+        {
+          "text": "Whereof one cannot speak, thereof one must be silent.",
+          "context": "全书的结尾和最高境界，指出理性的疆界和人生的本质超越言说"
+        }
+      ]
+    },
+    {
+      "title_zh": "论美国的民主",
+      "title_en": "Democracy in America",
+      "author_zh": "托克维尔",
+      "author_en": "Alexis de Tocqueville",
+      "year": "1835-1840",
+      "category": "社科与历史",
+      "one_liner": "法国贵族眼中的美国民主实验，对自由、平等与社会结构的深刻观察。",
+      "deep_dive": "托克维尔在1831年访美，用两年时间深入观察美国社会，写出了《论美国的民主》这部不朽之作。最有趣的是他的身份——作为一个法国贵族，他带着欧洲的眼光看美国的民主，因此既能欣赏，也能指出问题。他发现美国人身上有一种独特的精神：虽然追求平等，但又极具个人主义；虽然有大量的自由，但也容易陷入多数人的暴政。\n\n托克维尔特别观敏锐地指出了民主社会的一些悖论：平等的追求有时候会导致更深的依赖性，自由的扩展有时候反而会产生新的奴役。他预见了美国可能面临的危险——中央权力的膨胀和社会原子化。两百年后，这些观察仍然击中要害。这本书的好处是，它不是枯燥的政治理论，而是充满了鲜活的人物和社会细节，读起来像是一个聪慧的旅行者与你分享他的真实见闻。",
+      "quotes": [
+        {
+          "text": "Americans are so enamored of equality that they would rather be equal in slavery than unequal in freedom.",
+          "context": "触及民主社会的核心矛盾，揭示了人们对平等的执着有时超过了对自由的重视"
+        },
+        {
+          "text": "Despotism may govern without faith, but liberty cannot.",
+          "context": "强调民主制度的道德基础，自由社会比专制社会更需要信任和公民美德"
+        }
+      ]
+    },
+    {
+      "title_zh": "鼠疫",
+      "title_en": "The Plague",
+      "author_zh": "阿尔贝·加缪",
+      "author_en": "Albert Camus",
+      "year": "1947",
+      "category": "文学",
+      "one_liner": "一座城市被瘟疫封锁，人性在绝望与坚持中显露无遗。",
+      "deep_dive": "《鼠疫》发表于1947年，是加缪最伟大的小说。表面上讲的是一场黑死病在阿尔及利亚城市奥兰的蔓延，但它真正讲的是人类面对荒诘宇宙时的应对方式。整部作品充满了隐喻的力量——瘟疫代表所有的不可抗力，所有突然降临的灾难和不公。\n\n最打动人心的是几个主要人物的不同反应：医生朗贝尔坚守岗位救治患者，神父说上帝的考验，记者漫步思考这一切的意义。加缪通过这些人物展现了人生的真谛——在一切努力可能都徒劳的绝望情境中，仍然选择去爱、去抵抗、去执行自己的责任。这就是加缪所说的西西弗式的勇气。《鼠疫》的伟大之处在于，它不试图给出答案，而是示范了一种活法：不追求终极的救赎，只在当下承担自己能承担的。",
+      "quotes": [
+        {
+          "text": "The only way to deal with an unfree world is to become so absolutely free that very existence of that world is a form of freedom.",
+          "context": "面对瘟疫带来的绝望，加缪提出的存在主义回答——自由不在外部条件，而在人的选择和态度"
+        },
+        {
+          "text": "There are more things to admire in men than to despise.",
+          "context": "在对人类苦难的深刻观察中，仍然保持对人性的信心，这是加缪乐观主义的核心"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1614"
+}
