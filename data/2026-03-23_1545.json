@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "图灵传",
+      "title_en": "Alan Turing: The Enigma",
+      "author_zh": "安德鲁·霍奇斯",
+      "author_en": "Andrew Hodges",
+      "year": "1983",
+      "category": "传记",
+      "one_liner": "伟大计算机科学之父艾伦·图灵的生平与思想史诗",
+      "deep_dive": "这不只是一本传记，而是一部关于天才与时代、科学与悲剧的深刻思考。艾伦·图灵改变了人类对计算、思维和机器的理解方式，但他的人生故事却充满了悖论。在二战期间，他以其天才的数学能力破译了德军的Enigma密码机，拯救了无数生命。战争结束后，他继续推动计算机科学的边界，提出了著名的\"图灵测试\"，这个简单而深刻的想法直到今天仍然在指引人工智能的研究方向。但讽刺的是，一个拯救国家的英雄，却因为自己的性取向在战争结束后遭受了国家的迫害。霍奇斯的这部传记让我们看到一个完整的图灵——他既是严谨的数学家和逻辑学家，也是充满好奇心的孩子，是对美有敏锐感受的艺术爱好者，更是在社会压力和个人信念之间痛苦挣扎的人。读这本书时，你会被图灵的思想深度所震撼，也会被他未竟的人生所叹息。",
+      "quotes": [
+        {
+          "text": "Can a machine think? If we are to say that a machine thinks, we must allow that the thinking is to be done by the machine.",
+          "context": "图灵在其经典论文中对机器思维能力的思考，这成为了现代人工智能的哲学基础。"
+        },
+        {
+          "text": "I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.",
+          "context": "图灵对未来的预言，显示了他对计算机能力的深刻洞察和前瞻性思维。"
+        },
+        {
+          "text": "The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.",
+          "context": "图灵对计算机本质的定义，揭示了机器计算与人类思维之间的关键联系。"
+        }
+      ]
+    },
+    {
+      "title_zh": "反脆弱",
+      "title_en": "Antifragile",
+      "author_zh": "纳西姆·塔勒布",
+      "author_en": "Nassim Nicholas Taleb",
+      "year": "2012",
+      "category": "科学与认知",
+      "one_liner": "如何在不确定性中获益，让自己因压力和冲击而变得更强",
+      "deep_dive": "这本书可能会完全改变你对风险、失败和生活本身的理解。塔勒布给出的核心观点很简单却颠覆性：脆弱的东西害怕随机事件，强健的东西能够承受，而反脆弱的东西则因为波动和冲击而受益。想象一下，大多数人都在试图最小化生活中的风险、压力和不确定性，但反脆弱的人却反向思考——他们需要压力来成长。作者通过无数例子说明这个观点：身体需要压力才能变强，经济需要创意破坏才能创新，反脆弱的系统在混乱中反而更加繁荣。这不是心灵鸡汤，而是一种基于生物学、经济学和进化论的深刻洞察。最震撼的地方在于，塔勒布让你意识到许多现代社会的安排——过度保护、过度规划、过度管制——实际上让我们变成了脆弱的。读完这本书，你会开始重新评估自己的职业选择、投资策略甚至生活方式，主动寻求那些能够让自己反脆弱的压力和挑战。",
+      "quotes": [
+        {
+          "text": "Antifragility is beyond resilience. The resilient resists shocks and stays the same; the antifragile gets better.",
+          "context": "这是整本书的核心观点——反脆弱不仅是抗压，而是在压力中成长和改进。"
+        },
+        {
+          "text": "Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder, and stressors.",
+          "context": "塔勒布指出了一个违反常识的真理，即某些系统天生就需要波动才能健康发展。"
+        },
+        {
+          "text": "The best way to live is to look like a loser and act like a boss.",
+          "context": "这是塔勒布建议的生活哲学——保持低调的外表，却在关键时刻展现能力，从而享受未被预期的收益。"
+        }
+      ]
+    },
+    {
+      "title_zh": "三体",
+      "title_en": "The Three-Body Problem",
+      "author_zh": "刘慈欣",
+      "author_en": "Liu Cixin",
+      "year": "2008",
+      "category": "科幻文学",
+      "one_liner": "一部融合硬科幻与人性思考的史诗级宇宙文明碰撞之作",
+      "deep_dive": "这是一部真正改变了科幻文学格局的作品，它用物理学的冷酷与现实的无奈，讲述了人类文明面临的终极威胁。故事从中国的文革时期开始，女主角叶文洁经历了绝望与背叛，在一个秘密基地向太空发出了地球位置的信息。这个行为改变了一切。数百年后，三体星系的文明接收到信号并决定入侵地球，整个故事由此展开。但这不仅仅是外星人入侵的老套设定，刘慈欣赋予了它深刻的哲学意涵。三体世界的不稳定性、黑暗森林假说、技术爆炸与压制——这些概念深深触动了科幻迷和严肃读者。最让人震撼的是，这部书用冷静的笔触展现了人性的复杂性：有人为了复仇出卖地球，有人为了拯救文明做出极端选择，这些都不是简单的善恶对立。当你读到关于宇宙社会学的论述时，你会感受到一种宇宙级的孤独与恐惧——每个文明都在暗夜中摸索，一旦被发现就是死亡。这种思想的震撼力超越了任何好莱坞大片。",
+      "quotes": [
+        {
+          "text": "宇宙很大，可生命更脆弱。文明需要躲藏，躲藏在黑暗中。",
+          "context": "黑暗森林假说的核心表述，揭示了宇宙中文明生存的终极困境。"
+        },
+        {
+          "text": "我们都是为了生存而活着，但生存本身不是生活。",
+          "context": "叶文洁在经历了极端的绝望后的深刻感悟，反映了整部作品对人类存在的思考。"
+        },
+        {
+          "text": "给岁月以文明，而不是给文明以岁月。",
+          "context": "这句话体现了面对宇宙威胁时，对人类文明价值的最终思考。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1545"
+}
