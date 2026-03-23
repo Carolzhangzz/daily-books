@@ -1,0 +1,1 @@
+等待您授予写入权限以保存数据文件到 `/Users/carol/Documents/daily-books/data/2026-03-23.json`。
