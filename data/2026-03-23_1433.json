@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "半个地球",
+      "title_en": "Half-Earth",
+      "author_zh": "爱德华·威尔逊",
+      "author_en": "Edward O. Wilson",
+      "year": "2016",
+      "category": "科学与认知",
+      "one_liner": "人类需要保护地球50%的土地和海洋，才能拯救生物多样性的未来。",
+      "deep_dive": "这本书的核心观点听起来很激进，但威尔逊是真的在大声疾呼。他说我们不能再这样掠夺地球了——必须立即行动，保护地球上至少一半的陆地和海洋。这不是什么乌托邦幻想，而是基于多年生物学研究的冷静分析。威尔逊详细讲解了物种灭绝的速度有多快，如果我们继续无限制地开发，会失去多少独特的生命形式。他还提出了具体可行的保护策略，比如建立连贯的生态走廊，让物种能够迁移和适应气候变化。最打动人的是他对生物多样性本身的热爱——那种对生命复杂性的敬畏。读完这本书，你会意识到环保不是某些极端分子的事，而是关乎人类生存的紧迫课题。",
+      "quotes": [
+        {
+          "text": "The problem is that we as a species have become too powerful for our own good.",
+          "context": "威尔逊指出人类的力量已经超越了我们的智慧，我们需要用同等的关怀和远见来对待地球"
+        },
+        {
+          "text": "Biophilia is the innately complex relationship that human beings have with other living systems.",
+          "context": "揭示了人类与自然的深层精神联系，这是我们保护自然的根本动力"
+        }
+      ]
+    },
+    {
+      "title_zh": "罗生门",
+      "title_en": "Rashomon",
+      "author_zh": "芥川龙之介",
+      "author_en": "Ryunosuke Akutagawa",
+      "year": "1915",
+      "category": "文学",
+      "one_liner": "同一个事件，四个不同的证人讲述了四个完全不同的故事。",
+      "deep_dive": "这是一个很诡异又很现实的故事。一个男人被杀死了，或者也许被抢劫了，或者也许什么都没发生——取决于谁在讲述。一个武士的妻子、一个强盗、一个樵夫、甚至死者本身（通过降灵术）都给出了矛盾的证词。每个版本都逻辑自洽，每个讲述者都看起来很诚实，但他们说的完全是两码事。芥川龙之介在这个短篇故事中触及了一个永恒的哲学问题：什么是真实？我们能否真正了解另一个人的动机？或者每个人都在不自觉地美化或歪曲自己的角色？这个故事后来被黑泽明改编成电影，成为了电影史上的经典。读它时你会一次次地改变看法，就像坐在一个镜子迷宫里。",
+      "quotes": [
+        {
+          "text": "Human beings are unable to be honest with each other. They cannot speak about themselves without embellishing.",
+          "context": "故事的核心洞察：人的叙述总是扭曲的，即使出于无意"
+        },
+        {
+          "text": "In this world there are as many realities as there are men.",
+          "context": "表达了相对主义的终极观点——每个人都生活在自己的真实中"
+        }
+      ]
+    },
+    {
+      "title_zh": "舞舞舞",
+      "title_en": "Dance Dance Dance",
+      "author_zh": "村上春树",
+      "author_en": "Haruki Murakami",
+      "year": "1988-1989",
+      "category": "文学",
+      "one_liner": "一个孤独的男人在虚无的日本城市中游荡，试图通过不断的舞蹈和运动来逃避虚空。",
+      "deep_dive": "这本书读起来有点累，但那种累恰好是它的意义所在。主人公是个文案写手，他没有明确的生活目标，只是在东京游荡，进出不同的旅馆房间，遇见各种奇怪的人——一个明星、一个小女孩、各种暧昧的女性。整本书没有传统意义上的情节，更多是一种精神状态的记录：当代人的虚无感、孤独感，以及那种试图通过性爱、旅行、工作来填补内心空洞的徒劳。村上春树用\"舞舞舞\"这个重复的短语来象征这种机械化的生存方式——我们一直在跳舞，但舞蹈本身就是目的。这部作品是村上最具后现代特征的长篇，影响了整代日本青年对人生意义的思考。",
+      "quotes": [
+        {
+          "text": "I keep on dancing every night. Without knowing when to stop.",
+          "context": "反复出现的主题，象征着无法停止的虚无循环"
+        },
+        {
+          "text": "The most important thing is to find your own little world and protect it fiercely.",
+          "context": "在虚无的大世界中，找到属于自己的小空间成为唯一可能的救赎"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1433"
+}
