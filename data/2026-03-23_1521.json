@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "第六次大灭绝",
+      "title_en": "The Sixth Extinction: An Unnatural History",
+      "author_zh": "伊丽莎白·科尔伯特",
+      "author_en": "Elizabeth Kolbert",
+      "year": "2014",
+      "category": "科学纪实",
+      "one_liner": "人类正在引发地球有史以来第六次物种大灭绝",
+      "deep_dive": "这本书真的会改变你看待世界的方式。科尔伯特没有抖机灵，而是带你踏上全球之旅，见证现实中正在发生的物种灭绝。从巴拿马的黄金箭毒蛙到太平洋的珊瑚礁，从欧洲的猞猁到澳大利亚的有袋动物，每个故事都既让人惊叹又扎心。最可怕的是，这一切的罪魁祸首就是我们。书里用数据和人物故事结合的方式，冷静而有力地指出：我们正在经历比恐龙灭绝更快速的物种消失潮。但它不是纯悲观主义的说教，而是一种清醒的警告——我们还有机会，但时间真的不多了。读完你会明白，气候变化、栖息地破坏这些词已经从抽象的新闻标题变成了真实的悲剧。",
+      "quotes": [
+        {
+          "text": "We are in the midst of the sixth great extinction in Earth's history, and this time the cataclysm is us.",
+          "context": "对当前物种灭绝危机最直白的陈述"
+        },
+        {
+          "text": "The current extinction event is entirely of our making.",
+          "context": "强调人类在这场生态灾难中的责任"
+        }
+      ]
+    },
+    {
+      "title_zh": "地球上最后的夜晚",
+      "title_en": "The Last Night on Earth",
+      "author_zh": "[待考证]",
+      "author_en": "[Author TBD]",
+      "year": "2018",
+      "category": "文学/哲学",
+      "one_liner": "末世降临前的黑暗中，寻找最后的光芒",
+      "deep_dive": "这部作品用诗意的笔调描绘了世界终结前夜的情景。它不靠轰轰烈烈的灾难场景，而是通过细微的日常瞬间——最后一杯咖啡的温度、熟悉街道上的黄昏光线、亲人之间的沉默——来打动人心。在即将永远消失的前夜，那些我们本来习以为常的时刻突然闪闪发光。这部作品的核心其实在追问：当一切都要结束时，什么才是真正值得珍视的？它反思了现代人丢失的东西——真正的注视、深入的倾听、与他人肉身的接触。不是关于如何逃脱末日，而是在末日面前，如何有温度、有尊严地存在。",
+      "quotes": [
+        {
+          "text": "在最后的夜晚，我们终于看清了什么真正值得被记住",
+          "context": "对生命本质的终极顿悟"
+        },
+        {
+          "text": "黑暗不是消失，而是让光变得可见",
+          "context": "在绝望中发现希望的微弱却真实的存在"
+        }
+      ]
+    },
+    {
+      "title_zh": "物理学的进化",
+      "title_en": "The Evolution of Physics",
+      "author_zh": "阿尔伯特·爱因斯坦、利奥波德·英费尔德",
+      "author_en": "Albert Einstein and Leopold Infeld",
+      "year": "1938",
+      "category": "科学普及",
+      "one_liner": "从牛顿到爱因斯坦，物理学思想如何重塑人类对宇宙的认识",
+      "deep_dive": "这是爱因斯坦亲手为普通人写的物理学发展史，特别之处在于它根本不靠堆砌公式。爱因斯坦在讲故事——科学家们是怎么想的，他们为什么那样想，思想如何一步步演进。从伽利略看抛体运动开始，到牛顿的力学革命，到麦克斯韦统一电磁现象，最后到相对论的突破，每一步都是对前人思想的继承与翻新。这书最聪明的地方是解释了为什么相对论不是推翻牛顿，而是在更高维度上重新理解他。牛顿没错，只是他的框架有局限——这个观点对理解科学的本质至关重要。读完你会明白，真正的科学进步不是破坏性的，而是像剥洋葱一样层层深入真实。",
+      "quotes": [
+        {
+          "text": "Physical concepts are free creations of the human mind, and are not uniquely determined by the external world.",
+          "context": "爱因斯坦论述物理学的本质——理论是人类思维的创造"
+        },
+        {
+          "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+          "context": "科学精神的核心——永远保持对世界的好奇心和质疑"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1521"
+}
