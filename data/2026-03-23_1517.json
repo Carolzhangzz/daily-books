@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "技术垄断",
+      "title_en": "Technopoly: The Surrender of Culture to Technology",
+      "author_zh": "尼尔·波兹曼",
+      "author_en": "Neil Postman",
+      "year": "1992",
+      "category": "社科与技术",
+      "one_liner": "揭示技术如何无声地重塑我们的思维方式和社会结构，从中立工具变成文化主宰。",
+      "deep_dive": "这本书读起来就像一个智者在你耳边敲响警钟。波兹曼的核心观点很扎心：我们常常以为自己在使用技术，但其实技术已经在改造我们。特别是进入「技术垄断」阶段后，技术不再只是工具，而是成了一种新的文化、新的世界观。书里举了很多例子——从印刷术如何改变了西方思维，到现在的电视文化如何碎片化我们的注意力。什么最让人印象深刻？波兹曼说，技术不是中立的。一项技术的出现必然带来一套价值观和思维方式。比如，时钟的发明不仅改变了我们的时间感知，还创造了整个工业化文明。现在读这本书特别有意思，因为互联网、AI、算法推荐——这些东西正在以你看不见的方式塑造社会。波兹曼写的时候互联网还不发达，但他的分析框架对今天同样有力。这不是一本反技术的书，而是呼吁我们要有技术素养、要批判性地思考技术的代价。",
+      "quotes": [
+        {
+          "text": "Technology is not additive; it is ecological. A new technology does not merely add something; it changes everything.",
+          "context": "核心论点：技术的引入会连锁改变整个文化生态系统，不能只看单个技术的好处"
+        },
+        {
+          "text": "The tendency of technology is to make us believe we are not worth paying attention to unless we are somewhere doing something that can be measured, counted, or reduced to economic value.",
+          "context": "戳中现代人的痛点：算法时代，一切都要被量化、被验证，人的价值也被简化成数据"
+        },
+        {
+          "text": "We are, in fact, in the midst of a historical transition from a print-based epistemology to a television-based epistemology.",
+          "context": "写于1992年但依然预言性十足，现在要把「电视」换成「社媒」和「短视频」"
+        }
+      ]
+    },
+    {
+      "title_zh": "追忆似水年华",
+      "title_en": "In Search of Lost Time",
+      "author_zh": "马塞尔·普鲁斯特",
+      "author_en": "Marcel Proust",
+      "year": "1913-1927",
+      "category": "文学",
+      "one_liner": "通过一个人的记忆碎片重建整个人生，探索时间、爱、失去和永恒的本质。",
+      "deep_dive": "这是人类文学史上最奇特的杰作之一。普鲁斯特用了七卷、超过三千页来讲述一个「我」的故事。但这不是普通的自传。他要做的是：用记忆去对抗遗忘，用感知去捕捉时间的本质。整部作品的触发点很有名——主人公咬了一口玛德琳蛋糕，一瞬间儿时的记忆汹涌而至。从这个起点出发，他开始追寻失落的时光。书里充满了对爱情的复杂审视（特别是对斯万和奥黛特感情的描写），对社交生活的深刻观察，还有对艺术和人生意义的思辨。普鲁斯特笔下的世界是静止的又是流动的——他能把一个午后的光线、一次对话中的语气、一个人物面容的细微变化写得像一部完整的交响乐。很多人觉得这部书难读，因为句子长得吓人，描写细致得变成了唠叨。但一旦你进入他的节奏，就会发现他在做一件神奇的事：把生命的全部细节打散，然后通过记忆和感受重新拼接。这是对人的内心世界最深的开掘。",
+      "quotes": [
+        {
+          "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+          "context": "普鲁斯特的核心哲学：不是去改变世界，而是改变看待世界的方式，这也是为什么记忆和感知对他那么重要"
+        },
+        {
+          "text": "If a little dreaming is dangerous, the cure for it is not to dream less but to dream more, to dream all the time.",
+          "context": "对平凡生活的一种拯救——通过想象和回忆把日常生活升华为诗歌"
+        },
+        {
+          "text": "Only through art can we get outside of ourselves and know another person's view of the universe.",
+          "context": "艺术的根本价值：突破自我的局限，进入他人的内心世界，这正是《追忆似水年华》本身在做的事"
+        }
+      ]
+    },
+    {
+      "title_zh": "沙丘",
+      "title_en": "Dune",
+      "author_zh": "弗兰克·赫伯特",
+      "author_en": "Frank Herbert",
+      "year": "1965",
+      "category": "文学",
+      "one_liner": "在荒芜沙漠星球的政治漩涡中，一个少年被迫成为拯救种族的救世主，却发现一切都在他看不见的地方被操控。",
+      "deep_dive": "《沙丘》之所以被称为科幻文学的高峰，不是因为它的太空飞船或激光枪，而是因为赫伯特创造了一个完整的生态系统——环境、经济、政治、宗教、人性，全部交织在一起。故事发生在阿拉基斯星球，这个星球除了沙子就是沙子，但它出产宇宙中最珍贵的物质——香料。所以各大权力集团都要争夺它。主角保罗是一个贵族之子，他的家族被卷入这个阴谋。当他逃到沙漠，遇到当地的沙漠人弗雷曼人后，一切变了。这些人以为他就是他们预言中的救世主。但这里的精妙之处在于：预言是被操纵的。更深层的阴谋在阴谋后面。赫伯特的天才在于，他把一个宏大的冒险故事建立在对权力、操纵、预言、宗教的冷静分析之上。保罗能预见未来，但这能力反而成了诅咒——他看到了无论他怎么做，都会导致可怕的后果。这是科幻小说中对人性困境最深的拷问。读《沙丘》就像在读一部关于权力如何腐蚀、理想如何扭曲的现代寓言。",
+      "quotes": [
+        {
+          "text": "When you can live forever, what do you live for?",
+          "context": "关于永恒和目的的终极问题——在无限的未来面前，人的选择变得尤为沉重"
+        },
+        {
+          "text": "Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear.",
+          "context": "弗雷曼人的冥想诀语，代表着对恐惧的直面而非逃避，成为整部作品的精神内核"
+        },
+        {
+          "text": "He who controls the spice controls the universe.",
+          "context": "贯穿全书的权力法则：在《沙丘》的世界里，经济、政治、宗教都围绕着这一种资源的争夺展开"
+        }
+      ]
+    },
+    {
+      "title_zh": "（生成完成）",
+      "title_en": "Generation Complete",
+      "author_zh": "",
+      "author_en": "",
+      "year": "",
+      "category": "",
+      "one_liner": "",
+      "deep_dive": "",
+      "quotes": []
+    }
+  ],
+  "id": "2026-03-23_1517"
+}
