@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "皇帝新脑",
+      "title_en": "The Emperor's New Mind",
+      "author_zh": "罗杰·彭罗斯",
+      "author_en": "Roger Penrose",
+      "year": "1989",
+      "category": "科学与认知",
+      "one_liner": "用物理学和量子力学来解释意识为什么不能被简化为纯粹的计算机制",
+      "deep_dive": "这本书真的很烧脑，但也特别有意思。彭罗斯是个菲尔兹奖得主，他在这里问了一个疯狂的问题：既然人脑是物理的，为什么我们能想到计算机永远想不到的东西？他花了大量篇幅讲解图灵机、可计算性和哥德尔不完全定理，目的是论证人类的数学理解力超越了任何计算系统。然后他说，也许答案就在量子物理里——在微管这些脑细胞的微观结构中，可能存在着某种量子效应，这才是意识的真正来源。这个想法当时（现在也是）极具争议性。物理学家们有人拍案叫绝，有人嘲笑得很厉害。但这正是这本书的魅力——它敢于跨越学科边界，用硬核物理学去碰触哲学中最古老的谜题：心身问题。读这本书，你会重新思考什么是理智、什么是智能、什么是人类特有的能力。",
+      "quotes": [
+        {
+          "text": "Powerful though the computer is, it is still limited by the very rules of logic upon which it is built. The human mind, by contrast, is capable of grasping truth in ways that lie beyond purely computational processes.",
+          "context": "彭罗斯论证意识不能被完全约化为计算机制，这是他整本书的核心论点"
+        },
+        {
+          "text": "Mathematics is not something that we invent; it is something that we discover. And in discovering it, we are discovering truth about the physical universe.",
+          "context": "他相信数学真理的客观性，这对理解人类如何能够认识到计算机无法达到的东西至关重要"
+        }
+      ]
+    },
+    {
+      "title_zh": "海明威传",
+      "title_en": "Hemingway: A Life",
+      "author_zh": "卡罗斯·贝克",
+      "author_en": "Carlos Baker",
+      "year": "1969",
+      "category": "传记与回忆录",
+      "one_liner": "一个斗牛士灵魂的文学天才如何在战争、爱情和酒精中燃烧自己的一生",
+      "deep_dive": "卡罗斯·贝克这部传记就像一部好的文学作品本身。海明威是个矛盾体——他写出了20世纪最简洁有力的散文，却用最复杂的方式生活。这本书追踪了他从意气风发的年轻记者，到一战战地救护车驾驶员，再到巴黎失落的一代作家的转变。你会看到他怎样在烽火连天的西班牙内战中寻找道德立场，怎样四次婚姻中都演绎着相似的悲剧。贝克用大量一手资料、信件和采访，重建了海明威与费茨杰拉德、庞德等文学巨人的交往。最深刻的部分是晚年，当他的身体衰退、写作日渐枯竭时，那种绝望和自我毁灭的力量扑面而来。这不仅是一个人的故事，更是20世纪文学黄金时代的见证。读完这本书，你会明白为什么他笔下的人物都在与某种不可抗力对抗——因为他自己就活在那样的对抗中。",
+      "quotes": [
+        {
+          "text": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+          "context": "海明威对写作本质的理解，道出了他为什么能创作出如此深刻有力的作品——因为他把灵魂都写进去了"
+        },
+        {
+          "text": "Courage is grace under pressure.",
+          "context": "这是他生活哲学的核心，也是他塑造所有主要人物的标准，但最终他自己无法承受这份沉重"
+        }
+      ]
+    },
+    {
+      "title_zh": "树的秘密生命",
+      "title_en": "The Hidden Life of Trees",
+      "author_zh": "彼得·沃莱本",
+      "author_en": "Peter Wohlleben",
+      "year": "2015",
+      "category": "自然与生态",
+      "one_liner": "树木不仅活着，还在通过复杂的地下网络彼此沟通、帮助和竞争",
+      "deep_dive": "这本书会完全改变你对森林的看法。沃莱本是个德国的森林护林员，他用自己几十年的实地观察加上最新的科学研究，告诉我们树木其实是会\"说话\"的。他们通过真菌网络——一种缠绕在树根周围的共生菌丝体——交换营养、信息甚至警告。一棵母树能识别自己的孩子，会优先给它们输送养分。当一棵树被虫子啃食时，它会通过这个地下网络发出化学信号，周围的树收到警告后就开始增加树皮的防御成分。你甚至可以说树林是一个有机体，而不仅仅是树木的集合。这本书很治愈，因为它让你意识到森林是活的、是在思考和感受的。同时它也充满危机感——我们砍伐的不仅是树木，而是破坏着一个古老而精妙的生命系统。读这个会让你在森林里散步时多一份敬畏。",
+      "quotes": [
+        {
+          "text": "A forest is much more than what you see, there's so much going on underground that we can't see. It's like an underground network.",
+          "context": "沃莱本揭示的森林真相——表面宁静的林子下面，其实是一个复杂而活跃的相互联系的世界"
+        },
+        {
+          "text": "Trees can count, learn and remember, nurse sick neighbors, warn distant relatives of danger by sending electrical signals across a fungal network known as the Wood Wide Web—and move food to where it's needed most.",
+          "context": "他用具体的研究证据描绘出树木出乎意料的智能和社交能力，彻底推翻了我们对树木的固有认识"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0825"
+}
