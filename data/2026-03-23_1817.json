@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0",
+      "author_zh": "麦克斯·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科学与认知",
+      "one_liner": "从宇宙视角思考人工智能如何重塑人类未来",
+      "deep_dive": "这本书让我第一次用这么宏大的视角去思考AI。泰格马克是个物理学家，他不是在讨论明年的技术趋势，而是在问：如果AI真的超过人类智能，我们人类的位置会是什么样？书里把人类历史分成三个阶段——生命1.0（只能进化）、生命2.0（可以学习）和生命3.0（可以设计自己）。最有意思的地方是他不是在危言耸听，而是在认真地分析，如果我们真的创造出超级智能，我们应该如何与之共存。他谈到了很多现实的东西：自动化会怎样改变就业、AI需要什么样的伦理框架、我们该如何规划未来。读完这本书你不会得到答案，但你会问出更好的问题。特别是当他讨论AI安全和人类价值观时，那种思维方式特别清晰——他用物理学家的严谨态度去琢磨这些虚无缥缈的问题，让抽象变得具体。",
+      "quotes": [
+        {
+          "text": "The biggest question is not whether we can build superintelligence, but whether we can align it with human values.",
+          "context": "泰格马克指出，技术进步本身不可怕，可怕的是我们创造的东西可能不想要我们想要的东西。"
+        },
+        {
+          "text": "Life 3.0 is more than artificial intelligence—it's the future of intelligence on Earth and beyond.",
+          "context": "这定义了整本书的核心——不只是关于机器，而是关于智能本身的进化。"
+        },
+        {
+          "text": "Our generation is the first with the ability to determine our species' fate.",
+          "context": "强调了当下的历史地位——我们的选择会深刻影响人类的未来。"
+        }
+      ]
+    },
+    {
+      "title_zh": "艺术与错觉",
+      "title_en": "Art and Illusion",
+      "author_zh": "恩斯特·贡布里希",
+      "author_en": "E.H. Gombrich",
+      "year": "1960",
+      "category": "艺术与美学",
+      "one_liner": "为什么我们看到的不是眼睛看见的，而是大脑期待的",
+      "deep_dive": "贡布里希这本书颠覆了我对艺术的理解。很多人以为艺术就是逼真地再现现实，但他指出这是个大误会。其实艺术历史就是一场对「错觉」的精妙驾驭——艺术家学会了用最少的笔触欺骗我们的眼睛。你看一幅肖像画，不是因为它完美复制了现实，而是因为你的大脑填补了那些缺失的部分。这也解释了为什么古埃及人的画看起来那么「呆板」——不是因为他们不会画，而是因为他们遵循不同的视觉语言。贡布里希用大量艺术史例子来说明这点：从文艺复兴的透视法到印象派的色彩理论，每一个艺术流派都是在问「怎样更巧妙地欺骗观众」。最深刻的部分是他讨论艺术与现实的关系——艺术永远无法完全复制现实，反而是通过选择性地简化和强调，创造出一种超越现实的真实感。这让艺术变得不是模仿者，而是诠释者。",
+      "quotes": [
+        {
+          "text": "The artist cannot copy reality; he can only interpret it through his own psychological make-up.",
+          "context": "核心观点——艺术不是照相，而是艺术家对世界的个人解读和创造。"
+        },
+        {
+          "text": "All art is 'made up' in the sense that it is not a mirror image of reality, but an interpretation.",
+          "context": "解释为什么不同时代的艺术看起来不同——它们反映的是那个时代如何『看见』世界，而非世界本身。"
+        },
+        {
+          "text": "We do not see shapes, we see meanings.",
+          "context": "指出知觉的本质——我们的眼睛看到的东西，大脑会自动转化为有意义的形象，这是艺术家利用的关键。"
+        }
+      ]
+    },
+    {
+      "title_zh": "国富论",
+      "title_en": "The Wealth of Nations",
+      "author_zh": "亚当·斯密",
+      "author_en": "Adam Smith",
+      "year": "1776",
+      "category": "社科与历史",
+      "one_liner": "经济学的圣经：用看不见的手解释财富如何创造和流动",
+      "deep_dive": "读斯密的《国富论》就像回到经济学的源头。很多人只知道「看不见的手」这个概念，但整本书的精妙远超这句话。斯密在1776年写的东西，现在读还能感受到那种洞察力——他观察到一个工厂的工人分工能让生产力指数级增长，不是因为老板聪明，而是因为每个人专注一个小任务就能做得更快。这放在当时是革命性的想法。他还讨论了为什么不同行业的工资不同、为什么有些商品贵有些便宜，答案都指向供求关系——一切都在自动调节，没人指挥。最有趣的是他对商人的批评。斯密深知商人会勾结、垄断、操纵价格，所以他强调政府的角色是保持市场自由竞争，而不是放任不管。当代很多人曲解了他，把他奉为纯自由市场的教父，其实他的观点更细致。书里还讨论了税收、公共事业、教育的重要性——一个完整的经济社会图景。三百年前的想法，对今天的经济问题仍然有启发。",
+      "quotes": [
+        {
+          "text": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.",
+          "context": "斯密最著名的观点——我们不靠他人善良吃饭，而靠他们追求自身利益；这反而能保证供应的稳定。"
+        },
+        {
+          "text": "The division of labour is limited by the extent of the market.",
+          "context": "解释为什么大城市比小镇工业更发达——市场越大，分工越细致，效率越高。"
+        },
+        {
+          "text": "Consumption is the sole end and purpose of all production.",
+          "context": "经济学的终极目的不是堆积商品，而是满足人的需求；这个观点在现代很容易被遗忘。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1817"
+}
