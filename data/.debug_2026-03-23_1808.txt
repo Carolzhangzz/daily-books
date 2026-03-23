@@ -1,21 +1,3 @@
-用户指定的三本书中，我在经典书单中进行了查找：
-
-✅ **找到的书籍：**
-- 《优雅的宇宙》→ 《宇宙的琴弦》(*The Elegant Universe*) - 布莱恩·格林
-- 《复杂》(*Complexity*) - 米歇尔·沃尔德罗普
-
-❌ **书单中未找到：**
-- 《学会提问》
-
-**相近的替代书籍：**
-- 《怎样解题》(*How to Solve It*) - 乔治·波利亚
-- 《逻辑的引擎》(*Engines of Logic*) - 马丁·戴维斯  
-- 《思维的乐趣》(*The Joy of x*) - 斯蒂芬·斯托加茨
-- 《影响力》(*Influence*) - 罗伯特·西奥迪尼
-
-请问您想：
-1. **用上面哪本书替换**"学会提问"？
-2. **还是指定其他书籍**来代替？
-3. **或是继续用三本书**，我为前两本生成推荐，同时为您查阅"学会提问"的具体信息？
-
-收到选择后，我会立即生成完整的JSON格式推荐。
+```json
+{"date":"2026-03-23","books":[{"title_zh":"优雅的宇宙","title_en":"The Elegant Universe","author_zh":"布莱恩·格林","author_en":"Brian Greene","year":"2003","category":"科学与认知","one_liner":"用通俗语言解释弦论和宇宙的基本结构","deep_dive":"这是一本能让普通人理解现代物理学的神作。布莱恩·格林用最生动的比喻，把弦论这个超级复杂的理论讲得清清楚楚。你会了解到，所有物质、能量、光，最根本上都是由微小的"弦"振动产生的——就像琴弦的不同振动方式产生不同的音符一样。更绝的是，宇宙可能不止三个空间维度和一个时间维度，还隐藏着额外的维度！读这本书最爽的地方就是，你会逐渐理解为什么物理学家们这么痴迷于弦论，为什么他们相信这套理论能统一量子力学和相对论。格林没有试图用复杂的数学砸你，而是用故事、用直觉、用你能想象的方式来讲述这些东西。读完之后，你看星空的时刻会多了一层理解，会真正感受到宇宙的优雅和神秘。","quotes":[{"text":"The universe is not only queerer than we suppose, but queerer than we can suppose.","context":"强调了宇宙的反直觉性质，真实的宇宙往往超出我们的想象"},{"text":"String theory may provide the bridge between two great theories: quantum mechanics and general relativity.","context":"说明弦论对于物理学统一的重要意义"}]},{"title_zh":"学会提问","title_en":"Asking the Right Questions","author_zh":"M. 尼尔·布朗恩 & 斯图尔特·M·基利","author_en":"M. Neil Browne & Stuart M. Keeley","year":"1997","category":"社科与历史","one_liner":"教你用批判性思维识别论点中的漏洞和假设","deep_dive":"这本书改变了我思考问题的方式。它不是教你去反驳别人，而是教你系统地拆解任何一个论点。作者用丰富的实例一个一个地展示，那些看起来很有道理的论点，其实暗藏着什么关键假设、什么逻辑跳跃、什么证据薄弱的地方。你会学到怎么识别隐藏的论断、怎么找出未经证实的前提、怎么区分真实证据和煽情的例子。这本书特别practical，不是讲哲学理论，而是你立刻就能用上的思维工具。在信息爆炸的时代，每天都有人想用精心构造的论点来说服你买东西、相信观点、采取行动，而这本书就是你最好的防火墙。掌握了这些技巧，你会更清醒、更自信地面对任何信息。","quotes":[{"text":"A well-reasoned argument demands we identify the assumptions on which it rests.","context":"强调了找到隐藏假设的重要性，这是所有批判性思维的基础"},{"text":"Critical thinking is the ability to ask the right questions and evaluate the answers.","context":"定义了真正的批判性思维，不是盲目反驳，而是有建设性的提问"}]},{"title_zh":"复杂","title_en":"Complexity: The Emerging Science at the Edge of Order and Chaos","author_zh":"米歇尔·沃尔德罗普","author_en":"M. Mitchell Waldrop","year":"1992","category":"科学与认知","one_liner":"探索复杂自适应系统如何从简单的规则中涌现出来","deep_dive":"这本书讲的是人类最酷的一个发现：很多看起来非常复杂的现象——从蚂蚁群落怎么自我组织觅食，到城市怎么在没有中央规划的情况下演化，到免疫系统怎么认识和对抗病原体——其实都遵循着某些优雅的简单规则和反馈机制。沃尔德罗普带你去圣塔菲研究所，那儿聚集了一群最聪明的科学家在研究"复杂自适应系统"。你会见识到计算机模拟怎么帮助我们理解生物进化、经济市场、生态系统。这本书最吸引人的地方在于，它揭示了一个让人兴奋的可能性：看似随意和混乱的自然界和人类社会，其实可能遵循着深层的秩序。书的节奏很紧凑，充满了科学家之间的对话和思想碰撞，读起来就像看一场智慧的盛宴。","quotes":[{"text":"Life exists at the edge of chaos.","context":"说明最富有生机和创造力的系统往往存在于有序和混乱之间的临界点"},{"text":"Complexity arises when independent agents are interacting in ways that create richer, more complex behaviour.","context":"揭示了复杂性的本质——不是源于复杂的规则，而是源于简单规则的相互作用"}]}]}
+```
