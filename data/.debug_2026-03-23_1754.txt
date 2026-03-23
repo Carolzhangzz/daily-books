@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "素数的音乐",
+      "title_en": "The Music of the Primes",
+      "author_zh": "马库斯·杜·索托伊",
+      "author_en": "Marcus du Sautoy",
+      "year": "2003",
+      "category": "数学",
+      "one_liner": "用音乐般的语言讲述数学中最神秘的谜团——素数的秘密",
+      "deep_dive": "你知道吗，这本书其实是在讲数学界最大的悬疑故事。素数一直被认为是数字世界的基础砖块，但它们出现的规律却像谜一样神秘。作者用诗一般的语言，把这个深奥的数学世界变成了一个冒险故事。他不仅讲述了历代数学家们如何为了破解素数的秘密而绞尽脑汁，还详细介绍了黎曼假设——这个被誉为数学皇冠上的珠宝的伟大猜想。整本书的妙处在于，你不需要高深的数学背景就能感受到数学的魅力。它让你明白，看似枯燥的数字背后，隐藏着人类对真理的永恒追求，以及那种解开谜团时的快感。",
+      "quotes": [
+        {
+          "text": "Prime numbers are the atoms of mathematics.",
+          "context": "强调素数作为数学基础的重要性"
+        },
+        {
+          "text": "The quest to understand prime numbers is as old as mathematics itself.",
+          "context": "说明人类追寻素数规律的历史渊源"
+        }
+      ]
+    },
+    {
+      "title_zh": "西西弗神话",
+      "title_en": "The Myth of Sisyphus",
+      "author_zh": "阿尔贝·加缪",
+      "author_en": "Albert Camus",
+      "year": "1942",
+      "category": "哲学",
+      "one_liner": "在荒诞的世界中，寻找生活的意义与反抗的勇气",
+      "deep_dive": "加缪这部作品可能是最深刻的荒诞宣言。他问了一个简单却终极的问题：如果生活没有意义，我们为什么还要活下去？西西弗被诅咒每天都要推着大石头上山，只看它滚下来，然后重复这一切。这个古老的神话在加缪的笔下，变成了对现代人生活的深刻隐喻——我们都在重复着看似无意义的日常，就像西西弗一样。但这本书的伟大之处在于，加缪不是要我们绝望，而是鼓励我们要想象西西弗是快乐的。他说，既然我们无法逃脱荒诞的宿命，那不如坦然接受它，甚至在其中找到自己的意义。这是一种很特殊的人生哲学——不是逃离现实，而是直面它。",
+      "quotes": [
+        {
+          "text": "One must imagine Sisyphus happy.",
+          "context": "加缪最著名的结论，说明在荒诞中寻找幸福的可能性"
+        },
+        {
+          "text": "The only way to deal with an unfree world is to become so absolutely free that very existence of that world is a form of freedom.",
+          "context": "强调个人反抗与精神自由的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "逃避自由",
+      "title_en": "Escape from Freedom",
+      "author_zh": "埃里希·弗罗姆",
+      "author_en": "Erich Fromm",
+      "year": "1941",
+      "category": "心理学/哲学",
+      "one_liner": "揭示人类为何在自由面前感到恐惧，并主动逃避责任",
+      "deep_dive": "弗罗姆在这本书里提出了一个令人不安的观点：人类其实害怕自由。乍一听很奇怪，对吧？但仔细想想，当社会给了我们充分的自由和选择，我们反而不知所措，会渴望有人来告诉我们该做什么。弗罗姆认为，极权主义的兴起正是因为人们对自由感到恐惧，所以急于逃避到某种权威之下。自由意味着责任，意味着要自己做决定，这其实是很沉重的。这本书特别有现实意义，因为它解释了为什么有些人即使拥有选择，也会主动放弃自由去追求安全感。读这本书会让你重新思考自由的真实含义，以及自己和社会的关系。",
+      "quotes": [
+        {
+          "text": "Freedom is not something one is born with, but rather something one achieves.",
+          "context": "说明自由需要积极主动地争取和维护"
+        },
+        {
+          "text": "Man can endure pain, misery, and deprivation, but he cannot endure meaninglessness.",
+          "context": "揭示人类对意义的深层渴望，以及失去意义的危害"
+        }
+      ]
+    }
+  ]
+}
+```
