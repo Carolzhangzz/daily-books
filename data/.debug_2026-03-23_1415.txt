@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "独自打保龄",
+      "title_en": "Bowling Alone: The Collapse and Revival of American Community",
+      "author_zh": "罗伯特·普特南",
+      "author_en": "Robert D. Putnam",
+      "year": "2000",
+      "category": "社会学",
+      "one_liner": "揭示现代社会的孤独困境，追问我们如何失去了彼此的连接。",
+      "deep_dive": "你知道吗，普特南用打保龄这个简单的比喻深刻地诠释了美国社会的一个危机——我们变得越来越孤独。曾经打保龄球是一种集体活动，人们聚在一起，有说有笑。现在呢，越来越多人选择独自打保龄，一个人去，一个人回。这看似是个很小的社会现象，但它映射的是一个巨大的问题：我们的社会资本在持续流失。无论你是在看电视、玩手机还是在家办公，我们都在逐渐远离那些能让社区凝聚的活动。普特南用大量数据证明，志愿者数量下降了、社交组织参与率大幅下滑、人与人之间的信任度也在下降。但这本书不是在单纯地唱衰现代社会，而是在提醒我们一个紧急的课题：如何在高科技时代重建我们失去的人际纽带。在当下全球化和互联网时代，这个问题变得更加迫切和复杂。",
+      "quotes": [
+        {
+          "text": "Social capital makes us smarter, healthier, safer, richer, and happier.",
+          "context": "说明社会资本对人生幸福的关键作用"
+        },
+        {
+          "text": "Volunteering is the glue that binds communities together.",
+          "context": "强调共同参与和互助在维系社区中的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "在路上",
+      "title_en": "On the Road",
+      "author_zh": "杰克·凯鲁亚克",
+      "author_en": "Jack Kerouac",
+      "year": "1957",
+      "category": "文学/冒险",
+      "one_liner": "跨越整个美利坚大陆的青春之旅，一部关于自由与灵魂救赎的诗篇。",
+      "deep_dive": "这是一本能让你热血沸腾的书。凯鲁亚克笔下的公路旅行不仅仅是地理上的移动，而是一场精神的蜕变和灵魂的觉醒。主人公萨尔和他的朋友们驾车穿越美国，从东海岸到西海岸，每一段路都充满了未知、惊喜和深刻的人生思考。你会在书中感受到一种前所未有的自由感——那种打破既有秩序、追寻真我的冲动。书中的语言富有爵士乐般的节奏感和诗意，充满了即兴性的美，就像萨克斯风的独奏一样自由而深情。这部作品定义了一整代人对生命的理解：生活的意义不在目的地，而在这条永无止尽的路上。如果你曾经想逃离日常的束缚，想去看看这个世界，这本书会点燃你内心那团永不熄灭的火焰。",
+      "quotes": [
+        {
+          "text": "Nothing behind me, everything ahead of me, as is ever so on the road.",
+          "context": "道尽旅途中舍弃过往、拥抱未来的潇洒哲学"
+        },
+        {
+          "text": "I realized that I was in America.",
+          "context": "描写在广袤的公路上重新发现美国、发现自我的觉醒时刻"
+        }
+      ]
+    },
+    {
+      "title_zh": "富兰克林自传",
+      "title_en": "The Autobiography of Benjamin Franklin",
+      "author_zh": "本杰明·富兰克林",
+      "author_en": "Benjamin Franklin",
+      "year": "1791",
+      "category": "传记/自传",
+      "one_liner": "从贫困学徒到开国元勋，一部关于自我完善和理性进步的生命史诗。",
+      "deep_dive": "富兰克林的这部自传真的很特别，因为他毫不保留地讲述了自己的错误和失败。他没有像其他伟人那样美化自己，反而用坦诚的笔调记录了如何从一个逃离家庭的印刷学徒，逐步成长为科学家、发明家、外交家和政治家的全过程。你会看到他如何通过制定'十三项美德'来自我约束和完善，如何在无数次实验中追寻科学真理，如何在纷繁复杂的政治中展现智慧。最令人敬佩的是，富兰克林相信任何人都可以通过理性思考、持之以恒的实践和不断的自我反省来改造自己。这不是虚无的鸡汤，而是由他自己的人生经历所证明的真理。读这本书，你不仅了解了一个历史人物，更重要的是学到了一套关于如何活出卓越人生的方法论。",
+      "quotes": [
+        {
+          "text": "The Constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself.",
+          "context": "强调主动进取和自我奋斗的人生哲学"
+        },
+        {
+          "text": "An investment in knowledge pays the best interest.",
+          "context": "体现富兰克林对学习和自我提升的执着追求"
+        }
+      ]
+    }
+  ]
+}
+```
