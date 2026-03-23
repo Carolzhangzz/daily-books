@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "基因组",
+      "title_en": "Genome: The Autobiography of a Species in 23 Chapters",
+      "author_zh": "马特·里德利",
+      "author_en": "Matt Ridley",
+      "year": "1999",
+      "category": "科普/生物学",
+      "one_liner": "用23条染色体讲述人类的自我认知之旅",
+      "deep_dive": "这本书真的很聪明，里德利把整个人类基因组当成一部自传来讲，每条染色体就是一章。你会发现原来我们这么多特质都能追溯到某个特定的基因故事。比如讲免疫系统的那章，他用各种有趣的例子说明进化是如何在我们体内留下痕迹的。最棒的是，这不是枯燥的教科书，而是像和一个知识丰富的朋友聊天一样轻松自如。书里一直在问：到底是基因决定了我们，还是我们的生活经历塑造了自己？答案其实远比非此即彼更复杂。读完这本书，你看待自己的身体和人类物种的方式就完全不一样了，会产生某种敬畏和好奇。",
+      "quotes": [
+        {
+          "text": "We are the first species able to intentionally design our own evolution",
+          "context": "关于人类独特地位和自我塑造能力的核心洞察"
+        },
+        {
+          "text": "The genome is not a blueprint but a recipe, and recipes are not deterministic",
+          "context": "强调基因的动态性，反驳简单的遗传决定论"
+        }
+      ]
+    },
+    {
+      "title_zh": "利维坦",
+      "title_en": "Leviathan",
+      "author_zh": "托马斯·霍布斯",
+      "author_en": "Thomas Hobbes",
+      "year": "1651",
+      "category": "政治哲学",
+      "one_liner": "用社会契约论解释人类为何需要国家和权力",
+      "deep_dive": "400多年前霍布斯提出的观点现在听起来仍然黑暗而深刻。他说在没有国家权力的地方，人生就是所有人对所有人的战争，生活变得孤独、肮脏、野蛮而短暂。这听起来很悲观，但他的逻辑很清晰：正因为害怕这样的状态，人们才愿意放弃部分自由，把权力交给一个绝对主权者。他这个观点在当时简直是异端，因为它直接挑战了王权神授的传统说法。有趣的是，虽然我们今天可能不同意他的极端观点，但他对权力如何运作、人性中的自利性、以及秩序如何维持等问题的分析，仍然切中要害。最让人思考的还是这个问题：自由和秩序到底该如何平衡？这不仅在400年前是大问题，现在也是。",
+      "quotes": [
+        {
+          "text": "The life of man, solitary, poor, nasty, brutish, and short",
+          "context": "描绘无政府状态下人类生活的悲惨图景"
+        },
+        {
+          "text": "Covenants, without the sword, are but words",
+          "context": "强调权力和强制力对维持社会秩序的必要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author_zh": "马克斯·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科技/人工智能/未来学",
+      "one_liner": "重新定义生命的三个阶段，思考人工智能时代人类的前景",
+      "deep_dive": "这本书最聪明的地方就是这个生命三个阶段的框架。生命1.0是生物学进化的时代，你的身体由DNA指挥；生命2.0是我们现在的时代，人类通过文化、教育和思想的进化改变自己；而生命3.0就是即将到来的时代，生命本身可以重新设计自己的硬件和软件。泰格马克用这个框架解释了为什么AI革命真的不一样——以前的技术进步都是我们手中的工具，但AI可能成为自主行动的实体。书里他既讨论了激动人心的可能性——比如AI加速医疗和科学发现，也坦率地谈论了真实存在的风险。最核心的问题是：我们能否让AI的目标和人类的价值观保持一致？这听起来有点科幻，但泰格马克是认真的，他的态度既不是乐观幻想，也不是悲观末日论，而是清醒的未来规划。",
+      "quotes": [
+        {
+          "text": "The future of life depends on how we respond to artificial intelligence",
+          "context": "强调人工智能时代我们的选择至关重要"
+        },
+        {
+          "text": "AI doesn't hate you, nor does it love you, but you are made of atoms it can use for something else",
+          "context": "用幽默而深刻的方式提醒我们价值观对齐的重要性"
+        }
+      ]
+    }
+  ]
+}
+```
