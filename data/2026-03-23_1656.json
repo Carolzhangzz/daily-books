@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "深度学习",
+      "title_en": "Deep Learning",
+      "author_zh": "伊恩·古德费洛、约舒亚·本吉奥、亚伦·库维尔",
+      "author_en": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+      "year": "2016",
+      "category": "计算机科学/机器学习",
+      "one_liner": "神经网络和深度学习的完整圣经",
+      "deep_dive": "这本书就像是深度学习领域的终极指南。作者们用极其清晰的数学语言和直观的例子，把从基础的神经网络一直讲到前沿的生成对抗网络，完整地铺展在你面前。它不仅仅是教你怎么用框架跑模型，而是真正让你理解为什么深度学习会work——从信息论、优化理论到正则化技巧，每个部分都环环相扣。如果你想从原理层面掌握深度学习，而不是只停留在调参的阶段，这本书的投资回报率绝对是最高的。不管你是初学者还是有经验的研究者，都能在里面找到对应的深度。",
+      "quotes": [
+        {
+          "text": "Deep learning is a machine learning technique that learns to perform tasks directly from images, sound, and text.",
+          "context": "强调深度学习直接从原始数据学习的能力"
+        },
+        {
+          "text": "The goal of a good representation is to make certain kinds of relationships in the data easier to capture.",
+          "context": "揭示了好的数据表示的本质"
+        }
+      ]
+    },
+    {
+      "title_zh": "债：第一个5000年",
+      "title_en": "Debt: The First 5,000 Years",
+      "author_zh": "大卫·格雷伯",
+      "author_en": "David Graeber",
+      "year": "2011",
+      "category": "经济学/历史/人类学",
+      "one_liner": "从债务视角重新理解人类文明的演进",
+      "deep_dive": "格雷伯这部作品完全颠覆了你对债务和金钱的理解。他用考古学证据、人类学观察和历史档案，告诉你一个完全不同的故事——债务制度并不是商业社会的产物，而是很早就伴随人类文明出现的东西。这本书最妙的地方在于它展示了债务如何形塑了我们的道德观、政治制度甚至个人关系。格雷伯的写作风格特别有意思，他能把复杂的经济历史讲得像故事一样生动，同时又不失严谨。读完这本书，你会发现自己对'欠债'这个概念的理解已经完全改变了。",
+      "quotes": [
+        {
+          "text": "Since the beginning of the credit system, it has always been possible to conceive of a world in which most human transactions were conducted through credit.",
+          "context": "揭示债权制度在人类历史中的深层位置"
+        },
+        {
+          "text": "The invention of coinage was a technological innovation that did not transform human nature or economic relationships but rather was a response to particular historical conditions.",
+          "context": "挑战货币发展的常见叙述"
+        }
+      ]
+    },
+    {
+      "title_zh": "心理学与生活",
+      "title_en": "Psychology and Life",
+      "author_zh": "大卫·迈尔斯",
+      "author_en": "David Myers",
+      "year": "2014",
+      "category": "心理学/教育",
+      "one_liner": "用科学方法揭示日常生活中的心理奥秘",
+      "deep_dive": "迈尔斯的这部经典教科书把心理学从实验室搬进了你的日常生活。它的牛掰之处在于，每一个心理学概念都配上了你能亲身体验的例子。你会突然发现，为什么你总是记不住新认识的人的名字（编码问题），为什么广告那么容易让你改变想法（说服原理），为什么你会对陌生人产生第一印象偏见（启发法）。迈尔斯不仅讲研究发现，还深入浅出地解释这些发现为什么重要。书的组织也特别贴心，从生物基础讲到社会心理学，逻辑清晰，循序渐进。它的真正价值在于让你成为自己行为的观察者和思考者。",
+      "quotes": [
+        {
+          "text": "Psychology is the science of behavior and mental processes, but to understand people, we must view them as biological beings and as products of their environment.",
+          "context": "强调心理学研究的整体性视角"
+        },
+        {
+          "text": "Our perception is not a passive reception of the world but an active construction of it.",
+          "context": "揭示了感知的创造性本质"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1656"
+}
