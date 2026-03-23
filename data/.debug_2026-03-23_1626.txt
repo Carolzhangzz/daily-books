@@ -1,0 +1,75 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "第三个警察",
+      "title_en": "The Third Policeman",
+      "author_zh": "弗拉恩·欧布莱恩",
+      "author_en": "Flann O'Brien",
+      "year": "1967",
+      "category": "文学",
+      "one_liner": "一个男人因自行车失窃陷入疯狂的警察局诡异世界，一场充满黑色幽默的荒诞之旅。",
+      "deep_dive": "《第三个警察》是爱尔兰文学的瑰宝，也是我读过最奇特的悬疑小说。故事讲的是一个名叫纳夫图·克鲁查克的男人，他在偷窃自行车和金钱后逃到警察局避难，结果陷入了一个完全颠倒的世界。这个世界里，警察们说着莫名其妙的话、骑着自行车、沉迷于荒诞的哲学辩论，警察局本身就像是一个黑洞，吸收并扭曲一切常识。\n\n这部小说最绝妙的地方在于它的讽刺：一个犯了罪的人跑到警察那里寻求庇护，而警察局比现实世界更疯狂。欧布莱恩创造了一个充满不可思议设定的宇宙——比如人类和自行车能够互相转化、机器拥有不可思议的功能、逻辑在这里完全失效。这不是荒诞主义戏剧那种理性的反讽，而是一种更深层的、令人不安的怪诞。\n\n读这部书时，你会不断问自己：这到底在讲什么？到了结尾你才意识到，欧布莱恩一直在问关于身份、道德、现实本质的深刻问题，只是用了最疯狂的方式去问。这部小说影响了后来的所有黑色喜剧和荒诞文学，是理解20世纪文学如何突破现实主义的关键著作。",
+      "quotes": [
+        {
+          "text": "The world is not round and the people are not blue.",
+          "context": "这句看似简单的陈述，却成为了整部小说中最诡异的真理陈述。在这个疯狂的世界里，最不可信的往往是最真实的。"
+        },
+        {
+          "text": "I had to choose between my principles and my comfort.",
+          "context": "小说中关于人性选择的核心困境，无论选择哪一边，都无法逃脱命运的讽刺。"
+        }
+      ]
+    },
+    {
+      "title_zh": "非暴力沟通",
+      "title_en": "Nonviolent Communication: A Language of Life",
+      "author_zh": "马歇尔·罗森伯格",
+      "author_en": "Marshall B. Rosenberg",
+      "year": "1999",
+      "category": "社科与自我成长",
+      "one_liner": "一套四步法沟通框架，将暴力冲突转变为同情和理解的对话。",
+      "deep_dive": "《非暴力沟通》改变了我对"说话"这件事的理解。罗森伯格博士开发的这套框架看似简单——观察、感受、需要、请求——但实际上深刻到能够化解最棘手的人际冲突。\n\n这本书的核心洞察是：大多数冲突不是因为问题本身，而是因为我们的表达方式充满了指责、评判和暴力。当你说"你总是那么自私"，对方立刻进入防守模式，沟通就破裂了。但如果你说"当你这样做时，我感到被忽视了，因为我需要被看见和理解"，情况就完全不同。\n\n罗森伯格用这套方法处理过从家庭冲突到国际纠纷的各种情况。他曾在战争中进行调解工作，用非暴力沟通化解仇恨。这本书不仅是技巧手册，更是一种生活哲学——相信每个人的行为背后都有需要，理解这一点就能找到共同语言。读完这本书，你会发现自己不再那么容易被激怒，反而能倾听他人深层的渴望。对于任何想改善人际关系的人，这是必读之作。",
+      "quotes": [
+        {
+          "text": "Anger is a signal that tells us we have an unmet need.",
+          "context": "这句话重新定义了我们对愤怒的理解。愤怒不是坏的，它是一个信号，告诉我们什么对我们很重要。"
+        },
+        {
+          "text": "The most powerful thing we can do is to be fully present with another person.",
+          "context": "在快速的社会中，这个提醒提醒我们：真正的沟通需要的不是更多的言语，而是更深的陪伴。"
+        },
+        {
+          "text": "Empathy is a respectful understanding of what others are experiencing.",
+          "context": "同理心不是同意对方，而是试图理解他们的世界，这是非暴力沟通的灵魂。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论人类不平等的起源",
+      "title_en": "Discourse on Inequality",
+      "author_zh": "让-雅克·卢梭",
+      "author_en": "Jean-Jacques Rousseau",
+      "year": "1755",
+      "category": "哲学",
+      "one_liner": "人类天生自由，却无处不在枷锁之中——卢梭对不平等根源的激进追溯。",
+      "deep_dive": "卢梭这篇论文开篇就是一句震撼的陈述："人类生而自由，却无处不在枷锁之中。"这不仅是对启蒙时代社会的控诉，更是一次哲学的重新出发。与其他启蒙思想家不同，卢梭认为，不平等不是人类自然状态的结果，而是文明的产物。\n\n他追溯了人类从自然人到社会人的演变过程。在自然状态下，人类关心的只有自我保存和同情心。但当私有财产出现时，一切都改变了。一个人圈地说"这是我的"，就此开启了人类不平等的大门。财产的不平等导致权力的不平等，进而导致政治制度的建立——有人统治，有人被统治。\n\n卢梭的激进之处在于他否定了不平等是自然或必然的这一观点。他提出，真正的不平等来自于人为的社会制度。这个观点直接启发了后来的社会主义和共产主义思想。读这篇论文，你会理解为什么他说"回到自然"（虽然这通常被误解了），以及为什么他对现代社会充满了怀疑。在当今贫富差距扩大的时代，卢梭提出的问题仍然尖锐和迫切。",
+      "quotes": [
+        {
+          "text": "Man is born free, and everywhere he is in chains.",
+          "context": "《社会契约论》的开篇名句，也是卢梭整个思想的出发点。它直指现代社会的合法性危机。"
+        },
+        {
+          "text": "The first person who, having fenced off a plot of land, took it into his head to say 'this is mine' and found people simple enough to believe him, was the true founder of civil society.",
+          "context": "卢梭认为私有财产的出现是不平等的起点。这句话攻击的是财产所有制本身的合法性基础。"
+        },
+        {
+          "text": "Inequality is therefore scarcely felt in the state of nature, but its influence becomes sensible as soon as, by virtue of their development, men begin to approach one another.",
+          "context": "卢梭强调，不平等是社会发展的产物，而非人类的自然属性。"
+        }
+      ]
+    }
+  ]
+}
+```
