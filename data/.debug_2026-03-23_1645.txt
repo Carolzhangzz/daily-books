@@ -1,0 +1,73 @@
+根据daily-books技能，我为这三本指定的书籍生成中文推荐。这是"指定书籍模式"，为用户指定的书生成内容。
+
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "影响力",
+      "title_en": "Influence: The Psychology of Persuasion",
+      "author_zh": "罗伯特·西奥迪尼",
+      "author_en": "Robert Cialdini",
+      "year": "1984",
+      "category": "心理学",
+      "one_liner": "揭示隐藏在日常生活中的七大说服心理法则",
+      "deep_dive": "你有没有想过，为什么看到\"限量\"两个字就想买？为什么别人先握了你的手，你就更容易答应他的请求？这些都不是巧合，而是心理学家西奥迪尼发现的普遍说服原理。《影响力》就像给你装了个心理学透视镜，让你看清楚什么在操纵我们的行为。\n\n西奥迪尼通过数十年研究发现了七个基本原理。互惠原理最强大——别人给了你什么，你就想还回去，医生的免费样品就这么用上了。承诺与一致性说的是，一旦我们公开承诺，就会为了保持一致而坚持，商家就是这样诱导你的。权威性让我们信任穿白大褂的医生；社会认证让我们看到排队就想进去；喜好原理说我们被好看的人和相似的人更容易说服；稀缺性让快没的东西变得特别值钱；互利则是指我们更倾向帮助对我们好的人。\n\n这本书最妙的地方在于，即使你知道这些伎俩，仍然很难完全抵抗它们。因为这些原理深深植根于我们的心理和社会进化中。从广告到销售，从政治宣传到人际关系，它们无处不在。读完后你会开始怀疑自己的每一个\"是\"字，但这未必是坏事——认识人性，才能做出更自主的选择。",
+      "quotes": [
+        {
+          "text": "In an increasingly complex world we are forced to rely more and more on short-cuts to make quick decisions.",
+          "context": "西奥迪尼指出在信息爆炸时代，我们必须依赖简化的决策模式，这正是说服者利用的缝隙"
+        },
+        {
+          "text": "The rule for reciprocation is extremely powerful, often producing a yes response to a request that, without the rule, would have surely been refused.",
+          "context": "互惠原理是七大原理中最强大的，它利用了人类社会最古老的义务感——欠了就要还"
+        },
+        {
+          "text": "People are more likely to say yes to those they like.",
+          "context": "喜好原理的核心——外表、相似性、赞美都能增加对方对你的好感，从而增加成功说服的概率"
+        }
+      ]
+    },
+    {
+      "title_zh": "博弈论与经济行为",
+      "title_en": "Theory of Games and Economic Behavior",
+      "author_zh": "约翰·冯·诺伊曼、奥斯卡·摩根斯坦",
+      "author_en": "John von Neumann & Oskar Morgenstern",
+      "year": "1944",
+      "category": "科学与认知",
+      "one_liner": "用数学描述理性人的互动决策，现代博弈论的奠基之作",
+      "deep_dive": "两个小偷被捕，关在不同审讯室。都沉默各判一年，互相告发各判两年，一人告发另一人被释放而被告发者判三年。每个人都会怎么选？这就是著名的\"囚徒困境\"，背后是博弈论的世界。\n\n1944年，冯·诺伊曼和摩根斯坦出版的这本书像一颗原子弹炸进了经济学、战争学和社会科学。他们做了件革命性的事：用数学严格描述理性人在互动中的决策过程。以前经济学家假设人是完全理性的，但没解决一个关键问题：当我的决策既取决于我的选择，也取决于别人的选择时，我该怎么办？\n\n博弈论定义了数学结构：多个玩家，每个有若干策略，不同的策略组合产生不同结果。关键是每个玩家都在猜测对方会怎么做，而对方也在猜测他会怎么做。这就像两面镜子对视，形成了递归的思维。这本书对冷战核战略、商业竞争、生物进化等无数领域产生了深远影响。如果你想理解为什么两个竞争对手有时做出看起来\"愚蠢\"的决策——其实是理性的——你就需要理解博弈论。",
+      "quotes": [
+        {
+          "text": "The main purpose of a theory is not the enumeration of possible situations, but rather the exhibition of the forces which govern the changes.",
+          "context": "冯·诺伊曼强调博弈论的真正目的不是列举所有可能情况，而是揭示驱动变化的基本力量——这是科学方法的精髓"
+        },
+        {
+          "text": "In a social system, the actions of one player are not independent of the actions of others.",
+          "context": "这是博弈论的核心洞察，推翻了传统经济学中独立理性人的假设，承认社会中所有行为都相互依赖"
+        }
+      ]
+    },
+    {
+      "title_zh": "旧制度与大革命",
+      "title_en": "The Old Regime and the Revolution",
+      "author_zh": "托克维尔",
+      "author_en": "Alexis de Tocqueville",
+      "year": "1856",
+      "category": "社科与历史",
+      "one_liner": "揭示法国大革命的深层根源：改善，而非绝望",
+      "deep_dive": "法国大革命为什么爆发？很多人说是王室腐败、贵族压迫、物价飙升。但托克维尔在1856年给出了更深刻的答案：革命爆发恰恰是因为生活在改善。\n\n托克维尔很聪明，他不研究革命本身，而是研究革命之前。结果惊人：旧制度正在进步。农民状况改善了，地方行政现代化了，王权在削弱贵族特权。正是这种改善反而埋下了革命的种子。为什么？因为人类不会因绝望而革命，而是因为看到希望又未能实现。他用个比喻：腿被砍掉前感不到痛，但腿恢复知觉时反而最疼。同样，压迫减轻而不消除时，不满反而更强烈。\n\n托克维尔还指出旧制度的毒遗产：中央集权。在法国，权力集中在巴黎，地方没有自治权。贵族有特权却被边缘化。没人能组织基层社会。等大革命爆发，这个强大的中央集权机器就被用来实施激进改革——结果是更多暴力和专制。这启示很深：改革失败导致革命；中央集权容易演变专制；摧毁旧秩序而无新秩序导致混沌。",
+      "quotes": [
+        {
+          "text": "Revolutions are not always made by those who are most aggrieved. They happen when the expectation of a better future comes into conflict with present reality.",
+          "context": "托克维尔的核心洞察——革命发生不是因为生活最糟糕，而是改善希望与现实矛盾激化了"
+        },
+        {
+          "text": "The French had created the most centralized monarchy in Europe, and they would create from it the most centralized republic.",
+          "context": "这个观察揭示了一个悖论：推翻旧制度的革命继承了它最坏的特点——权力结构的根深蒂固超乎想象"
+        }
+      ]
+    }
+  ]
+}
+```
