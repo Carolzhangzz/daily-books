@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "林肯传",
+      "title_en": "Team of Rivals: The Political Genius of Abraham Lincoln",
+      "author_zh": "多丽丝·卡恩斯·古德温",
+      "author_en": "Doris Kearns Goodwin",
+      "year": "2005",
+      "category": "传记与历史",
+      "one_liner": "林肯如何在战争的血火中团结对手，铸就伟大领导力的故事。",
+      "deep_dive": "这本书让我重新认识了林肯。很多人觉得他是历史课本里那个高大的形象，但古德温给你讲的是一个真实的、脆弱的、不断在自我疑惑中前行的人。她详细记录了林肯如何组建内阁，把三个曾经的政治对手——威廉·西沃德、萨蒙·蔡斯和爱德华·斯坦顿——拉到身边工作。这听起来很疯狂对吧？但林肯就是这么做的。他知道这些人都比他有名、有野心，但他也知道自己需要他们的才华来救国。书里最打动我的是他处理人际关系的智慧——既不怕对手，也不傲慢地压制他们，而是真诚地理解他们的动机和恐惧。整个内战期间，他要处理这个充满张力的团队，同时面对个人的悲剧和绝望。古德温用细致的笔触描绘了一个在巨大压力下依然保持人性和幽默感的领导者。这不仅是林肯的故事，更是关于如何在分裂中寻求团结、在战争中坚守信念的故事。",
+      "quotes": [
+        {
+          "text": "A house divided against itself cannot stand. (一个分裂的国家无法存立)",
+          "context": "林肯在1858年的竞选演讲中说的这句话，表达了他对国家统一的坚定信念，也预示了即将到来的内战"
+        },
+        {
+          "text": "I destroy my enemies when I make them my friends. (当我把敌人变成朋友时，我就消灭了我的敌人)",
+          "context": "林肯对待政治对手的哲学，体现了他超越常人的包容心和战略眼光"
+        },
+        {
+          "text": "My early history is perfectly characterized by a single line of Gray's Elegy: 'The short and simple annals of the poor.' (我早年的历史可以用Gray挽歌的一句话概括：'贫者简短而平凡的编年史')",
+          "context": "林肯对自己卑微出身的自嘲，但这种谦逊正是他伟大的源头"
+        }
+      ]
+    },
+    {
+      "title_zh": "信号与噪声",
+      "title_en": "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't",
+      "author_zh": "纳特·西尔弗",
+      "author_en": "Nate Silver",
+      "year": "2012",
+      "category": "科学与认知",
+      "one_liner": "为什么我们总是预测错了？一个数据科学家教你如何在信息泛滥的时代找到真正重要的信号。",
+      "deep_dive": "现在的问题不是我们知道得太少，而是我们知道得太多。西尔弗在这本书里把这叫做'大数据诅咒'——数据越多，就越容易找到那些看起来很有说服力但其实毫无意义的模式。他用棒球、气象、经济学、政治等各个领域的例子来说明这一点。最有意思的是他对'噪声'的定义，不是指那些坏数据，而是指所有随机的、不可预测的因素。很多预测失败不是因为我们用错了模型，而是因为我们没有意识到有多少事情根本就是随机的。他还讨论了贝叶斯定理在现实中的应用——很多人看到一个确诊的医学检查结果就以为自己要死了，但其实你需要考虑这个检查的准确率、你患病的基础概率等等。西尔弗的核心观点是：好的预测不是要给出一个数字，而是要理解不确定性。这对我们日常的决策很有启发——无论是投资、健康还是人生选择。",
+      "quotes": [
+        {
+          "text": "The signal is the truth. The noise is what distracts us from the truth. (信号是真相，噪声是让我们偏离真相的东西)",
+          "context": "西尔弗对整本书核心概念的定义，提醒我们在信息爆炸的时代要有辨别力"
+        },
+        {
+          "text": "Prediction is about trying to imagine what the future might look like. (预测就是试图想象未来可能是什么样的)",
+          "context": "强调预测的本质不是给出精确的数字，而是理解可能性和不确定性"
+        }
+      ]
+    },
+    {
+      "title_zh": "了不起的盖茨比",
+      "title_en": "The Great Gatsby",
+      "author_zh": "菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1925",
+      "category": "文学",
+      "one_liner": "一个出身低微的男人为了赢回失去的爱人，在纸醉金迷的1920年代编织了一个最终破碎的梦想。",
+      "deep_dive": "读《盖茨比》的时候，你会被金钱和奢华的描写震撼，但真正让你记住这部作品的是那些细节里的悲凉。盖茨比给人的第一印象就是成功——豪宅、豪车、奢华派对——但菲茨杰拉德慢慢让你看到，这一切都是为了一个女人黛西。这里最讽刺的是，盖茨比本人的内心世界其实很简单，他的所有行动都围绕着一个质朴的梦想：和黛西在一起。但问题在于，黛西已经属于别人，而且她本人可能根本配不上盖茨比为她编织的理想形象。尼克作为叙述者，慢慢发现了上流社会的虚伪——那些有钱人在道德上其实很廉价，他们伤害别人后只需要缩回他们的财富就可以了。整个故事的悲剧不仅在于盖茨比的爱情梦想破灭，更在于他发现黛西不过是个普通女人，而他为之献身的整个梦想——那个美国梦的化身——都建立在幻觉之上。这部1925年的小说为什么至今还这么打动人？因为它讲的不只是爱情，而是所有我们为之奋斗的梦想最终都可能只是一场虚幻。",
+      "quotes": [
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past. (所以我们奋力划行，如同一叶逆流而上的小舟，不停地被推回到过去)",
+          "context": "小说的最后一句话，深刻诠释了人类对过去的执念和梦想的脆弱本质"
+        },
+        {
+          "text": "I hope she'll be a fool — that's the best thing a girl can be in this world, a beautiful little fool. (我希望她是个傻子——那是女人在这个世界上最好的命运，一个美丽的小傻子)",
+          "context": "黛西母亲的话，反映了上流社会对女性的扭曲看法和道德危机"
+        },
+        {
+          "text": "The past cannot be repeated. (过去不能重复)",
+          "context": "盖茨比对尼克说的话，虽然他本人一生都在试图改变过去，最终认识到这个真理"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1518"
+}
