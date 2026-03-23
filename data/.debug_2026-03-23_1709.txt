@@ -1,0 +1,24 @@
+检查书单中的书籍...
+
+根据 daily-books 书单，我发现：
+
+✅ **《审判》**(*The Trial*) - 弗朗茨·卡夫卡 - 在书单中
+
+❌ **《千年难题》** - 不在书单中  
+相近的数学/科学书籍：
+- 《费马大定理》(*Fermat's Last Theorem*) - 西蒙·辛格
+- 《素数的音乐》(*The Music of the Primes*) - 马库斯·杜·索托伊
+- 《密码故事》(*The Code Book*) - 西蒙·辛格
+- 《从一到无穷大》(*One Two Three... Infinity*) - 乔治·伽莫夫
+
+❌ **《天才的拓荒者》** - 不在书单中  
+相近的传记/人物书籍：
+- 《别闹了，费曼先生》(*Surely You're Joking, Mr. Feynman!*) - 理查德·费曼
+- 《维特根斯坦传》(*Ludwig Wittgenstein: The Duty of Genius*) - 瑞·蒙克
+- 《我的几何人生》(*My Geometry of Life*) - 丘成桐
+- 《史蒂夫·乔布斯传》(*Steve Jobs*) - 沃尔特·艾萨克森
+
+**请选择：**
+1. 仅为《审判》生成推荐
+2. 从上面的建议中选择替换《千年难题》和《天才的拓荒者》的书籍
+3. 如果您确定这两本书的完整标题或英文名，我可以检查是否收录
