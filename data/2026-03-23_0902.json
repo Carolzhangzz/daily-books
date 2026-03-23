@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "怪诞行为学",
+      "title_en": "Predictably Irrational",
+      "author_zh": "丹·艾瑞利",
+      "author_en": "Dan Ariely",
+      "year": "2008",
+      "category": "科学与认知",
+      "one_liner": "揭露人类看似非理性决策背后的系统性规律",
+      "deep_dive": "你知道吗，我们常常以为自己很理性，但实际上我们的决策充满了有趣的漏洞。这就是《怪诞行为学》要讲的故事。作者丹·艾瑞利是行为经济学的大咖，他通过一个又一个聪明的实验，揭露了人类决策中那些看似无法解释的\"非理性\"模式——但其实这些模式是高度可预测的。\n\n比如，我们为什么对\"免费\"这个词有着病态的热爱？为什么买一样东西后就觉得它比实际价值更值钱？为什么我们在众人面前会做出不同的选择？这些不是你性格有问题，而是你的大脑在以特定的方式工作。艾瑞利通过实验证明，这些\"怪诞\"的行为其实遵循一套隐藏的规则。\n\n最妙的地方是，了解了这些规则后，你既能更好地理解自己和他人的行为，也能看清楚那些营销人员和设计师是怎样利用我们这些\"非理性\"弱点的。这不是在责备人类，而是在说：我们都有一种特定的精神软件，而一旦你知道了它的bug，你就能写出更好的代码。这本书对心理学、经济学、甚至日常生活决策都有深刻的启示。",
+      "quotes": [
+        {
+          "text": "The problem is that we don't decide about products we buy just based on our own preferences, but also in relation to these other products.",
+          "context": "说明了相对估值的力量——我们的决策往往受到环境中其他选项的影响，这解释了为什么同样的东西在不同背景下价值感不同。"
+        },
+        {
+          "text": "We are not rational decision makers in any absolute sense; rather, we make relative decisions.",
+          "context": "这是全书的核心论点，定义了\"可预测的非理性\"的本质，提醒我们人的理性是相对的而非绝对的。"
+        },
+        {
+          "text": "Most people would choose an item on sale because they think they're saving money.",
+          "context": "阐明了我们对\"折扣\"和\"省钱\"的非理性执迷，即使我们并不真正需要这件商品，这是消费心理的经典陷阱。"
+        }
+      ]
+    },
+    {
+      "title_zh": "重来",
+      "title_en": "Rework",
+      "author_zh": "杰森·弗里德、戴维·海涅迈尔·汉森",
+      "author_en": "Jason Fried & David Heinemeier Hansson",
+      "year": "2010",
+      "category": "商业与技术",
+      "one_liner": "颠覆传统商业智慧的创业宣言",
+      "deep_dive": "如果你读过那些厚厚的管理学教科书，《重来》会像一阵清风扫过。这本书来自Basecamp（原37signals）的创始人，他们用自己20多年的创业实践，挑战了几乎所有你听过的商业常识。\n\n想象一下：不融资、不烧钱、不招大量员工、不追求高增长——反而活得好好的，而且更自由。这听起来像是异想天开，但人家就是这么干的，而且还把这套方法论写成了书。书里的每一章都短小精悍，直指痛点。\"计划是猜测\"\"你不需要那些你认为自己需要的东西\"\"做一个有生命的产品而不是尸体\"——这些观点在一个到处是\"增长黑客\"\"融资融资融资\"的年代，显得特别珍贵。\n\n最棒的是，这本书不是在贩卖梦想，而是在说实话。创业很难吗？难。但为什么非要像疯子一样烧钱？为什么一定要追求估值而不是利润？这本书给了我们另一种想象。特别是对那些厌倦了硅谷套路的创业者来说，这是一剂解药。",
+      "quotes": [
+        {
+          "text": "Great companies start because the founders want to solve a problem they personally experience.",
+          "context": "强调了产品创新的真正源动力不是市场分析，而是创始人自己的真实需求，这是最纯粹的创业动力。"
+        },
+        {
+          "text": "Meetings are toxic. They're meetings in the sense that they try to cram lots of results into one sitting.",
+          "context": "对企业文化的一针见血的批评，指出许多公司浪费时间的根源在于过度的会议文化，这让团队效能大打折扣。"
+        },
+        {
+          "text": "Planning is guessing. You're sitting around trying to predict the future.",
+          "context": "挑战了传统的长期规划文化，主张在不确定的世界里应该更加灵活和快速迭代，而不是被陈旧的计划束缚。"
+        }
+      ]
+    },
+    {
+      "title_zh": "别闹了费曼先生",
+      "title_en": "Surely You're Joking, Mr. Feynman!",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard P. Feynman",
+      "year": "1985",
+      "category": "传记与回忆录",
+      "one_liner": "一位天才物理学家的非凡人生冒险记",
+      "deep_dive": "费曼是谁？诺贝尔物理学奖得主，现代物理学的奠基人之一。但读完这本书你会发现，他的传奇远不止学术成就。这是费曼自己讲述的故事，而且他讲得特别好——诙谐、坦诚、充满孩子般的好奇心。\n\n他在康奈尔大学破解保险柜、在洛斯阿拉莫斯实验室里用物理知识开汽车、在巴西教书时因为好奇去学习如何看蟾蜍（真的）、甚至还去脱衣舞俱乐部画画。这些故事之所以有趣，不只是因为它们离奇，而是因为它们展现了一种特殊的心态：永远对这个世界充满疑问，永远愿意去试，永远拒绝被规则框住。\n\n费曼本人对很多东西都有独特见解——关于教育、科学、艺术，甚至生活哲学。但最让人印象深刻的，是他那种\"我不知道\"的诚实，以及由此而来的无限好奇。在一个充满权威和确定性的世界里，费曼的故事提醒我们：最强大的状态，不是拥有所有答案，而是永远保持问问题的能力。",
+      "quotes": [
+        {
+          "text": "The first principle is that you must not fool yourself, and you are the easiest person to fool.",
+          "context": "费曼对科学精神和诚实的核心见解，也是他人生哲学的基础，对任何领域的追求真理都是最高警言。"
+        },
+        {
+          "text": "It's a wonderful problem they're working on. The more you know about something, the more interesting it becomes.",
+          "context": "体现了费曼对好奇心和学习的看法——知识越多，世界越有趣，这是终身学习者的宣言。"
+        },
+        {
+          "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
+          "context": "道出了科学精神的本质，也是费曼整个人生态度的写照，强调了提问的力量大于拥有确定的答案。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0902"
+}
