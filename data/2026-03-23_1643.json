@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "生命3.0",
+      "title_en": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author_zh": "马克·泰格马克",
+      "author_en": "Max Tegmark",
+      "year": "2017",
+      "category": "科学与认知",
+      "one_liner": "人工智能时代，人类如何重新定义自己的生命意义",
+      "deep_dive": "这本书让我想起科幻小说，但它讨论的全是我们当下正在面对的真问题。泰格马克是个物理学家，他用超清晰的逻辑把AI、宇宙、人类文明这几个看起来没关系的东西串起来。书的核心是他提出的\"生命3.0\"概念——这是一种既能改变硬件又能改变软件的生命形式，也就是说，能用文化和技术改造自己。他的论点很有意思：人类是生命2.0（能改软件但改不了硬件），而AI可能是生命3.0。这不是什么新鲜观点，但他论证的方式特别有说服力，会让你重新思考智能、意识、自由意志这些大问题。最有价值的是他对未来的多种可能情景的讨论——从美好的AGI共存，到各种失控的场景。读完这本书，你不会得到确定答案，但会更清楚该问自己什么问题。",
+      "quotes": [
+        {
+          "text": "Life is the only phenomenon in the known universe that can understand the universe.",
+          "context": "泰格马克认为理解是生命的核心特征，也是人类在宇宙中独特的价值所在"
+        },
+        {
+          "text": "The future is not something that will just happen—it's something we can shape through our choices today.",
+          "context": "强调了当下决策对于塑造AI未来的至关重要性，我们不是被动的观察者"
+        }
+      ]
+    },
+    {
+      "title_zh": "白鲸",
+      "title_en": "Moby-Dick; or, The Whale",
+      "author_zh": "赫尔曼·梅尔维尔",
+      "author_en": "Herman Melville",
+      "year": "1851",
+      "category": "文学",
+      "one_liner": "一个疯狂的船长对抗命运之鲸的终极悲剧",
+      "deep_dive": "有人说《白鲸》是美文学最伟大的作品，也有人说它是最难读完的书。我倾向同意两者都对。这不只是一个捕鲸的故事，而是关于执念、命运和人类如何对抗无法改变的宇宙的深层思考。船长亚哈为了追杀那条咬掉他一条腿的白鲸莫比·迪克，带着整艘船的人走向末日。梅尔维尔用了700多页详细描写捕鲸的细节、船员的故事、莎士比亚式的独白，让你既感受到海洋的壮阔和野蛮，也感受到人类在自然面前的渺小和疯狂。亚哈是个悲剧人物，他的执念既令人厌恶又令人同情。这本书的妙处在于，每个时代都能读出不同的含义——可以是对自然的敬畏，也可以是对人性执念的批判。书中那些关于命运、自由意志的段落至今还在影响着后来的哲学和文学讨论。",
+      "quotes": [
+        {
+          "text": "Call me Ishmael.",
+          "context": "小说最著名的开篇，这个叙述者的名字预示了他在这场悲剧中的旁观者身份，也成为了英文文学中最被引用的开头"
+        },
+        {
+          "text": "He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it.",
+          "context": "亚哈描述他对白鲸的仇恨和执念，展现了他已经不是在追捕一条鲸，而是在和命运本身搏斗"
+        }
+      ]
+    },
+    {
+      "title_zh": "看不见的森林",
+      "title_en": "The Forest Unseen: An Adventure in the Microecology of a Single Tree",
+      "author_zh": "大卫·乔治·哈斯凯尔",
+      "author_en": "David George Haskell",
+      "year": "2012",
+      "category": "自然与生态",
+      "one_liner": "一平方米的老生树，隐藏着整个森林的秘密",
+      "deep_dive": "这本书最棒的地方是它的角度——哈斯凯尔选了一棵老生树，每周回到同一个位置，用显微镜和裸眼观察那一平方米范围内发生的一切。听起来像科学家的田野笔记，但读起来像诗。他会写一只甲虫、一只蜘蛛、苔藓上的水珠、地里的菌丝网络，但每个观察都会延伸到宏大的生态学原理。书里有很多\"啊哈\"的时刻——比如那些你以为枯死的东西其实在进行着复杂的生命活动，或者看起来分离的生命其实通过无形的网络联系在一起。他的文笔特别好，能让你感受到森林的呼吸。最重要的是，这本书改变了你看森林的方式——不再是走马观花，而是能看到那些看不见的微观世界和深层联系。",
+      "quotes": [
+        {
+          "text": "The most profound ecological insights often come from the smallest scales.",
+          "context": "哈斯凯尔通过一平方米的观察发现，微观世界中蕴含着理解整个森林生态的钥匙"
+        },
+        {
+          "text": "Trees are not individuals; they are networks.",
+          "context": "揭示了森林中的真相——通过地下的菌丝网络，树木不是孤立的个体，而是一个相互联系的整体"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1643"
+}
