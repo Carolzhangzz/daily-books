@@ -1,3 +1,67 @@
 ```json
-{"date":"2026-03-23","books":[{"title_zh":"当下的力量","title_en":"The Power of Now","author_zh":"埃克哈特·托利","author_en":"Eckhart Tolle","year":"1997","category":"灵性成长/自我提升","one_liner":"生活在当下，放下对过去和未来的执着，找到内心的宁静","deep_dive":"这本书的核心观点听起来很简单，就是告诉你生活真正发生在当下这一刻。但托利要表达的深度远超想象。很多人都在心里反复嚼着过去的失败或遗憾，同时又担心着未来的种种不确定性，结果现在这一刻就被忽视了。他说我们大多数人的意识都被思维头脑控制了，已经习惯了分析、评判和焦虑，反而忘记了直接体验生活的感受。托利提出了一个关键概念叫\"自我\"，就是那个不停在脑子里自我对话的东西，它制造了大量的心理噪音和痛苦。要放下这些，就得开发所谓的\"本体意识\"——也就是观察思维，但不被它们绑架。书里有很多冥想和意识训练的方法，虽然有些确实有点玄学，但不少读者反馈这些练习真的对缓解焦虑很有帮助。这本书的影响力很大，尤其在推崇心理健康和正念冥想的今天，很多人都从中获得了心灵上的转变。","quotes":[{"text":"Realize deeply that the present moment is all you ever have.","context":"核心观点强调，唯有当下是真实存在的"},{"text":"You do not inhabit time, time inhabits you.","context":"关于人与时间关系的深刻思考"},{"text":"The present moment is filled with joy and peace. If you are not experiencing it, you are living in the past or projecting into the future.","context":"如果感受不到当下的美好，是因为心在别处"}]},{"title_zh":"深度学习","title_en":"Deep Learning","author_zh":"伊恩·古德费洛, 约书亚·本吉奥, 亚伦·库维尔","author_en":"Ian Goodfellow, Yoshua Bengio, Aaron Courville","year":"2016","category":"人工智能/机器学习","one_liner":"深度学习领域的圣经，从数学基础到实践应用的完整系统教科书","deep_dive":"这可能是AI领域最权威的教科书。三位作者都是深度学习领域的大牛，所以这本书的含金量相当高。说实话，这本书挺硬核的，不是轻松读物。它从最基础的数学开始讲起，涵盖线性代数、概率论、数值计算这些必备基础，然后逐步深入到神经网络的各种架构，比如卷积神经网络、循环神经网络、注意力机制等。每一章都既讲理论，也讲实现和应用。作者的目的就是让你真正理解深度学习为什么有效，而不仅仅是知道怎么调用库函数。书里还讨论了正则化、优化、生成模型等高级话题。缺点是对初学者可能有难度，需要扎实的数学基础。但如果你想系统地学习深度学习而不仅掌握技巧，这本书绝对值得花时间钻研。","quotes":[{"text":"Deep learning allows computational models composed of multiple processing layers to learn representations with multiple levels of abstraction.","context":"深度学习的本质定义和核心特征"},{"text":"Machine learning is essentially a form of applied statistics with increased emphasis on using computers to statistically estimate complicated functions.","context":"揭示机器学习的根本本质"},{"text":"The success of deep learning is based on multiple levels of representation, where higher levels of representation are defined in terms of lower levels.","context":"多层表征的重要性"}]},{"title_zh":"规模","title_en":"Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life","author_zh":"杰弗里·韦斯特","author_en":"Geoffrey West","year":"2017","category":"科学/复杂系统论","one_liner":"从生物体到城市、企业，揭示自然界和人类社会中普遍存在的规模法则","deep_dive":"韦斯特是圣塔菲研究所的前主任，这本书的视角真的挺独特。他用物理学和复杂系统科学的角度来观察从细胞、生物体、城市到公司这些看似毫不相关的系统，然后发现它们竟然都遵循相似的数学法则。比如代谢率随体型增加而增加，但速度不是线性的，而是有通用的指数法则。同样的模式也出现在城市的能耗、社会互动和经济产出上。这很有趣——大城市人口翻倍，但基础设施和能源消耗不需要翻倍，这就是为什么城市更高效。但同时城市也面临犯罪率、疾病传播更快的问题。书里还讨论了公司为什么会死、创新如何驱动增长、可持续性的本质。韦斯特的观点有时候很大胆，比如他对衰落的预测，这正是吸引人的地方——它让你换个视角看世界，发现那些你从未注意到的深层规律。","quotes":[{"text":"The greater the average density of social connections at all scales, the faster the rate of innovation and wealth creation.","context":"解释为什么大城市创新更快，为什么聚集产生价值"},{"text":"Companies, unlike cities, don't naturally renew themselves.","context":"关键洞察：为什么企业有生命周期而城市能持续进化"},{"text":"Life is a process that seems to violate the second law of thermodynamics, constantly creating order from chaos.","context":"生命的本质与宇宙基本法则的矛盾统一"}]}]}
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "影响力",
+      "title_en": "Influence: The Psychology of Persuasion",
+      "author_zh": "罗伯特·西奥迪尼",
+      "author_en": "Robert B. Cialdini",
+      "year": "1984",
+      "category": "心理学",
+      "one_liner": "揭示人类决策背后的六大心理学原则，说明为什么我们会被说服。",
+      "deep_dive": "这本书改变了我对说服的理解。西奥迪尼不是在教你怎么操纵别人，而是在解释为什么我们容易被说服——这很关键。他通过大量真实案例和实验，揭示了六个普遍的影响力原则：互惠、承诺与一致、社会认同、权威、喜好和稀缺性。\n\n比如互惠原则，当别人先对你好时，你自然而然会想回报。这不是什么高级技巧，而是人类社会的基础运作方式。权威原则解释了为什么医生说的话我们更信，为什么名人推荐能带货。稀缺性原则说明了为什么限时优惠总是有效——东西越难得，我们越想要。\n\n我最喜欢的地方是，西奥迪尼并没有把这些原则妖魔化，而是指出它们在日常生活中的合理应用。它既是一本防守手册（识别这些技巧，保护自己不被操纵），也是一本进攻指南（了解这些原则，更有效地沟通）。如果你在销售、营销、谈判或任何需要说服他人的领域工作，这本书是必读的。但更重要的是，它让你成为一个更聪明的消费者和决策者。",
+      "quotes": [
+        {
+          "text": "In general, when we are unsure, we tend to look to the actions and behavior of others to determine our own.",
+          "context": "解释了社会认同原则——当我们不确定时，会模仿他人的行为，这也是从众心理的来源。"
+        },
+        {
+          "text": "We like to say 'yes' to the people we like. And because of this, the prospect of uniformity can influence us a great deal.",
+          "context": "揭示了一致性原则，一旦我们承诺了某件事，我们会更容易继续这个承诺。"
+        }
+      ]
+    },
+    {
+      "title_zh": "梦的解析",
+      "title_en": "The Interpretation of Dreams",
+      "author_zh": "西格蒙德·弗洛伊德",
+      "author_en": "Sigmund Freud",
+      "year": "1900",
+      "category": "心理学",
+      "one_liner": "心理学奠基之作，通过解读梦境来探索人类无意识的深层欲望和冲突。",
+      "deep_dive": "这本书在1900年出版时就像一枚炸弹。弗洛伊德说梦不是无意义的，而是通往无意识的皇家之路——这个想法彻底改变了心理学。他认为梦是被压抑的欲望和冲突的伪装表现，通过梦的象征性语言，我们能窥探到自己真实的、有时候很黑暗的想法。\n\n书里充满了案例和自我分析。弗洛伊德分析了自己和患者的梦，展示了如何通过自由联想来破译梦的真实含义。他提出梦有'显性内容'（你记得的梦）和'隐性内容'（梦真正想表达的），中间通过一个'梦的运作'过程转换——压缩、移位、象征化。\n\n现在我们知道弗洛伊德的一些观点过时了，他对性和童年创伤的强调有时过头，但这不能否定他的开创性贡献。这本书建立了一个框架，让我们认识到心理生活的复杂性。即使你不同意他的所有结论，读这本书也能帮你更了解自己的内心世界。梦不只是脑子里的随机噪音，而是你内心想说的话。",
+      "quotes": [
+        {
+          "text": "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind.",
+          "context": "弗洛伊德对梦的功能的经典定义——梦是进入无意识世界的钥匙。"
+        },
+        {
+          "text": "Dreams are often most profound when they seem most crazy.",
+          "context": "强调了梦看起来越荒唐，其背后的心理含义可能就越深刻。"
+        }
+      ]
+    },
+    {
+      "title_zh": "树上的男爵",
+      "title_en": "The Baron in the Trees",
+      "author_zh": "伊塔洛·卡尔维诺",
+      "author_en": "Italo Calvino",
+      "year": "1957",
+      "category": "文学",
+      "one_liner": "一个贵族少年为了反抗父权而登上树木，在树上度过整个人生的奇幻冒险故事。",
+      "deep_dive": "我第一次读这本书时，被它的想象力迷住了。十二岁的柯西莫·皮奥瓦西尼因为一场家庭纠纷，一怒之下爬上树，然后……就再也没有下来。他在树木之间建立起一个平行的生活世界，种菜、读书、经历冒险，甚至参加了历史上真实的事件。\n\n表面上这是一个充满想象力的故事，但卡尔维诺在讲述的是什么是自由。柯西莫的选择看似疯狂——放弃地面上的一切舒适——但它也是最彻底的自由表达。他不受重力约束，也不受社会规范约束。树成了一个象征：逃离、独立、与众不同的坚持。\n\n故事由他的兄弟讲述，这个叙述方式很聪慧。随着年龄增长，我们看到柯西莫如何在树上建立了一个有原则的生活，如何帮助村民，如何经历爱情和失落。他没有变成一个隐士，而是以一种独特的方式与世界相连。这本书既轻盈又深刻，既是冒险故事也是哲学思辨。如果你曾经梦想过逃离什么，或者想知道自由究竟是什么样的，这本书会给你答案。",
+      "quotes": [
+        {
+          "text": "I desired the clouds.",
+          "context": "柯西莫解释为什么他选择住在树上——追求超越现实的理想和自由。"
+        },
+        {
+          "text": "The wood life was not escape, but a choice.",
+          "context": "强调了柯西莫的决定不是逃避，而是一种自觉的、有尊严的选择。"
+        }
+      ]
+    }
+  ]
+}
 ```
