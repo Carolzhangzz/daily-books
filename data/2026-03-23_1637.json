@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "艾希曼在耶路撒冷",
+      "title_en": "Eichmann in Jerusalem",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1963",
+      "category": "哲学",
+      "one_liner": "通过纳粹战犯审判，深刻剖析「平庸的邪恶」与人性的道德困境",
+      "deep_dive": "如果你想理解什么是「平庸的邪恶」，这本书是必读的。1961年，纳粹党卫军高级军官艾希曼被带到耶路撒冷接受审判。大家都期待看到一个面目狰狞的魔鬼，结果呢？艾希曼看起来就像一个再普通不过的官员——近视眼、有点秃头、说话平淡无奇。汉娜·阿伦特作为记者在庭审现场，对这个矛盾感到深深的震撼。\n\n这本书的核心在于一个可怕的发现：邪恶不一定来自疯狂或道德怪物，而往往源于思想的缺失。艾希曼所做的事——参与组织纳粹大屠杀——本应是人类历史上最黑暗的罪行。但他作为一个人却没有什么特别的。他只是在执行命令，不反思，不质疑，机械地做他被告知要做的事。这就是「平庸的邪恶」。\n\n阿伦特的分析激怒了很多人，特别是犹太人社群。但她真正想说的是：如果邪恶可以这么「平庸」，那任何人都可能成为艾希曼。这给了我们一个清醒的警告——不要觉得自己不可能做坏事，因为你只需要停止思考。这本书短小但深刻，改变了人们对权力、责任和人性的理解。",
+      "quotes": [
+        {
+          "text": "The sad truth is that most evil is done by people who never made up their minds to be either bad or good.",
+          "context": "平庸的邪恶的本质——不是源于坏人的邪念，而是源于人们拒绝做出道德选择和道德思考"
+        },
+        {
+          "text": "Conscience is the prerogative of the few, and the masses are guided by law.",
+          "context": "对人性的冷酷观察——大多数人不依靠个人良知，而是依赖外部法律和权威来指导行为"
+        },
+        {
+          "text": "No punishment has ever possessed enough power of deterrence to prevent the commission of crimes.",
+          "context": "对法律威慑力的反思，说明惩罚无法从根本上阻止邪恶的发生"
+        }
+      ]
+    },
+    {
+      "title_zh": "伦理学",
+      "title_en": "Ethics",
+      "author_zh": "巴鲁赫·斯宾诺莎",
+      "author_en": "Baruch Spinoza",
+      "year": "1677",
+      "category": "哲学",
+      "one_liner": "用几何学逻辑阐述人的欲望、理性与自由，重新定义道德与幸福的本质",
+      "deep_dive": "斯宾诺莎的《伦理学》是哲学史上最野心勃勃的著作之一。他用几何学的方式来阐述人的情感和理性，就像在推导一个数学定理一样——定义、公理、定理、证明。这听起来冷冰冰，但背后是一个深刻的哲学革命。\n\n传统的伦理学告诉你应该怎么做，而斯宾诺莎想要理解人为什么这样做。他认为人的所有行为都源于追求自我保存和完善。我们的欲望推动着我们，这不是什么神圣的道德法则，而是我们作为自然物体的基本特性。\n\n这本书最激进的地方在于，斯宾诺莎认为「自由」不是违反自然法则的能力，而是理解自然法则。当你真正理解了为什么事物如此运作，当你的行为由理性而非被动的情感驱动时，你就是自由的。好与坏都是相对的概念，源于我们的身体和心灵的组合。在17世纪，这简直是大不敬。但斯宾诺莎坚持写出了这部杰作，教会你用因果的眼光看待人性，摆脱道德虚伪，追求一种基于理性和自我认知的生活。",
+      "quotes": [
+        {
+          "text": "A free man thinks of nothing less than of death, and his wisdom is not a meditation on death but on life.",
+          "context": "斯宾诺莎的人生哲学——真正的智者不执着于死亡的恐惧，而是用全部生命力专注于充分地活着"
+        },
+        {
+          "text": "He who has a true idea simultaneously knows that he has a true idea, and cannot doubt of the truth of the thing perceived.",
+          "context": "关于认识论，说明真正的理解会自我验证，无需外部权威来确认其真理性"
+        },
+        {
+          "text": "All things, in so far as they are considered in themselves, are animate.",
+          "context": "斯宾诺莎泛神论思想的体现，认为存在本身就具有某种生命力和内在活力"
+        }
+      ]
+    },
+    {
+      "title_zh": "正念的奇迹",
+      "title_en": "The Miracle of Mindfulness",
+      "author_zh": "一行禅师",
+      "author_en": "Thích Nhất Hạnh",
+      "year": "1975",
+      "category": "哲学",
+      "one_liner": "通过日常正念冥想，发现生活中无处不在的奇迹，找到内心的平静与真正的自由",
+      "deep_dive": "一行禅师是20世纪最有影响力的灵性导师之一。这本薄薄的书写得像是朋友之间的对话，但它触及了一个你可能已经遗忘的真理——生活就在当下，奇迹无处不在，你只需要停下来看看。\n\n书的开头，一行禅师教你如何在洗碗时保持正念。没错，就是洗碗。他说，如果你在洗碗，就全心全意地洗碗。感受水的温度，肥皂的香气，盘子的光滑。这听起来很简单，但在你已经习惯于分心、多任务、不断刷手机的生活方式中，这简直是革命性的。\n\n一行禅师认为，我们大部分时间活在过去的悔恨或未来的焦虑中，错过了唯一真实的时刻——现在。而每当你回到当下，你就体验到所谓的「奇迹」。这不是超自然的奇迹，而是生活本身的奇迹——呼吸、微笑、享受一杯茶。这本书深受越南战争背景的影响。一行禅师看到了战争的苦难，却仍然相信灵性实践的力量，创立了「入世佛教」。正念因此不是逃避现实的工具，而是更好地面对和改变现实的方式。",
+      "quotes": [
+        {
+          "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+          "context": "一行禅师的中心观点——当下充满奇迹和喜悦，关键是我们是否保持觉知和专注"
+        },
+        {
+          "text": "Mindfulness is like that—it is the miracle by which we master ourselves and touch the Ultimate.",
+          "context": "正念被看作是连接日常生活与深层灵性境界的桥梁和修行工具"
+        },
+        {
+          "text": "Each moment is a chance for us to make peace with the world, to make peace with ourselves.",
+          "context": "强调每一刻都蕴含着改变、治愈与和解的可能性，正念让我们不错过这些机会"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1637"
+}
