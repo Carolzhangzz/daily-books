@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "数学与猜想",
+      "title_en": "Mathematics and Plausible Reasoning",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1954",
+      "category": "科学与认知",
+      "one_liner": "探索数学思维的启发式方法，揭示天才数学家如何通过猜想和直觉发现真理。",
+      "deep_dive": "这是一部关于数学思维的经典之作，分两卷讨论数学的探索过程。波利亚认为，数学不仅仅是严谨的逻辑证明，更是一个充满猜想、直觉和发现的创意过程。他通过大量例子展示了数学家如何提出假设、测试想法、改进策略——这些都不是教科书里的形式化演绎，而是更接近日常问题解决的方式。\n\n书中最精妙的部分是关于\"启发式方法\"的讨论。这不是什么神秘的技巧，而是一套可以学习的思维模式：类比、特殊化、一般化、向后工作、换个角度看问题。这些方法不仅适用于数学，还能帮你解决任何复杂问题。对于学生或想要理解数学思维本质的人来说，这本书改变了对数学的整个认知。它告诉你，数学不是天才的专属，而是一种可以训练的思维能力。无论你是在做纯数学研究还是解决现实世界的问题，掌握这些启发式方法都会让你的思维更灵活、更有创意。",
+      "quotes": [
+        {
+          "text": "A problem is a device for inducing active thought.",
+          "context": "波利亚强调了问题在数学思维中的核心作用，不是为了得到答案，而是为了激发思考过程"
+        },
+        {
+          "text": "The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas like the colours or the words, must fit together in a harmonious way.",
+          "context": "将数学与艺术相比较，说明数学的美不在于其实用性，而在于其内在的和谐与优雅"
+        },
+        {
+          "text": "If you wish to learn mathematics, what you have to do is to understand the examples.",
+          "context": "强调通过具体例子而非抽象规则来学习数学的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "日本侘寂：无常之美",
+      "title_en": "Wabi-Sabi: The Japanese Art of Impermanence",
+      "author_zh": "安德鲁·琼普",
+      "author_en": "Andrew Juniper",
+      "year": "2003",
+      "category": "艺术与美学",
+      "one_liner": "解读日本最深层的美学哲学，在残缺、衰老和不完美中发现禅意的寂静美。",
+      "deep_dive": "侘寂(wabi-sabi)是日本美学中最难用西方语言表达的概念，但这本书用英文和大量的视觉例子把它讲活了。简单说，侘寂就是：不完美、不永恒、不完全就是美的。一个老陶碗的裂纹、苔藓覆盖的石头、枯枝上的露珠——这些东西在西方审美里可能是\"破损\"或\"衰败\"，但在日本文化中，它们却表达了生命的真实状态和禅宗的智慧。\n\n这个概念深深植根于日本的自然观和佛教影响：万物无常，所有美都是短暂的，正是这种短暂性和不完美，让我们能够更真切地感受生命。侘寂出现在茶道、园林设计、陶艺、诗歌中——它不是一种装饰风格，而是一种生活哲学。读完这本书，你会开始以全新的眼光看待日常的破旧、沧桑和衰变，发现其中蕴含的深层的、宁静的美。对于被完美主义和物质消费文化困扰的现代人来说，侘寂是一次精神解放，是对\"够好\"的肯定，是对转瞬即逝之物的温柔拥抱。",
+      "quotes": [
+        {
+          "text": "Wabi-sabi nurtures all that is humble, all that is hidden, all that is impermanent.",
+          "context": "侘寂的核心定义，它不追求华丽和永恒，而是拥抱谦逊、隐蔽和无常"
+        },
+        {
+          "text": "To understand wabi-sabi is to understand the Japanese soul.",
+          "context": "侘寂不仅是美学原则，更是日本文化和精神世界的核心"
+        },
+        {
+          "text": "The beauty that is wabi-sabi cannot be explained. It must be experienced.",
+          "context": "强调侘寂的体验性而非理论性，需要用感受而非理性来领悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "爱的艺术",
+      "title_en": "The Art of Loving",
+      "author_zh": "埃里希·弗洛姆",
+      "author_en": "Erich Fromm",
+      "year": "1956",
+      "category": "心理学",
+      "one_liner": "一位人文主义心理学家对爱的本质的深刻思考，摧毁关于爱的幻觉，指向真正的爱。",
+      "deep_dive": "弗洛姆在这本小而精的书里，对我们最常见的爱的误解进行了温和但坚定的批评。许多人认为爱是一种感觉，是被动降临的，是掉进去就完了。但弗洛姆说，爱其实是一种能力，更准确地说，是一种实践——就像音乐或绘画一样，需要学习、训练和不断的努力。\n\n他区分了各种爱的形式：母爱的无条件接纳、父爱的有条件的认可、兄弟之爱的平等关怀、自爱的基础、性爱的深度融合。但最重要的，他论证了真正的爱的基础是什么：不是激情，不是浪漫，而是对他人的真实了解、对其完整人格的尊重，以及持续的选择——选择去爱，每一天都重新选择。这就是为什么许多人的爱情最后失败了，不是因为感觉消退，而是因为他们从未真正学会爱。这本书很薄，却能改变一个人对爱的全部理解，值得反复阅读。爱不是浪漫喜剧中的宿命，而是一个理性的、需要担当的、需要不断练习的功课。",
+      "quotes": [
+        {
+          "text": "Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the whole world.",
+          "context": "弗洛姆把爱定义为一种基本的生活态度，而非仅仅指向某一个人的情感"
+        },
+        {
+          "text": "To love somebody is not just a strong feeling – it is a decision, it is a judgment, it is a promise.",
+          "context": "强调爱的本质是主动的承诺和选择，而非被动的情感"
+        },
+        {
+          "text": "The deepest need of man is the need to overcome his separateness, to leave the prison of his aloneness.",
+          "context": "爱的根本动力来自人类克服孤独、寻求连接的深层需求"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1724"
+}
