@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "安德的游戏",
+      "title_en": "Ender's Game",
+      "author_zh": "奥森·斯科特·卡德",
+      "author_en": "Orson Scott Card",
+      "year": "1985",
+      "category": "科幻小说",
+      "one_liner": "一个天才少年在虚拟战争中拯救人类，却陷入深刻的道德困境。",
+      "deep_dive": "这部作品绝了，它看似是科幻冒险，实际是对道德底线的终极拷问。安德6岁被送入太空战斗学院，在虚拟游戏中进行军事训练。卡德的高明之处在于：故事表面紧张刺激，但真正的冲突发生在你的心里。你会逐渐意识到，为了拯救人类而牺牲一个孩子的童年和心灵，这个代价是否合理？当结局的真相揭晓时，那种被击中的感觉是无法形容的。书里没有简单的英雄，只有不同立场的人都在为生存做出选择。它强迫你思考：什么叫正义？什么叫胜利？什么是我们不能为了目标而跨越的底线？这部作品已经成为科幻文学的经典，不仅因为它的想象力，更因为它的人性洞察。读完它，你对「英雄」这个词的理解会完全改变。",
+      "quotes": [
+        {
+          "text": "In the moment when I truly understand my enemy, I also love him.",
+          "context": "安德对对手产生深刻同情，揭示了同理心与战争的悖论"
+        },
+        {
+          "text": "Ender, the man, knew how it had been. Andrew, the boy, did not.",
+          "context": "少年与成人视角的分裂，暗示真相被隐瞒的悲剧"
+        }
+      ]
+    },
+    {
+      "title_zh": "月亮与六便士",
+      "title_en": "The Moon and Sixpence",
+      "author_zh": "毛姆",
+      "author_en": "W. Somerset Maugham",
+      "year": "1919",
+      "category": "文学小说",
+      "one_liner": "平凡的伦敦证券交易员放弃一切去追求艺术，却在成功中伤害了所有人。",
+      "deep_dive": "毛姆这部作品用看似平凡的故事讲出了最深刻的人性困境。主人公斯特里克兰德突然离开妻子儿子和舒适的生活，去巴黎成为画家。这个故事看起来浪漫，但毛姆要问的是个更扎心的问题：如果实现梦想的代价是毁掉别人的人生，这个梦想还值得追求吗？最讽刺的是，斯特里克兰德确实成为了伟大的艺术家，但他是个不折不扣的混蛋。他背弃妻子、伤害朋友、剥削恩人。毛姆的高明之处在于他不给你答案，而是让你在阅读中陷入两难：你既无法否定艺术的价值，又无法原谅为此伤害他人的行为。这部书戳中了我们内心最深的矛盾——对自由的渴望与对责任的承诺永远无法完美调和。它让你思考自己的人生选择：为了梦想，你愿意付出什么代价？",
+      "quotes": [
+        {
+          "text": "It is a dangerous thing to order the universe according to the ideas of one man.",
+          "context": "警示绝对的艺术追求可能导致的自我中心与伤害"
+        },
+        {
+          "text": "The tragedy of life is not that man loses but that he almost wins.",
+          "context": "毛姆对人生悲剧的终极洞察——接近成功反而深化痛苦"
+        }
+      ]
+    },
+    {
+      "title_zh": "人工智能简史",
+      "title_en": "A Brief History of Artificial Intelligence",
+      "author_zh": "迈克尔·伍尔德里奇",
+      "author_en": "Michael Wooldridge",
+      "year": "2021",
+      "category": "科技历史",
+      "one_liner": "从达特茅斯会议到深度学习，解读AI真实发展脉络与现实局限。",
+      "deep_dive": "想理解AI真实历史而不是媒体炒作？伍尔德里奇这本书是最好的入门。他是AI领域真正的内行人，这本书最厉害的地方在于它既不神话AI，也不妖魔化AI，而是用平实的叙述展现AI真实的起伏过程。从1956年达特茅斯夏季研讨会的乐观，到60-70年代的AI冬天，再到深度学习改变游戏规则，每一步都讲得清清楚楚。更重要的是，他不仅讲技术突破，还讲背后的思想转变和人物故事，让你理解为什么AI研究者在不同时期的乐观和失望是合理的。伍尔德里奇还很坦诚地讲AI的局限：现在的AI系统其实是特定领域的工具，不是什么通用的智能。这本书最大的价值是让你具备「知识性怀疑」——既然AI历史上多次过度承诺，那么现在关于AI的宏大叙述值不值得相信？这种批判性思维对在AI时代做决策太重要了。",
+      "quotes": [
+        {
+          "text": "The history of artificial intelligence is a history of over-promising and under-delivering.",
+          "context": "对AI多次夸大承诺的历史教训的冷静总结"
+        },
+        {
+          "text": "The notion that AI must be human-like to be intelligent is perhaps humanity's most persistent and expensive mistake.",
+          "context": "警示盲目追求拟人化是AI研究的误区"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1038"
+}
