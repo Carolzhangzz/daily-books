@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "数论导引",
+      "title_en": "An Introduction to the Theory of Numbers",
+      "author_zh": "哈代、赖特",
+      "author_en": "G.H. Hardy, E.M. Wright",
+      "year": "1938",
+      "category": "数学",
+      "one_liner": "从整数的秘密开始，通往数学最纯粹的领地",
+      "deep_dive": "这本书真的是数学世界里的瑰宝。你想啊，整数就在我们身边，再简单不过了，但要深入理解整数的性质，需要非常严谨的思维。Hardy和Wright这两位大师，用最清晰、最优雅的方式，带你进入数论的殿堂。从最基础的整除概念开始，一步步推进到素数分布、二次互反律这样的深层奥秘。这本书最妙的地方在于，它既严格得不容妥协，又充满了数学的美感。每一个定理都像一个精心打磨的艺术品。无论你是数学爱好者还是专业研究者，读这本书都能感受到那种'啊，原来如此'的顿悟感。它不仅教你数学知识，更重要的是教你如何像数学家一样思考。那些看似枯燥的证明，其实都在讲述整数世界里最深刻的故事。",
+      "quotes": [
+        {
+          "text": "Beauty is a first test: there is no permanent place in the world for ugly mathematics.",
+          "context": "Hardy在序言中表达的对数学美的追求，体现了数论研究的精神内核"
+        },
+        {
+          "text": "The theory of primes is more and more important in mathematics.",
+          "context": "指出素数理论的核心重要性，这也是本书探讨的中心话题"
+        }
+      ]
+    },
+    {
+      "title_zh": "第五项修炼",
+      "title_en": "The Fifth Discipline: The Art & Practice of The Learning Organization",
+      "author_zh": "彼得·圣吉",
+      "author_en": "Peter M. Senge",
+      "year": "1990",
+      "category": "组织管理/系统思维",
+      "one_liner": "系统思维如何让组织和个人从被动的旁观者变成主动的创造者",
+      "deep_dive": "现代社会的问题越来越复杂，为什么我们总是陷入困境？圣吉告诉你，因为我们的思维还停留在线性因果的阶段。这本书的核心就是系统思维，它像一双新的眼镜，让你能看到隐藏在表面现象背后的深层结构。第五项修炼包括五个方面：自我超越、改善心智模式、建立共同愿景、团队学习和系统思维。最妙的是，这不是空谈理论，而是实实在在的管理工具。你会发现，很多组织的问题不是执行不力，而是根本没看清问题的本质。比如，一个企业的销售下滑，表面看是营销问题，但系统思维告诉你，可能是供应链的反馈延迟导致的。学完这本书，你会发现自己开始用完全不同的角度看待工作和生活中的各种现象，那些曾经令人困惑的事情，忽然就有了因果关系。",
+      "quotes": [
+        {
+          "text": "The fundamental reality today is that we are increasingly interlocking in systems that transcend our ability to control.",
+          "context": "强调了现代世界复杂性和系统相互联系的重要性，说明为什么需要系统思维"
+        },
+        {
+          "text": "The most powerful learning comes from direct experience.",
+          "context": "论述学习的来源，体现了学习型组织建立的基础理念"
+        }
+      ]
+    },
+    {
+      "title_zh": "卡夫卡传",
+      "title_en": "Kafka: The Decisive Years",
+      "author_zh": "莱纳·施塔赫",
+      "author_en": "Reiner Stach",
+      "year": "2005",
+      "category": "传记/文学评传",
+      "one_liner": "一个普通的犹太青年如何成为了20世纪最神秘的文学大师",
+      "deep_dive": "读卡夫卡的作品就像进入一个迷宫，充满了荒诞、孤独和无力感。但你有没有想过，这些作品是怎么来的？施塔赫的这部传记就像一把钥匙，打开了卡夫卡内心世界的门。他的人生啊，说起来就是那句话：平凡得不能再平凡，却闪耀着不可名状的光芒。卡夫卡在保险公司的办公室里工作，过着循规蹈矩的日子，但在纸张上，他却创造了一个又一个令人窒息的世界。他与父亲的关系、与女性的感情纠葛、他的疾病和焦虑，所有这些都在他的作品中投射出来。这部传记最珍贵的地方在于，它不仅讲述了卡夫卡'做了什么'，更深入到了'他为什么这样做'。你会看到一个真实的卡夫卡：敏感、自我怀疑、充满矛盾，但正是这些矛盾和痛苦，孕育了那些永恒的文学作品。读完之后，你再看《审判》和《变身》，就会有完全不同的理解。",
+      "quotes": [
+        {
+          "text": "I am apart from mankind, not through any kinship with the higher powers, but through being alone.",
+          "context": "卡夫卡对自己孤独本质的深刻认识，这种孤独感贯穿了他的整个创作生涯"
+        },
+        {
+          "text": "Writing is a form of prayer.",
+          "context": "揭示了写作对卡夫卡的深刻意义——它不仅是表达，更是一种精神救赎"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1711"
+}
