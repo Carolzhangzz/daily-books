@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "身体从未忘记",
+      "title_en": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+      "author_zh": "范德科尔克",
+      "author_en": "Bessel van der Kolk",
+      "year": "2014",
+      "category": "心理学",
+      "one_liner": "揭示创伤如何改写大脑和身体，以及我们如何从深层创伤中恢复。",
+      "deep_dive": "你有没有过这种经历——身体好像记得某些事情，比脑子还清楚？比如闻到某个气味就突然心跳加速，或者在某个场景中莫名其妙地僵硬？范德科尔克的这本书就在回答为什么会这样。他花了几十年研究创伤患者，发现了一件很深刻的事：当我们经历极端压力或创伤时，不光是心理受影响，大脑和身体的结构都会改变。\n\n书里讲的是脑科学最前沿的发现。他解释了为什么创伤患者经常\"卡住\"，为什么传统的谈话疗法有时候不太管用——因为创伤是被存储在身体里的，不只是记忆里。他还介绍了各种治疗方法，从瑜伽到眼动脱敏，从神经生物反馈到集体仪式，每一种都有科学依据。\n\n这不只是一本心理学书，更像是一本\"身体健康手册\"。如果你或你身边的人经历过重创，想理解创伤的本质，这本书会给你全新的视角。关键是，范德科尔克告诉我们，恢复是可能的——但方式可能和你想的完全不一样。",
+      "quotes": [
+        {
+          "text": "The body keeps the score: If the memory of trauma is encoded in the viscera, in sensations in the body, then the natural implication is that it can be resolved through the body.",
+          "context": "这句话概括了整本书的核心思想，创伤不仅在大脑中，更在身体里，需要通过身体来治愈。"
+        },
+        {
+          "text": "Being able to feel safe with other people is probably the single most important aspect of mental health; safe relationships are fundamental to meaningful recovery from trauma.",
+          "context": "强调了人际连接和安全关系对创伤恢复的关键作用，这是创伤愈合的基础。"
+        }
+      ]
+    },
+    {
+      "title_zh": "服从权威",
+      "title_en": "Obedience to Authority: An Experimental View",
+      "author_zh": "米尔格拉姆",
+      "author_en": "Stanley Milgram",
+      "year": "1974",
+      "category": "社科与历史",
+      "one_liner": "通过经典心理学实验揭示普通人如何在权威压力下伤害他人。",
+      "deep_dive": "如果我告诉你，大多数普通人在某个权威人士的命令下，会电击一个无辜的人，你会相信吗？这就是米尔格拉姆在1960年代做过的实验，结果震惊了整个心理学界——也应该震惊每一个读这本书的人。\n\n米尔格拉姆本想证明德国人特别容易服从，来解释二战时期的大屠杀。但实验结果让他自己都吓到了：65%的美国志愿者被要求电击他人时，会一直按下开关直到最高强度，即使\"受害者\"在尖叫。他们并不是变态，而是普通人——教师、医生、工厂工人。\n\n这个实验之所以可怕，不是因为参与者多坏，而恰恰相反。它说明了一个冷酷的真相：在合适的条件下，任何人都可能变成伤害他人的工具。权威的声音加上制度框架，就能让人放弃自己的道德判断。每章都配有详细的实验记录和参与者的反应，读起来像悬疑小说一样紧张。",
+      "quotes": [
+        {
+          "text": "The legal and philosophic status of obedience is uncertain. When the experimenter says 'You must continue,' the subject faces a conflict between the legitimate authority of the experimenter and the demands of conscience.",
+          "context": "揭示了服从与道德之间的终极冲突，是整本书探讨的核心矛盾。"
+        },
+        {
+          "text": "I observed a mature and initially poised businessman enter the laboratory smiling and confident. Within 20 minutes he was reduced to a twitching, stuttering wreck, who was rapidly approaching a point of nervous collapse.",
+          "context": "米尔格拉姆对一位参与者的观察，展示了实验对普通人心理的深刻摧毁。"
+        }
+      ]
+    },
+    {
+      "title_zh": "判断力批判",
+      "title_en": "Critique of Judgment",
+      "author_zh": "康德",
+      "author_en": "Immanuel Kant",
+      "year": "1790",
+      "category": "哲学",
+      "one_liner": "探索美学和目的论如何连接理性与感性，解释人类如何判断美与崇高。",
+      "deep_dive": "康德这本书很有意思，它不像他的其他著作那么枯燥。他在问一个简单但深刻的问题：我们为什么会觉得某样东西美？当你看到一朵花或听到音乐时，那种\"啊，太美了\"的感受从哪来？\n\n康德说，美既不是客观的（不是花本身有美），也不是纯主观的（不是\"我喜欢就是美\"）。而是存在于一个特殊的区间——人类的共通感。也就是说，美是一种不带目的的\"目的感\"。当我们欣赏美的东西时，我们在享受的是形式本身，而不是它能拿来干什么。\n\n这本书还讨论了\"崇高\"(sublime)——那种既美妙又有点可怕的感受。比如站在悬崖边看大海，或者仰望星空时的那种感受。康德认为这是我们在面对无限和无法理解的事物时，理性对我们的一种启示。最有趣的部分是，康德用美学来解释生命的意义，说明有机物似乎有某种内在的目的，这深刻影响了之后的浪漫主义和生物学。",
+      "quotes": [
+        {
+          "text": "Beauty is the form of finality in an object, so far as this is perceived in it apart from the representation of an end.",
+          "context": "康德对美的本质的经典定义，指出美是一种无目的的目的性，是整本书的哲学基础。"
+        },
+        {
+          "text": "Genius is the innate mental disposition through which nature gives the rule to art.",
+          "context": "康德关于天才的论述，认为天才是一种天赋能力，使艺术家能够创造出超越规则的作品。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1609"
+}
