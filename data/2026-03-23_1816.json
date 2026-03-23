@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "穷查理宝典",
+      "title_en": "Poor Charlie's Almanack",
+      "author_zh": "查理·芒格",
+      "author_en": "Charlie Munger",
+      "year": "2005",
+      "category": "商业与技术",
+      "one_liner": "股神巴菲特的搭档查理·芒格的智慧合集，汇聚他几十年来的投资理念和人生哲学",
+      "deep_dive": "这本书其实不是芒格自己写的，而是他演讲、采访和信件的精选集合。如果你只知道巴菲特，那就太遗憾了——芒格才是那个在暗处指导伯克希尔·哈撒韦走向伟大的人。这本书最让人印象深刻的不是什么高深的投资理论，而是芒格的思维方式。他不会告诉你买什么股票，而是教你怎么思考。他强调的是\"多元思维模型\"，意思是你要从物理学、心理学、历史、数学等各个学科借鉴智慧，而不是只靠单一的经济学视角看世界。书里充满了他对人类常见认知偏差的犀利观察——为什么我们总是被骗？因为我们的大脑天生就容易被欺骗。他还讲了一个最让人醍醐灌顶的建议：如果你想赚大钱，别去想怎么变富有，先想怎么活得最充实、最聪明。这听起来像鸡汤，但从一个快活了一百岁还在投资赚钱的人嘴里说出来，就变成了智慧。无论你是投资者、创业者还是普通人，这本书都会改变你对决策的看法。",
+      "quotes": [
+        {
+          "text": "The big money is not in the buying and selling, but in the waiting.",
+          "context": "大笔的钱不是来自买卖，而是来自等待。说的是投资要有耐心，但其实也适用于人生的任何重要决策。"
+        },
+        {
+          "text": "Invert, always invert.",
+          "context": "反向思考。不要只想怎么成功，先想怎么失败，然后反过来做。这可能是整本书最实用的建议。"
+        },
+        {
+          "text": "The best thing a human being can do is to help another human being know more.",
+          "context": "一个人能做的最好的事就是帮助另一个人了解更多。芒格重视学习和分享知识，这也是他财富背后的真正秘诀。"
+        }
+      ]
+    },
+    {
+      "title_zh": "动物农场",
+      "title_en": "Animal Farm",
+      "author_zh": "乔治·奥威尔",
+      "author_en": "George Orwell",
+      "year": "1945",
+      "category": "文学",
+      "one_liner": "一部讽刺寓言，通过农场动物的起义和堕落，揭示权力如何腐蚀理想",
+      "deep_dive": "这是一部虽然看起来简单，但越想越害怕的小说。故事很简单：一群农场动物推翻了人类的统治，建立了一个\"所有动物生来平等\"的乌托邦。但随着时间推移，领导这场革命的猪们逐渐变成了新的压迫者，最后甚至变得跟人类一样坏。看起来像是对苏联革命的寓言——这也是奥威尔的本意——但问题是，这个故事永远都在重演。每次有人承诺要创造一个更公正、更平等的世界，最后权力就开始腐蚀一切。书里最绝望的一幕是动物们看着猪和人类坐在一起打牌，已经分不清哪些是猪哪些是人了。短短不到一百页，奥威尔用最少的笔墨戳穿了革命、理想主义和权力的真相。它不仅是对极权主义的警告，更是对我们每个人的警告：当你掌握权力时，你会不会也走向堕落？这本书之所以至今不过时，就是因为它触及的是人性，而不是某个特定的政治制度。",
+      "quotes": [
+        {
+          "text": "All animals are equal, but some animals are more equal than others.",
+          "context": "所有动物生来平等，但有些动物比其他动物更平等。这句话讽刺了所有打着平等旗号却制造不平等的体制。"
+        },
+        {
+          "text": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+          "context": "在结尾，动物们已经分不清猪和人的区别了。这是整部书最绝望的时刻，象征着理想的彻底破灭。"
+        },
+        {
+          "text": "Power tends to corrupt, and absolute power corrupts absolutely.",
+          "context": "权力倾向于腐蚀，绝对权力绝对腐蚀。这个观点贯穿整部作品，提醒我们要警惕权力的危害。"
+        }
+      ]
+    },
+    {
+      "title_zh": "费马大定理",
+      "title_en": "Fermat's Last Theorem",
+      "author_zh": "西蒙·辛格",
+      "author_en": "Simon Singh",
+      "year": "1997",
+      "category": "数学与逻辑",
+      "one_liner": "一段跨越三百多年的数学冒险，讲述如何最终证明了费马留下的一个看似简单却困难无比的猜想",
+      "deep_dive": "如果你以为数学书一定很枯燥，这本书会颠覆你的想象。费马大定理本身听起来再简单不过：有没有三个正整数的立方和等于另一个正整数的立方？也就是说，方程 x³ + y³ = z³ 有没有正整数解？费马在1637年断言：没有。但他只留了一句话：\"我找到了一个妙不可言的证明，但这边距太窄了，写不下。\"然后就死了，留给数学家们三百多年的折腾。这不是单纯的数学史，而是一部悬疑小说。书里有天才数学家为了证明这个定理奉献了半生，有人因为执念得了精神疾病，还有各种死胡同和转机。真正的转折点来自一个叫安德鲁·怀尔斯的英国数学家，他在1995年终于给出了证明——用了所有费马当年想不到的现代数学工具。最感人的是，怀尔斯小时候在图书馆读到费马大定理，就决定要用一生去解决它，最后真的做到了。这本书证明了一个事实：最伟大的发现不是来自聪明，而是来自执着和热爱。",
+      "quotes": [
+        {
+          "text": "I have discovered a truly marvelous proof of this, which this margin is too small to contain.",
+          "context": "费马留下的那句神秘话，让无数数学家为之痴迷。它代表了所有未解之谜对人类的诱惑。"
+        },
+        {
+          "text": "Fermat's Last Theorem states that no three positive integers x, y, and z can satisfy the equation xⁿ + yⁿ = zⁿ for any integer value of n greater than 2.",
+          "context": "这是费马大定理的正式陈述。看似简单的方程，却花了350年才被证明，见证了数学的魅力和人类的执着。"
+        },
+        {
+          "text": "Nothing I ever do again will mean as much.",
+          "context": "安德鲁·怀尔斯在证明费马大定理后说的话。这句话道出了一个数学家穷尽一生所为的意义。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1816"
+}
