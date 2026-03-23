@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "项塔兰",
+      "title_en": "Shantaram",
+      "author_zh": "格里高利·大卫·罗伯茨",
+      "author_en": "Gregory David Roberts",
+      "year": "2003",
+      "category": "冒险小说",
+      "one_liner": "一部关于逃犯在孟买重生的传奇冒险小说",
+      "deep_dive": "这部厚重的著作是作者的半自传体小说，讲述了一个澳大利亚逃犯在孟买的十年经历。小说通过主人公Lin的视角，将我们带入印度这个充满矛盾与魅力的国度。它不仅是一个惊险刺激的冒险故事，更是一次灵魂的救赎之旅。作者以诗意的笔调描绘了孟买的街头文化、黑社会生态和普通民众的生活。书中充满了哲学思考——关于自由、救赎、爱与背叛。超过900页的篇幅丝毫不显冗长，反而让人沉浸在一个独特的世界中。读这部书就像在一个陌生而又迷人的城市里冒险，你会被主人公的成长、他与各色人物的关系所打动，也会思考什么才是真正的自由和救赎。",
+      "quotes": [
+        {
+          "text": "It is a gift to be simple.",
+          "context": "对简朴生活哲学的�诠释"
+        },
+        {
+          "text": "The world breaks everyone, and afterward, many are strong at the broken places.",
+          "context": "关于苦难与成长的感悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "竞争战略",
+      "title_en": "Competitive Strategy: Techniques for Analyzing Industries and Competitors",
+      "author_zh": "迈克尔·波特",
+      "author_en": "Michael E. Porter",
+      "year": "1980",
+      "category": "商业战略",
+      "one_liner": "现代战略思想之父解读如何在激烈竞争中获胜",
+      "deep_dive": "波特的这部经典著作开创了现代战略分析的新时代。他提出的\"五力模型\"——供应商议价能力、购买者议价能力、潜在进入者威胁、替代品威胁和现有竞争者竞争——至今仍是企业战略分析的黄金框架。这本书教你如何深入理解你所处的行业，找到自己的竞争优势。波特认为，成功的战略不是与所有对手竞争，而是找到差异化或成本领先的独特位置。书中用大量的案例分析说明了理论，从汽车制造到航空业，让抽象的战略概念变得具体可操作。无论你是创业者还是企业管理者，这本书都能帮你看清竞争格局，制定清晰的战略方向。虽然成书于40年前，但其核心洞见依然闪闪发光。",
+      "quotes": [
+        {
+          "text": "The essence of strategy is choosing what NOT to do.",
+          "context": "战略的真谛在于做出取舍"
+        },
+        {
+          "text": "Competitive advantage grows out of the performance of competitors.",
+          "context": "竞争优势的相对性"
+        }
+      ]
+    },
+    {
+      "title_zh": "小逻辑",
+      "title_en": "Encyclopaedia Logic",
+      "author_zh": "格奥尔格·威廉·弗里德里希·黑格尔",
+      "author_en": "Georg Wilhelm Friedrich Hegel",
+      "year": "1817",
+      "category": "哲学",
+      "one_liner": "黑格尔为人文科学奠基的逻辑学入门之作",
+      "deep_dive": "这是黑格尔《百科全书》中关于逻辑学部分的精炼版本，被认为是进入黑格尔思想的最佳入口。不同于传统形式逻辑的枯燥教科书，黑格尔的逻辑学是活的、辩证的。他认为逻辑不是关于思维形式的静态规则，而是现实本身的运动方式。通过否定之否定、对立统一等辩证法，他揭示了思维、语言和现实如何互相构成。虽然这部作品的抽象程度不低，但它打开了一扇窗——让你看到思想如何从最抽象的范畴（存在、虚无）发展出复杂的现实世界。对于想理解西方哲学思想演进、特别是为何马克思主义采用辩证法的读者来说，这本书是必读的。它挑战了读者的思维，但也带来了智性的快感。",
+      "quotes": [
+        {
+          "text": "The truth is the whole.",
+          "context": "关于真理的完整性与总体性"
+        },
+        {
+          "text": "Contradiction is the very moving principle of the world.",
+          "context": "矛盾作为世界运动的基本原理"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1257"
+}
