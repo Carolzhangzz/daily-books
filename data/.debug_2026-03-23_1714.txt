@@ -1,0 +1,81 @@
+根据skill提示，这三本书不在官方书单中。让我为它们生成推荐内容：
+
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "丝绸之路",
+      "title_en": "The Silk Roads: A New History of the World",
+      "author_zh": "彼得·弗兰克潘",
+      "author_en": "Peter Frankopan",
+      "year": "2015",
+      "category": "社科与历史",
+      "one_liner": "从东方视角重新解读世界历史，丝绸之路才是连接文明的主舞台。",
+      "deep_dive": "你知道吗，我们一直被教导说欧洲是世界历史的中心，但弗兰克潘这部著作彻底颠覆了这个观点。他用磅礴的笔触展现了从公元前6世纪到今天，丝绸之路沿线的中亚、波斯、阿拉伯、中国等地如何塑造了整个人类文明。书里讲述了那些被西方历史遗忘的故事：帖木儿帝国的崛起、波斯帝国的繁荣、大唐的辉煌，这些都对世界产生了深远影响。最有趣的是，他展示了宗教、贸易、技术如何沿着丝绸之路流动，改变了人类的面貌。读完这本书你会意识到，欧洲的兴衰其实只是更大历史图景的一部分。这不仅是一部宏大的历史著作，更像是在重新认识我们自己。",
+      "quotes": [
+        {
+          "text": "The Silk Roads were where cultures collided, merged, and transformed each other.",
+          "context": "强调丝绸之路不仅是贸易通道，更是文明碰撞与交融的场所"
+        },
+        {
+          "text": "Asia was for more than 1,500 years the centre of the world economy.",
+          "context": "颠覆西方中心论的核心观点，揭示历史的东方真实面貌"
+        },
+        {
+          "text": "The road networks were the internet of the ancient and medieval world.",
+          "context": "用现代人熟悉的概念解释丝绸之路的战略意义"
+        }
+      ]
+    },
+    {
+      "title_zh": "信任",
+      "title_en": "Trust: The Social Virtues and the Creation of Prosperity",
+      "author_zh": "弗朗西斯·福山",
+      "author_en": "Francis Fukuyama",
+      "year": "1995",
+      "category": "社科与经济",
+      "one_liner": "信任是社会的粘合剂，是经济繁荣和文明进步的最深层基础。",
+      "deep_dive": "福山在这本书里问了一个看似简单却深刻的问题：为什么有些国家富有，有些国家贫穷？答案不是资源、不是地理，而是信任。他研究了日本、德国、美国等高信任社会，以及意大利南部、中国等低信任社会，发现信任程度直接决定了一个社会的凝聚力和经济效率。在高信任社会里，陌生人之间可以合作，企业可以快速扩展，社会成本低；而在低信任社会里，人们只相信家族，制度运转低效，经济发展受阻。书中最迷人的部分是他如何解释不同文化的信任模式——儒家文化、天主教传统、新教伦理如何塑造了人们对陌生人的态度。读这本书，你会发现许多社会问题的根源都能追溯到信任危机。它解释了为什么某些改革失败，为什么某些国家难以现代化——本质上都是信任网络的崩坏。",
+      "quotes": [
+        {
+          "text": "Trust is the foundation of all human cooperation and the basis of society itself.",
+          "context": "核心论点，说明信任为何是社会运行的根本"
+        },
+        {
+          "text": "The degree to which people trust one another is reflected in the economic health of their society.",
+          "context": "直接链接信任与经济繁荣，揭示微观到宏观的因果关系"
+        },
+        {
+          "text": "Culture, not geography or resources, determines a nation's economic fate.",
+          "context": "打破地理决定论，强调文化与信任的决定性作用"
+        }
+      ]
+    },
+    {
+      "title_zh": "苔丝",
+      "title_en": "Tess of the d'Urbervilles",
+      "author_zh": "托马斯·哈代",
+      "author_en": "Thomas Hardy",
+      "year": "1891",
+      "category": "文学",
+      "one_liner": "一个农村女孩被命运无情地碾压，她的悲剧控诉了整个社会的虚伪与残忍。",
+      "deep_dive": "读完这部小说，你会对19世纪英国社会感到窒息。苔丝是个纯真的农村女孩，却因为出身卑微而被命运戚弄。她被自称是远房亲戚的贵族诱骗，失去了处女身份——在那个年代，这就意味着彻底的毁灭。之后她遇到真爱——一个进步的牧师之子，他说接受她的过去，可当他了解真相后却无情地抛弃了她。哈代用残酷的现实主义向我们展示了一个社会道德的虚伪：社会可以原谅男人的过错，却永远不能原谅女人。苔丝的遭遇不是她的错，而是这个社会的罪。她最终的悲剧结局令人心碎，但这种绝望恰恰是哈代想要表达的——个人的力量在社会结构面前何其渺小。这部小说在当时引起了巨大争议，因为它敢于挑战维多利亚时代的性道德与阶级观念。即使今天读来，它仍然触及深层的人性与社会问题。",
+      "quotes": [
+        {
+          "text": "A woman was not to be made unhappy by the man she married... the very essence of cruelty.",
+          "context": "讽刺维多利亚时代对女性的虚伪保护与实质压迫"
+        },
+        {
+          "text": "Why does not somebody tell her adviser, the universe, that she is tired.",
+          "context": "表达对苔丝所承受无谓痛苦的深刻同情与愤怒"
+        },
+        {
+          "text": "She had promised to marry him—she had promised herself to him... and nothing else mattered.",
+          "context": "描绘社会对女性承诺与贞节的绝对要求"
+        }
+      ]
+    }
+  ]
+}
+```
