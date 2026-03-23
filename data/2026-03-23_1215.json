@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "夜色温柔",
+      "title_en": "Tender is the Night",
+      "author_zh": "F·司各特·菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1934",
+      "category": "美国文学/心理小说",
+      "one_liner": "美国梦的衰落与爱情的陨落",
+      "deep_dive": "这部小说讲的是一个精神医生迪克和他妻子妮可在欧洲湛蓝海岸的故事。你知道吗，菲茨杰拉德把20年代的富裕美国人的浮华与空虚写得特别到位。迪克一开始是个充满理想的医生，可随着时间推移，他逐渐被贵族生活的诱惑腐蚀，最后沦为了寄生虫。这部小说其实就是在讲一个聪慧而有才华的人，在物质享乐和道德堕落之间的挣扎。妮可的角色也很复杂，她既是受害者，也在某种程度上催化了迪克的衰落。整部作品充满了对美国梦的反思，那种深深的失望感读起来特别有代入感。",
+      "quotes": [
+        {
+          "text": "So he had rather the Riviera, 'which in these days of its degeneration has all the character that the intelligent Mediterranean could ever wish for...'",
+          "context": "描写迪克对欧洲奢华生活的沉溺"
+        },
+        {
+          "text": "He realized the sentence on him was pronouncing itself in American words.",
+          "context": "迪克意识到自己的衰落本质上源于对美国精神的背离"
+        }
+      ]
+    },
+    {
+      "title_zh": "伊豆的舞女",
+      "title_en": "The Dancing Girl of Izu",
+      "author_zh": "川端康成",
+      "author_en": "Yasunari Kawabata",
+      "year": "1926",
+      "category": "日本文学",
+      "one_liner": "青年的乡愁与舞女的温柔邂逅",
+      "deep_dive": "川端康成这部短篇有种特殊的魔力，读它的时候你会被一种淡淡的哀愁笼罩。故事说的是一个孤独的高中生在伊豆旅行中邂逅了一个叫百合子的舞女。他们在旅途中有说有笑，那种纯净的感觉让读者觉得温暖，可同时又能感受到某种宿命的悲伤。川端康成笔下的风景描写特别优美，伊豆的山川、温泉、夕阳都成了故事的重要组成部分。最打动人心的是，作者没有让这段关系走向罗曼蒂克，反而在分别中深化了它的意义。这是一部关于人生短暂相遇的沉思录，读完了你会想起自己年轻时错过或失去的某些东西。",
+      "quotes": [
+        {
+          "text": "她每天夜里和演员们乘车来，天明就乘车走。",
+          "context": "描写舞女颠沛流离的生活，暗示她的身份与忧伤"
+        },
+        {
+          "text": "我和她就要分别了。我想她不会再想我了。",
+          "context": "少年对即将到来的分别的沉静领悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "哲学的慰藉",
+      "title_en": "The Consolations of Philosophy",
+      "author_zh": "阿兰·德波顿",
+      "author_en": "Alain de Botton",
+      "year": "2000",
+      "category": "哲学/心理励志",
+      "one_liner": "用古代智慧来治愈现代人的焦虑",
+      "deep_dive": "德波顿这本书特别聪明，他没有写那种高深莫测的纯哲学，而是用六位大哲学家的思想来逐一解答现代人的常见困境。感到焦虑不安？来看看苏格拉底怎么说。受到嘲讽或孤立？荷马和蒙田会告诉你该怎么看待。陷入贫困？伊壁鸠鲁有办法调整你的心态。因为爱情而痛苦？柏拉图早就分析过了。每一章都不长，读起来很舒服，作者举的例子也都是现代人能理解的——比如失业、被批评、感到孤独这些事。最妙的是，他让你意识到两千多年前就有人思考过这些问题，而且得出了相当成熟的答案。这不是心灵鸡汤，而是真正能让你思想角度转变的好书。",
+      "quotes": [
+        {
+          "text": "Philosophy emerges as the art of consolation.",
+          "context": "开篇论述，表明哲学的首要任务是安慰和指引"
+        },
+        {
+          "text": "The man who has never felt temptation does not know his strength.",
+          "context": "引自苏格拉底，强调人需要面对困难才能认识自己"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1215"
+}
