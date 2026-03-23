@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "使女的故事",
+      "title_en": "The Handmaid's Tale",
+      "author_zh": "玛格丽特·阿特伍德",
+      "author_en": "Margaret Atwood",
+      "year": "1985",
+      "category": "文学",
+      "one_liner": "在极权社会中，一个女人通过叙述来保持自我与希望。",
+      "deep_dive": "这部小说设定在近未来的吉列德共和国，一个压制女性、建立等级森严的极权社会。主人公Offred曾是个普通的已婚女性，现在成为一名使女——被强制用来为统治阶级生育的女人。通过她的内心独白，我们看到一个女性如何在最剥夺的环境中坚持人性、保持理智。\n\n阿特伍德的天才在于，她把这个反乌托邦不是当作科幻幻想，而是从真实历史的扭曲中推导出来。每一个压迫机制都能在人类历史上找到原型。这本书问的核心问题是：当你失去所有选择权时，你还有什么？答案是叙述。Offred通过讲述自己的故事来保持完整，对抗被系统化遗忘。\n\n读这部作品就像看一面镜子——它让我们思考什么条件会导致自由的崩溃、女性权益有多脆弱、集体理性如何被操纵。这也是为什么它在不同时代读起来都有不同的紧迫感。它不仅是对历史的警告，更是对人的尊严的一次深刻思考。",
+      "quotes": [
+        {
+          "text": "Nolite te bastardes carborundorum.（别让那些杂种把你压垮。）",
+          "context": "这句隐藏在浴室墙上的拉丁文成为Offred坚持下去的精神寄托，象征着在压制中的微小反抗。"
+        },
+        {
+          "text": "I am not her. My name is not Offred, I am...but what was my name?",
+          "context": "揭示身份被系统剥夺的核心恐怖，一个人最后的自我正是她的名字。"
+        },
+        {
+          "text": "Better never means better for everyone. There is no such thing.",
+          "context": "对乌托邦承诺的讽刺——任何声称改进的制度背后都隐藏着对他人的牺牲。"
+        }
+      ]
+    },
+    {
+      "title_zh": "切·格瓦拉传",
+      "title_en": "Che Guevara: A Life",
+      "author_zh": "乔·李·安德森",
+      "author_en": "Jon Lee Anderson",
+      "year": "1997",
+      "category": "传记与历史",
+      "one_liner": "一个医生如何成为游击战传奇，又如何为理想献出生命。",
+      "deep_dive": "这是关于埃内斯托·切·格瓦拉最权威的传记。安德森用了数年时间采访了格瓦拉的家人、战友、敌人，梳理了这个复杂人物从一个理想主义医学生到国际革命偶像的全过程。\n\n格瓦拉的故事充满矛盾。他出身富裕家庭，却在行医时看到拉美的贫困而觉醒政治意识。他与卡斯特罗在古巴推翻巴蒂斯塔政权成功后，却拒绝权力，选择继续去非洲和玻利维亚进行武装斗争。这不是为了个人权力，而是一种纯粹的意识形态执着。\n\n安德森的笔触既不美化也不妖魔化。他记录了格瓦拉的勇气、他的理想主义，也记录了他的失败、他的武断，以及他对游击战效力的过度乐观。最终，格瓦拉在玻利维亚被捕后被处死，成为了一个符号而非活人——他的死亡也许比生命更具力量。\n\n这部传记之所以重要，不只因为它讲述了一个伟大生命的故事，更因为它提醒我们理想主义的代价、革命的复杂性，以及一个人如何能够为信念赴死。无论你如何看待格瓦拉的政治立场，很难否认他生命中的某种纯粹性。",
+      "quotes": [
+        {
+          "text": "The revolutionary must be a walking theory. He must have a clear vision of where they're going.",
+          "context": "格瓦拉对革命者的定义，强调思想和实践的统一。"
+        },
+        {
+          "text": "At the risk of seeming ridiculous, let me say that the true revolutionary is guided by a great feeling of love.",
+          "context": "这句话揭示了格瓦拉动机中最深层的东西——他的激进主义源自对被压迫者的爱。"
+        },
+        {
+          "text": "We cannot be sure of having something to live for unless we are willing to die for it.",
+          "context": "这句话后来成了他一生的自我预言——他最终确实为自己相信的东西献出了生命。"
+        }
+      ]
+    },
+    {
+      "title_zh": "创新与企业家精神",
+      "title_en": "Innovation and Entrepreneurship",
+      "author_zh": "彼得·德鲁克",
+      "author_en": "Peter Drucker",
+      "year": "1985",
+      "category": "商业与技术",
+      "one_liner": "创新是可以被系统化学习的能力，而非神秘的天才闪现。",
+      "deep_dive": "彼得·德鲁克是管理学之父，这本书是他对创新的最实用的总结。与那些把创新浪漫化为天才灵感的说法不同，德鲁克认为创新是一门可学的学科。\n\n书中的核心观点是：成功的企业家和创新者不是在等待顿悟，而是在系统地寻找机会。德鲁克列举了七个创新的来源——意外的成功或失败、不匹配的现实、流程创新、产业或市场结构的变化、人口统计学变化、思维和认知的改变、新知识。他的意思是，如果你知道去哪里找，创新就不是随机的，而是可预测的。\n\n这本书特别宝贵的地方在于，它把创新从大企业和技术领域扩展到了中小企业、社会创新、公共部门。德鲁克相信任何组织都可以创新。他用大量案例展示了成功的创业者如何识别机会、如何思考、如何执行。\n\n40年后读这本书，你会发现它的洞见依然锐利——也许比当时更有意义。因为在信息爆炸、变化加速的今天，系统化地思考创新反而成了竞争优势。这不是一本关于科技创业的书，而是关于如何在任何领域、任何时代创造价值的思考。",
+      "quotes": [
+        {
+          "text": "The best way to predict the future is to create it.",
+          "context": "这句话总结了德鲁克对企业家精神的核心看法——企业家不是被动的预测者，而是主动的创造者。"
+        },
+        {
+          "text": "Innovation is the specific tool of entrepreneurs. The means by which they exploit change as an opportunity.",
+          "context": "定义了创新与企业家精神的本质关系——创新不是目的本身，而是利用变化的工具。"
+        },
+        {
+          "text": "Most of the significant work done in the world is done by people who were paid to do something else.",
+          "context": "提醒我们，创新往往来自边缘和非预期的地方，这要求组织给予员工试错的空间。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0910"
+}
