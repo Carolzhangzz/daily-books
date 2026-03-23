@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "选择的悖论",
+      "title_en": "The Paradox of Choice",
+      "author_zh": "巴里·施瓦茨",
+      "author_en": "Barry Schwartz",
+      "year": "2004",
+      "category": "心理学/自助",
+      "one_liner": "揭示为什么选择越多反而让我们越不开心",
+      "deep_dive": "你有没有在超市面前选择酸奶而纠结半天？或者打开Netflix却花了两个小时选剧，最后什么都没看？巴里·施瓦茨的《选择的悖论》就在解释这种现象。他论证了个反直觉的观点：选项越多，我们反而越不开心。无限选择会让我们陷入分析瘫痪，总觉得有更好的选择在某个角落等着。最有趣的是他分析了这如何演变成现代社会的大问题——从婚姻、职业到医疗，我们被选择的自由淹没了。书中充满日常生活的例子，读起来像朋友在咖啡厅跟你聊天。核心其实很温暖：有时候，限制选择反而能让我们活得更自在、更满足。这不是反对自由，而是提醒我们要聪明地使用它。",
+      "quotes": [
+        {
+          "text": "The paradox of choice is that having more options to choose from makes people less satisfied with their selections.",
+          "context": "阐述选择过多导致满足度下降的核心观点"
+        },
+        {
+          "text": "Maximizers will make different choices than satisficers, and they will generally be less happy with the results.",
+          "context": "区分两种决策类型及其对幸福感的影响"
+        }
+      ]
+    },
+    {
+      "title_zh": "爱因斯坦传",
+      "title_en": "Einstein: His Life and Universe",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2007",
+      "category": "传记",
+      "one_liner": "调皮天才如何用革命性思想改变了我们对宇宙的理解",
+      "deep_dive": "沃尔特·艾萨克森的《爱因斯坦传》不是枯燥的科学家故事，而是讲一个有调皮天性的人如何改变了世界。爱因斯坦是个有趣的矛盾体——反叛权威却也保守，追求科学真理却也会感到困顿。这本传记深入他的个人生活、爱情、家庭和友谊，让我们看到完整的人而非仅仅一个方程式E=mc²。艾萨克森有天赋把复杂物理概念用普通人能理解的语言解释，又不失科学严谨性。他还展现了爱因斯坦的人文关怀——他对和平、人权的热情。读完这本书，你会理解为什么他被称为最伟大的思想家，也会意识到天才也只是个有血有肉、会犯错、会后悔的人。",
+      "quotes": [
+        {
+          "text": "Imagination is more important than knowledge. Knowledge is limited to all we now know and understand, while imagination embraces the entire world.",
+          "context": "爱因斯坦强调想象力在科学探索中的核心价值"
+        },
+        {
+          "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+          "context": "他对终身学习和保持好奇心的执着信念"
+        }
+      ]
+    },
+    {
+      "title_zh": "人体的故事",
+      "title_en": "The Body: A Guide for Occupants",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2019",
+      "category": "科普/健康",
+      "one_liner": "用幽默有趣的语调带你探索自己身体的奇妙世界",
+      "deep_dive": "比尔·布莱森的《人体的故事》可能是你读过最有趣的人体百科全书。他用充满幽默和好奇的语调，引领我们探索身体各个角落——从皮肤到骨头，从心脏到胃。布莱森不会让你被科学术语淹没，反而用讲故事方式让你理解身体有多复杂神奇。他问了那些你可能想过的问题：你身体里有多少细菌？为什么有人对花生过敏？为什么打喷嚏时要捂嘴？这本书用温暖又风趣的语气回答这些问题。最绝妙的是布莱森能把严肃科学话题变成餐桌谈话，让你既学到知识又被他的叙述风格逗乐。读完它，你会重新审视镜子里的自己——那不仅是个躯壳，而是个充满奇迹的宇宙。",
+      "quotes": [
+        {
+          "text": "The human body is an extraordinarily complex and elegant system, one that has been fine-tuned over millions of years.",
+          "context": "强调人体组织结构的精妙程度和进化的奇迹"
+        },
+        {
+          "text": "Your body contains roughly the same number of cells as there are stars in the Milky Way, and everyone is using them in a slightly different way.",
+          "context": "用宇宙类比凸显人体微观世界的庞大和复杂"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1552"
+}
