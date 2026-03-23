@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "物种起源",
+      "title_en": "On the Origin of Species",
+      "author_zh": "查尔斯·达尔文",
+      "author_en": "Charles Darwin",
+      "year": "1859",
+      "category": "科学/进化论",
+      "one_liner": "通过自然选择机制解释物种多样性的诞生",
+      "deep_dive": "《物种起源》真的是改变世界观的书。达尔文花了20多年才敢出版，因为他深知这会动摇整个宗教和哲学的基础。核心思想看似简单——生物不是被完美创造的，而是在自然选择的无情压力下慢慢演化的。那些适应环境的特征被保留下来，不适应的就被淘汰了。这个观点当时有多颠覆你可以想象，直接挑战了创世论。但现在回看，这简直就是最优雅的科学解释——为什么鸟喙各异，为什么我们有退化的尾骨，为什么岛屿上的生物那么独特。达尔文用大量观察和推理来支撑，从加拉帕戈斯群岛的雀鸟到家养鸽子的变异，一切都指向同一个机制。这本书的伟大不仅在于解释了生物多样性的起源，更重要的是提供了一套科学思维方式——别假设神秘的设计，去看现实中的机制。",
+      "quotes": [
+        {
+          "text": "There is grandeur in this view of life... from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+          "context": "书的结尾，达尔文对进化壮丽景象的感悟"
+        },
+        {
+          "text": "It is not the strongest of the species that survives, nor the most intelligent. It is the one most responsive to change.",
+          "context": "关于自然选择核心机制的论述"
+        }
+      ]
+    },
+    {
+      "title_zh": "重来",
+      "title_en": "Rework",
+      "author_zh": "杰森·弗里德 & 大卫·海涅迈尔·汉松",
+      "author_en": "Jason Fried & David Heinemeier Hansson",
+      "year": "2010",
+      "category": "商业/创业管理",
+      "one_liner": "颠覆创业常识，用约束换取创意的实战哲学",
+      "deep_dive": "这本书就是对整个创业教条的一次起义。Fried和Hansson来自37signals公司，他们最激进的主张就是：你不需要风投、不需要办公室、不需要完美的商业计划。整本书充满反直觉的建议——最好的想法来自约束而非充足资源，应该尽快发布产品而不是追求完美，员工远程工作其实更高效。他们用自己的实践做例子：用小项目的收入资助更大的想法，最终成就了Basecamp这样的成功产品。书里充满了对浪费的批评和对现实的尊重，完全不按MBA那套路出牌。对初创者来说，这像是一剂强心针，告诉你那些看起来必须的东西其实都是可选的，真正的约束反而能激发最疯狂的创意。",
+      "quotes": [
+        {
+          "text": "Start making something when you notice a problem you want solved.",
+          "context": "关于产品创意来源的忠告，简洁而直指核心"
+        },
+        {
+          "text": "Constraints breed resourcefulness, self-sufficiency, and invention. Nothing encourages creative thinking like having to do more with less.",
+          "context": "书的核心哲学，强调资源限制如何激发创新"
+        }
+      ]
+    },
+    {
+      "title_zh": "单向度的人",
+      "title_en": "One-Dimensional Man",
+      "author_zh": "赫伯特·马尔库塞",
+      "author_en": "Herbert Marcuse",
+      "year": "1964",
+      "category": "哲学/社会理论",
+      "one_liner": "揭露发达资本主义如何用消费和意识形态消灭人的多元性",
+      "deep_dive": "马尔库塞的这本书有点难啃，但如果你想理解为什么现代社会看起来自由实则窒息，这值得一读。他的核心论点会让你不舒服：发达资本主义表面给你自由选择，实际上通过消费文化和意识形态把所有人都纳入同一种思维——权力的思维。你可以自由选择可口可乐或百事，但你被困在消费主义的逻辑里动弹不得。他把这叫\"单向度\"——只有一种思考方向，看不到真正的替代可能。最扎心的是他的观察：为什么反抗和批评最后都被体制吸收，反而加强了现状？这在信息时代特别真实——当你意识到自己的选择其实都被精心引导时，那种虚伪感就出现了。不是很乐观的书，但很清醒。",
+      "quotes": [
+        {
+          "text": "The apparatus inculcates the need for the commodities it produces; it therefore tailors man to the needs of the apparatus.",
+          "context": "关于资本主义如何塑造欲望和需求的论述"
+        },
+        {
+          "text": "Tolerance is ended by the continuous functioning of the repressive apparatus, by a network of simple restrictions.",
+          "context": "论述在消费社会中言论自由如何被隐性限制"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1226"
+}
