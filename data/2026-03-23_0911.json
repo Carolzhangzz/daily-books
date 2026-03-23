@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "神经漫游者",
+      "title_en": "Neuromancer",
+      "author_zh": "威廉·吉布森",
+      "author_en": "William Gibson",
+      "year": "1984",
+      "category": "文学",
+      "one_liner": "赛博朋克奠基之作，在虚拟现实和网络空间的想象中预言了互联网时代的到来",
+      "deep_dive": "说起《神经漫游者》，这部1984年出版的小说简直是整个赛博朋克文学的祖师爷。威廉·吉布森用这部作品不仅定义了\"赛博朋克\"这个词，还创造了一个全新的文学类型。故事讲的是一个叫凯斯的黑客，因为背叛了他的老板，被投毒作为惩罚，失去了他最珍视的东西——进入网络空间的能力。后来他被一个神秘的女人莫莉救了，给了他另一次生命。凯斯被招募去完成一项不可能的任务：破入一个有着自我意识的人工智能系统。这听起来有点像《黑客帝国》吧？没错，很多灵感都来自于这部小说。吉布森在书中创造的\"网络空间\"这个概念，在当时简直是天才级别的想象。他描写的虚拟现实世界、植入人脑的芯片、人工智能的觉醒，这些在1984年看起来是纯粹的科幻幻想，但如今都在我们身边变成了现实。这本书的核心不只是技术想象，更是对人性、身份、自由的深刻思考。小说的文风很独特——充满了赛博朋克美学的冷硬风格、黑色电影般的氛围、还有一种迷幻般的节奏感。如果你对科技、人工智能、网络文化感兴趣，这部作品绝对是必读的。",
+      "quotes": [
+        {
+          "text": "Cyberspace. A consensual hallucination experienced daily by billions of legitimate users in every nation.",
+          "context": "吉布森对网络空间的定义，在虚拟现实成为现实的今天，这句话显得多么预言性十足"
+        },
+        {
+          "text": "The future is already here — it's just not evenly distributed.",
+          "context": "体现了整部小说对未来科技的冷静观察，至今仍被广泛引用"
+        }
+      ]
+    },
+    {
+      "title_zh": "忏悔录",
+      "title_en": "Confessions",
+      "author_zh": "让-雅克·卢梭",
+      "author_en": "Jean-Jacques Rousseau",
+      "year": "1782",
+      "category": "哲学",
+      "one_liner": "一部充满激情和坦诚的自传，卢梭用笔将自己的灵魂赤裸裸地呈现在读者面前",
+      "deep_dive": "《忏悔录》是让-雅克·卢梭留给后世最具个人色彩的作品，也可能是西方文学中最坦诚的自传之一。当卢梭写这部书的时候，他已经是一位名人，但他决定把自己的所有秘密、羞愧、欲望和矛盾都写出来——这在18世纪是多么大胆的举动啊。整部书就像一个长长的独白，卢梭在跟读者倾诉他的整个人生。从童年在日内瓦的贫困，到年轻时四处漂泊，做过仆人、雕刻学徒、音乐老师，他毫无保留地讲述自己的失败、软弱，甚至一些不太光彩的事情。这种坦白在当时简直是炸弹级的。但这就是《忏悔录》的魅力所在——它不是在教你怎么做完美的人，而是在展示一个真实的、有血有肉的、充满矛盾的人。卢梭笔下的自己既有理想主义的热情，又有现实生活中的妥协；既渴望自由和独立，又被人性的弱点所困扰。从哲学角度看，《忏悔录》体现了卢梭关于人性、自由和社会的深刻思考。他相信人天生是善良的，但社会和文明腐蚀了人的本性。这种观点引起了巨大的波澜，影响了浪漫主义运动。坦诚和脆弱有时候比虚假的完美更有力量。",
+      "quotes": [
+        {
+          "text": "I am not made like any of those men I have seen; I venture to believe that I am not made like any of those men in existence.",
+          "context": "卢梭的自信和独特性完美体现，体现了他对自身独特性的深刻认识"
+        },
+        {
+          "text": "Everything is good when it leaves the Creator's hands; everything degenerates when it gets into man's.",
+          "context": "这是卢梭社会哲学的核心观点，反映了他对文明腐蚀人性的担忧"
+        }
+      ]
+    },
+    {
+      "title_zh": "别闹了费曼先生",
+      "title_en": "Surely You're Joking, Mr. Feynman!",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard Feynman",
+      "year": "1985",
+      "category": "传记与回忆录",
+      "one_liner": "一位调皮捣蛋的物理天才的妙趣横生的人生故事和对好奇心的颂歌",
+      "deep_dive": "如果有一个物理学家的人生可以用\"调皮、好奇、充满热情\"来描述，那就是理查德·费曼。《别闹了费曼先生》这部书，就像费曼本人一样充满了趣味、机智和对知识的不竭追求。费曼不是一个坐在办公室里死守着理论的物理学家，而是一个活力十足、什么都想试试的家伙。这本书里充满了他的各种冒险：他怎么破译柜子的密码，怎么在巴西的妓院里做田野调查，怎么用铜管吹出爵士乐。除了物理学，费曼还对美术、生物学、工程学什么的都很感兴趣。他就像一个永远长不大的孩子，对世界上的一切都充满了好奇。最有意思的是，费曼讲的不是他如何获得诺贝尔奖，而是讲他如何对物理学的基本问题感到困惑，如何通过稀奇古怪的方式来理解科学。他观察蚂蚁如何找到回家的路，观察水在盘子里旋转的方式，这些看似无用的观察最后都变成了深刻的科学洞见。费曼对\"为什么\"这个问题的执着，让他做出一些疯狂的事情。这本书的魅力在于，它讲的不是一个高高在上的天才物理学家的故事，而是一个真实的、有趣的、有时候很调皮的人的故事。费曼用他的生活告诉我们，科学和生活可以充满乐趣。",
+      "quotes": [
+        {
+          "text": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
+          "context": "费曼对科学精神的最好诠释，体现了他对诚实和严谨的执着追求"
+        },
+        {
+          "text": "I have approximate answers and possible beliefs about different things, but I am not absolutely sure of anything.",
+          "context": "费曼的谦虚和对知识的尊重完美体现，反映了真正科学家的态度"
+        },
+        {
+          "text": "Do not worry about your difficulties in mathematics; I can assure you that mine are much greater.",
+          "context": "费曼对学生说的这句话充满了幽默感和人性的温暖，显示他的亲和力"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0911"
+}
