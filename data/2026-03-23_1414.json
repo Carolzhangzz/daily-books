@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "你一生的故事",
+      "title_en": "Story of Your Life",
+      "author_zh": "泰德·姜",
+      "author_en": "Ted Chiang",
+      "year": "1998",
+      "category": "科幻短篇小说",
+      "one_liner": "通过学习外星语言，一位语言学家重新理解了时间和人生的意义。",
+      "deep_dive": "这个故事太绝了。一个语言学家Louise通过和外星人交流，学会了他们的语言。但这不是简单的翻译——当你学会这种语言后，你看待整个世界的方式就彻底改变了。你能够以非线性的方式理解时间，能看到过去、现在和未来像一幅完整的画卷。故事的真正精妙之处在于，它用科幻的外壳包裹着关于人生选择的终极问拷。如果你提前知道人生的所有转折，你还会做同样的选择吗？特别是当那些选择会带来痛苦时。这不仅是对语言和认知的思想实验，更是对爱、牺牲和人生意义的深情冥想。读完后你会对语言、思维和命运有全新的理解。",
+      "quotes": [
+        {
+          "text": "There are things in the world that are worth more than happiness, and I've been knowingly trading away my happiness to obtain one of those things.",
+          "context": "关于人生抉择——有些东西比幸福本身更值得追求"
+        },
+        {
+          "text": "The language you speak determines the structure of your reality.",
+          "context": "语言如何根本性地塑造我们对世界的认知方式"
+        }
+      ]
+    },
+    {
+      "title_zh": "创新与企业家精神",
+      "title_en": "Innovation and Entrepreneurship",
+      "author_zh": "彼得·德鲁克",
+      "author_en": "Peter Drucker",
+      "year": "1985",
+      "category": "管理学/商业",
+      "one_liner": "管理学大师传授如何在任何组织中系统地推进创新和企业家精神。",
+      "deep_dive": "德鲁克彻底颠覆了你对创新的理解。很多人认为创新是天才的灵光一现，其实不对——创新完全可以通过系统的方法来实现。书里列举了创新的七个源头：意外的成功或失败、矛盾的现实、流程需求、产业和市场结构的变化、人口统计变化、观念和心态的转变，还有新知识的出现。更关键的是，德鲁克指出企业家精神不只是创业公司的事儿。大型组织如果想生存和成长，同样需要内部企业家精神。他讲得特别实际——怎么设定目标、怎么配置资源、怎么执行，以及最难的部分：怎么建立一个真正能鼓励创新的组织文化。读这书的时候你会发现，无论你在什么样的组织里，都能找到应用的地方。",
+      "quotes": [
+        {
+          "text": "The best way to predict the future is to create it.",
+          "context": "企业家应该主动塑造未来，而非被动等待"
+        },
+        {
+          "text": "Innovation is the specific instrument of entrepreneurship. It is the act that endows resources with a new capacity to create wealth.",
+          "context": "创新是企业家的核心武器，它赋予资源创造财富的新能力"
+        }
+      ]
+    },
+    {
+      "title_zh": "带小狗的女人",
+      "title_en": "The Lady with the Dog",
+      "author_zh": "安东·契诃夫",
+      "author_en": "Anton Chekhov",
+      "year": "1899",
+      "category": "短篇小说",
+      "one_liner": "两个平凡的陌生人在度假地相遇，禁忌爱情的萌生改变了他们对人生的理解。",
+      "deep_dive": "契诃夫这个故事看似简单，实则深不见底。一个中年已婚男子德米特里和一个陌生女子在黑海度假地相遇，开始了一段不该发生的关系。故事通过他们的散步、对话、甚至陪伴那条小狗的日常互动来展现。最妙的是，契诃夫没有把这写成狗血的婚外情，而是深入挖掘了人类最深层的渴望——被理解、被看见。这两个人都困在各自平凡无聊的生活里，他们的相遇就像黑暗中的一束光。故事最后没有给出答案，反而留下了开放式的结尾，暗示这段感情的继续会面临怎样的现实困境。这种不确定性恰好就是生活本身。读完后你会明白，为什么这个故事一百多年来依然触动人心。",
+      "quotes": [
+        {
+          "text": "It seemed as though they were not husband and wife, not lovers, but rather two conspirators who found their connection through shared solitude.",
+          "context": "对真实人性连接的深刻洞察——灵魂的相遇超越身份"
+        },
+        {
+          "text": "And it was clear to both of them that the most complicated and difficult part was only just beginning.",
+          "context": "爱情故事的结尾，真正的困难才刚开始"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1414"
+}
