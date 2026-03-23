@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "建筑的永恒之道",
+      "title_en": "A Pattern Language",
+      "author_zh": "克里斯多弗·亚历山大",
+      "author_en": "Christopher Alexander",
+      "year": "1977",
+      "category": "社科与历史",
+      "one_liner": "建筑和城市设计中隐藏的通用语言，教你如何通过模式创造更宜居的生活环境。",
+      "deep_dive": "你想象过吗，建筑和设计其实跟语言一样，都由一些基本的\"语法\"和\"词汇\"组成？这就是克里斯多弗·亚历山大在这部作品里要告诉你的。这本书挑战了现代建筑设计的基本假设，通过观察和分析，亚历山大发现世界各地的建筑环境中，有某些特定的设计模式不断出现，而这些模式存在是因为它们真正适应了人类的生活需求。比如\"房间的温暖\"如何设计一个舒适的空间，\"楼梯作为阶段\"设计楼梯时的各种考虑。\n\n书里最棒的是，它不是在讲高深莫测的美学理论，而是教你识别这些模式，然后用它们创造真正好用、美观、让人想待在里面的空间。这些模式从最大的城市布局尺度到最小的房间窗户位置都适用。出版以来影响深远，启发了后来的软件设计（设计模式的概念就源自这里），甚至改变了建筑师和城市规划者的思维方式。很多人读这本书是为了学到如何设计出更人性化、更适宜居住的建筑，但更深层的意义是，它告诉你好的设计不是来自灵感闪现，而是来自对真实生活的深刻理解。",
+      "quotes": [
+        {
+          "text": "The act of building is fundamentally different from the act of making buildings. The first is an act of creation; the second is merely technical reproduction.",
+          "context": "这句话揭示了作者要传达的核心理念——真正的建筑设计应该是创意和理解的融合，而不仅仅是技术操作。"
+        },
+        {
+          "text": "Every pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.",
+          "context": "这是对\"模式语言\"概念的精准定义，强调了模式的普遍适用性和灵活性。"
+        },
+        {
+          "text": "A building or town will only be alive to the extent that it is governed by the timeless way.",
+          "context": "这体现了书的核心主张，即建筑的生命力来自于对永恒设计原则的遵循。"
+        }
+      ]
+    },
+    {
+      "title_zh": "傲慢与偏见",
+      "title_en": "Pride and Prejudice",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1813",
+      "category": "文学",
+      "one_liner": "一部聪慧的爱情小说，通过伊丽莎白和达西的故事，探讨了社会偏见、自我认知和真爱如何跨越阶级和误会。",
+      "deep_dive": "如果你以为《傲慢与偏见》只是爱情故事，那就错了。这是简·奥斯汀写的最聪明的小说——讲的是女主角伊丽莎白·班尼特和男主角达西先生如何从相互厌恶，最终走到相互理解并相爱的过程。故事发生在摄政时期的英国，伊丽莎白聪慧独立有思想，不愿为了找有钱人而结婚，达西初次见面时表现得傲慢冷淡，这让伊丽莎白极端厌恶他。\n\n但妙处在于，这不是单纯的浪漫爱情故事，奥斯汀在讨论偏见。伊丽莎白对达西的厌恶源自第一印象和自己的偏见，达西最初看不起伊丽莎白的家庭和社交地位也是偏见。当他们慢慢了解彼此的真实情况后，偏见消散了，真实的情感才得以显现。小说最吸引人的是伊丽莎白的人物塑造——她不完美，会犯错，会被欺骗，但足够聪慧能反思自己的错误，这让她真实而迷人。在那个时代，女性角色有这样的独立精神和智慧非常罕见。\n\n这本书两百多年前出版，为什么现在仍被读者喜爱？因为它触及了人性最基本的问题——我们如何克服自己的偏见真正看见另一个人？我们如何在社会压力下坚守自己的原则？这些问题在任何时代都相关。",
+      "quotes": [
+        {
+          "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "context": "小说的开篇句，用讽刺笔调评论当时的社会现象——对女性而言，婚姻等同于生存和安全。这奠定了整部小说的讽刺基调。"
+        },
+        {
+          "text": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+          "context": "这是奥斯汀的自嘲和对读者的邀请，也反映了她对小说这种文学形式的尊重。"
+        },
+        {
+          "text": "There is nothing I would not do for those who are really my friends.",
+          "context": "伊丽莎白说的这句话，体现了她对真诚友谊和忠诚的重视，是她性格中最闪光的部分。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学：确定性的丧失",
+      "title_en": "Mathematics: The Loss of Certainty",
+      "author_zh": "莫里斯·克莱因",
+      "author_en": "Morris Kline",
+      "year": "1980",
+      "category": "科学与认知",
+      "one_liner": "一部引人入胜的数学哲学著作，揭示了数学如何从看似\"绝对真理\"演变为\"人类创造的工具\"。",
+      "deep_dive": "从小到大，我们都被教导说数学是\"绝对的\"\"确定的\"——2+2=4，圆周率是3.14159，几何学中平行线永远不相交。但莫里斯·克莱因要用这部著作来打破你的幻觉。这本书讲的是数学的一段迷人的知识史。从古希腊时代开始，数学家们相信他们在发现宇宙的永恒真理。欧几里得的《几何原本》就像不可攻破的堡垒，被认为是完美的逻辑推导系统。直到19世纪，数学家们发现了非欧几何，才意识到欧几里得的公理并不是唯一的可能性——你可以构造一个完全不同的几何系统。\n\n更震撼的发现还在后面。20世纪初，数学基础危机爆发了。哥德尔的不完全性定理证明了，即使是像算术这样看似简单的系统，也存在无法被证明的真实陈述。换句话说，数学不是完全的、绝对的，它有\"盲点\"。克莱因在这本书里清晰地阐述了这个历史发展过程，让读者看到数学如何从\"发现真理\"的学科，变成了\"创造一致系统\"的学科。这不是说数学不重要或不有用——数学的实用性和强大毫无疑问。而是说，数学确定性的\"丧失\"，其实是对数学本质的更深刻理解。这本书很适合想要理解数学不仅是公式和计算的人，它告诉你数学是人类思维最伟大的成就，但它也是人类创造，因此有其局限性。",
+      "quotes": [
+        {
+          "text": "Mathematics is not a discovery, but an invention. We do not find mathematics in nature; we create it.",
+          "context": "这是克莱因对数学本质的重新定义，挑战了传统\"数学发现论\"，强调了数学的人造性质。"
+        },
+        {
+          "text": "The conviction that mathematics is certain, infallible, and absolute is itself a misconception.",
+          "context": "这句话直接指出了许多人对数学的根本性误解，为整本书的论述奠定了基础。"
+        },
+        {
+          "text": "The loss of certainty is not a loss at all—it is a liberation.",
+          "context": "克莱因以积极的观点来看待数学确定性的丧失，强调这种认识如何开放了数学的更多可能性。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1820"
+}

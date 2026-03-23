@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "卓有成效的管理者",
+      "title_en": "The Effective Executive",
+      "author_zh": "彼得·德鲁克",
+      "author_en": "Peter Drucker",
+      "year": "1967",
+      "category": "商业与技术",
+      "one_liner": "管理学之父告诉你：成功管理者不是靠努力工作，而是靠做正确的事情。",
+      "deep_dive": "德鲁克这本书改变了我对"管理"二字的理解。很多人以为管理就是控制、督促、开会，但德鲁克说得很直白——真正的管理者是要识别并完成高价值的工作。他强调了五个核心实践：明确目标、按优先级工作、知人善用、有效决策、管理时间。特别是那部分讲时间管理的，简直是醍醐灌顶。他指出大多数人其实在做一些无关紧要的事，然后抱怨时间不够。还有一个概念很震撼——管理者的有效性不在于个人的努力，而在于对组织贡献的大小。这本书虽然写于半个世纪前，但现在读还是特别有现实意义，因为人性没变，工作的本质也没变。如果你是管理者或者想成为管理者，这几乎是必读书。",
+      "quotes": [
+        {
+          "text": "Effectiveness is doing the right thing. Efficiency is doing things right.",
+          "context": "德鲁克用一句话区分了两个容易混淆的概念。很多人忙得不可开交，却在做错误的事。"
+        },
+        {
+          "text": "The executive's first responsibility is to be effective.",
+          "context": "强调了管理者的首要职责不是勤奋，而是确保工作产生真实的价值。"
+        },
+        {
+          "text": "Nothing is less productive than to make a conscientious effort to do that which should not be done at all.",
+          "context": "这句话戳中很多人的痛点——再努力地做不该做的事，也只会浪费时间。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学与猜想",
+      "title_en": "Mathematics and Plausible Reasoning",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Polya",
+      "year": "1954",
+      "category": "科学与认知",
+      "one_liner": "大数学家教你如何像数学家一样思考——通过归纳、类比和发散思维来解决问题。",
+      "deep_dive": "波利亚是匈牙利数学家，这两卷本的书从一个很有意思的角度切入：数学不只是严格的证明，还有大量的猜想、直觉和创意思维。他展示了数学家是如何通过观察、模式识别、类比推理来发现问题的解法的。特别是他讲的归纳法和类比法，让我意识到解决难题通常需要放松思维，不总是死钻牛角尖。书里有很多具体的例子，从几何问题到数列，他一步步拆解了思考的过程。这本书的价值超出数学本身——无论你从事什么工作，书里讲的思维方法都适用。比如如何从已知推测未知、如何验证猜想、如何在失败后调整方向。波利亚强调的是数学的创造性一面，这往往被忽视。读这本书就像跟着一位思维高手看他如何拆解问题、生成想法、再逐步验证。",
+      "quotes": [
+        {
+          "text": "如果你未能解决你面对的问题，那么有一个更容易的问题你可以解决：找到它。",
+          "context": "这是波利亚问题解决哲学的核心——有时候最好的策略不是硬碰硬，而是找到一个相关但更简单的问题来突破。"
+        },
+        {
+          "text": "Induction may not prove anything, but it can suggest everything.",
+          "context": "归纳法虽然不能严格证明，但能打开无限的思路——这对创新思维至关重要。"
+        },
+        {
+          "text": "The first rule of discovery is to have brains and good luck. The second rule is to sit tight and wait for the idea to come.",
+          "context": "波利亚对创意过程的诗意描述——有时候，耐心和开放的心态比急功近利更有效。"
+        }
+      ]
+    },
+    {
+      "title_zh": "博弈论",
+      "title_en": "Theory of Games and Economic Behavior",
+      "author_zh": "冯·诺伊曼 & 摩根斯坦",
+      "author_en": "John von Neumann & Oskar Morgenstern",
+      "year": "1944",
+      "category": "科学与认知",
+      "one_liner": "现代博弈论的奠基之作，用数学语言破解人类互动的逻辑——合作、竞争、背叛都有章可循。",
+      "deep_dive": "这本书可能是20世纪最有影响力的学术著作之一。冯·诺伊曼和摩根斯坦用数学框架来分析人与人、国家与国家之间的互动。零和博弈、非零和博弈、纳什均衡这些概念一旦建立，就彻底改变了经济学、政治学甚至心理学的研究方式。这本书的妙处在于它用数学严谨性证明了看似违反直觉的结论：比如在某些情况下，理性人的理性选择反而导致集体劣势（囚徒困境）。这对我的冲击很大——很多时候我们以为对方不理性，其实只是双方都在各自的理性框架内，但这个框架本身造成了坏结果。书里还有关于联盟、合作、威胁的深度分析，让你理解现实中的商业竞争、国际政治、甚至人际关系。这是一本需要多次阅读、反复思考的书，每一次都能产生新的领悟。",
+      "quotes": [
+        {
+          "text": "The real problem with game theory is that it applies to situations where both parties are perfectly rational. But human beings are not perfectly rational.",
+          "context": "这个悖论提醒我们——模型再完美，也只是现实的简化。理解边界很重要。"
+        },
+        {
+          "text": "在零和博弈中，一方的收益必然是另一方的损失。",
+          "context": "这个简单的定义却深刻地揭示了很多冲突的本质——有时候双方真的不能共赢。"
+        },
+        {
+          "text": "A rational player in a game must take into account not only his own interests but also the interests and probable actions of others.",
+          "context": "博弈论的核心洞察——在涉及多个参与者的决策中，你必须预测别人的行为和意图。"
+        }
+      ]
+    }
+  ]
+}
+```
