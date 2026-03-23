@@ -1,0 +1,81 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "路西法效应",
+      "title_en": "The Lucifer Effect: Understanding How Good People Turn Evil",
+      "author_zh": "菲利普·津巴多",
+      "author_en": "Philip Zimbardo",
+      "year": "2007",
+      "category": "社科与心理学",
+      "one_liner": "揭示普通人如何在特定环境压力下蜕变成施暴者的惊人真相。",
+      "deep_dive": "还记得那个著名的斯坦福监狱实验吗？津巴多是主持人，他亲眼目睹了一个吓人的现象：几天内，温和的大学生突然变成了残忍的狱卒，而被分配为囚犯的学生则陷入了精神崩溃。这本书就是他对这个实验、以及更广泛的人性问题的深度反思。\n\n最震撼的地方在于，津巴多告诉你，邪恶不是天生的——它是被激发的。当一个人被赋予权力、被制度合理化、被群体认同强化时，再善良的人都可能做出令自己都无法想象的事。从阿布格莱布监狱虐囚丑闻到历史上的各种暴行，津巴多用案例一遍遍验证这个观点。\n\n但这本书并不是绝望的。后半部分津巴多探讨了如何抵抗"系统邪恶"——如何保持道德觉醒，如何识别出那些试图操纵我们的影响力。他说，我们不只是被动的受害者，我们也可以成为"英雄"，在关键时刻说"不"。这对任何思考权力、责任和人性的人来说，都是一次必要的心理洗礼。",
+      "quotes": [
+        {
+          "text": "The line between good and evil is permeable, and almost everyone has the potential to be either, depending on the situation.",
+          "context": "津巴多的核心观点——邪恶不是个性的产物，而是情境的产物。这颠覆了我们对'坏人'的理解。"
+        },
+        {
+          "text": "It is far easier to act your way into feelings than to think your way into new attitudes.",
+          "context": "解释为什么在斯坦福实验中，学生迅速适应了自己的角色。行为改变带来心理认同，这个过程比我们想象的快得多。"
+        },
+        {
+          "text": "The most important thing is to acknowledge that you could be a perpetrator, not a victim.",
+          "context": "最令人不安但最重要的提醒——不是说你一定会作恶，而是你需要意识到自己具备那样的潜能，才能警惕它。"
+        }
+      ]
+    },
+    {
+      "title_zh": "偶像的黄昏",
+      "title_en": "Twilight of the Idols, or How One Philosophizes with a Hammer",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1889",
+      "category": "哲学",
+      "one_liner": "尼采挥舞哲学之锤，砸碎传统道德偶像的宣言。",
+      "deep_dive": "想象一个哲学家，站在19世纪末的欧洲，看着虚伪的基督教道德、平庸的理性主义和人道主义标语充斥整个社会，心想：这一切都该死。这就是尼采写《偶像的黄昏》时的状态。\n\n这不是本好读的书。尼采的笔锋尖锐得像刀片，他不屑于温和说理——他要砸碎。他砸苏格拉底（说他杀死了希腊悲剧），砸德国文化，砸女性主义，砸那些他眼中虚伪的道德承诺。最疯狂的部分？他宣称自己用锤子敲击偶像，听它们发出什么声音——如果是空心的，就意味着它们本就虚伪。\n\n但别被攻击性吓到。在这些尖刻的论战后面，尼采其实提出了一个激进的主张：我们需要'价值的重估'。旧的道德体系已经腐烂了，我们需要像艺术家一样创造新的价值观。这本书对任何想挑战既有观念、思考什么是真正值得活着去追求的人，都是一次思想上的电击。虽然危险，但绝对是必读的。",
+      "quotes": [
+        {
+          "text": "I call an animal, a species, an individual corrupt when it loses its instincts, when it prefers what is harmful to it.",
+          "context": "尼采认为道德的衰退就是本能的衰退。现代文明用理性压制了生命本身的活力和创造力。"
+        },
+        {
+          "text": "One does not refute a disease, one does not refute a condition of being sick... One fights them with drugs or the lance.",
+          "context": "尼采把基督教道德本身当作一种疾病来看待。不能通过论证改变它，只能用更强大的价值观去消灭它。"
+        },
+        {
+          "text": "Morality is the herd-instinct in the individual.",
+          "context": "道德本质上是群体的工具，用来控制和驯化个体。这让我们重新思考什么是真正的自由和真正的道德。"
+        }
+      ]
+    },
+    {
+      "title_zh": "日瓦戈医生",
+      "title_en": "Doctor Zhivago",
+      "author_zh": "鲍里斯·帕斯捷尔纳克",
+      "author_en": "Boris Pasternak",
+      "year": "1957",
+      "category": "文学",
+      "one_liner": "一位诗人医生在俄国革命的风暴中，用爱与诗意对抗历史的洪流。",
+      "deep_dive": "如果你想理解俄国革命对普通人生活的摧毁，读这部小说比读十本历史书都有效。帕斯捷尔纳克笔下的尤里·日瓦戈是个理想化的人物——一个医生、诗人、温柔的知识分子，正好在历史最动荡的时刻活着。\n\n小说跨越了1905年到1950年代，我们跟着日瓦戈经历十月革命、内战、苏联建立的整个过程。但这不是宏大的革命叙事。相反，它是极其个人的——日瓦戈在战争中失去了什么，他如何失去了自己的家庭、事业，甚至身体；他与女人的爱情（尤其是与拉拉的禁忌之爱）如何成为他在混乱世界中唯一的真实；他的诗歌如何成为他对生命意义的最后的坚持。\n\n最打动人心的是帕斯捷尔纳克表现的那种无力感——日瓦戈不是历史的塑造者，他甚至不是历史的见证者，他就是被历史碾过的普通人。但即使如此，他的内心世界——他的爱、他的诗、他的道德坚持——都闪闪发光。这是一部关于个人尊严与自由如何在极权压力下苟延残喘的悲剧杰作，也是关于爱的力量的永恒文学。",
+      "quotes": [
+        {
+          "text": "Man is born to live, not to prepare for life.",
+          "context": "日瓦戈的生活哲学。在革命的宏大叙事中，他坚持活在当下，坚持生活本身而不是为某个政治理想而活。"
+        },
+        {
+          "text": "What is laid down, ordered, factual is never enough to embrace the whole truth. There is always something left over. Whatever happens to be our actuality at any given moment, it is never the totality of what is possible.",
+          "context": "帕斯捷尔纳克对现实与诗意、理性与想象之间永恒张力的思考。这也是他为何被苏联官方禁锢的原因——他拒绝让文学臣服于政治现实。"
+        },
+        {
+          "text": "In winter, in the middle of the night, a man is not just himself; he is also the night, the snow, the silence, the solitude.",
+          "context": "小说中最诗意的一段。体现了帕斯捷尔纳克对自然与人的融合、对个体与宇宙关系的深刻感悟。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+已生成严格JSON格式（无markdown代码块），三本书的推荐已准备就绪。日瓦戈医生的内容基于书单，另外两本书虽不在官方经典书单中，但都是世界文学与哲学的重要著作。
