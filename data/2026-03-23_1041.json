@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "爱玛",
+      "title_en": "Emma",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1815",
+      "category": "爱情/社会讽刺小说",
+      "one_liner": "聪慧女性的自我认知之旅与爱情启蒙",
+      "deep_dive": "《爱玛》是奥斯汀最有趣的作品，因为女主角爱玛聪慧得要命，但偏偏眼光不行。她热衷于给身边人牵线搭桥，结果一次次判断失误，最后才发现自己的真实感受。这部作品的妙处在于，奥斯汀用爱玛的种种荒诞行为来讽刺上层社会的虚伪与局促，同时也深刻地展现了女性在受限生活中的智慧和挣扎。爱玛虽然有缺点，但她最终实现了自我认识，这在当时简直是革命性的。整部作品充满了机智对白、细微的心理刻画和对人性的深刻洞察。如果你喜欢看一个聪明女人如何慢慢看清自己，这绝对值得一读。",
+      "quotes": [
+        {
+          "text": "There is nothing I would not do for those who are really my friends.",
+          "context": "爱玛对友谊的真挚承诺，反衬她对爱情的自我欺骗"
+        },
+        {
+          "text": "If I loved you less, I might be able to talk about it more.",
+          "context": "爱玛最终的告白，展现真诚超越矜持"
+        }
+      ]
+    },
+    {
+      "title_zh": "卡夫卡传",
+      "title_en": "Kafka: A Life",
+      "author_zh": "赖纳·施塔赫",
+      "author_en": "Reiner Stach",
+      "year": "2005",
+      "category": "传记/文学评论",
+      "one_liner": "一个孤独的天才如何在绝望中创造了现代文学的新语言",
+      "deep_dive": "卡夫卡是个矛盾的人——他渴望爱，却从未真正拥有；他想要自由，却被焦虑和责任束缚；他写出了最黑暗的故事，却只想过平凡的生活。这部传记追踪了他从一个平凡的布拉格犹太人到现代文学巨匠的蜕变过程。你会看到他在保险公司的日常工作、与父亲的冲突、对多段爱情的执着追求，以及那些在绝望和孤独中产生的伟大作品。卡夫卡的生活本身就像他的小说一样荒诞而令人窒息——充满了未完成的事业、无法解脱的困境和深层的精神危机。但正是这种深刻的个人痛苦，催生了他那些永恒的作品，继续影响着后世的作家和读者。",
+      "quotes": [
+        {
+          "text": "One must have chaos within oneself to give birth to a dancing star.",
+          "context": "卡夫卡对创意来源的深刻思考"
+        },
+        {
+          "text": "I think we ought to read only the kind of books that wound or stab us.",
+          "context": "他对文学力量和阅读本质的独特见解"
+        }
+      ]
+    },
+    {
+      "title_zh": "伦理学",
+      "title_en": "Ethics",
+      "author_zh": "巴鲁克·斯宾诺莎",
+      "author_en": "Baruch Spinoza",
+      "year": "1677",
+      "category": "哲学/伦理学",
+      "one_liner": "用几何学的严密逻辑重新定义人生的意义和自由",
+      "deep_dive": "《伦理学》可能是西方哲学中最雄心勃勃的著作——斯宾诺莎用几何定理的方式来论述人生的终极问题。他告诉你，自由不是随心所欲，而是理解必然性；幸福不是道德奖励，而是理性认知的自然结果。这部作品彻底颠覆了传统宗教和笛卡尔哲学，提出了一个激进的观点：上帝不是超越自然之外的创造者，而就是自然本身。人的所有情感、欲望和行动都遵循自然律，而自由和幸福来自于对这些律则的深刻理解。读这部书会让你重新思考何为自由、何为道德、何为有意义的生活。虽然它的数学严密性有时会让人感到冷硬，但其中包含的洞察力是温暖而解放的。",
+      "quotes": [
+        {
+          "text": "He who has a true idea simultaneously knows that he has a true idea.",
+          "context": "斯宾诺莎关于真理自我证明性的核心论点"
+        },
+        {
+          "text": "In so far as the Mind understands all things as necessary, it is affected with a certain constancy of joy.",
+          "context": "真正的幸福来自于对必然性的理性理解"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1041"
+}
