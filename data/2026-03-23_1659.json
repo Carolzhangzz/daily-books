@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "费曼物理学讲义",
+      "title_en": "The Feynman Lectures on Physics",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard Feynman",
+      "year": "1963-1965",
+      "category": "科学与认知",
+      "one_liner": "诺贝尔奖得主用最直白的方式讲解物理学原理，揭示宇宙的底层逻辑",
+      "deep_dive": "费曼是个很特别的物理学家，他反感死记硬背。这套讲义是他在加州理工教本科生时的课堂笔记，他从不直接给出结论，而是带你一步步思考为什么物理世界一定是这样而不是那样。讲光学时，他不是告诉你\"光的波长决定颜色\"，而是从光与物质的相互作用开始，让你理解为什么不同波长产生不同视觉效果。\n\n最打动我的是他强调的\"物理直觉\"。他会问看似很傻的问题：为什么物体不能无限加速？为什么热总是从热处流向冷处？这些背后都是深刻的物理洞察。书里涵盖从经典力学到量子力学的内容，虽然看起来厚重，但读起来并不枯燥，因为费曼的语气就像和朋友聊天一样，他甚至会承认某些地方他自己也困惑。\n\n为什么值得读？如果想真正学物理而不是为了考试，这是必读的。费曼的思维方式——质疑、好奇、追求根本理解——对任何领域的学习都有借鉴意义。即使你对物理陌生，也能理解身边许多现象的科学原理。",
+      "quotes": [
+        {
+          "text": "What I cannot create, I do not understand.",
+          "context": "费曼的座右铭，意味着仅仅知道一个现象是什么还不够，你必须能用最基本的原理推导出来。"
+        },
+        {
+          "text": "The principle of science is that we try not to fool ourselves, and we are the easiest people to fool.",
+          "context": "费曼强调的是科学精神的核心：诚实和怀疑。我们最容易被自己的预期和偏见所欺骗。"
+        }
+      ]
+    },
+    {
+      "title_zh": "思考，快与慢",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "科学与认知",
+      "one_liner": "诺贝尔经济学奖得主揭露人类思维的两大系统和无处不在的认知偏差",
+      "deep_dive": "卡尼曼的这本书从根本上改变了我们对\"人类如何做决定\"的认知。传统经济学假设人类理性，但他通过实验发现我们远不如想象那么理性，有系统性的认知偏差影响每一个决定。\n\n核心概念是\"系统1\"和\"系统2\"。系统1是快速的、直觉的、无意识的思维；系统2是缓慢的、逻辑的、需要努力的思维。我们大多数时候依赖系统1，因为它快速高效，但这也是我们犯错的根源。系统1容易受代表性启发式、可得性启发式、锚定效应等各种偏差影响。\n\n最有价值的是他解释了为什么这些偏差存在——它们在进化史上有合理性。当你对某个人第一印象差，后来很难改变，这是锚定效应和确认偏差。当你对投资特别有信心，可能是因为最近的成功案例太清晰了，而不是真的理性分析。这本书让你意识到自己的思维陷阱在哪里。",
+      "quotes": [
+        {
+          "text": "The confidence that individuals have in their beliefs depends mainly on the quality of the story they can tell about what they see, even if they see little.",
+          "context": "我们的自信程度取决于能讲出多好的故事，而不是基于实际证据。这解释了为什么有说服力的叙述比数据本身更能影响我们的判断。"
+        },
+        {
+          "text": "We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events.",
+          "context": "我们总以为理解世界运作的方式，其实很多时候是运气在起作用，却将其归因于自己的能力。"
+        }
+      ]
+    },
+    {
+      "title_zh": "影响力",
+      "title_en": "Influence: The Psychology of Persuasion",
+      "author_zh": "罗伯特·西奥迪尼",
+      "author_en": "Robert Cialdini",
+      "year": "1984",
+      "category": "心理学",
+      "one_liner": "社会心理学大师总结的六大影响力法则，解读人类为什么会被说服",
+      "deep_dive": "西奥迪尼花了几年时间卧底在销售、广告、募捐等领域，观察专业说服者如何操纵人们的心理，总结出六大影响力原则。为什么这本书这么有名？因为它揭开了秘密：人类决策过程充满\"快捷方式\"，可以被预测和利用。\n\n互惠是第一原则——如果别人对你好，你就想对别人好，这就是免费试用为什么有效。承诺和一致性是第二原则——一旦做出选择，我们倾向让后续行为与之保持一致。社会证明是第三原则——不确定时模仿他人行为。权威是第四原则——我们天生尊重权威。喜欢是第五原则——被喜欢的人容易说服我们。稀缺性是第六原则——稀缺的东西评价更高。\n\n最重要的是，西奥迪尼强调这些不是操纵技巧，而是社会运作的基本法则。在日常生活中帮助我们快速决定，但专业说服者可能会滥用。这本书的价值在于让你成为有防御能力的消费者和有道德的说服者。",
+      "quotes": [
+        {
+          "text": "Compliance professionals are people who have learned how to use psychological principles to bring about a yes.",
+          "context": "说服者本质上是懂得心理学原理的人，这些原理对每个人都有效。"
+        },
+        {
+          "text": "We are more likely to follow the lead of someone we like, and we like people who are similar to us.",
+          "context": "为什么销售员和推销员会努力与你找到共同点——喜欢原则是说服最强大的工具。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1659"
+}
