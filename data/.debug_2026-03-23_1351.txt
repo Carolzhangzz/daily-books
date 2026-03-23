@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "门口的野蛮人",
+      "title_en": "Barbarians at the Gate",
+      "author_zh": "布赖恩·伯勒, 约翰·赫利亚尔",
+      "author_en": "Bryan Burrough, John Helyar",
+      "year": "1989",
+      "category": "商业与历史",
+      "one_liner": "美国金融史上最大杠杆收购案的真实故事——一场涉及数十亿美元、改变企业并购历史的权力游戏。",
+      "deep_dive": "这本书讲的是1988年那场震撼华尔街的大戏——全球最大的烟草食品公司RJR Nabisco突然陷入被收购的竞争漩涡。故事的核心是CEO Ross Johnson和传奇投资者Henry Kravis之间的激烈对抗。Johnson想通过管理层收购来大赚一笔，却引发了一场疯狂的竞拍。最终KKR以249亿美元的天价胜出，创造了当时美国历史上最大的杠杆收购。\n\n这不是什么高尚的商业故事——它充满了欲望、背叛、野心和贪婪。每个人都想从中捞到最多的钱，却很少有人真正关心公司的长期前景或员工的未来。整个过程就像一部金融版的莎士比亚悲剧，充满了戏剧化的转折和令人瞠目的谈判细节。\n\n书名\"门口的野蛮人\"来自这个比喻——华尔街的掠夺者（barbarians）正在敲打公司大门。这本书开创了新闻商业写作的黄金标准，让普通读者也能理解复杂的金融交易。它彻底改变了人们对华尔街和企业并购的看法，揭露了金融游戏背后的真实人性。",
+      "quotes": [
+        {
+          "text": "The only loyalty on Wall Street is to the bottom line.",
+          "context": "道出了整个交易中参与者们真实的心态——金钱至上，一切都可以为之牺牲。"
+        },
+        {
+          "text": "Barbarians at the gates were no longer metaphorical; they were at the door with checkbooks.",
+          "context": "象征了传统企业面对华尔街投资者的无力感，一个时代的终结。"
+        },
+        {
+          "text": "Nobody was thinking about the long term; everybody was thinking about their piece of the pie.",
+          "context": "深刻反映了这场收购战中的短视心态，众人各怀鬼胎。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论自然",
+      "title_en": "Physics (On Nature)",
+      "author_zh": "亚里士多德",
+      "author_en": "Aristotle",
+      "year": "公元前4世纪",
+      "category": "哲学",
+      "one_liner": "西方哲学之父对自然本质的深邃思考，奠定了物理学、生物学和整个形而上学的理论基础。",
+      "deep_dive": "亚里士多德想要解答一个根本问题：为什么事物是现在这样，而不是别的样子？和他的老师柏拉图不同，亚里士多德相信通过观察现实世界来认识真理，而不是躲在理想世界的洞穴里冥想。他要建立一门关于\"自然\"的科学。\n\n在这部著作中，他讨论了什么是\"自然\"——不是山河湖海这些具体的东西，而是每个事物内部的本质，那种使它成为\"它自己\"的东西。一粒种子之所以长成植物而非石头，是因为它有内在的自然属性。他还论述了著名的\"目的因\"——事物的目的。一只眼睛的目的就是看见；一条河流的目的就是流动。整个宇宙都有其内在的秩序和目标。\n\n这些看似朴素的想法其实深刻地影响了整个西方思想传统。直到文艺复兴和科学革命，人们才开始真正挑战亚里士多德的观点。但即使现在，当我们说某个东西是\"自然的\"或\"违反自然\"时，我们用的还是他当年的概念框架。读这本书需要一点耐心，但它会让你理解为什么西方人对\"自然\"这个词的理解是现在这样的。",
+      "quotes": [
+        {
+          "text": "Everything that is natural has within itself a principle of motion.",
+          "context": "阐述了自然物体的核心特征——内在的运动原理，这是亚里士多德自然哲学的基石。"
+        },
+        {
+          "text": "Nature does nothing in vain; all is for an end.",
+          "context": "表达了他的目的论思想——宇宙中的一切都有其内在的目标和意义，没有任何事物是毫无目的的。"
+        },
+        {
+          "text": "To understand nature is to understand the cause of each thing.",
+          "context": "概括了亚里士多德自然研究的终极目标——通过理解原因来把握自然的真理。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论自由",
+      "title_en": "On Liberty",
+      "author_zh": "约翰·斯图亚特·密尔",
+      "author_en": "John Stuart Mill",
+      "year": "1859",
+      "category": "哲学与社科",
+      "one_liner": "个人自由与社会秩序的平衡——一部塑造现代民主理念的伟大政治哲学著作。",
+      "deep_dive": "密尔在1859年写这本书时，英国已经是个相对民主的国家了，但他观察到了一个危险：民众的多数意见开始压制少数派的声音。他不是为了无政府主义的自由而辩护，而是因为他深信个人自由对人类进步至关重要。\n\n他提出了一个简洁而有力的原则：只有当某个行为直接伤害他人时，社会才能限制个人的自由。这听起来很简单，但当你真正应用时就变得复杂了——什么算是\"伤害\"？言论自由能否包括仇恨言论？你有权拒绝医疗治疗吗？\n\n密尔特别强调了言论自由的重要性。他论证说，即使是错误的观点也值得表达和讨论。为什么？首先，它可能是对的；其次，通过反驳它，我们才能真正理解为什么真理是真理；第三，真理如果不被不断挑战，就会变成死的教条。他在两百年前说的这些话，在今天的社交媒体时代显得更加有先见之明。这部著作直接影响了现代民主、宪法自由权和人权的发展。",
+      "quotes": [
+        {
+          "text": "The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others.",
+          "context": "密尔论自由最著名的原则，他整个论证的基础——自由的唯一限度就是不伤害他人。"
+        },
+        {
+          "text": "He who knows only his own side of the case knows little of that.",
+          "context": "论证言论自由的必要性——即使是错误的观点也应该被听到和讨论，因为这样我们才能真正理解真理。"
+        },
+        {
+          "text": "If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind.",
+          "context": "表达了对少数派权利的绝对保护——多数永远不能用数量来压制真理和思想。"
+        }
+      ]
+    }
+  ]
+}
+```
