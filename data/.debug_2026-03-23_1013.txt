@@ -1,0 +1,69 @@
+我来为这三本书生成中文推荐。根据你的要求，我直接输出JSON格式：
+
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "第二十二条军规",
+      "title_en": "Catch-22",
+      "author_zh": "约瑟夫·海勒",
+      "author_en": "Joseph Heller",
+      "year": "1961",
+      "category": "文学",
+      "one_liner": "荒诞逻辑中的人性困境——一场关于战争、理性与自由的黑色喜剧",
+      "deep_dive": "这部小说可能是二战后最具讽刺意味的作品。故事发生在一个虚构的岛屿军事基地，主角尤塞林是一名轰炸机驾驶员，他想逃离这场疯狂的战争，但碰上了一个叫\"第二十二条军规\"的悖论：想要避免执行危险任务，必须证明自己精神不正常；但主动申请精神评估本身就说明你精神正常。\n\n这个看似荒唐的规则其实是对整个官僚体制和军事机构的尖刻批判。小说通过一个又一个离奇、惨痛、令人发笑的故事，揭示了战争中人性的丧失、理性的荒唐和权力的滑稽。书中那些角色——野心勃勃的中校、贪婪的黑市商人、疯狂的长官——都被困在这个无法逃脱的逻辑陷阱里。\n\n《第二十二条军规》不仅是反战文学的经典，更是对现代社会各种\"第二十二条军规\"的深层思考。那些自相矛盾、令人窒息的官僚规则，那些明知荒唐却又无力反抗的处境，至今仍然存在于我们的世界里。这部书的伟大之处在于它用黑色幽默让我们既能笑出声来，又能感到深深的无力感。",
+      "quotes": [
+        {
+          "text": "Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.",
+          "context": "对人生宿命的讽刺——有时候无论你多努力，社会体制都会把你变成平庸的一员"
+        },
+        {
+          "text": "It was love at first sight. The first time Yossarian saw the chaplain, he fell madly in love with him.",
+          "context": "小说中荒诞人物关系的典型描写，展现出角色之间离奇但又真诚的纽带"
+        }
+      ]
+    },
+    {
+      "title_zh": "尤利西斯",
+      "title_en": "Ulysses",
+      "author_zh": "詹姆斯·乔伊斯",
+      "author_en": "James Joyce",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "意识流的巅峰之作——用一个普通日子的内心戏映照整个人类历史",
+      "deep_dive": "《尤利西斯》是现代文学中最具野心的作品之一。它记录了1904年6月16日都柏林的一个普通日子，但在乔伊斯的笔下，这一天浓缩了荷马《奥德赛》的整个英雄史诗。主角布鲁姆是一个中年犹太人，他在都柏林街头漫游，遇见各种人物，经历各种琐碎的日常——坐电车、吃午餐、上厕所、去妓院。但通过意识流文学的魔法，这些日常片段变成了一场深邃的精神之旅。\n\n这部小说最难的部分（也是最妙的部分）是它的语言实验。乔伊斯创造了无数新词汇，打破了传统语法，让文字本身成为意识的直接映射。阅读它就像进入了一个人的大脑，看见思想如何跳跃、联想、自我否定、重新开始。它不仅记录了一个人在一天里的所见所想，更深入到了无意识的层面——欲望、恐惧、记忆、幻想全部混在一起。\n\n《尤利西斯》之所以伟大，不仅在于它的技巧突破，更在于它对\"存在\"本身的追问。一个普通人，一个平凡的日子，却能容纳如此丰富的内心世界、如此深远的人文思考。它改变了小说能做什么，也改变了我们对文学和语言的理解。",
+      "quotes": [
+        {
+          "text": "I am, a stride at a time. A very short space of time through very short time of space.",
+          "context": "关于存在和时间的哲学思考，体现了小说对人类本质的冥想"
+        },
+        {
+          "text": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.",
+          "context": "小说的开场，看似平凡的日常细节，但在乔伊斯手中每一个词都闪闪发光"
+        }
+      ]
+    },
+    {
+      "title_zh": "物理学的进化",
+      "title_en": "The Evolution of Physics",
+      "author_zh": "爱因斯坦、因费尔德",
+      "author_en": "Albert Einstein, Leopold Infeld",
+      "year": "1938",
+      "category": "科学与认知",
+      "one_liner": "跟随大师的思路，看物理学如何从绝对的牛顿世界走向相对论的新宇宙",
+      "deep_dive": "这是爱因斯坦唯一亲自撰写的通俗物理学著作，堪称科学普及的典范。与其他物理学入门书不同，这本书不是教你公式和计算，而是像在讲故事一样，讲述物理学思想的演进过程。\n\n从伽利略开始，书中展现了人类如何逐渐理解自然界的运动规律。牛顿建立了一套完美的机械论体系，似乎能解释一切。但随着科学的发展，一些现象开始不听话——光是什么？电和磁如何相互作用？物体的绝对速度存在吗？正是这些看似不起眼的疑问，最终导致了相对论的诞生。\n\n爱因斯坦用最平实的语言解释了为什么需要相对论、相对论改变了什么。他不会让你被数学吓倒，而是帮你理解物理学家为什么要提出这些看似疯狂的想法。这本书的妙处在于，它让你看见科学进步不是一蹴而就的闪电般启蒙，而是一个漫长的、需要不断修正和深化的过程。读完这本书，你会更深刻地理解：我们对世界的认识永远是不完美的，但正因为这种不完美，科学才能不断进步。",
+      "quotes": [
+        {
+          "text": "No one must think that Newton's great creation can be overthrown in a moment. On the contrary, Newton's mechanics is still today of enormous importance as the simplest special case.",
+          "context": "爱因斯坦对相对论与牛顿力学关系的阐述，体现了科学演进的延续性"
+        },
+        {
+          "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+          "context": "对科学精神的诠释——永远保持对世界的好奇心，这是推动物理学进步的根本动力"
+        }
+      ]
+    }
+  ]
+}
+```
