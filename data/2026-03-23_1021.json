@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "史蒂夫·乔布斯传",
+      "title_en": "Steve Jobs",
+      "author_zh": "沃尔特·艾萨克森",
+      "author_en": "Walter Isaacson",
+      "year": "2011",
+      "category": "传记与回忆录",
+      "one_liner": "官方传记记录了乔布斯如何用执着的愿景和完美主义改变了多个产业",
+      "deep_dive": "这本书是沃尔特·艾萨克森花了两年时间与乔布斯深入交流写成的。你会发现乔布斯不仅仅是一个科技天才，更是一个复杂的、有时候甚至是矛盾的人物。他既能展现出令人惊叹的同情心和洞察力，也会因为一些小事向员工发火。最打动人的部分是乔布斯对细节的执着。他会为了一个按钮的设计反复推敲，为了产品的外观和感受投入无数小时。这种对完美的追求贯穿了他的整个职业生涯，从苹果的早期产品，到被赶出苹果后创办NeXT和皮克斯，再到回归苹果后推出的iPod、iPhone和iPad。书中也深入探讨了乔布斯的人生转折点。他在大学的书法课让他后来设计出了那么漂亮的字体；他对禅宗和东方文化的热爱影响了他的设计哲学；他与生父的关系、与养父母的感情，这些都塑造了他成为什么样的人。最令人心碎的是书的后半部分，记录了他与癌症的对抗和最后的日子。这本书不仅仅是关于技术创新，更是关于一个人如何用自己的想象力和意志力去改变世界。",
+      "quotes": [
+        {
+          "text": "The only way to do great work is to love what you do.",
+          "context": "这句话体现了乔布斯对工作的热忱和执着，是他驱动自己和他人的核心信念"
+        },
+        {
+          "text": "Innovation distinguishes between a leader and a follower.",
+          "context": "这正是乔布斯不断推动苹果突破边界的原动力"
+        },
+        {
+          "text": "Death is the destination we all share. No one has ever escaped it.",
+          "context": "这是乔布斯在斯坦福演讲中关于人生意义的深刻反思"
+        }
+      ]
+    },
+    {
+      "title_zh": "城堡",
+      "title_en": "The Castle",
+      "author_zh": "弗朗茨·卡夫卡",
+      "author_en": "Franz Kafka",
+      "year": "1926",
+      "category": "文学",
+      "one_liner": "K试图进入神秘城堡却陷入官僚困境，是卡夫卡关于人与制度、渴望与虚无的黑色讽刺之作",
+      "deep_dive": "读《城堡》就像在一个永远进不去的大门前打转。K来到了一个村庄，声称自己被城堡聘请为测量员，但从此开始了一场永无休止的追逐。他要见市长，市长不在；他要拜访城堡的官员，却陷入了一层层的官僚程序；他交了朋友，又失去了信任；他爱上了一个女人，结果却更加孤独。这部小说写得非常奇特。它没有明确的情节，没有清晰的开端和结尾，反而是一种循环反复的、令人窒息的节奏。这就是卡夫卡的天才之处。他用这样的结构来表现现代人对制度的无力感——你永远不知道规则是什么，永远不知道为什么被拒绝，更永远不知道该如何改变这一切。城堡本身象征着权力、真理、归属感，但它却遥不可及。每当K以为自己靠近了，又被推回到原点。这种荒诞感在20世纪的现实中变成了现实——官僚机构的复杂性、人与制度的疏离，这些都在卡夫卡的笔下得到了最完美的诠释。有趣的是，这本书最初是未完成的。卡夫卡去世后朋友出版了这部遗作。但这个'未完成'反而增加了小说的力量，就像生活本身，我们都被卡在某个过程中。",
+      "quotes": [
+        {
+          "text": "It is only the poor who can afford to be unambitious.",
+          "context": "这句话深刻表现了K在官僚体制中被迫追求的困境与无奈"
+        },
+        {
+          "text": "I am not in revolt against my lot, but only against the way I have been treated.",
+          "context": "K所有的努力都源于这样的理性认知——问题不在他，而在这个荒诞的系统"
+        },
+        {
+          "text": "The most you can do is to take a decision and then be at peace with it.",
+          "context": "这是卡夫卡对人生态度的一种无奈而又深刻的领悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "自卑与超越",
+      "title_en": "What Life Could Mean to You",
+      "author_zh": "阿尔弗雷德·阿德勒",
+      "author_en": "Alfred Adler",
+      "year": "1931",
+      "category": "心理学",
+      "one_liner": "阿德勒指出人生根本原动力不是性欲而是克服自卑感的渴望，彻底改变了我们对人类行为的理解",
+      "deep_dive": "如果你读过弗洛伊德，你会发现阿德勒走了一条完全不同的路。他不认为人的行为是由无意识的性欲驱动，而是提出了一个更积极、更具启发性的观点：我们都天生有自卑感，而我们所有的努力、梦想和行为都源于克服这种自卑感的渴望。这个想法太棒了。每个人都曾感到自卑——也许是身体上的，也许是社会地位上的，也许是能力上的。但正是这种自卑感，激励着我们去学习、去改变、去超越自己。一个小个子的人可能会在运动或其他领域追求卓越；一个出身贫寒的人可能会通过教育改变命运。这不是消极的，而是人类进步的源动力。阿德勒还提出了'生活风格'的概念，认为我们每个人都会形成独特的应对人生的方式。我们的童年经历、与兄弟姐妹的关系、父母的期望——这些都塑造了我们的生活风格。有意思的是，他认为即使我们的生活风格已经形成，我们仍然有能力改变它。这给了我们希望——我们不是被过去锁定的，我们可以选择改变。这本书还涉及教育、婚姻、工作等人生的方方面面，认为健康的人生目标应该是对社会有所贡献，而不是自我中心的。",
+      "quotes": [
+        {
+          "text": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+          "context": "这体现了阿德勒对人类潜能的坚定信念，是克服自卑的根本基础"
+        },
+        {
+          "text": "Courage is not the absence of fear, but rather assessment that something else is more important than fear.",
+          "context": "这对于克服自卑心理至关重要，强调了如何面对恐惧"
+        },
+        {
+          "text": "No experience is by itself successful or unsuccessful. It is what we do with our experiences that determines our success or failure.",
+          "context": "这强调了我们的选择和态度的重要性，而非际遇本身"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1021"
+}
