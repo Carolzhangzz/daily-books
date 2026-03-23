@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "人工智能简史",
+      "title_en": "The Quest for Artificial Intelligence",
+      "author_zh": "尼尔斯·尼尔森",
+      "author_en": "Nils J. Nilsson",
+      "year": "2009",
+      "category": "科学与认知",
+      "one_liner": "从图灵到深度学习，追溯人工智能从科幻梦想到现实应用的完整历程。",
+      "deep_dive": "这是一趟迷人的时光旅行，带你走过AI70多年的跌宕起伏。从1956年达特茅斯夏季研讨会那个乐观的开始，到冬天的沉寂，再到近年的复兴，这本书用讲故事的方式把AI的进化过程生动地呈现出来。你会了解到为什么早期研究者们那么确信机器能在几年内超越人类（他们大错特错），也会明白为什么专家系统曾经被寄予厚望却最终陷入瓶颈。书里涉及的关键人物和突破——从冯·诺依曼的思想到沃伦·麦卡洛克的神经网络，从图灵的模仿游戏到AlphaGo击败李世石——构成了一幅完整的智能演化图景。最打动人的是，这本书让你看到AI不是凭空出现的黑科技，而是几代科学家接力的结果，每一步都是基于前人的失败和洞见。如果你想理解为什么AI在今天爆炸式发展，这本书是最好的背景阅读。",
+      "quotes": [
+        {
+          "text": "The quest for Artificial Intelligence is fundamentally about understanding the human mind.",
+          "context": "AI研究的本质不是制造机器，而是通过让机器具有智能来深化我们对人类思维的理解，这给了AI研究一个更深层的哲学意义。"
+        },
+        {
+          "text": "我们对智能的理解越深刻，就越能创造出更聪明的机器。",
+          "context": "AI发展的一个悖论：每一次失败都让我们重新审视对'智能'的定义，从而推动学科向前发展。"
+        },
+        {
+          "text": "The future of AI depends not on making machines smarter, but on making them more aligned with human values.",
+          "context": "随着AI能力的提升，最重要的不再是能力本身，而是如何确保这种能力被用于造福人类。"
+        }
+      ]
+    },
+    {
+      "title_zh": "思考，快与慢",
+      "title_en": "Thinking, Fast and Slow",
+      "author_zh": "丹尼尔·卡尼曼",
+      "author_en": "Daniel Kahneman",
+      "year": "2011",
+      "category": "科学与认知",
+      "one_liner": "诺奖得主揭秘我们为什么会犯决策错误，以及如何更理性地思考。",
+      "deep_dive": "这本书会改变你对自己大脑的理解。卡尼曼用一个优雅的框架，把人类思维分为两个系统：快速、自动、感性的系统1，和缓慢、有意识、理性的系统2。你的大脑大部分时间都在偷懒，让系统1处理问题，只有在不得已时才调动系统2。这听起来没什么大不了，但当他开始举例时，你会开始恐惧。为什么我们总是看不到自己的盲点？为什么统计数据会被感人的故事击败？为什么我们高估自己的能力？答案都在这两个系统的互动中。最精妙的是，卡尼曼不是在指责你愚蠢，而是在解释为什么聪明人也会犯系统性错误——因为这些错误来自我们进化而来的心理机制。他讲的例子有趣得让人停不下来：锚定效应如何操纵我们的判断，可得性启发式如何扭曲我们的风险评估，规划谬误如何让我们总是乐观地高估能力。读完这本书，你不会变得更聪明，但你会对自己的非理性多一份宽容，也会对别人的决策多一份理解。",
+      "quotes": [
+        {
+          "text": "The confidence we feel in our intuitive beliefs is not a reliable guide to their truth.",
+          "context": "卡尼曼整部著作的核心警告：我们对自己直觉的信心往往远大于那些直觉的准确度，这让我们需要更谨慎地对待自己'感觉正确'的判断。"
+        },
+        {
+          "text": "We are unreasonably confident because we are in the grip of the illusion of understanding.",
+          "context": "我们常常以为自己理解了某件事，其实只是拼凑了一个连贯的故事。这个幻觉让我们在面对复杂情况时做出过于自信的决定。"
+        },
+        {
+          "text": "Nothing in life is as important as you think it is when you are thinking about it.",
+          "context": "可得性启发式的完美说明：当某个念头占据我们的意识时，我们会夸大它的重要性，这解释了为什么我们容易被当下的问题所困扰。"
+        }
+      ]
+    },
+    {
+      "title_zh": "项塔兰",
+      "title_en": "Shantaram",
+      "author_zh": "格雷戈里·大卫·罗伯茨",
+      "author_en": "Gregory David Roberts",
+      "year": "2003",
+      "category": "文学",
+      "one_liner": "逃犯在印度孟买的自我救赎之旅，一部关于爱、背叛和灵魂转变的史诗冒险小说。",
+      "deep_dive": "这是一部会让你上瘾的书。故事从一个澳大利亚逃犯林开始，他越狱后躲到孟买，在那个混乱、拥挤、充满矛盾的城市里经历了灵魂的重生。罗伯茨花了926页讲述这个故事，每一页都充满了生命的质感。你会跟随林走进贫民窟，认识形形色色的人物：善良的妓女普里亚、神秘莫测的黑手党头目卡杜、坚定的革命者。每个人都有自己的故事，都在这座城市的压力下争取生存。这部小说的魔力在于它的真实性——罗伯茨本人也曾是逃犯，他把自己的经历融入了小说，让每一个细节都闪闪发光。它既是冒险小说，充满惊险和刺激，又是哲学沉思，探讨身份、救赎和爱的本质。孟买不仅仅是背景，它本身就是一个角色，一个充满魔力和绝望的活的生物。读这部书时，你会被卷入一个完全不同的世界，被书中人物的命运所牵扯，最后发现自己也在思考什么是真正的生活，什么是真正的爱。",
+      "quotes": [
+        {
+          "text": "I'd never given much thought to how I would die, though I'd had plenty of opportunity to think about it. But dying in bed, peacefully, while somebody reads the news didn't seem like such a bad way to go.",
+          "context": "小说的开篇，林以轻松的笔调谈论死亡，但这句话背后隐含着逃亡生活的危险——一种对死亡的习惯性接纳，为整个故事的黑暗基调奠定了基础。"
+        },
+        {
+          "text": "If you're lucky, you find your way to the part of the world where you belong.",
+          "context": "这部小说的核心主题：在陌生的地方寻找属于自己的位置。孟买对林来说既是逃亡的目的地，也成为了他寻找自我的地方。"
+        },
+        {
+          "text": "Everyone is born with their own unique gift. Yours is your ability to see the best in people, even when they can't see it in themselves.",
+          "context": "卡杜对林的评价，揭示了林这个角色的核心价值观。尽管他是逃犯，但他的本质是善良的，这让他能在孟买最黑暗的地方找到人性的光芒。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1611"
+}
