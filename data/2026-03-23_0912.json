@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "人工智能简史",
+      "title_en": "Artificial Intelligence: A Guide for Thinking Humans",
+      "author_zh": "梅兰妮·米歇尔",
+      "author_en": "Melanie Mitchell",
+      "year": "2019",
+      "category": "科学与技术",
+      "one_liner": "从图灵机到深度学习，一部通俗易懂的AI发展简史，揭示AI的真实能力与局限。",
+      "deep_dive": "这本书就像一次友好的知识之旅。作者梅兰妮·米歇尔是个讲故事的高手，她带你从图灵的梦想开始，穿过符号逻辑的繁荣、神经网络的沉浮，最后来到今天的深度学习时代。你会惊讶地发现，AI的历史远比你想象的复杂和有趣——每一波热潮都伴随着炒作，每一次冬天都孕育着新的洞见。米歇尔聪明的地方在于，她不是用数学堆砌，而是用直观的例子让你理解什么是神经网络、什么是机器学习。她还诚实地讨论了AI现在做不了什么——这部分特别重要，因为在媒体的渲染下，我们总以为AI无所不能。读完这本书，你会明白：AI很聪明，但聪明的方式和人类完全不同；它能赢你的棋，却理解不了一句玩笑。对于想要理解AI但又害怕数学公式的人来说，这是完美的入门书。",
+      "quotes": [
+        {
+          "text": "The real problem is that the world is just too complicated for us to understand, so we have to make simplifications. AI systems reflect the simplifications their creators make.",
+          "context": "米歇尔指出AI系统本质上是人类简化世界的产物，它们的局限性源于这种必然的简化过程。"
+        },
+        {
+          "text": "Deep learning has been transformative, but it's not magic, and it's not conscious thought.",
+          "context": "对深度学习的冷静评估，提醒我们不要被技术成就冲昏头脑，深度学习强大但有边界。"
+        },
+        {
+          "text": "The question is not whether machines can think like humans, but what new kinds of problems machines can help us solve.",
+          "context": "重新框架化了AI的价值命题——不是复制人类智能，而是开拓新的可能性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "遗落的南境",
+      "title_en": "Annihilation",
+      "author_zh": "杰夫·范德米尔",
+      "author_en": "Jeff VanderMeer",
+      "year": "2014",
+      "category": "文学",
+      "one_liner": "一支探险队深入神秘的X区，她们不知道自己在寻找什么，也不知道什么在寻找她们。",
+      "deep_dive": "这不是一部普通的科幻小说。范德米尔创造了X区——一个被诡异的光芒包裹的地方，内部的规则完全不同。故事通过一位叫\"生物学家\"的女性讲述，她和三个队友被派去探索这个禁区。但这里没有经典科幻小说的外星人或机器人对抗；有的是某种更陌生、更不可名状的东西，它甚至没有敌意，只是不同。范德米尔的天才之处在于他把科幻设定变成了心理悬疑。你会逐渐意识到，这部分不是在讲探险队如何对抗外部威胁，而是讲人类如何在陌生的世界里迷失自我。队伍成员一个接一个地改变，但没有人确定那是外界的影响还是内心的崩溃。而且范德米尔很聪明地让你陷入同样的困境——你读得越多，就越感到事情有多么诡异，那种不安感直指人心。这是一本会让你思考身份、自我、以及我们对现实的认知的小说。如果你喜欢感受陌异感和心理压力而非快速的情节推进，这是你的书。",
+      "quotes": [
+        {
+          "text": "It was clear to me that all of us who traveled into the area were complicit, knew more than we believed we knew.",
+          "context": "生物学家意识到他们可能从一开始就知道真相的某个部分，却选择了自欺欺人——这也是人性的一部分。"
+        },
+        {
+          "text": "Fear is something we are taught, and yet the most primal element of our being.",
+          "context": "在诡异的X区中，恐惧变成了一种认识工具，而不仅仅是情绪反应。"
+        },
+        {
+          "text": "I would have lived in any era, time, or universe—if only I could have kept you.",
+          "context": "在绝望中闪现的爱与失落，提示了人类最深的渴望与痛苦。"
+        }
+      ]
+    },
+    {
+      "title_zh": "确定性的终结",
+      "title_en": "The End of Certainty: Time, Chaos, and the New Laws of Nature",
+      "author_zh": "伊利亚·普里戈金 & 伊莎贝尔·斯腾格斯",
+      "author_en": "Ilya Prigogine & Isabelle Stengers",
+      "year": "1997",
+      "category": "科学与认知",
+      "one_liner": "从牛顿到混沌理论，揭示科学如何从绝对确定走向拥抱不确定性。",
+      "deep_dive": "几个世纪以来，科学的承诺很简单：如果你知道现在的状态，就能预测未来。这个想法来自牛顿，简洁而有力。但普里戈金和斯腾格斯告诉我们，这个故事不完整。这本书的核心是一次观念的革命。他们论证说，确定论的世界观在遇到热力学、量子力学和混沌理论时开始瓦解。现在我们知道，某些系统本质上是不可预测的——不是因为我们知识不足，而是因为不确定性写进了宇宙的代码里。特别有意思的是他们对时间的讨论：在牛顿的世界里，时间是可逆的，但在真实的自然界中，时间有方向，有箭头。我们不能回到过去。普里戈金是诺贝尔奖得主，他的笔触严肃但不晦涩。这本书既讨论科学，也讨论哲学——它改变了我们对因果关系、自由意志，甚至人类存在的思考方式。如果你曾经对宿命论产生过怀疑，或者想理解为什么宇宙没有我们以为的那么机械和可预测，这本书会给你深刻的启发。",
+      "quotes": [
+        {
+          "text": "The world is no longer a machine. It is becoming more and more alive, and our science must adapt to this new reality.",
+          "context": "普里戈金对科学新时代的宣言，宣布了从机械论到有机论世界观的转变。"
+        },
+        {
+          "text": "Irreversibility is the manifestation of time's arrow in nature.",
+          "context": "解释了为什么时间不是对称的，为什么我们能分辨过去和未来——这是科学对存在的根本洞察。"
+        },
+        {
+          "text": "We are rediscovering the concept of nature that Aristotle had: that nature is not a mechanism that can be wound up like a clock, but a creative force.",
+          "context": "将古代哲学智慧与现代科学融合，提示科学需要回到对自然的尊重和敬畏。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_0912"
+}
