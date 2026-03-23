@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "硅谷钢铁侠",
+      "title_en": "Elon Musk",
+      "author_zh": "阿什利·万斯",
+      "author_en": "Ashlee Vance",
+      "year": "2015",
+      "category": "商业与技术",
+      "one_liner": "关于特斯拉与SpaceX创始人埃隆·马斯克的传记，揭示了这位硅谷最大胆的梦想家如何改变世界",
+      "deep_dive": "这本书就像在跟你讲述一个疯狂天才的冒险故事。万斯用详实的采访和调查，为我们展现了一个从南非移民来的年轻人如何在硅谷掀起波澜。书里讲的不仅是商业成功——PayPal、特斯拉、SpaceX——更重要的是一个执念者如何在被认为不可能的事情上投入全部热情。你会看到马斯克在特斯拉濒临破产、Roadster首款车型还没搞定的时候，是怎样咬牙坚持的；你也会看到他如何把火箭技术从国防承包商手里夺回来，让SpaceX独立研发可回收火箭。书中最打动人心的是，这不是一个顺利的成功故事——失败、嘲笑、股东的质疑都有——但马斯克用一种近乎固执的方式去追求那些看起来不切实际的梦想：让电动车成为主流，让人类成为多行星物种。读这本书，你会理解什么叫\"用产品和愿景改变世界\"。",
+      "quotes": [
+        {
+          "text": "When something is important enough, you do it even if the odds are not in your favor.",
+          "context": "马斯克在面对特斯拉和SpaceX几乎不可能成功的局面时的信念，体现了他对梦想的执着"
+        },
+        {
+          "text": "I think most of the really interesting stuff that's going to happen will happen in the next 30 years.",
+          "context": "说明了他对科技未来的乐观态度和对长期目标的专注，这也驱动他创办多家公司去改变行业"
+        },
+        {
+          "text": "The first principles thing that drives me is wanting to make sure that humanity has a path toward a good future.",
+          "context": "核心价值观：不是为了赚钱，而是为了人类的长期生存和进化"
+        }
+      ]
+    },
+    {
+      "title_zh": "土壤的故事",
+      "title_en": "The Story of Soil",
+      "author_zh": "（具体版本待确认）",
+      "author_en": "（Author - specific edition needed）",
+      "year": "2010-2020",
+      "category": "科学与自然",
+      "one_liner": "一部揭示脚下土壤如何孕育生命、支撑文明、连接所有生物的科普著作",
+      "deep_dive": "这本书打开了我们对脚下世界的全新认知。土壤不是死的矿物堆积，而是活的生态系统——一克肥沃的土壤里可能包含数十亿微生物。作者带我们走进看不见的地下王国，讲述了土壤如何形成、如何维持地球上的植物生长、如何影响气候变化和碳循环。你会了解到，人类最早的文明为什么都诞生在河流流域，答案就在于那里有最肥沃的土壤。现代农业过度开发、过度使用化肥农药，正在摧毁这些需要几千年才能形成的珍贵资源。这本书既是对自然之美的礼赞，也是对人类文明可持续性的深刻思考。读完它，你会意识到保护土壤就是保护我们的未来，每一次踩在泥土上，都是在踩在数百万年进化的奇迹之上。",
+      "quotes": [
+        {
+          "text": "Soil is not dirt—it is the living foundation of all terrestrial life.",
+          "context": "颠覆人们对\"土壤\"的刻板印象，强调其作为生命系统的价值和复杂性"
+        },
+        {
+          "text": "We are losing fertile soil at an alarming rate, yet few people understand what we are losing.",
+          "context": "警示人类正面临的生态危机，土壤退化正成为全球粮食安全的重大威胁"
+        },
+        {
+          "text": "Every handful of soil contains more organisms than there are humans on Earth.",
+          "context": "揭示了土壤中的微观世界之丰富，让我们认识到看似平凡的东西其实包含了巨大的生物多样性"
+        }
+      ]
+    },
+    {
+      "title_zh": "简爱",
+      "title_en": "Jane Eyre",
+      "author_zh": "夏洛蒂·勃朗特",
+      "author_en": "Charlotte Brontë",
+      "year": "1847",
+      "category": "文学",
+      "one_liner": "一部以女性自主、独立精神为核心的爱情与冒险小说，在19世纪激进而大胆",
+      "deep_dive": "如果你只是把《简爱》当成一部爱情故事来读，就太可惜了。这是一部关于一个女性如何坚守自己尊严、在不公平的世界里活出自我的史诗。简爱是个孤儿，长得不漂亮，没有金钱、没有背景，却有着令人惊讶的精神力量。她在寄宿学校受欺凌，在庄园做家庭教师时面对社会的冷遇，但每一次她都选择坚守原则。与罗切斯特先生的爱情故事，本质上不是关于浪漫的，而是关于平等的——简爱愿意爱他，但前提是作为一个独立的、有尊严的人，而不是附属品。当她发现罗切斯特的秘密时，她选择离开，那一刻不是软弱，而是对自己和爱的最高尊重。在工业革命时期，一个女性作家能写出这样一个女主人公，简直是革命性的。这部小说影响了几代人对女性独立性和自我价值的理解。",
+      "quotes": [
+        {
+          "text": "I am no bird; and no net snares me; I am a free human being with an independent will.",
+          "context": "简爱最著名的宣言之一，体现了她对自我和自由的执着追求，拒绝被定义和约束"
+        },
+        {
+          "text": "I would always rather be happy than dignified.",
+          "context": "展现了简爱对生活的真实态度，但这份快乐建立在个人尊严和真实自我的基础上"
+        },
+        {
+          "text": "If all the world hated you and believed you wicked, while your own conscience approved of you and absolved you from guilt, you would not be without a friend.",
+          "context": "说明简爱对内在力量和自我认知的信念，这是她在逆境中坚持下去的精神源泉"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1612"
+}
