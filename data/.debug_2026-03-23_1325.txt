@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "增长黑客",
+      "title_en": "Hacking Growth",
+      "author_zh": "肖恩·埃利斯 & 摩根·布朗",
+      "author_en": "Sean Ellis & Morgan Brown",
+      "year": "2015",
+      "category": "商业与技术",
+      "one_liner": "互联网时代颠覆传统营销的数据驱动增长策略",
+      "deep_dive": "我最喜欢的地方是这本书完全改变了对「营销」的理解。传统营销像在黑暗中射箭，靠经验和直觉。但增长黑客不同——他们像科学家一样工作，用数据来指导每一个决定。核心观点就是：增长不再是后期才考虑的问题，而是从第一天就要融入产品DNA。Uber、Airbnb、Slack为什么能短短几年内颠覆行业？不是做出最好的产品，而是用增长黑客思维，以极低成本找到最有效的获客方式。最让人印象深刻的是「魔法时刻」的概念——用户突然感到「哇，这东西真有用」的瞬间。一旦找到这个时刻，整个策略就围绕让更多人经历它展开。书里充满实战案例和框架，AARRR模型（获取、激活、收入、留存、推荐）现在已成创业标配。不仅讲理论，还手把手教怎么设计实验、分析数据、快速迭代。这本书最有价值的是打破了传统营销和产品开发的壁垒，让你明白在资源有限的情况下，创意和数据驱动的思维能爆发出多大的力量。",
+      "quotes": [
+        {
+          "text": "Growth is not just a job title in a startup; it's everybody's job.",
+          "context": "强调增长黑客不是营销部门专属，而是整个团队都要参与的文化"
+        },
+        {
+          "text": "When you can't spend money to acquire customers, you have to be creative.",
+          "context": "解释了为什么资源限制反而能激发最具创意的增长策略"
+        },
+        {
+          "text": "You should have a monthly objective focused on growth.",
+          "context": "说明数据驱动的目标设定对持续增长的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "沟通的艺术",
+      "title_en": "Looking Out, Looking In",
+      "author_zh": "罗纳德·阿德勒 & 劳伦斯·罗森菲尔德",
+      "author_en": "Ronald B. Adler & Lawrence B. Rosenfeld",
+      "year": "2012",
+      "category": "心理学",
+      "one_liner": "解锁人际沟通的本质，建立更深层次的真实连接",
+      "deep_dive": "你有没有费劲解释半天一个想法，对方还是听不懂的经历？或者努力倾听，对方却觉得你没真正理解他？这就是为什么沟通是门艺术，不仅仅是技术。这本书的核心很简单却很深刻：真正的沟通不是信息的单向传递，而是两个人之间的相互理解和连接。大多数人以为自己会沟通，实际上却陷入一个陷阱——以为别人听到了你想说的，但他们听到的可能完全不同。书里讲了个特别有意思的概念叫「感知世界」，意思是每个人活在自己的感知世界里，经历、背景、价值观塑造了你如何理解他人的信息。所以真正的沟通高手不是能说会道的人，而是愿意花时间理解别人感知世界的人。还强调了非语言沟通的重要性，语气、肢体语言、眼神接触往往比言语更能表达真实想法。最有价值的不是高高在上地教你「应该怎么做」，而是帮你理解沟通背后的心理学原理，让你真正学会如何通过倾听、同理心和真诚反馈来改善关系。",
+      "quotes": [
+        {
+          "text": "We don't listen to understand. We listen to reply.",
+          "context": "指出了大多数人在沟通中的根本问题——缺乏真正的倾听"
+        },
+        {
+          "text": "Communication doesn't happen between people; it happens within them.",
+          "context": "强调理解对方的内心世界对有效沟通的关键作用"
+        },
+        {
+          "text": "Meaning is not in words; it is in people.",
+          "context": "说明词语本身不能决定沟通成败，而是使用者赋予的意义"
+        }
+      ]
+    },
+    {
+      "title_zh": "追忆似水年华",
+      "title_en": "In Search of Lost Time",
+      "author_zh": "马塞尔·普鲁斯特",
+      "author_en": "Marcel Proust",
+      "year": "1913",
+      "category": "文学",
+      "one_liner": "通过内心记忆的碎片，探索时间、爱情和艺术的永恒本质",
+      "deep_dive": "这是部很难用几句话总结的小说，因为它根本不在讲故事，而是讲感觉。如果期待传统的情节，会失望。但如果愿意沉浸在普鲁斯特的思维和感受中，会发现这是文学史上最令人着迷的体验。开篇吃了块浸在茶里的小蛋糕，突然童年记忆涌上来，这个「无意识的记忆」时刻启发了整部作品主题。普鲁斯特告诉我们，真正的时间不是钟表的机械时间，而是内心感受到的心理时间。一个瞬间能承载整个人生。最深刻的在于描写人与人的关系——友谊、爱情、嫉妒。主人公对盖尔芒特夫人的爱，对阿尔贝蒂娜的痴迷，不仅是情感起伏，更是对人性的细致剖析。展示了爱如何使我们盲目，嫉妒如何使我们幻觉，记忆如何欺骗。还有大量关于艺术和创作的哲学思考。普鲁斯特相信艺术家的使命是捕捉稍纵即逝的内心时刻，用文字永久化。这部小说本身就是对这理论的完美实践——像一个巨大的意识之流，充满诗意比喻和深刻观察。读这部书需要耐心，但这恰恰是魅力所在，它邀请你进入一个人丰富的内心世界。",
+      "quotes": [
+        {
+          "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+          "context": "普鲁斯特对艺术创作的核心理解——真正的创新来自看待世界的新方式"
+        },
+        {
+          "text": "Things are not difficult to make; what is difficult is putting ourselves in the frame of mind to make them.",
+          "context": "说明了创作以及人生的关键在于内心的准备和态度"
+        },
+        {
+          "text": "Lost time is never found again.",
+          "context": "反映了全书的悲欣交集，时间的不可逆性与记忆的永恒价值"
+        }
+      ]
+    }
+  ]
+}
+```
