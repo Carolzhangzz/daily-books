@@ -2,62 +2,66 @@
   "date": "2026-03-23",
   "books": [
     {
-      "title_zh": "半个地球",
-      "title_en": "Half-Earth",
-      "author_zh": "爱德华·威尔逊",
-      "author_en": "Edward O. Wilson",
-      "year": "2016",
-      "category": "科学与认知",
-      "one_liner": "人类需要保护地球50%的土地和海洋，才能拯救生物多样性的未来。",
-      "deep_dive": "这本书的核心观点听起来很激进，但威尔逊是真的在大声疾呼。他说我们不能再这样掠夺地球了——必须立即行动，保护地球上至少一半的陆地和海洋。这不是什么乌托邦幻想，而是基于多年生物学研究的冷静分析。威尔逊详细讲解了物种灭绝的速度有多快，如果我们继续无限制地开发，会失去多少独特的生命形式。他还提出了具体可行的保护策略，比如建立连贯的生态走廊，让物种能够迁移和适应气候变化。最打动人的是他对生物多样性本身的热爱——那种对生命复杂性的敬畏。读完这本书，你会意识到环保不是某些极端分子的事，而是关乎人类生存的紧迫课题。",
+      "title_zh": "如何看一幅画",
+      "title_en": "Ways of Seeing",
+      "author_zh": "约翰·伯格",
+      "author_en": "John Berger",
+      "year": "1972",
+      "category": "艺术与美学",
+      "one_liner": "打破你对艺术的所有固有观念，用全新的眼光去看世界。",
+      "deep_dive": "这本书改变了我对艺术的理解方式。伯格在这里最核心的观点是：我们看到什么其实不是客观的，而是被文化、历史和个人经验塑造的。你以为自己看到的是一幅画的原貌，其实你看到的是经过解释的、被语言和符号加工过的东西。\n\n整本书最有趣的地方在于它挑战了博物馆文化和艺术权威的神圣性。伯格认为，传统艺术教育让我们变得被动——我们被告知要欣赏什么、怎样欣赏，而失去了自己的视角。他通过分析油画、广告、裸体艺术等，展示了权力关系是如何嵌入在视觉文化中的。特别是关于男性凝视和女性被观看的章节，深刻地影响了后来的视觉文化批评。\n\n为什么值得读？因为这不只是艺术书。它教会你如何警惕地看待周围的一切——从广告到新闻照片，从绘画到电影。你会开始意识到，视觉从不中立，看的方式就是权力的行使。读完这本书，你再也回不到之前那种天真的观看方式了。这种被唤醒的感觉，其实就是批判性思维的开始。",
       "quotes": [
         {
-          "text": "The problem is that we as a species have become too powerful for our own good.",
-          "context": "威尔逊指出人类的力量已经超越了我们的智慧，我们需要用同等的关怀和远见来对待地球"
+          "text": "Every time we look at a painting, we are seeing not just pigment on canvas but a way of seeing the world.",
+          "context": "伯格强调视觉本身就是一种解释行为，没有纯粹客观的观看，这是整本书的哲学基础"
         },
         {
-          "text": "Biophilia is the innately complex relationship that human beings have with other living systems.",
-          "context": "揭示了人类与自然的深层精神联系，这是我们保护自然的根本动力"
+          "text": "The more you look at any object, the more the world is lost, and yourself, and the object is made-curious so that many people prefer not to study anatomy.",
+          "context": "深入观看会改变我们对事物本质的理解，有时甚至会让观看变得困难"
         }
       ]
     },
     {
-      "title_zh": "罗生门",
-      "title_en": "Rashomon",
-      "author_zh": "芥川龙之介",
-      "author_en": "Ryunosuke Akutagawa",
-      "year": "1915",
+      "title_zh": "野性的呼唤",
+      "title_en": "The Call of the Wild",
+      "author_zh": "杰克·伦敦",
+      "author_en": "Jack London",
+      "year": "1903",
       "category": "文学",
-      "one_liner": "同一个事件，四个不同的证人讲述了四个完全不同的故事。",
-      "deep_dive": "这是一个很诡异又很现实的故事。一个男人被杀死了，或者也许被抢劫了，或者也许什么都没发生——取决于谁在讲述。一个武士的妻子、一个强盗、一个樵夫、甚至死者本身（通过降灵术）都给出了矛盾的证词。每个版本都逻辑自洽，每个讲述者都看起来很诚实，但他们说的完全是两码事。芥川龙之介在这个短篇故事中触及了一个永恒的哲学问题：什么是真实？我们能否真正了解另一个人的动机？或者每个人都在不自觉地美化或歪曲自己的角色？这个故事后来被黑泽明改编成电影，成为了电影史上的经典。读它时你会一次次地改变看法，就像坐在一个镜子迷宫里。",
+      "one_liner": "一只家狗因为背叛而沦为奴隶，却在阿拉斯加的荒野中找到真正的自由。",
+      "deep_dive": "《野性的呼唤》是我最喜欢的动物冒险小说。故事很简单：一只名叫巴克的圣伯纳犬从加州富裕家庭被偷走，卖到阿拉斯加当雪橇犬。但伦敦的天才在于，他用这个框架讲述了一个关于本性与文明、力量与生存的深刻哲学思辨。\n\n巴克的变化过程令人震撼。开始时，它试图用文明世界学到的东西去适应新的、残忍的环境——善良、忠诚，这些品质。但环境教会了它什么是真正的规则：弱肉强食。逐渐地，野性在它身上苏醒——不是邪恶的本性，而是适应、竞争、生存的本能。伦敦笔下的野性并非贬低，反而充满了壮美。\n\n最深刻的是最后那个主人约翰·桑顿的出现。他代表了人类最好的品质——公平、爱、尊重。巴克为他而活，这段关系证明了文明与野性不是非此即彼的。但当桑顿死去，巴克最终回归荒野，成为狼群的领袖。这不是悲剧，而是一种解脱——生命找到了它真正的归属。这本书在100多年前就在探讨人类中心主义的问题，非常超前。",
       "quotes": [
         {
-          "text": "Human beings are unable to be honest with each other. They cannot speak about themselves without embellishing.",
-          "context": "故事的核心洞察：人的叙述总是扭曲的，即使出于无意"
+          "text": "The domesticated generations fell from him. In vague ways he remembered back to the youth of the breed... and when he dreamed by the fire a-flicker, it was of mountains and caves and the wild. The call sounded more imperiously than ever he heard it before.",
+          "context": "野性的呼唤从不曾真正消失，它潜伏在所有生命的深处，等待被唤醒"
         },
         {
-          "text": "In this world there are as many realities as there are men.",
-          "context": "表达了相对主义的终极观点——每个人都生活在自己的真实中"
+          "text": "He had killed his first moose and knew the taste of blood. And when the long winter came... he ran with the wolves and became their leader.",
+          "context": "巴克最终的蜕变，从家犬到野兽，完成了它生命的自我实现"
         }
       ]
     },
     {
-      "title_zh": "舞舞舞",
-      "title_en": "Dance Dance Dance",
-      "author_zh": "村上春树",
-      "author_en": "Haruki Murakami",
-      "year": "1988-1989",
-      "category": "文学",
-      "one_liner": "一个孤独的男人在虚无的日本城市中游荡，试图通过不断的舞蹈和运动来逃避虚空。",
-      "deep_dive": "这本书读起来有点累，但那种累恰好是它的意义所在。主人公是个文案写手，他没有明确的生活目标，只是在东京游荡，进出不同的旅馆房间，遇见各种奇怪的人——一个明星、一个小女孩、各种暧昧的女性。整本书没有传统意义上的情节，更多是一种精神状态的记录：当代人的虚无感、孤独感，以及那种试图通过性爱、旅行、工作来填补内心空洞的徒劳。村上春树用\"舞舞舞\"这个重复的短语来象征这种机械化的生存方式——我们一直在跳舞，但舞蹈本身就是目的。这部作品是村上最具后现代特征的长篇，影响了整代日本青年对人生意义的思考。",
+      "title_zh": "人类简史",
+      "title_en": "Sapiens: A Brief History of Humankind",
+      "author_zh": "尤瓦尔·赫拉利",
+      "author_en": "Yuval Noah Harari",
+      "year": "2011",
+      "category": "社科与历史",
+      "one_liner": "从狩猎采集者到太空旅行者，看人类如何靠虚构和想象力征服了世界。",
+      "deep_dive": "《人类简史》是那种读完会改变你思维框架的书。赫拉利的中心论点是：人类之所以能统治地球，不是因为我们更强、更快或更聪明，而是因为我们能相信虚构的故事——宗教、国家、金钱、人权。\n\n这个观点一开始很激进。赫拉利说，金钱本质上是一个共同的幻觉——它有价值，仅仅因为我们都相信它有价值。国家不是自然的地理单位，而是一个想象的共同体。宗教、民族认同、意识形态，统统都是故事。一旦你接受这个框架，整个人类历史就从一个全新的角度展开了。\n\n书的精妙之处在于它横贯三个重大革命：农业革命（为什么定居反而降低了生活质量？）、科学革命（现代性的关键是承认自己的无知）、工业革命（能源利用如何改写了人类命运）。每一部分都打破常见的假设。最让人印象深刻的是关于幸福的讨论——尽管我们物质条件改善了无数倍，但现代人并不比古人更幸福。\n\n这本书也有批评，有人认为赫拉利过度简化了复杂历史，有人质疑他的一些论断。但这正是它的价值所在——它不是想给你答案，而是想让你开始提问。读完后，你看待人类社会、看待自己所属的'故事'会有完全不同的视角。",
       "quotes": [
         {
-          "text": "I keep on dancing every night. Without knowing when to stop.",
-          "context": "反复出现的主题，象征着无法停止的虚无循环"
+          "text": "You could never convince the masses to fight and die for you if you could not convince them that they were fighting for themselves.",
+          "context": "虚构故事的力量在于它能让人们相信他们在为更高的目标而战，即使实际上他们在为某个统治者的利益而死"
         },
         {
-          "text": "The most important thing is to find your own little world and protect it fiercely.",
-          "context": "在虚无的大世界中，找到属于自己的小空间成为唯一可能的救赎"
+          "text": "Money is the only trust system created by humans that can bridge almost any cultural gap and create cooperation between people who don't know each other and don't trust each other.",
+          "context": "金钱是最成功的虚构，因为任何人都可以用它来交换价值，无论文化背景如何"
+        },
+        {
+          "text": "The Agricultural Revolution seems like progress when viewed from an economic perspective. But from a biological perspective, it was a catastrophe for most people.",
+          "context": "赫拉利颠覆性地论证了我们对进步的理解可能是错误的"
         }
       ]
     }
