@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "呼啸山庄",
+      "title_en": "Wuthering Heights",
+      "author_zh": "艾米莉·勃朗特",
+      "author_en": "Emily Brontë",
+      "year": "1847",
+      "category": "文学/经典小说",
+      "one_liner": "一段跨越两代人的爱恨纠葛，在荒凉的约克郡高地演绎出激情与复仇的悲剧。",
+      "deep_dive": "这部作品真的有种令人窒息的魔力。故事通过管家南恩和房东洛克伍德的叙述，逐层揭开希斯克利夫和凯瑟琳那段疯狂而又令人心碎的爱情。你会发现这不仅仅是爱情故事，更是一部关于阶级、复仇和人性扭曲的深刻探讨。希斯克利夫那种被侮辱和伤害后转化成的疯狂复仇欲，会让你反思什么叫真正的绝望。读这部书时，你能感受到约克郡荒凉高地上吹来的冷风，还有人物心灵深处的那股烈火。它塑造了文学史上最复杂、最令人争议的男性角色之一。这是那种读完以后，你会一直想着故事中人物的命运、想着他们本可以做出的不同选择的作品。",
+      "quotes": [
+        {
+          "text": "Whatever our souls are made of, his and mine are the same.",
+          "context": "凯瑟琳对希斯克利夫的表白，道出了灵魂层面的深层连接"
+        },
+        {
+          "text": "I am not wishing him to be wretched; I suppose we ought to feel grateful that he has no worse a fate than remaining as he is.",
+          "context": "反映了角色对复仇后果的深刻认知与无奈"
+        }
+      ]
+    },
+    {
+      "title_zh": "拿破仑传",
+      "title_en": "Napoleon: A Life",
+      "author_zh": "安德鲁·罗伯茨",
+      "author_en": "Andrew Roberts",
+      "year": "2014",
+      "category": "传记/历史",
+      "one_liner": "从科西嘉小岛的流亡者到欧洲皇帝，拿破仑用天才和意志力改变了历史的进程。",
+      "deep_dive": "拿破仑的故事就像一部高潮迭起的大戏。他从一个平民出身的炮兵军官，通过军事才华和政治嗅觉，一步步登上了欧洲的权力顶峰。你会在传记中看到他的天才之处：不仅是战场上的战术大师，更是国家治理的改革者。拿破仑法典、教育改革、行政体制的现代化，这些遗产至今仍影响着我们的世界。但这本传记也不回避他的失败和野心的代价。滑铁卢之战、莫斯科之役的惨败，以及他最终的流放，都深刻反映了权力无限扩张的危险。通过读这部作品，你能理解个人伟大如何被历史裹挟，又如何被历史摧毁。这是一个关于野心、天才与宿命的完整故事。",
+      "quotes": [
+        {
+          "text": "Impossible is a word to be found only in the dictionary of fools.",
+          "context": "拿破仑经典名言，体现了他对极限的挑战和不屈的意志"
+        },
+        {
+          "text": "In military matters, I always think a commander must believe himself superior in numbers.",
+          "context": "揭示了他军事哲学中心理优势的重要性"
+        }
+      ]
+    },
+    {
+      "title_zh": "统计学的世界",
+      "title_en": "Statistics: A Very Short Introduction",
+      "author_zh": "大卫·汉德",
+      "author_en": "David Hand",
+      "year": "2008",
+      "category": "科学/统计学",
+      "one_liner": "用生活中的真实案例解释统计学原理，让你看透数据背后的真相。",
+      "deep_dive": "这本书最妙的地方在于它把统计学从冷冰冰的数学公式中解救出来，用你能理解的故事和例子来说明。你会发现统计学其实就在身边：医学试验如何设计，民意调查为什么有误差，为什么天气预报有时不准确，甚至赌博和保险背后的数学逻辑。作者通过解剖这些案例，让你明白什么叫相关性不等于因果关系，什么叫统计显著性，什么叫概率的陷阱。最重要的是，这本书培养你的数据素养，让你在看到各种数据宣称时能够保持警惕和理性。在信息爆炸的时代，懂一点统计学就像装了一个真理检测器，能帮你识别那些被数据包装过的谎言。读完这本书，你对新闻标题、广告宣传和各种统计报道会有全新的理解。",
+      "quotes": [
+        {
+          "text": "Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data.",
+          "context": "对统计学最直白的定义，强调了其在现代信息社会的核心地位"
+        },
+        {
+          "text": "Correlation is not causation, but it is a hint.",
+          "context": "统计学中最重要的警示之一，提醒人们在解读数据时要保持理性思维"
+        }
+      ]
+    }
+  ]
+}
+```
