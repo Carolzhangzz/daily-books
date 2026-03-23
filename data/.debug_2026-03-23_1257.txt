@@ -1,1 +1,75 @@
-{"date":"2026-03-23","books":[{"title_zh":"项塔兰","title_en":"Shantaram","author_zh":"格里高利·大卫·罗伯茨","author_en":"Gregory David Roberts","year":"2003","category":"冒险小说","one_liner":"一部关于逃犯在孟买重生的传奇冒险小说","deep_dive":"这部厚重的著作是作者的半自传体小说，讲述了一个澳大利亚逃犯在孟买的十年经历。小说通过主人公Lin的视角，将我们带入印度这个充满矛盾与魅力的国度。它不仅是一个惊险刺激的冒险故事，更是一次灵魂的救赎之旅。作者以诗意的笔调描绘了孟买的街头文化、黑社会生态和普通民众的生活。书中充满了哲学思考——关于自由、救赎、爱与背叛。超过900页的篇幅丝毫不显冗长，反而让人沉浸在一个独特的世界中。读这部书就像在一个陌生而又迷人的城市里冒险，你会被主人公的成长、他与各色人物的关系所打动，也会思考什么才是真正的自由和救赎。","quotes":[{"text":"It is a gift to be simple.","context":"对简朴生活哲学的�诠释"},{"text":"The world breaks everyone, and afterward, many are strong at the broken places.","context":"关于苦难与成长的感悟"}]},{"title_zh":"竞争战略","title_en":"Competitive Strategy: Techniques for Analyzing Industries and Competitors","author_zh":"迈克尔·波特","author_en":"Michael E. Porter","year":"1980","category":"商业战略","one_liner":"现代战略思想之父解读如何在激烈竞争中获胜","deep_dive":"波特的这部经典著作开创了现代战略分析的新时代。他提出的\"五力模型\"——供应商议价能力、购买者议价能力、潜在进入者威胁、替代品威胁和现有竞争者竞争——至今仍是企业战略分析的黄金框架。这本书教你如何深入理解你所处的行业，找到自己的竞争优势。波特认为，成功的战略不是与所有对手竞争，而是找到差异化或成本领先的独特位置。书中用大量的案例分析说明了理论，从汽车制造到航空业，让抽象的战略概念变得具体可操作。无论你是创业者还是企业管理者，这本书都能帮你看清竞争格局，制定清晰的战略方向。虽然成书于40年前，但其核心洞见依然闪闪发光。","quotes":[{"text":"The essence of strategy is choosing what NOT to do.","context":"战略的真谛在于做出取舍"},{"text":"Competitive advantage grows out of the performance of competitors.","context":"竞争优势的相对性"}]},{"title_zh":"小逻辑","title_en":"Encyclopaedia Logic","author_zh":"格奥尔格·威廉·弗里德里希·黑格尔","author_en":"Georg Wilhelm Friedrich Hegel","year":"1817","category":"哲学","one_liner":"黑格尔为人文科学奠基的逻辑学入门之作","deep_dive":"这是黑格尔《百科全书》中关于逻辑学部分的精炼版本，被认为是进入黑格尔思想的最佳入口。不同于传统形式逻辑的枯燥教科书，黑格尔的逻辑学是活的、辩证的。他认为逻辑不是关于思维形式的静态规则，而是现实本身的运动方式。通过否定之否定、对立统一等辩证法，他揭示了思维、语言和现实如何互相构成。虽然这部作品的抽象程度不低，但它打开了一扇窗——让你看到思想如何从最抽象的范畴（存在、虚无）发展出复杂的现实世界。对于想理解西方哲学思想演进、特别是为何马克思主义采用辩证法的读者来说，这本书是必读的。它挑战了读者的思维，但也带来了智性的快感。","quotes":[{"text":"The truth is the whole.","context":"关于真理的完整性与总体性"},{"text":"Contradiction is the very moving principle of the world.","context":"矛盾作为世界运动的基本原理"}]}]}
+使用 daily-books 技能为指定书籍生成推荐。
+
+根据技能的指定书籍模式，我来检查这三本书：
+- ✅ **德米安** (*Demian*) - 赫尔曼·黑塞 — 在书单中
+- ✅ **影响力** (*Influence*) - 罗伯特·西奥迪尼 — 在书单中  
+- ❓ **认知天性** — 未在标准书单中找到
+
+对于"认知天性"，我无法确认其确切的英文书名和作者。可能的候选包括：
+- Barbara Oakley 的相关著作
+- 其他认知科学书籍
+
+请澄清"认知天性"的完整信息（原著者/英文书名），或者您可以选择书单中的替代书籍，比如：
+- 《思考，快与慢》(*Thinking, Fast and Slow*) — 丹尼尔·卡尼曼
+- 《心流》(*Flow*) — 米哈里·契克森米哈赖
+- 《黑天鹅》(*The Black Swan*) — 纳西姆·塔勒布
+
+我现在为德米安和影响力生成推荐，待您确认第三本书后再补充：
+
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "德米安",
+      "title_en": "Demian",
+      "author_zh": "赫尔曼·黑塞",
+      "author_en": "Hermann Hesse",
+      "year": "1919",
+      "category": "文学",
+      "one_liner": "一部关于青年灵魂觉醒与自我发现的心灵之旅。",
+      "deep_dive": "《德米安》是黑塞最神秘迷人的小说，讲述了主人公埃米尔·辛克莱从少年到青年的精神成长。故事以回顾的方式展开，辛克莱在遇见同学德米安后，他的世界被彻底打破了——那个井然有序、充满道德教诲的现实被剥离，取而代之的是一个更深邃、更危险、更真实的精神维度。\n\n这部小说的精妙之处在于，它不是一个传统的成长故事。黑塞用象征与隐喻织成了一张网，引导读者探索人性中的两面性——善与恶、光与暗、束缚与自由。德米安这个角色既像是辛克莱的朋友，又像是他的心理分身，代表着他内在的觉醒力量。书中频繁出现的宗教意象、心理学隐喻和哲学思辨，都在问一个根本的问题：我们如何能真正地成为自己？\n\n读《德米安》的人往往会经历一种精神上的触动。这不是一部外向的冒险小说，而是一部内向的灵魂独白。它特别适合那些在人生转折点上感到迷茫、渴望突破既有框架的人。黑塞的笔触细腻而深沉，他对人物内心世界的刻画如同心理医生的观察笔记一样准确而令人不安。",
+      "quotes": [
+        {
+          "text": "Each man has his own vocation. The only thing is to find it.",
+          "context": "这是书中的核心哲学——每个人都有属于自己的天命和使命，关键在于找到它。这句话贯穿整部小说，强调个人自我实现的重要性。"
+        },
+        {
+          "text": "If you hate a person, you hate something in him that is part of yourself.",
+          "context": "黑塞在这里揭示了一个深刻的心理学原理：我们对他人的厌恨往往源于对自身某些特质的否定。这是自我认识的关键一步。"
+        },
+        {
+          "text": "The bird fights its way out of the egg. The egg is the world. Whoever would be born must first destroy a world.",
+          "context": "这是书中最著名的意象之一，象征着成长必然伴随的破裂与痛苦。要获得新生，必须摧毁旧的自我和既有秩序。"
+        }
+      ]
+    },
+    {
+      "title_zh": "影响力",
+      "title_en": "Influence: The Psychology of Persuasion",
+      "author_zh": "罗伯特·西奥迪尼",
+      "author_en": "Robert Cialdini",
+      "year": "1984",
+      "category": "心理学",
+      "one_liner": "揭示人类决策的心理学密码，教你如何被影响，也如何影响他人。",
+      "deep_dive": "这是一部改变了几代营销人、销售员和管理者的经典著作。西奥迪尼花了三年时间，深入房产销售、广告公司、募捐机构等各种影响力最强的场景，像一个卧底一样观察和学习他们的套路，然后用科学的方法验证这些技巧背后的心理学原理。\n\n西奥迪尼总结出了六个影响力原则：互惠、承诺与一致、社会证明、权威、喜好和稀缺性。每一个原则都深深扎根于人类的心理，而且几乎每个人都在无意识中遵循这些原则。你会发现，你之所以同意一个要求，往往不是因为这个要求本身有多好，而是因为它触发了你心中某个根深蒂固的心理按钮。\n\n最让人印象深刻的是，西奥迪尼不是在教你如何欺骗他人。恰恰相反，他强调这些原则是中性的，关键在于我们如何使用它们。理解这些原则既能帮助你识别他人的影响技巧（从而保护自己不被滥用），也能让你在合乎道德的基础上更有效地沟通。这本书之所以强大，是因为它给了你和他人都变得更聪明的工具。",
+      "quotes": [
+        {
+          "text": "Influence is often exerted through a single, simple mechanism: the reciprocity rule.",
+          "context": "互惠原则是人类社会最基础的规则。当有人给予我们时，我们会本能地想要回报，这个驱动力极其强大，甚至会导致我们做出不理性的决定。"
+        },
+        {
+          "text": "Once we make a choice or take a stand, we encounter personal and interpersonal pressure to behave consistently with that commitment.",
+          "context": "一致性原则解释了为什么小的承诺会导致大的行为改变。一旦我们做出决定，我们会为了维持自身的一致性而继续这个方向，甚至违背初衷。"
+        },
+        {
+          "text": "We view people who are similar to us more favorably and are more likely to be influenced by them.",
+          "context": "喜好原则告诉我们，相似性是建立信任和影响力的捷径。这解释了为什么有效的说客往往会先建立共同点。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+**请提供第三本书的确切信息，我随即补充该书的推荐内容。**
