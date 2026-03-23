@@ -2,62 +2,74 @@
   "date": "2026-03-23",
   "books": [
     {
-      "title_zh": "逃避自由",
-      "title_en": "Escape from Freedom",
-      "author_zh": "埃里希·弗罗姆",
-      "author_en": "Erich Fromm",
-      "year": "1941",
-      "category": "心理学",
-      "one_liner": "人为什么会放弃自由，选择独裁和极权？",
-      "deep_dive": "这本书一出版就引起了轩然大波。弗罗姆在看透了纳粹德国的疯狂后，提出了一个看似矛盾但深刻的观点：人们会主动逃避自由。为什么？因为自由太沉重了。有自由意味着要为自己的选择负责，要承受不确定性和孤独感。这太难受了。所以人们更愿意投靠强权，把自己融入集体，享受被指挥、被拯救的感觉。你看现代社会也是这样——人们向权威人物、流行观点、消费主义乖乖投降，因为这样轻松多了。弗罗姆说这不是个人的软弱，而是人性本身的悖论。读着读着你会发现，书里讲的其实是我们每个人都在经历的东西。",
+      "title_zh": "使女的故事",
+      "title_en": "The Handmaid's Tale",
+      "author_zh": "玛格丽特·阿特伍德",
+      "author_en": "Margaret Atwood",
+      "year": "1985",
+      "category": "文学",
+      "one_liner": "在极权社会中，女性被剥夺自主权沦为生育工具，一个使女通过记忆与微观抵抗来维系人性",
+      "deep_dive": "这部小说构造了一个令人窒息的反乌托邦世界——基列国。由于人口危机，女性被分门别类，主角奥夫成为了指挥官的生育工具，被称为\"使女\"。阿特伍德的天才之处在于，她不是用宏大的革命场景，而是通过奥夫的日常碎片和内心独白来呈现这个制度的恐怖。你会看到她如何在极限的监控下，通过记忆往事、偷藏禁书、暗地调情这样微妙的方式来对抗。这部书的核心其实在问：当一个人的身体不再属于自己，她如何保持自己的意识和尊严？40年后这部作品依然被反复改编、重读，因为它触及的不仅是科幻的忧思，更是对当下社会中权力如何渗透进日常生活的深刻警示。",
       "quotes": [
         {
-          "text": "自由一旦被赋予，就会成为一种负担；承担这种负担需要勇气。",
-          "context": "弗罗姆揭示了自由的代价——它要求我们承担责任，这对很多人来说太困难了"
+          "text": "We were the people who were not in the papers. We lived in the blank white spaces at the edges of print.",
+          "context": "奥夫反思那些从未被记录、被遗忘的人的生存状态——无名、无声，却也因此获得了一种隐秘的自由空间。"
         },
         {
-          "text": "现代人已经被解放出来了，但他还没有获得自由。他已经不受中世纪的束缚，但却被新的隐形枷锁束缚着。",
-          "context": "指出了现代社会自由假象背后的隐形控制——消费主义、大众文化的操纵"
+          "text": "Nolite te bastardes carborundorum.（不要让混蛋把你打倒）",
+          "context": "前一个使女用指甲刻在柜子里的拉丁文箴言，成为了整部作品中关于精神抵抗的象征。"
+        },
+        {
+          "text": "I am not her. My name is Ofglen, but that's not my real name.",
+          "context": "使女的身份本身就是对自我的抹杀——她们失去了原本的名字，沦为属于主人的工具。"
         }
       ]
     },
     {
-      "title_zh": "马斯克传",
-      "title_en": "Elon Musk",
-      "author_zh": "沃尔特·艾萨克森",
-      "author_en": "Walter Isaacson",
-      "year": "2023",
-      "category": "传记与商业",
-      "one_liner": "从南非男孩到改变世界的创业者：马斯克如何颠覆多个行业",
-      "deep_dive": "艾萨克森这次是真的深入了马斯克的世界。他写的不是一个完美的硅谷教父的故事，而是一个纠结、狂躁、天才和疯癫交织的真实人物。你会看到年轻时的马斯克怎样从被欺负的孤独少年变成了固执己见的创业狂人；你会看到他在PayPal、特斯拉、SpaceX之间的角力和决策；你会看到他的完美主义如何既推动了创新，也伤害了身边的人；你还会看到他最疯狂的决定——并购Twitter。这不是一部造神的传记，反而让你明白天才往往是有代价的。他改变了世界，但付出的代价是什么？书里都写了。",
+      "title_zh": "艺术与视知觉",
+      "title_en": "Art and Visual Perception: A Psychology of the Creative Eye",
+      "author_zh": "鲁道夫·阿恩海姆",
+      "author_en": "Rudolf Arnheim",
+      "year": "1954",
+      "category": "艺术与美学",
+      "one_liner": "用心理学原理解释视觉感知如何运作，从而深刻理解为什么艺术作品会打动我们",
+      "deep_dive": "这是一部彻底改变人们看待艺术方式的经典著作。阿恩海姆将格式塔心理学应用于艺术分析，他的核心观点是：视觉感知不是被动的记录，而是一种主动的、有结构的心理活动。他从最基础的视觉原理开始——平衡、对称、张力、形状识别——然后用这些原理来分析为什么某个构图感觉不稳定，为什么某些色彩搭配会产生冲突。最神奇的是，他证明了艺术并非纯粹的审美装饰，而是人类理解世界的一种方式。当你看一幅绘画、一部电影或一个建筑设计时，你的大脑在进行复杂的心理运算。这本书对设计师、艺术家当然重要，但对任何想更深刻地理解视觉世界的人来说都值得一读。读完它，你再看任何视觉作品时都会多一层理解——你能感受到创作者在玩什么心理游戏。",
       "quotes": [
         {
-          "text": "当面对看似不可能的任务时，我不是说'这太难了'，而是问'我们需要什么才能让这成为可能？'",
-          "context": "马斯克对待工程和创新的哲学——把问题转化为可执行的目标"
+          "text": "Visual perception is not a matter of passive reception, but of active grasping of structural patterns.",
+          "context": "阿恩海姆的核心主张——我们看到的不是现实本身，而是大脑主动建构的意义结构。"
         },
         {
-          "text": "我想确保人类有美好的未来。这意味着人类必须成为多行星物种。",
-          "context": "驱动他打造SpaceX和进行火星探索计划的终极目标和信念"
+          "text": "A work of art is essentially a statement about the nature of reality.",
+          "context": "艺术的深层功能不只是美观，而是通过视觉形式对真实世界的本质进行表述和思考。"
+        },
+        {
+          "text": "The eyes tend to follow a path of visual force and visual dominance.",
+          "context": "解释了为什么某些构图能引导观众的视线，如何通过视觉层级来组织信息。"
         }
       ]
     },
     {
-      "title_zh": "人体的故事",
-      "title_en": "The Story of the Human Body",
-      "author_zh": "丹尼尔·利伯曼",
-      "author_en": "Daniel Lieberman",
-      "year": "2013",
-      "category": "科学与进化",
-      "one_liner": "为什么现代人这么容易生病？进化医学告诉你答案",
-      "deep_dive": "利伯曼是演化生物学家，他从一个新奇的角度来看人体——我们的身体是为了一个完全不同的世界进化出来的。你的祖先要每天奔跑好几小时去狩猎，要挨饿，要在危险中生存。所以你的身体被优化成了一个长跑运动员，而不是一个办公室工作者。现在你坐着工作8小时，吃高加工食品，熬夜看手机。你的身体对这一切都很困惑。你的代谢、你的消化系统、甚至你的骨骼都在抱怨。这就是为什么现代病——糖尿病、肥胖、心脏病——这么普遍。这不是道德问题，是设计错配问题。读完这本书你会重新理解'健康'这个词，也会理解为什么你妈总是催你多运动。",
+      "title_zh": "叫魂",
+      "title_en": "Soulstealers: The Chinese Sorcery Scare of 1768",
+      "author_zh": "孔飞力",
+      "author_en": "Philip A. Kuhn",
+      "year": "1990",
+      "category": "社科与历史",
+      "one_liner": "通过1768年中国\"叫魂\"事件的微观分析，揭示专制社会中权力、信息与集体恐慌的危险互动",
+      "deep_dive": "这是一部堪称微观历史杰作的著作。孔飞力选择了一个看似荒诞的历史事件作为切口：1768年中国境内突然蔓延一种神秘的恐慌——有人在进行\"叫魂\"，即通过诅咒或秘密仪式来窃取他人的灵魂。这个离奇的指控导致了大规模的社会恐慌和暴力，许多人遭到逮捕、拷打甚至处死。孔飞力没有简单地解释这是\"封建迷信\"，而是通过细致的档案分析，展现了这场恐慌如何在一个信息流通受限、官僚系统庞杂的社会中迅速扩散；地方官员如何为了邀功而制造证据；普通民众的焦虑如何被权力机制强化。这部著作的深刻之处在于，它不仅是历史研究，更是对权力如何运作、谣言如何传播、集体理性如何瓦解的冷静观察。放在当代社会看，关于信息扭曲、群体恐慌、权力滥用的逻辑依然有镜鉴意义。",
       "quotes": [
         {
-          "text": "我们的身体是为了狩猎采集的生活方式进化的，但我们却在做着完全不同的事情。这种不匹配导致了大多数现代疾病。",
-          "context": "利伯曼揭示了现代病根本原因——进化环境与现代生活的巨大鸿沟"
+          "text": "The hunt for soulstealers revealed the deepest tensions in Ch'ing society and exposed the system by which power actually operated.",
+          "context": "这场看似离奇的事件实际上映照了整个社会的结构矛盾，也暴露了官僚权力实际运作的方式。"
         },
         {
-          "text": "运动不是可选的。这不是一个生活方式的选择，而是生物必需。",
-          "context": "强调了对于按照我们的进化设计生活的重要性——运动是我们生物学身份的核心部分"
+          "text": "Officials, in their eagerness to demonstrate vigilance, contributed to the very hysteria they were supposed to suppress.",
+          "context": "权力机制的讽刺性——官员为了证明自己的能力和忠诚，反而强化了他们原本应该遏制的恐慌。"
+        },
+        {
+          "text": "Knowledge was power, but in this case, false knowledge was amplified by the system of power itself.",
+          "context": "在信息不对称的专制社会中，虚假的信息一旦被权力机制认可，就会成为摧毁性的力量。"
         }
       ]
     }
