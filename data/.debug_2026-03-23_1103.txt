@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "人体的故事",
+      "title_en": "The Body: A Guide to Occupants",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2019",
+      "category": "科学与认知",
+      "one_liner": "用幽默的笔触揭开人体的神秘面纱，从大脑到肠道，每个器官都有故事。",
+      "deep_dive": "这本书特别有意思，Bill Bryson用他一贯的幽默口吻带你走遍人体的各个器官系统。他不是在写教科书，而是像在酒吧里给朋友讲述那些令人惊奇的人体秘密。你会了解到为什么打哈欠会传染、为什么我们会做梦、为什么吃饱饭后想睡觉。书中充满了科学事实和历史趣闻的完美结合，从古代医学的荒诞做法到现代医学的奇迹，Bryson都信手拈来。更有趣的是，他不仅讲述人体如何工作，还讲述了人们如何发现这一切的过程。比如，你会惊讶地发现，我们对胃的理解竟然源于一位1822年在美国的士兵。这本书的核心观点是，人体是一个精妙得令人惊异的系统，充满了矛盾和幽默。我们的身体既强大又脆弱，既聪慧又愚蠢。读完这本书，你不仅会更了解自己的身体，更重要的是，你会对人类的韧性和适应力产生全新的敬畏。",
+      "quotes": [
+        {
+          "text": "Human body is a triumph of adaptation—a machine that can survive drought, dole out antibodies by the millions, and somehow produce jazz.",
+          "context": "Bryson在强调人体的不可思议的适应能力和复杂性"
+        },
+        {
+          "text": "Most of our body is devoted to the very simple business of moving food through your system and excreting what you don't need.",
+          "context": "对人体复杂性的一个有趣的简化说法，展现Bryson的幽默风格"
+        }
+      ]
+    },
+    {
+      "title_zh": "堂吉诃德",
+      "title_en": "Don Quixote",
+      "author_zh": "米格尔·塞万提斯",
+      "author_en": "Miguel de Cervantes",
+      "year": "1605-1615",
+      "category": "文学",
+      "one_liner": "一个疯癫骑士的冒险故事，实则对现实与幻想、理想与现实的深刻思考。",
+      "deep_dive": "堂吉诃德可能是世界文学中最奇特的英雄之一。这个疯癫的骑士策马出游，手拿长矛，沉浸在骑士小说的梦幻世界中，把风车当作巨人，把简陋的旅馆当作豪华城堡。乍一看，这似乎只是一部充满喜剧性的冒险小说，但塞万提斯其实在讲述一个更深层的故事——关于现实与幻想的界限，关于人类追求理想时的必然失败，关于疯狂与智慧的模糊界线。堂吉诃德有着令人心酸的执着。他相信自己在进行伟大的冒险，拯救受苦受难的人，但实际上他不过在伤害别人和自己。他的忠实仆人桑丘·潘萨是这部作品中的妙笔，这个朴实的农民不断用常识去挑战主人的幻想，两人的对话充满了智慧和悲喜剧效果。这部小说之所以伟大，在于它既是对骑士文学的嘲讽，又是对人性的深刻洞察。我们都是某种程度上的堂吉诃德，都执着于某些可能虚幻的梦想。塞万提斯通过这个疯狂的骑士，质疑了什么是真实，什么是疯狂，什么是高贵的理想。",
+      "quotes": [
+        {
+          "text": "The truth may be stretched thin, but it never breaks, and it always surfaces above lies, as oil floats on water.",
+          "context": "堂吉诃德对真理力量的表述，代表了小说中关于现实与虚幻的哲学思考"
+        },
+        {
+          "text": "Tell me, O Sancho, can a man be mad if he be in love?",
+          "context": "询问爱与疯狂的关系，道出了主人公执着追求理想的本质"
+        }
+      ]
+    },
+    {
+      "title_zh": "安德的游戏",
+      "title_en": "Ender's Game",
+      "author_zh": "奥森·斯科特·卡德",
+      "author_en": "Orson Scott Card",
+      "year": "1985",
+      "category": "文学",
+      "one_liner": "一个天才儿童被选中拯救人类，却在过程中失去了童年和灵魂。",
+      "deep_dive": "这是一部关于战争、童年和道德的科幻小说，故事发生在人类与外星虫族作战的未来。故事的主人公安德是个天才儿童，被征召进入太空军事学校接受训练，期望他能成为拯救人类的最伟大指挥官。Orson Scott Card在这部作品中呈现的不仅是一个引人入胜的科幻冒险，更是对权力、责任和失去童年的沉重思考。安德的故事令人心碎，因为我们看到一个聪慧而有同情心的孩子被一个制度所利用——他的天才被开发，他的童年被剥夺，他被迫做出在生理和心理上都会留下永久创伤的决定。小说中关于游戏的设置非常巧妙，表面上看起来很像科技游戏，但实际上它是真实的军事战场。这种欺骗和操纵的主题贯穿整部作品。Card对军事伦理、儿童兵制度的批判是深刻的。他在问：为了赢得一场战争，我们可以付出什么代价？孩子们是否应该为成人的战争承担责任？安德的胜利带来的不是荣耀，而是深深的内疚和创伤。这部小说之所以经久不衰，是因为它触及了人性中最黑暗的角落，同时展现了童真和同情心的力量。",
+      "quotes": [
+        {
+          "text": "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him.",
+          "context": "安德对同理心和战争伦理的深刻反思，这句话是小说的核心主题之一"
+        },
+        {
+          "text": "I don't want to make another Mazer Rackham. I want to make a child-commander who can win this war.",
+          "context": "揭示了军事体制如何有意识地塑造和利用天才儿童的真实目的"
+        }
+      ]
+    }
+  ]
+}
+```
