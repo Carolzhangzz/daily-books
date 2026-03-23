@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "大外交",
+      "title_en": "Diplomacy",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "1994",
+      "category": "历史/政治/外交",
+      "one_liner": "追溯美国外交发展脉络，探讨国家利益与道德的平衡",
+      "deep_dive": "基辛格用大历史的视角重新审视了美国从建国到冷战结束的外交历程。这本书不仅是一部外交史，更是对国际关系本质的深刻思考。他认为，伟大的外交不是简单地追求道德理想，而是在国家利益与价值观之间找到微妙的平衡。读完这本书，你会理解为什么某些历史决策看似矛盾，其实背后都有其逻辑。特别是对中美关系部分的论述，至今都具有参考价值。如果你想了解国际政治的现实主义逻辑，或者想看看一位曾经的国务卿如何解读历史，这本书绝对值得一读。基辛格的笔锋犀利而不失客观，每一章都能让你对历史有新的认识。",
+      "quotes": [
+        {
+          "text": "The statesman's duty is not to his contemporaries alone, but to his country and its future.",
+          "context": "关于外交官责任的思考"
+        },
+        {
+          "text": "Diplomacy is the art of restraint exercised by powerful nations.",
+          "context": "外交的本质定义"
+        }
+      ]
+    },
+    {
+      "title_zh": "非暴力沟通",
+      "title_en": "Nonviolent Communication: A Language of Life",
+      "author_zh": "马歇尔·卢森堡",
+      "author_en": "Marshall B. Rosenberg",
+      "year": "2003",
+      "category": "心理学/沟通/自助",
+      "one_liner": "通过观察、感受、需求和请求四步法，实现更有效的人际沟通",
+      "deep_dive": "这本书教你用一种完全不同的方式来表达自己和倾听他人。卢森堡的核心观点很简单但很深刻——大多数冲突来自于我们的沟通方式，而不是问题本身。他提出的\"非暴力沟通\"四步法（观察事实、表达感受、说出需求、提出明确请求）看似简单，实际上却能彻底改变你的人际关系。从家庭争执到工作冲突，从亲密关系到陌生人互动，这套方法都能派上用场。如果你常常陷入无谓的争吵，或者觉得自己的想法总是被误解，这本书会给你一个全新的视角——问题不在于你说了什么，而在于你怎么说。读完之后，你会开始注意自己的措辞，会想主动去理解对方的需求而不是急着反驳。",
+      "quotes": [
+        {
+          "text": "When we stop trying to change people and start empathizing with them, we can finally communicate.",
+          "context": "沟通的核心——从改变转向共情"
+        },
+        {
+          "text": "All human beings have the same basic needs. The difference lies in the strategies we use to meet those needs.",
+          "context": "人性的共同基础"
+        }
+      ]
+    },
+    {
+      "title_zh": "文城",
+      "title_en": "City of Letters",
+      "author_zh": "余华",
+      "author_en": "Yu Hua",
+      "year": "2010",
+      "category": "文学/小说",
+      "one_liner": "在一座小镇的百年时光里，讲述普通人在历史波澜中的沉浮与命运",
+      "deep_dive": "余华的《文城》是一部充满魔幻现实主义色彩的长篇小说。整个故事发生在一个叫文城的小镇，跨越了百年的时光。通过主人公孙光明和一系列人物的命运交织，余华展现了历史的残酷性和人性的复杂性。这不是一部传统的线性叙事小说，而是用一种碎片化、多视角的方式，让你感受历史的沧桑。读这本书的时候，你会体会到小镇中那些普通人的悲欢离合，也会理解余华为什么总是能把宏大的历史背景和个人的微观命运联系在一起。有些段落会让你感到压抑，但那正是余华想要传达的——生活本身的重量和无常。",
+      "quotes": [
+        {
+          "text": "生活就像水，它会流向每一个角落，包括那些黑暗的地方。",
+          "context": "对生活本质的比喻"
+        },
+        {
+          "text": "人的命运就像河流，看起来在流动，其实早已定好了方向。",
+          "context": "对命运的哲学思考"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1218"
+}
