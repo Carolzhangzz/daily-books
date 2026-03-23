@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "别闹了，费曼先生",
+      "title_en": "Surely You're Joking, Mr. Feynman!",
+      "author_zh": "理查德·费曼",
+      "author_en": "Richard Feynman",
+      "year": "1985",
+      "category": "传记与回忆录",
+      "one_liner": "一位奇才物理学家的爆笑回忆录，讲述他如何用好奇心和顽皮精神在科学和生活中游刃有余。",
+      "deep_dive": "费曼是那种让人既钦佩又想笑的天才。这本书就像跟朋友坐在咖啡馆，听他讲自己的故事一样。他说自己从小就对万物好奇，不是因为要成为什么了不起的人，就是纯粹想搞明白事情怎么运作。他在加州理工学院破译了保险柜，在巴西研究了冰晶成因，甚至跑去脱衣舞俱乐部消遣——所有这些经历对他来说都一样有趣。他最有意思的地方在于，他拒绝被框进\"伟大科学家\"的刻板印象里。他会坦白自己怎么作弊通过考试，怎么偷偷打开政府的装甲柜，怎么因为对鼓的热情而去学打鼓。费曼告诉我们，探索世界不需要正经八百，反而是那份孩子气的好奇心，让他在科学上做出了巨大贡献。这本书的妙处在于，它既是天才的自传，又是一堂关于\"如何做自己\"的人生课。读完你会发现，真正的科学精神不是死板地遵守规则，而是敢于质疑、敢于尝试、永远保持那份对世界的新奇感。",
+      "quotes": [
+        {
+          "text": "The principle of science, the definition almost, is this: the test of all knowledge is experiment. Experiment is the sole judge of scientific truth.",
+          "context": "费曼对科学方法论的核心阐述，强调实验和经验才是检验真理的唯一标准，这也是他整个科学人生的基石。"
+        },
+        {
+          "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
+          "context": "这句话代表了费曼对权威的怀疑精神，他终身都在追问，而非被动接受，这正是科学家应有的态度。"
+        },
+        {
+          "text": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
+          "context": "关于诚实和自我认知的深刻洞察，费曼认为最大的敌人其实是自己，要时刻保持清醒和诚实的反思。"
+        }
+      ]
+    },
+    {
+      "title_zh": "第二性",
+      "title_en": "The Second Sex",
+      "author_zh": "西蒙娜·德·波伏瓦",
+      "author_en": "Simone de Beauvoir",
+      "year": "1949",
+      "category": "哲学",
+      "one_liner": "女性主义的奠基之作，波伏瓦用哲学笔法深入剖析：女性为什么被定义为\"第二性\"，以及如何赢得真正的自由和存在。",
+      "deep_dive": "1949年这本书出版时，世界还远没有准备好接受它的观点。波伏瓦那句著名的开场——\"人们不是生来成为女性的，而是后来才成为女性的\"——直接戳破了所有关于女性本质的迷思。她说，女性之所以被贬为\"第二性\"，不是因为生物学或自然规律，而是几千年来父权制社会的建构。男性把自己定为\"主人\"和\"自我\"，女人就成了\"他者\"、陪衬和定义。波伏瓦不是在抱怨，她在做深度的存在主义分析——女性被迫接受了一个被动的身份，被定义为母亲、妻子、情妇或物品，从来没有被允许像男人一样做一个自由的、完整的个体。这本书论证了女性的独立、教育和工作权利，但最根本的诉求是：女性需要像男人一样被认可为有自我决定权的主体。虽然有些例子现在看起来时代背景明显，但核心的哲学洞察——关于自由、选择和存在——至今仍是振聋发聩的。这部著作影响了整个后来的女性主义运动，也是理解现代性别政治的必读之书。",
+      "quotes": [
+        {
+          "text": "One is not born, but rather becomes, a woman.",
+          "context": "这是整本书的核心论点，也是现代女性主义最重要的宣言之一，它彻底挑战了关于性别的所有决定论和本质主义观点。"
+        },
+        {
+          "text": "Love is an adventure and conquest; it must be free, it cannot be the sanctification of one's own laziness.",
+          "context": "波伏瓦对女性在爱情中的自主性和真诚性的深刻思考，反对女性把爱当作逃避现实的借口。"
+        },
+        {
+          "text": "To be woman is to have discovered the world and oneself, and if we can help make that discovery possible, we have our raison d'être.",
+          "context": "对女性解放终极目标的诗意表达——女性的存在意义在于自我发现和自由实现，而不是被赋予的角色。"
+        }
+      ]
+    },
+    {
+      "title_zh": "一个陌生女人的来信",
+      "title_en": "Letter from an Unknown Woman",
+      "author_zh": "斯蒂芬·茨威格",
+      "author_en": "Stefan Zweig",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "一封迟到的信，一段暗恋的一生——奥地利文豪茨威格笔下最悲情、最撕心裂肺的爱情故事。",
+      "deep_dive": "这是茨威格最短的作品，却可能是他写得最深的。故事很简单：一个女人在生命的最后一刻，写了一封长信给她暗恋了整整一生的男人。这个男人叫R，一个风流成性的音乐家，从不知道有这样一个女人存在。女人呢，从少女时代起就爱上了他，跟踪他的每一步、为他生了孩子（他甚至都不知道）、牺牲了自己的一切可能性。但最终，她选择了离开他，甚至都没让他知道自己爱过他。为什么？因为她明白，这个男人永远无法真正看见她，他的世界里没有真正的人，只有镜子，映照他自己的欲望。茨威格没有把这写成甜蜜的爱情故事，反而是一场关于执念、牺牲和不被看见的悲剧。女主角从不后悔爱过他，但她为这份爱付出的代价——她的时间、她的人生、她的自我——在信的最后才真正被揭示出来。这个故事让人难受，因为它问了一个残酷的问题：当爱是单向的、当你的爱永远无法被对方理解和回应时，那它还是爱吗？这部作品影响了无数后来的作家和艺术家，成为了关于不对等爱情的经典悲剧。",
+      "quotes": [
+        {
+          "text": "You have never known what it means to have lived but for you alone, throughout all these years.",
+          "context": "女主角对整个一生的总结，是对绝望爱情和终身执念的完美诠释，道出了无声的爱的最大悲哀。"
+        },
+        {
+          "text": "My whole life was only an awakening to you.",
+          "context": "这句话深刻地揭示了一个被爱执捏住的人生，她的整个存在都被爱所定义，其他一切都失去了意义。"
+        },
+        {
+          "text": "But how could I let you know? How could I reveal that secret which had grown out of my silent love?",
+          "context": "关于沉默、隐瞒和无法诉说的爱的永恒困境，那些我们心中最深的秘密，往往永远无法被说出。"
+        }
+      ]
+    }
+  ]
+}
+```
