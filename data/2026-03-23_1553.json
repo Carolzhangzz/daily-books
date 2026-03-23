@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "刀锋",
+      "title_en": "The Razor's Edge",
+      "author_zh": "毛姆",
+      "author_en": "W. Somerset Maugham",
+      "year": "1944",
+      "category": "文学小说",
+      "one_liner": "战争后的青年放弃优裕生活，四处漂泊寻找人生真谛",
+      "deep_dive": "这部小说真的特别。主人公拉里本来是美国富家子弟，一战后却活在精神的困顿中——什么才是生活的真正意义？他做了一个疯狂的决定：放弃美女、财富、社会地位，去流浪。欧洲、印度、庙宇，他一直在问这个终极问题。最妙的是，毛姆通过拉里和朋友们的对比来写——有人沉溺于物欲，有人活在虚伪的体面中，而拉里却像个灵魂的苦行僧。这部小说的绝妙之处在于，它不是在说教什么大道理，而是真诚地展现一个人如何与自己和解。很多读者读完后都会问自己：我究竟在追求什么？",
+      "quotes": [
+        {
+          "text": "Life is what you make of it.",
+          "context": "拉里对人生的终极领悟"
+        },
+        {
+          "text": "The great beauty of freedom is that you can do what you want to do.",
+          "context": "放弃一切后对自由真谛的感悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "苔丝",
+      "title_en": "Tess of the d'Urbervilles",
+      "author_zh": "托马斯·哈代",
+      "author_en": "Thomas Hardy",
+      "year": "1891",
+      "category": "文学小说",
+      "one_liner": "农村女孩因社会不公正而遭遇命运无常的沉痛悲剧",
+      "deep_dive": "这部小说会让你愤怒。苔丝是农村女孩，漂亮又善良，却被贵族少爷骗了。在维多利亚时代，失去贞操就像被社会判了死刑。她想重新开始，但社会的道德绞刑架一次次收紧。她爱上了一个理想主义的牧师，以为找到救赎，但现实比想象更残忍——一层层的讽刺叠加上来。哈代在这里不是在写爱情故事，而是在控诉：一个社会如何摧毁一个无辜的生命。他笔下的每一个细节都在问：为什么是她？为什么是女人？为什么是这样的命运？这不是温柔的悲剧，而是带血的现实，让你读到最后都喘不上气来。",
+      "quotes": [
+        {
+          "text": "Why did not somebody tell her all this before she committed herself to his keeping?",
+          "context": "苔丝失贞后，对社会漠视的无声质问"
+        },
+        {
+          "text": "As a woman so have I no right to my own life.",
+          "context": "苔丝对女性处境的绝望感悟"
+        }
+      ]
+    },
+    {
+      "title_zh": "源氏物语",
+      "title_en": "The Tale of Genji",
+      "author_zh": "紫式部",
+      "author_en": "Murasaki Shikibu",
+      "year": "1010",
+      "category": "古典文学",
+      "one_liner": "日本古典文学高峰，平安贵族光源氏的爱情与人生梦幻诗篇",
+      "deep_dive": "这是人类最早的伟大长篇小说之一。光源氏是个完美的贵族公子——风流、才华横溢、与众多女性的爱恨纠葛贯穿全书。但紫式部的天才在于，她把这个言情故事写成了关于美、关于衰老、关于人生无常的哲学著作。你会沉醉在那些精致得不真实的对话里，被四时变化中的诗意意象迷住——每个季节、每个场景都经过了审美的精心打磨。可就在你陶醉的时候，衰老来了，死亡来了，一切美好都在衰落。这部书既是贵族爱情的极致呈现，也是关于人生如梦的永恒悲叹。读它就像在欣赏一场绝美的樱花盛宴，你知道它很快就会落地。",
+      "quotes": [
+        {
+          "text": "There is always something deeply sad about beautiful things.",
+          "context": "对人生无常和美好易逝的深层感悟"
+        },
+        {
+          "text": "In the world of romance, the heart knows no boundary.",
+          "context": "源氏对爱与美的终极诠释"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1553"
+}
