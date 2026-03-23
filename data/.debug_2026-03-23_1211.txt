@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "普京传",
+      "title_en": "The New Tsar: The Rise and Reign of Vladimir Putin",
+      "author_zh": "史蒂文·李·迈尔斯",
+      "author_en": "Steven Lee Myers",
+      "year": "2015",
+      "category": "传记/政治",
+      "one_liner": "从克格勃特工到俄罗斯总统，追踪一个大国强人的权力之路。",
+      "deep_dive": "这部传记就像一部政治悬疑剧，用大量第一手采访和档案资料，还原了普京如何从列宁格勒的普通克格勃特工，利用苏联解体的混乱局面，通过圣彼得堡市政府的跳板，最终掌控克里姆林宫的全过程。作者深入挖掘了他早年的克格勃生涯如何塑造了他的权力观和国际视野，以及他如何在俄罗斯最虚弱的时刻重塑国家力量。书中不避讳地讨论了他的每一步决策——从第二次车臣战争到克里米亚问题——如何逐步改变了全球地缘政治格局。你会看到一个复杂的人物形象：既有冷血的现实主义者的一面，也有被国耻感驱动的民族主义者的一面。这不仅是个人传记，更是理解现代俄罗斯和国际政治的必读之作。",
+      "quotes": [
+        {
+          "text": "Putin saw democracy as a luxury Russia could not afford in its weakened state, and stability as the prerequisite for greatness.",
+          "context": "解释了普京执政哲学的核心——安定压倒一切"
+        },
+        {
+          "text": "In the intelligence services, you don't have the luxury of idealism. You learn to see the world as it is, not as you wish it to be.",
+          "context": "反映克格勃经历对普京性格的深刻影响"
+        }
+      ]
+    },
+    {
+      "title_zh": "基因组",
+      "title_en": "Genome: The Autobiography of a Species in 23 Chapters",
+      "author_zh": "马特·里德利",
+      "author_en": "Matt Ridley",
+      "year": "1999",
+      "category": "科学/遗传学",
+      "one_liner": "用23条染色体讲述人类的故事，科学与生活的完美碰撞。",
+      "deep_dive": "你的身体里藏着一部自传——这就是里德利这本书的核心思想。他用天才的框架，让每条染色体成为一个故事，串联起遗传学、进化、医学和人生哲学。比如第15章讲的是影响性格的基因，第11章则探讨癌症与基因的暗黑关系。里德利的魔力在于，他不是念教科书，而是用真实案例和历史轶事让科学活起来。你会惊讶地发现，某些基因决定了你的身高、智力倾向，甚至是对甜食的渴望。但他也保持了知识分子的谦逊——既说基因很重要，又强调环境和选择同样关键。这本书会彻底改变你对自我身份和人类本质的理解，让你既敬畏生命的精妙设计，又感受到作为个体的自由。",
+      "quotes": [
+        {
+          "text": "Your genes are not your destiny. Genes are not blueprints; they are more like recipes, and recipes require interpretation.",
+          "context": "强调了遗传与自由意志的辩证关系"
+        },
+        {
+          "text": "The paradox is that to the extent that we are shaped by our genes, we are also shaped by our experiences, which shape our genes in turn.",
+          "context": "揭示了自然和养育之间的循环互动关系"
+        }
+      ]
+    },
+    {
+      "title_zh": "了不起的狐狸爸爸",
+      "title_en": "Fantastic Mr Fox",
+      "author_zh": "罗尔德·达尔",
+      "author_en": "Roald Dahl",
+      "year": "1970",
+      "category": "儿童文学/冒险",
+      "one_liner": "一只狡黠的狐狸用智慧和勇气对抗贪心农场主，是关于尊严的故事。",
+      "deep_dive": "别以为这是个简单的动物寓言——达尔笔下的狐狸爸爸是真正的英雄，聪慧、果敢、有骨气。三个农场主代表了无止境的贪婪，而他们面对的狐狸一家则象征了智慧和家庭的力量。故事从一个简单的偷鸡冲突升级成生死之战，但达尔用黑色幽默和聪颖的情节转折，让你既为狐狸的险境担心，又为他的机智方案欢呼。最妙的是，这不是一场暴力的胜利，而是智慧的胜利——狐狸用脑子打败了那些只有金钱和蛮力的对手。书中充满了让孩子咯咯笑、让成人会心一笑的细节，还暗藏着关于在逆境中坚持、用智慧而非暴力解决问题、以及家庭团结的深层主题。达尔在这个故事里，讲的其实是关于保持尊严和自由的永恒议题。",
+      "quotes": [
+        {
+          "text": "If you have good thoughts, you will have good deeds, and good deeds will change the world.",
+          "context": "体现了书中的乐观主义精神和对生活的积极态度"
+        },
+        {
+          "text": "We are the best. We are fabulous. We are fantastic Mr Fox and Mrs Fox and four little Foxes.",
+          "context": "展现了狐狸一家面对困境时的自信和尊严"
+        }
+      ]
+    }
+  ]
+}
+```
