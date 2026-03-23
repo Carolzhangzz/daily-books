@@ -1,83 +1,8 @@
-根据daily-books技能，我为你生成了这三本书的深度推荐。以下是严格JSON格式的输出：
+需要您的授权来保存文件。请允许我将这个 JSON 推荐内容写入到数据目录。
 
-```json
-{
-  "date": "2026-03-23",
-  "books": [
-    {
-      "title_zh": "物种起源",
-      "title_en": "On the Origin of Species",
-      "author_zh": "查尔斯·达尔文",
-      "author_en": "Charles Darwin",
-      "year": "1859",
-      "category": "科学与认知",
-      "one_liner": "通过自然选择机制解释物种多样性和生命进化的科学巨著",
-      "deep_dive": "这本1859年出版的经典著作彻底改变了我们对生命起源的理解。达尔文在漫长的\"小猎犬号\"航海中积累了大量观察数据，特别是在加拉帕戈斯群岛看到的不同岛屿上有着微妙区别的生物，启发了他关于物种演化的核心思想。整部著作的精妙之处在于一个简单但深刻的机制——自然选择。达尔文观察到个体之间存在自然变异，而这些变异中有些对生存更有利。在长期的生存竞争中，适应环境的个体更容易生存和繁殖，逐代积累这些优势特征，最终导致物种的改变。读这本书最吸引人的地方是达尔文丰富的具体例证——从家鸽的人工选择到植物的花蜜腺，从地理隔离造成的物种差异到古生物学证据。它不仅解释了为什么物种如此多样，也从根本上改变了我们对人类自身的认识：我们不是被创造的完美产物，而是漫长进化过程的产儿。对于任何想理解生命本质的人来说，这部著作都是必读的。",
-      "quotes": [
-        {
-          "text": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
-          "context": "达尔文在《物种起源》的最后一段写下这段话，用诗意的语言表达了他对进化过程的敬畏——从简单的生命形式到如今五彩斑斓的生物世界，都来自自然界的力量。"
-        },
-        {
-          "text": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
-          "context": "强调了达尔文学说的核心：适应能力，而非绝对的力量或聪慧，才是生存的关键。这一原则在人类社会中同样适用。"
-        },
-        {
-          "text": "In the long history of humankind (and animal kind too) those who learned to collaborate and improvise most effectively have prevailed.",
-          "context": "虽然这句话常被误引，但体现了进化过程中合作机制的重要性——个体竞争只是表面，协作能力才是深层的进化优势。"
-        }
-      ]
-    },
-    {
-      "title_zh": "进化心理学",
-      "title_en": "Evolutionary Psychology: The New Science of the Mind",
-      "author_zh": "大卫·巴斯",
-      "author_en": "David Buss",
-      "year": "1999",
-      "category": "科学与认知",
-      "one_liner": "用进化论框架解读人类心理、行为和社交关系的根本成因",
-      "deep_dive": "如果说达尔文的进化论解释了人类的生物身体是如何形成的，那么大卫·巴斯的《进化心理学》就是在解释人类的心灵——我们的思想、欲望、害怕和爱，实际上也是进化过程的产物。这不是说我们像机器一样被基因控制，而是说我们的心理机制是通过数百万年的自然选择塑造的。巴斯用一个个引人入胜的案例展示了这个框架。为什么男性和女性在择偶时有不同的优先级？为什么妒忌会如此折磨人？为什么我们有欲望、恐惧和同情心？进化心理学的答案很直接：这些都是我们的祖先为了生存和繁殖而发展出来的机制。例如，女性倾向于寻找能提供资源和承诺的伴侣，而男性关注女性的年轻和生育能力——这些看似肤浅的偏好，实际上是数千代的择偶压力留下的痕迹。这本书的力量在于它改变了你对人类行为的思考方式。攻击性、利他主义、道德直觉、甚至艺术创造——都可以从进化的角度重新理解。对于想要理解人性为什么是现在这个样子的人来说，这是一部眼界大开的著作。",
-      "quotes": [
-        {
-          "text": "Humans are not blank slates. Instead, our minds come equipped with a vast array of specialized circuits that were designed by natural selection to solve the problems our ancestors faced.",
-          "context": "这句话概括了进化心理学的核心论断：我们的心理不是被动接受环境的白板，而是被自然选择精心调整的工具，每一个心理模块都有其独特的进化功能。"
-        },
-        {
-          "text": "The human mind is not a general-purpose computer, but rather a collection of specialized modules, each designed by natural selection to solve a particular adaptive problem.",
-          "context": "巴斯强调心理的模块化特性，这解释了为什么我们在某些领域聪慧，在其他领域却容易被愚弄——因为我们的大脑是被特定问题塑造的。"
-        },
-        {
-          "text": "Evolution is not just about survival. It's about reproduction. And reproductive success is all about successful mating.",
-          "context": "指出进化的终极目标并非简单的生存，而是将基因传递给下一代——这解释了为什么繁殖、选择配偶、竞争等主题会在人类心理中占据如此中心的位置。"
-        }
-      ]
-    },
-    {
-      "title_zh": "李光耀回忆录",
-      "title_en": "From Third World to First: The Singapore Story",
-      "author_zh": "李光耀",
-      "author_en": "Lee Kuan Yew",
-      "year": "2000",
-      "category": "传记与回忆录",
-      "one_liner": "新加坡前总理记述国家建设之路，展现务实领导力与国家治理的智慧",
-      "deep_dive": "李光耀是20世纪最具影响力的政治人物之一，他将新加坡从一个资源匮乏、政治混乱的英国殖民地，变成了一个繁荣、稳定、效率惊人的现代城邦。他的回忆录读起来不像是自我吹嘘，反而更像是一个务实的政治家在冷静地陈述事实。回忆录的魅力在于李光耀的坦率和对历史的清晰认识。他讲述了如何在冷战背景下保持独立，如何用铁血手段对付腐败和种族冲突，如何建立一个廉洁高效的官僚体系，以及如何在没有天然资源的情况下通过教育和自由贸易政策打造经济奇迹。他不害怕承认困难的决定，比如用强硬的法律维持秩序，或者在需要时压制言论自由。但他也清晰地论证了为什么这些措施对新加坡的生存至关重要。对于任何关心如何治理国家、制定政策、应对地缘政治风险的人来说，这本书提供了一个鲜活的、高层次的视角。李光耀思考问题的方式——长远眼光、数据驱动、不为舆论所动——在今天仍然有启示。读完之后，你会对这位塑造了现代亚洲的政治家有更深的敬畏，也会思考什么样的领导力才能带领一个国家从困顿走向繁荣。",
-      "quotes": [
-        {
-          "text": "I am often accused of interfering in the private lives of citizens. Yes, if I did not, had I not done that, we wouldn't be here today. And I say without the slightest remorse, that we would be a vastly different society.",
-          "context": "李光耀用这段话为自己的干预主义政策辩护，反映了他对国家稳定和发展的执着追求，即使这意味着限制个人自由——这正是他最具争议的地方，也是最富有智慧的地方。"
-        },
-        {
-          "text": "The task of transforming a state of emergency into a nation at peace requires more than rhetoric. It requires discipline and sacrifice.",
-          "context": "这句话体现了李光耀对国家治理本质的认识——理想主义的言辞不能解决真实的问题，只有硬的决策和公民的承诺才能将一个危机中的国家变成繁荣的社会。"
-        },
-        {
-          "text": "I believe in the goodness of clean administration, in reward for work well done, and in strict punishment for wrong-doing.",
-          "context": "这是李光耀治国理政的哲学核心——建立一个廉洁、奖惩分明、高效率的政府体系，这种方式虽然与西方民主的价值观有所不同，但却创造了举世瞩目的新加坡奇迹。"
-        }
-      ]
-    }
-  ]
-}
-```
+授权后，我会：
+1. 保存推荐到 `/Users/carol/Documents/daily-books/data/2026-03-23.json`
+2. 更新索引文件
+3. 推送到 GitHub（自动发布到网站）
 
-✅ 这三本书代表了三个不同但相互联系的维度：达尔文的《物种起源》奠定了我们理解生命的科学基础，巴斯的《进化心理学》将这一框架应用于人类心理和行为，而李光耀的回忆录则展示了一个杰出领导者如何运用理性和意志力来塑造现实。一起阅读这三本书，能获得从自然界的法则到人类社会治理的完整认知框架。
+请批准文件写入权限。
