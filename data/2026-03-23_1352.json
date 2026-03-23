@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "异类",
+      "title_en": "Outliers: The Story of Success",
+      "author_zh": "马尔科姆·格拉德威尔",
+      "author_en": "Malcolm Gladwell",
+      "year": "2008",
+      "category": "社会心理学",
+      "one_liner": "成功不是天才的专属，而是环境、时机和积累优势的完美配合",
+      "deep_dive": "你有没有想过，为什么某些人能成为行业的佼佼者？格拉德威尔在这本书里给了个特别有意思的答案——其实不全是因为他们聪慧过人或者拼得特别狠，环境、时机、甚至出生日期都在悄悄影响着一个人的成功轨迹。那个著名的\"一万小时法则\"就来自这本书，他用比尔·盖茨、披头士乐队这些例子说明，成功需要大量的刻意练习。但更深的是，他追问为什么这些人能有机会积累那一万小时？答案往往跟他们的文化背景、家庭出身、出生的年代有关。读的时候你会不断\"哦！原来如此\"，然后开始反思身边那些你以为\"天才天成\"的成功故事。这本书打破了英雄叙事的迷思，让你看到成功其实是个复杂的系统，个人努力只是其中一部分，累积的优势和社会环境更可能是关键。",
+      "quotes": [
+        {
+          "text": "Success is not a random act. It arises out of a predictable and powerful set of circumstances and opportunities.",
+          "context": "书的核心论点——成功有迹可循，不是运气和天赋的纯粹碰撞"
+        },
+        {
+          "text": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
+          "context": "强调一万小时法则的本质——持续的投入和重复才能造就卓越"
+        }
+      ]
+    },
+    {
+      "title_zh": "超越自由与尊严",
+      "title_en": "Beyond Freedom and Dignity",
+      "author_zh": "伯尔赫斯·弗雷德里克·斯金纳",
+      "author_en": "B.F. Skinner",
+      "year": "1971",
+      "category": "行为心理学/哲学",
+      "one_liner": "人的行为受环境塑造，真正的自由来自理解行为的科学规律",
+      "deep_dive": "这本书可能会让你不舒服，因为斯金纳要说的是：我们以为自己在自由地做选择，其实是被环境和强化机制无声地塑造。听起来像宿命论？其实不完全是。他的核心论点是人类行为遵循可预测的规律，而不是受什么神秘的\"内在自由意志\"支配。这对我们关于人性的浪漫化想象提出了冷冰冰的挑战。但这里的关键转折是：既然我们理解了行为的真正动因来自外部环境和强化，我们就能通过科学的制度设计让人和社会变得更好。这不是压制，反而是通过认识自身的真实本性来实现更深层的改善。出版时引起轩然大波，现在还有人在争论，这说明它触碰到了我们最根本的人性假设——而这正是它的价值所在。",
+      "quotes": [
+        {
+          "text": "The evolution of a culture is the evolution of the practices which sustain it.",
+          "context": "强调文化和行为系统是互相强化的，改变一个需要改变另一个"
+        },
+        {
+          "text": "Happiness is that state of consciousness which proceeds from the achievement of one's values.",
+          "context": "对幸福的重新定义，不是抽象的自由，而是通过行为强化获得的满足感"
+        }
+      ]
+    },
+    {
+      "title_zh": "华氏451度",
+      "title_en": "Fahrenheit 451",
+      "author_zh": "雷·布拉德伯里",
+      "author_en": "Ray Bradbury",
+      "year": "1953",
+      "category": "科幻小说/反乌托邦",
+      "one_liner": "消防员蒙塔格在焚书时代的觉醒，是对思想自由的终极呐喊",
+      "deep_dive": "想象一个世界，读书被视为危险，消防员不救火而是焚书。主角蒙塔格一开始对这份工作习以为常，甚至觉得有快感。直到他遇见一位爱书的女孩，偷偷翻开书页后，一切改变了。他开始理解书籍里藏着什么——让人思考、不安、质疑现状的力量。这部1953年的小说神奇地预言了我们的时代。虽然没有字面上的焚书，但我们经历着新形式的\"焚书\"——信息爆炸反而导致深思死亡，快速消费文化让人远离经典思想。读它会让你重新感受知识和思想自由的珍贵，意识到社会如何用便利和快乐的名义消解我们的理性。这不仅是反抗压制的故事，更是对人类理性和想象力如何被侵蚀的预言式警告。",
+      "quotes": [
+        {
+          "text": "There must be something in books, things we can't imagine, to make a woman stay in a burning house.",
+          "context": "通过一个震撼的意象，表现书籍所承载的精神价值超越了物质生命本身"
+        },
+        {
+          "text": "It was a pleasure to burn.",
+          "context": "小说开篇一句，看似简洁却充满反讽——这种\"快感\"正是压制思想自由的危险所在"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1352"
+}
