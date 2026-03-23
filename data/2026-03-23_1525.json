@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "必然",
+      "title_en": "The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future",
+      "author_zh": "凯文·凯利",
+      "author_en": "Kevin Kelly",
+      "year": "2016",
+      "category": "科学与认知",
+      "one_liner": "探讨未来十年内必然到来的12种科技力量及其社会影响。",
+      "deep_dive": "这本书读起来就像凯文凯利在跟你坐下来聊天，讲他看到的未来。不同于那些耸人听闻的科技预言，凯利的观点建立在对技术演化规律的深刻理解上。他认为有12种力量——流动化、认知化、屏幕化、异步化、混合化、过滤化、互动化、追踪化、提问化、开始化、接入化和共享化——这些力量正在塑造我们的世界，而且它们的到来是「必然的」，就像重力一样不可阻挡。最打动人的是，凯利不是在制造恐慌，而是在帮你理解这股浪潮。他告诉你这些力量怎么就来了，你该怎么跟它们共舞。无论你是创业者、投资人还是普通人，这本书都会改变你看待技术的方式。它提醒你，真正聪明的做法不是拒绝这些力量，而是理解它们、驾驭它们。",
+      "quotes": [
+        {
+          "text": "The future is not something we enter. The future is something we create.",
+          "context": "强调我们不是被动承受未来，而是通过理解和行动来塑造未来。"
+        },
+        {
+          "text": "The best way to predict the future is to invent it.",
+          "context": "呼应技术乐观主义的核心——知识和创新的力量。"
+        },
+        {
+          "text": "Screens have become the dominant form of communicating knowledge in our civilization.",
+          "context": "揭示屏幕化在未来社会中的核心地位，影响人类信息获取和交互方式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "功利主义",
+      "title_en": "Utilitarianism",
+      "author_zh": "约翰·斯图亚特·密尔",
+      "author_en": "John Stuart Mill",
+      "year": "1861",
+      "category": "哲学",
+      "one_liner": "用「最大幸福」原则重新定义道德，影响了现代伦理学和政策制定的最重要著作。",
+      "deep_dive": "密尔的这部小书看似浅白，却触及了道德哲学最深层的问题：我们活着到底为了什么？他主张功利主义——追求最大多数人的最大幸福——听起来像个简单的口号，但密尔给了它惊人的深度。他区分了快乐的质量，认为有些快乐（精神上的）比有些快乐（肉体上的）更高级。这个观点击败了当时对功利主义的批评，那些批评说功利主义是「猪的哲学」。密尔还写了关于自由、个性和社会的精彩论述，这本书其实是在问一个永恒的问题：什么是好的生活？他的答案不是禁欲，而是说真正的幸福来自于发展你的能力、追求心灵的满足。这也是为什么这本书在两百多年后仍然有力——它在纯理性的功利主义和人的实际需求之间找到了平衡。",
+      "quotes": [
+        {
+          "text": "Better Socrates dissatisfied than a fool satisfied.",
+          "context": "揭示了密尔对高级快乐的坚持，认为知识和深思的痛苦优于无知的舒适。"
+        },
+        {
+          "text": "The only proof that something is desirable is that people actually desire it.",
+          "context": "为功利主义的道德基础辩护，强调人的欲望和幸福是道德的根本来源。"
+        },
+        {
+          "text": "It is better to be Archimedes dissatisfied than a knave satisfied.",
+          "context": "进一步申明精神追求和知识探索的价值超越物质安乐。"
+        }
+      ]
+    },
+    {
+      "title_zh": "存在主义是一种人道主义",
+      "title_en": "Existentialism is a Humanism",
+      "author_zh": "让-保罗·萨特",
+      "author_en": "Jean-Paul Sartre",
+      "year": "1945",
+      "category": "哲学",
+      "one_liner": "在战争废墟上宣告人的绝对自由和责任，为绝望时代注入灵魂的勇气。",
+      "deep_dive": "这是萨特在二战刚结束、整个欧洲还在血迹和灰烬中的1945年发表的演讲。你能想象吗？战争刚结束，一个法国知识分子站起来说：人是自由的，人要为自己的选择负责。这在当时听起来既像拯救，也像诅咒。萨特的存在主义核心就是「存在先于本质」——没有人生来就是某个样子，你不是被设计好的机器。这意味着你拥有彻底的自由，但这也意味着你无法逃避选择的重担。萨特说，即使是被奴役的人也拥有自由，因为他们仍然可以选择如何对待自己的奴役。这听起来冷酷，但对于刚刚从极权和暴力中走出来的人，这简直是一声战鼓——你还活着，你还能选择，你还有力量。这本小书改变了整个知识界的对话，让几代人思考自由、真实和人性。",
+      "quotes": [
+        {
+          "text": "Existence precedes essence. Man first of all exists, encounters himself, surges up in the world—and defines himself afterwards.",
+          "context": "存在主义的基石——人不是被预设的，而是通过自己的选择来定义自己。"
+        },
+        {
+          "text": "I am my choices.",
+          "context": "个人身份由自由选择构成，强调个体责任的绝对性。"
+        },
+        {
+          "text": "We are our freedom. When a man discovers that he is condemned to be free, he cannot simply rest in that discovery.",
+          "context": "强调人的自由是一种沉重的责任和宿命，无法逃避。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1525"
+}
