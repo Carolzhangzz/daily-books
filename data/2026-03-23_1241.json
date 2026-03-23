@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "引爆点",
+      "title_en": "The Tipping Point",
+      "author_zh": "马尔科姆·格拉德威尔",
+      "author_en": "Malcolm Gladwell",
+      "year": "2000",
+      "category": "商业与技术",
+      "one_liner": "揭示社会流行病学原理，解释微小变化如何引发大规模社会风潮",
+      "deep_dive": "这本书特别有意思的地方在于，格拉德威尔换了个全新的角度来看待为什么某些想法、产品或行为会突然流行开来。他提出了一个核心概念：很多社会现象的传播就像病毒传播一样，有特定的临界点或\"引爆点\"，超过这个点后就会指数级增长。书里用了大量生动的例子，比如犯罪率突然下降、儿童电视节目的流行，还有时尚趋势的兴衰，来说明这一理论。他认为有三类关键人物推动了这些变化：联系员（认识很多人）、内行（知道很多东西）和推销员（能说服他人）。最吸引人的是，这本书让你意识到，改变世界不需要大规模的努力，有时候只需要找到对的人、对的时机和对的信息，就能引发连锁反应。这个洞察对创业者、营销人员，甚至任何想要推动社会变革的人都非常有启发。",
+      "quotes": [
+        {
+          "text": "The best way to understand the emergence of fashion trends, the ebb and flow of crime waves, or, for that matter, the transformation of unknown books into bestsellers, or the rise of teenage smoking, or the phenomena of word of mouth, or any number of other contagious behavioral epidemics, is to think of them as epidemics.",
+          "context": "这是全书的核心观点，强调了社会现象如同传染病一样具有传播规律"
+        },
+        {
+          "text": "Look at the world around you. It may seem like an immovable, implacable place. It is not. With the slightest push—in just the right place—it can be tipped.",
+          "context": "体现了这本书最乐观的地方：个人的小行动也能改变世界，这给了很多人改革的希望"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学女孩",
+      "title_en": "Math Girls",
+      "author_zh": "结城浩",
+      "author_en": "Hiroshi Yuki",
+      "year": "2008",
+      "category": "科学与认知",
+      "one_liner": "用青春校园对话探索数学的深邃之美和解题的喜悦",
+      "deep_dive": "这本书真的能改变你对数学的看法。作者用一种非常独特的形式——高中三个主人公在校园里的对话，来讲述数学问题。主角是一个数学爱好者，他用最温暖、最亲近的方式给两位女孩讲解从初等数学到更深层数学的美妙之处。什么是数列？为什么某些数学规律会出现？如何用简单而优雅的方式解决看似复杂的问题？书里没有枯燥的公式推导，反而充满了对话中的 aha moment，你会跟着主人公一起发现数学的规律，体验到那种恍然大悟的快乐。最打动人的是，这本书展现了做数学不是为了考高分，而是为了满足那种想要理解世界本质的渴望。如果你曾经觉得数学很无聊，这本书会让你重新爱上它。",
+      "quotes": [
+        {
+          "text": "数学不是记忆公式，而是理解事物的本质。",
+          "context": "道出了数学学习的真谛，强调理解而非死记硬背"
+        },
+        {
+          "text": "当你能用一个简单而优雅的方式表达复杂的现象时，那就是数学的力量所在。",
+          "context": "体现了数学之美的核心——用简洁优雅的方式解释自然现象"
+        }
+      ]
+    },
+    {
+      "title_zh": "理智与情感",
+      "title_en": "Sense and Sensibility",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1811",
+      "category": "文学",
+      "one_liner": "两姐妹用各自的方式诠释理性与感性的交织，找寻人生的真谛",
+      "deep_dive": "这是简·奥斯汀最精妙的一部作品。故事讲的是达什伍德姐妹俩在失去父亲和财富后的人生选择。姐姐埃莉诺代表理智与克制，凡事深思熟虑，控制自己的感情，坚强而理性；妹妹玛丽安则热情奔放，感情丰富，凭直觉生活。一开始你可能会觉得埃莉诺有点闷，玛丽安有点鲁莽，但慢慢你会发现，奥斯汀其实在讲一个很深刻的道理：单纯的理智会让人压抑自己，而过度的感性会让人陷入痛苦。真正的智慧在于找到两者的平衡。通过她们的爱情经历，我们看到如何在遵守社会规范和追求真实自我之间找到出路。书中的讽刺和幽默藏得很深，细读会发现奥斯汀对人性、社会和爱情有着多么敏锐的观察。这部作品对当代读者也有启发：我们应该如何在现实约束和内心渴望之间生活？",
+      "quotes": [
+        {
+          "text": "The more I know of the world, the more I am convinced that I shall never see a man whom I could really love.",
+          "context": "玛丽安在经历爱情的伤痛后发出的感慨，表达了对真爱的执着与失落"
+        },
+        {
+          "text": "It is not time or opportunity that is to determine intimacy; it is disposition alone.",
+          "context": "埃莉诺关于友谊本质的深邃思考，强调性格而非环境决定亲密关系"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1241"
+}
