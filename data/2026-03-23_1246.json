@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-23",
+  "books": [
+    {
+      "title_zh": "算法之美",
+      "title_en": "Algorithms to Live By",
+      "author_zh": "布莱恩·克里斯汀、汤姆·格里菲思",
+      "author_en": "Brian Christian & Tom Griffiths",
+      "year": "2016",
+      "category": "科普/算法/生活智慧",
+      "one_liner": "用计算机算法的智慧指导日常生活中的决策",
+      "deep_dive": "这本书太妙了，把计算机科学中的算法思想应用到日常生活决策中。作者告诉你最优停止算法可以帮助你选择约会对象或找房子，缓存思想能解释人的记忆为什么会遗忘，排序算法教你如何整理生活。核心思想是，很多看似复杂的人生问题其实都有对应的算法模型。你不需要懂编程，只需要理解这些思想的本质——在不确定的世界里，如何做出满意而不是完美的决策。这不是冷冰冰的技术书，而是能改变你思考方式的生活指南。读完之后，你会发现自己在排队、选择、记忆这些日常行为中都能看到算法的影子。",
+      "quotes": [
+        {
+          "text": "The art of getting good with fewer options is called satisficing, and it may be the key to happiness.",
+          "context": "关于如何在有限选择中获得满足感"
+        },
+        {
+          "text": "The optimal algorithm is to set a threshold at 37% of the candidates and then pick the first person you meet who is better than everyone you've seen so far.",
+          "context": "最优停止问题的解答——约会和择偶的数学模型"
+        }
+      ]
+    },
+    {
+      "title_zh": "飞越疯人院",
+      "title_en": "One Flew Over the Cuckoo's Nest",
+      "author_zh": "肯·基西",
+      "author_en": "Ken Kesey",
+      "year": "1962",
+      "category": "文学/小说/经典",
+      "one_liner": "一个关于自由与压制、个人与制度对抗的永恒故事",
+      "deep_dive": "这是美国文学的瑰宝，一个关于自由与压制的永恒故事。小说通过精神病院这个微观世界，展现了个人与制度、反抗与顺从的冲突。那个传奇的主角麦克莫菲来到病院后，用他的狂野和幽默对抗院长的冷酷统治。故事不只是黑色幽默，更深层是对人性的拷问——什么是疯狂？什么是正常？是那些被标签化为患者的人疯了，还是这个压抑的制度本身就是疯狂的？读这本书的时候，你会被麦克莫菲的魅力吸引，被病人们的故事触动，最后被它对自由的永恒追问所震撼。这部作品至今仍然闪闪发光，因为它关乎每个时代都在重演的冲突。",
+      "quotes": [
+        {
+          "text": "That's the funny thing. That's the real funny thing. It's a hard world to come back to after being in a nuthouse.",
+          "context": "对社会现实与精神世界冲突的反思"
+        },
+        {
+          "text": "All I know is this: nobody's gonna laugh at you and get away with it.",
+          "context": "个人尊严和反抗精神的象征"
+        }
+      ]
+    },
+    {
+      "title_zh": "哥德尔艾舍尔巴赫",
+      "title_en": "Gödel, Escher, Bach",
+      "author_zh": "道格拉斯·侯世达",
+      "author_en": "Douglas Hofstadter",
+      "year": "1979",
+      "category": "数学/艺术/哲学",
+      "one_liner": "用数学、艺术和音乐演绎自我参照和意识的本质",
+      "deep_dive": "这可能是你读过最奇特的书。它用对话、故事、美术和数学编织起一个关于自我参照、对称和奇异循环的思想盛宴。书名的三个人物——数学家哥德尔、画家艾舍尔和音乐家巴赫——看似无关，但作者用天才般的手笔把他们的创作逻辑串联起来，阐释了什么是意识、什么是自我，以及一个系统如何能够自我理解。这不是一本你能走马观花读完的书，它要求参与、思考和反复咀嚼。书中充满了聪明的解谜、脑洞大开的对话，甚至有编程的概念。读它的过程本身就像在和一个博学而幽默的人交谈，他用不同的语言和媒介不断启发你换个角度看世界。这是一本能改变认知框架的书。",
+      "quotes": [
+        {
+          "text": "I am a strange loop.",
+          "context": "自指和自我意识的核心概念——用简洁的语言诠释意识的悖论"
+        },
+        {
+          "text": "The mechanisms of consciousness are not yet well understood, but we don't have to understand them to recognize that man is not a machine.",
+          "context": "关于意识本质和人的复杂性的深刻思考"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-23_1246"
+}
