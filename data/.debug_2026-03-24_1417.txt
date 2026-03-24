@@ -1,0 +1,81 @@
+为这三本书生成推荐内容。
+
+```json
+{
+  "date": "2026-03-24",
+  "books": [
+    {
+      "title_zh": "诺桑觉寺",
+      "title_en": "Northanger Abbey",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1817",
+      "category": "文学",
+      "one_liner": "一个被哥特小说冲昏头脑的少女，在爱情中逐渐学会分辨幻想与现实。",
+      "deep_dive": "凯瑟琳·莫兰是个可爱又天真的女孩，她的脑子被当时流行的哥特小说填满了——暗示、阴谋、被监禁的妇女、邪恶的贵族。这让她以一种古怪而迷人的方式看待周围的世界。当她在巴斯遇见亨利·蒂尔尼，一个聪明、幽默但有点淘气的年轻人时，故事开始了。亨利温柔地嘲笑她的浪漫主义幻想，两人陷入了那种既有趣又令人挫折的情感缠绕。\n\n这部小说的妙处在于它既是爱情故事，也是对自我认知的反思。凯瑟琳错误地怀疑亨利的父亲——这个保守的上层阶级男人——隐藏着某些不可告人的秘密（显然他没有）。奥斯汀在讽刺凯瑟琳的同时，也在讽刺她的读者——也就是我们。我们也常常被自己的想象和成见蒙蔽，误读他人的行为，把日常的冲突演绎成戏剧化的冒险。\n\n结局既简洁又温暖。凯瑟琳最终明白，真实的爱情比任何哥特小说都更珍贵，而她最好的朋友伊莎贝拉的虚伪也让她学会了看清人心。这是奥斯汀最俏皮、最直接的讽刺作品，也最温柔地提醒我们：成长意味着在幻想和现实之间找到平衡。",
+      "quotes": [
+        {
+          "text": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+          "context": "奥斯汀为小说（以及小说读者）的辩护，也是对自己创作最犀利的自我评价"
+        },
+        {
+          "text": "I am not at all in a humour for talking; go away!",
+          "context": "凯瑟琳的真实想法——有时候，沉默胜于矫情的对话"
+        },
+        {
+          "text": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+          "context": "伊莎贝拉的甜蜜谎言，暗示了人性中的虚伪与自欺"
+        }
+      ]
+    },
+    {
+      "title_zh": "景观社会",
+      "title_en": "The Society of the Spectacle",
+      "author_zh": "居伊·德波",
+      "author_en": "Guy Debord",
+      "year": "1967",
+      "category": "哲学",
+      "one_liner": "在现代社会，真实的生活已经被虚假的表象所取代，我们成了自己生活的观众。",
+      "deep_dive": "想象一个世界，其中一切都已经被转化为商品和影像。你的欲望不是真实的，而是被精心设计的广告所制造的。你的身份不是由你的行为定义的，而是由你消费的品牌定义的。你甚至没有真正活着，而是在观看一个关于生活的连续演出。这就是德波在1967年提出的\"景观社会\"的核心概念。\n\n这本书虽然只有136页，却密集地充满了对现代性最深刻的批判。德波论证说，资本主义不仅仅改变了商品的生产方式，更重要的是，它改变了我们与现实的关系。原本是人创造的东西（广告、媒体、品牌）反过来开始创造人。我们的生活被转化为\"奇观\"——一个由影像、欲望和虚假需求编织而成的网络。\n\n最令人不安的是，德波指出我们已经主动参与了这个景观的制造。我们在社交媒体上构造自己的形象，我们通过购买来表达身份，我们甚至把最私密的时刻也变成了可展示的内容。这不是强加给我们的压迫，而是我们主动拥抱的幸福奴役。德波写的是1967年，但他描述的世界与今天的Instagram、TikTok和消费文化的相似度令人震惊。",
+      "quotes": [
+        {
+          "text": "The spectacle is not a collection of images; it is a social relation between people that is mediated by images.",
+          "context": "德波最著名的定义，揭示了景观社会的本质：这不仅仅是关于看什么，而是关于我们如何通过影像建立社会关系"
+        },
+        {
+          "text": "In societies where modern conditions of production prevail, all of life presents itself as an immense accumulation of spectacles.",
+          "context": "现代生活的每一个方面——从工作到娱乐，从政治到爱情——都已经被转化成了舞台表演"
+        },
+        {
+          "text": "The more he consumes, the less he lives.",
+          "context": "消费越多，我们的真实生活反而越少——一个充满矛盾却深刻的观察"
+        }
+      ]
+    },
+    {
+      "title_zh": "刻意练习",
+      "title_en": "Peak: Secrets from the New Science of Expertise",
+      "author_zh": "安德斯·艾利克森",
+      "author_en": "Anders Ericsson",
+      "year": "2016",
+      "category": "科学与认知",
+      "one_liner": "天才不是天生的，而是通过正确的方法坚持不懈地训练而来的。",
+      "deep_dive": "有没有想过为什么有些人能成为大师，而大多数人停留在平庸？答案不是基因，而是方法。艾利克森在数十年对世界顶级音乐家、国际象棋棋手和运动员的研究中发现了一个颠覆性的真相：杰出能力来自\"刻意练习\"——一种有针对性、有反馈、不断挑战自我边界的训练方式。\n\n刻意练习与普通练习的区别在于专注。你可以弹吉他十年而技艺平平，或者通过五年的刻意练习成为高手。关键在于：第一，你必须专注于超越你当前能力的部分；第二，你需要立即获得反馈，知道自己哪里出错；第三，你必须一遍遍重复，直到那个困难的部分变成了肌肉记忆的一部分。\n\n书中最令人鼓舞的地方是，艾利克森证明了没有\"天赋上限\"这回事。他研究的每个大师级人物在开始时都很平凡。莫扎特被他的父亲通过密集而系统的训练塑造成了音乐天才；国际象棋冠军和顶级医生都是通过数千小时的刻意练习获得了他们非凡的能力。最重要的是，艾利克森提供了可以立即应用的方法：设定明确的目标、寻找优秀的教师或导师、不断获取反馈，并做好心理准备——因为成为大师是痛苦的，充满了不断的挫折和修正。",
+      "quotes": [
+        {
+          "text": "The key to improving at a skill is to focus on particular aspects of that skill and work to improve them specifically.",
+          "context": "刻意练习的核心：不是盲目地重复，而是针对薄弱环节的精准打击"
+        },
+        {
+          "text": "Talent is a myth; what matters is deliberate practice.",
+          "context": "这是对\"天赋论\"最有力的反驳，给了每个人改变自己的可能性"
+        },
+        {
+          "text": "The brain adapts to consistent use. With practice, neural circuits become more efficient and effective.",
+          "context": "神经科学的角度解释了为什么刻意练习能改变大脑，而不仅仅是改变技能"
+        }
+      ]
+    }
+  ]
+}
+```
