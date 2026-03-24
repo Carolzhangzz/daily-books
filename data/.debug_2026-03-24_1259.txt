@@ -1,0 +1,69 @@
+我来为这三本书生成推荐。需要注意的是，"凯恩斯传"通常指的是Robert Skidelsky的经典传记，我将基于这个版本来生成。
+
+```json
+{
+  "date": "2026-03-24",
+  "books": [
+    {
+      "title_zh": "了不起的盖茨比",
+      "title_en": "The Great Gatsby",
+      "author_zh": "F·斯科特·菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1925",
+      "category": "文学/经典小说",
+      "one_liner": "美国梦的绚烂与破灭，装饰时代的完美注脚",
+      "deep_dive": "这部被誉为美国文学皇冠上的明珠的小说，用极其克制的笔触讲述了一个男人对梦想的执着。Gatsby为了赢回初恋情人Daisy，在浮躁的1920年代积累起天文数字的财富，却不知道自己追逐的早已不是人，而是一个虚幻的梦。菲茨杰拉德在这部作品中完美地捕捉了那个时代的精神气质——物欲横流却又空虚迷茫。故事通过局外人Nick的视角展开，让我们既能看清Gatsby的执迷，又能感受他那份近乎悲剧的纯真。每次阅读这部书，你都会发现新的层次：它既是对爱情的赞美，也是对阶级的讽刺，更是对美国梦本质的深刻质疑。这才是经典的力量——它会随着你的人生阅历而不断闪闪发光。",
+      "quotes": [
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+          "context": "小说的最后一句，是对人类宿命的终极思考——我们终究无法逃离过去"
+        },
+        {
+          "text": "The light at the end of the green dock flickered up again.",
+          "context": "象征Gatsby对梦想的执着追求，绿灯代表着永远够不到的希望"
+        }
+      ]
+    },
+    {
+      "title_zh": "凯恩斯传",
+      "title_en": "John Maynard Keynes: A Life",
+      "author_zh": "罗伯特·斯基德尔斯基",
+      "author_en": "Robert Skidelsky",
+      "year": "1983-2000",
+      "category": "传记/经济思想史",
+      "one_liner": "20世纪最伟大的经济学家如何改变了世界的思考方式",
+      "deep_dive": "这部宏大的三卷本传记是传记文学的典范。Skidelsky用优美的笔调描绘了一位天才经济学家的人生轨迹——从剑桥的才子到改变经济学范式的思想家。凯恩斯的故事充满了戏剧张力：他见证了两次世界大战、经历了1929年大萧条，却始终坚持用理性和想象力来理解经济现象。这部传记不仅是学术思想的历史，更是一个活生生的人的故事——他的感情生活、艺术品味、政治立场，以及那些影响了他思想的重要时刻。你会看到凯恩斯如何从古典经济学的束缚中解放出来，如何与时代对话，如何用一句话改变政策制定者的决策。特别有趣的是，Skidelsky让我们看到凯恩斯不是一个只会写论文的书呆子，而是一个参与政治、热爱艺术、拥有强烈信念的完整的人。这样的传记，让我们明白伟大的思想家是如何诞生的。",
+      "quotes": [
+        {
+          "text": "The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood.",
+          "context": "凯恩斯深知思想的力量，这是他为什么终生奋笔疾书的原因"
+        },
+        {
+          "text": "The difficulty lies, not in the new ideas, but in escaping from the old ones.",
+          "context": "道出了学术创新的真谛——推翻既有的假设比提出新想法更难"
+        }
+      ]
+    },
+    {
+      "title_zh": "社会性动物",
+      "title_en": "The Social Animal",
+      "author_zh": "埃利奥特·阿伦森",
+      "author_en": "Elliot Aronson",
+      "year": "1972(第五版:2011)",
+      "category": "心理学/社会心理学",
+      "one_liner": "用科学解码人类社会行为的奥秘，比你想象的更有趣",
+      "deep_dive": "这本书堪称社会心理学的入门经典，但千万别因为'入门'就小看它。Aronson用平实流畅的语言，讲述了一个又一个令人恍然大悟的心理学实验。为什么我们会盲目跟风？为什么美女的劝说效果更好？为什么我们倾向于喜欢和自己相似的人？所有这些看似神秘的社会现象，在社会心理学的显微镜下，都有了清晰的解释。最妙的是，Aronson不是干巴巴地讲述实验数据，而是用生动的故事和案例来说明。你会突然意识到：原来那些影响我们日常决策的因素，都可以被理解和预测。这本书最大的价值在于它让你成为一个更清醒的观察者——看到周围的社会影响，看清自己的偏见，甚至学会如何避免被操纵。这不仅是知识，更是一种生活智慧。",
+      "quotes": [
+        {
+          "text": "People who do crazy things are not necessarily crazy.",
+          "context": "挑战我们对他人行为的直观判断，往往环境比个性更能解释行为"
+        },
+        {
+          "text": "We love people not so much for who they are, but for how they make us feel about ourselves.",
+          "context": "揭示了人际吸引力的本质——我们爱的是那个通过他人映照出来的自己"
+        }
+      ]
+    }
+  ]
+}
+```
