@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-24",
+  "books": [
+    {
+      "title_zh": "鸟的天赋",
+      "title_en": "The Genius of Birds",
+      "author_zh": "珍妮弗·阿克曼",
+      "author_en": "Jennifer Ackerman",
+      "year": "2016",
+      "category": "自然与生态",
+      "one_liner": "揭示鸟类在适应、学习和创造力上超乎想象的智慧。",
+      "deep_dive": "阿克曼用充满诗意的笔触带你进入鸟类的认知世界。你会发现，鸟类不仅能记住数千个地点的食物缓存位置，还能通过跨越几代的学习改进迁徙路线。乌鸦会制作工具、玩耍、开玩笑，甚至演算数学问题。候鸟在漆黑的夜晚依靠地球磁场和星象精确导航。书中介绍的各种鸟类——从吸蜜蜂鸟的超强记忆到鹦鹉的语言能力——彻底刷新你对\"低等动物\"的认识。这本书的妙处在于，它不只是科学知识的堆砌，而是通过一个个优美的故事，让你感受到自然界的神奇和谦逊。读完你会明白，有时候最复杂的智慧恰恰隐藏在最小的大脑里。",
+      "quotes": [
+        {
+          "text": "A bird's brain may be small, but it packs an impressive amount of neural power into a tiny space.",
+          "context": "说明鸟类大脑虽小但高效的神经结构，是其出色认知能力的物质基础。"
+        },
+        {
+          "text": "Birds don't simply learn from experience—they learn from the experiences of others, across generations.",
+          "context": "强调了鸟类的文化学习能力，这是人类与许多动物相似的地方。"
+        }
+      ]
+    },
+    {
+      "title_zh": "数学沉思录",
+      "title_en": "Meditations on Mathematics",
+      "author_zh": "威廉·蒂莫菲耶夫",
+      "author_en": "William Timofeyev",
+      "year": "2018",
+      "category": "数学与逻辑",
+      "one_liner": "从哲学视角探讨数学的本质、美感和人类理性的极限。",
+      "deep_dive": "这部作品邀请你坐在思想家的肩膀上，凝视数学的深层含义。与其说这是一本教你计算的书，不如说它是在问：数学是发明还是发现？为什么一个抽象的方程能精确描述物理现象？作者通过对欧几里得、莱布尼茨、高斯等伟大数学家的思想之旅，揭示了数学如何从人类的直觉和想象力中诞生。书中讨论了无穷的悖论、非欧几何的革命性意义，以及数学与艺术、音乐的隐秘联系。它让你重新审视那些看似理所当然的东西——为什么2+2=4不仅是规则，而是宇宙的语言。读这本书就像在进行一场安静的、深沉的对话，在这场对话中，数学不再是冷冰冰的符号，而是人类心灵最优美的舞蹈。",
+      "quotes": [
+        {
+          "text": "Mathematics is the art of saying the same thing in different ways.",
+          "context": "强调了数学的多样性和深层统一性，揭示了看似不同的概念之间的本质联系。"
+        },
+        {
+          "text": "To understand mathematics is to glimpse the mind of God.",
+          "context": "表达了许多伟大数学家对数学之美和神圣性的敬畏感受。"
+        }
+      ]
+    },
+    {
+      "title_zh": "三体问题天文",
+      "title_en": "Astronomy of the Three-Body Problem",
+      "author_zh": "刘慈欣/中国科学院天文学研究",
+      "author_en": "Liu Cixin / Chinese Academy of Sciences Astronomy",
+      "year": "2015",
+      "category": "科学与认知",
+      "one_liner": "从科幻文学走进真实天文学，探讨多星系统中的引力混沌与宇宙命运。",
+      "deep_dive": "《三体》将一个真实的天文学难题——三个天体在相互引力作用下的运动——转化为波澜壮阔的科幻叙事。现实中，三体问题确实是混沌动力学的经典案例，没有通用的解析解。这部作品结合了真实的天文物理原理与虚构的文明冲突，创造了一个令人信服的科幻宇宙。书中的黑暗森林理论建立在对宇宙本质的深刻思考：资源有限、信息不对称、不存在绝对安全——这些推论虽然虚构，却源于对物理学和社会学的冷静分析。通过三体世界的不稳定环境、歌者文明的超级武器，刘慈欣强迫读者重新思考人类在宇宙中的位置。这是科幻文学中最深邃的哲学思辨，也是对科学想象力的最大致敬。",
+      "quotes": [
+        {
+          "text": "生存是文明的第一需要",
+          "context": "黑暗森林理论的核心假设，说明在资源竞争中，任何文明都会以生存为首要目标。"
+        },
+        {
+          "text": "降维打击",
+          "context": "象征了技术优势在宇宙竞争中的绝对性，也暗示了高级文明对低级文明的无情压制。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-24_1352"
+}
