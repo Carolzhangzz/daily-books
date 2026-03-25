@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "永别了武器",
+      "title_en": "A Farewell to Arms",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1929",
+      "category": "文学",
+      "one_liner": "战争中的爱情悲剧，一个美国军官在生死存亡的绝境中对生命和爱的终极选择。",
+      "deep_dive": "如果你读过海明威的其他作品，你大概知道他那种冷冷的、留白式的笔调——看似简洁，其实暗流涌动。这部小说就是这样。讲的是美国军官亨利和英国护士凯瑟琳在第一次世界大战期间的爱情故事。表面上看就是一个军人爱上护士，然后发生了什么事儿。但你读下去就会发现，这不仅是爱情故事，更是对战争本身的深刻反思。亨利最开始参加战争就很疏离，他不像其他军人那样充满理想主义。他在前线经历炮火、目睹伤亡，慢慢地开始怀疑这场战争的意义。而凯瑟琳的出现，给了他生命的另一种可能性——通过爱来抵抗战争的荒诞。整部小说充满了悲剧性的宿命感，最后的结局更是教科书级的虚无主义。海明威用这个故事告诉我们，在一个没有意义的世界里，我们能坚守的也许只有爱。这部作品影响了整整一代作家和读者对战争文学的理解。",
+      "quotes": [
+        {
+          "text": "The world is a fine place and worth fighting for.",
+          "context": "一句看似乐观的话，但在整部小说的绝望背景下，反而显得更加深刻和让人心碎。"
+        },
+        {
+          "text": "If people bring so much courage to this world the world has to kill them to break them, so of a course it kills them.",
+          "context": "海明威对人生和命运的终极理解——世界会摧毁那些勇敢的人，这是他所有作品的核心主题。"
+        }
+      ]
+    },
+    {
+      "title_zh": "悉达多",
+      "title_en": "Siddhartha",
+      "author_zh": "赫尔曼·黑塞",
+      "author_en": "Hermann Hesse",
+      "year": "1922",
+      "category": "文学",
+      "one_liner": "一个追求精神觉悟的年轻人，通过放弃、失去和再出发，最终在河边悟到生命的永恒智慧。",
+      "deep_dive": "这是我最喜欢的精神探索类小说之一。不同于宗教经文的宣教式，黑塞用故事的方式让你跟着主人公悉达多一起去寻找生命的意义。故事发生在古代印度，一个出身优越的年轻人舍弃了家族和舒适的生活，决定去寻找真理。他去跟随苦行僧修行，去跟随佛陀听教诲，去体验爱情和财富，甚至沦为奴隶和商人。每一段经历都是一个剥落和重建。你会注意到，黑塞没有说哪条路是对的哪条是错的，每一个阶段的放弃都有其意义。最后悉达多在河边成为摆渡人，通过倾听河水，他终于理解了生命的本质——所有的对立都是统一的，所有的过去和未来都在当下。这部作品的精妙之处在于，它不是在劝你信仰什么，而是在启发你思考什么才是你真正想要的生活。读完之后你会发现，其实每个人都是悉达多，都在自己的人生河边悟道。",
+      "quotes": [
+        {
+          "text": "Wisdom is not communicable. The wisdom which a wise man tries to communicate always sounds foolish.",
+          "context": "道出了黑塞对精神修行的理解——真正的智慧无法言传，只能自我体验和觉悟。"
+        },
+        {
+          "text": "All Sorrow originates in Craving, and all Joy originates in Peace.",
+          "context": "这是整部小说的核心哲学，关于如何放下欲望而获得内心的安宁。"
+        }
+      ]
+    },
+    {
+      "title_zh": "金枝",
+      "title_en": "The Golden Bough",
+      "author_zh": "詹姆斯·乔治·弗雷泽",
+      "author_en": "James George Frazer",
+      "year": "1890",
+      "category": "社科与历史",
+      "one_liner": "一部宏大的人类学著作，通过对全球原始宗教和神话的比较研究，揭示人类文明的共同根源和演进规律。",
+      "deep_dive": "如果你想理解人类文明为什么这样发展，为什么各个文化都有相似的神话和仪式，那《金枝》就是一部必读的启蒙之作。弗雷泽这个英国人花了半辈子研究全球各地的原始宗教、魔法和神话，试图找出它们背后的逻辑。书名来自一个古罗马的故事——一个神圣的女祭司看守着一棵树，任何想杀死她的人都要先折断树上的金枝。这个故事成了弗雷泽探索人类精神世界的入口。他在书里讲了成千上百个故事和例子，从非洲的萨满仪式，到印度的宗教习俗，再到欧洲的民间传统，展示了人类在不同的历史阶段如何用魔法、宗教和科学来理解和控制世界。你会发现，从原始的交感魔法，到宗教信仰，再到科学认知，其实反映了人类理性思维的一个漫长演进过程。这部著作对人类学、宗教学和文化研究的影响深远，直到今天仍然值得品读。",
+      "quotes": [
+        {
+          "text": "If we are right to assume that man's general tendency in the matter of personal property is to make it as absolute as possible, we may reasonably conclude that primitive people would regard the king as the ideal owner, since his property in all things is regarded as absolute.",
+          "context": "弗雷泽对权力和所有制观念如何在人类社会中形成的深刻观察。"
+        },
+        {
+          "text": "Magic is a false science and sorcery is a false art.",
+          "context": "这句话体现了弗雷泽将魔法、宗教和科学放在同一个理性框架下分析的学术态度。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1214"
+}
