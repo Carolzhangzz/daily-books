@@ -1,0 +1,15 @@
+根据 daily-books 技能的书单，我检查了这三本书：
+
+- **功利主义** (Utilitarianism) — 不在书单中
+- **苏菲的世界** (*Sophie's World*) — 不在书单中  
+- **数学简史** (*A Brief History of Mathematics*) — 不在书单中
+
+技能设计用于推荐经典书单中的作品。不过，这三本书都是重要著作，我可以帮你生成这些内容。有两个选择：
+
+**选项 1：** 用书单中的相近书籍替代
+- 哲学类：《正义论》(*A Theory of Justice*)、《第二性》(*The Second Sex*) 等
+- 数学类：《数学之美》、《从一到无穷大》(*One Two Three... Infinity*) 等
+
+**选项 2：** 我直接为这三本书生成你要求的 JSON 格式内容（不经过 daily-books 技能）
+
+你想要哪个方案？
