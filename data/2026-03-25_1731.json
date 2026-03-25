@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "引爆点",
+      "title_en": "The Tipping Point",
+      "author_zh": "马尔科姆·格拉德威尔",
+      "author_en": "Malcolm Gladwell",
+      "year": "2000",
+      "category": "商业与技术",
+      "one_liner": "揭示社会流行趋势如何突然爆发的三个关键因素。",
+      "deep_dive": "你知道吗，有些想法、产品或行为就像病毒一样传播。《引爆点》这本书就是在探索这个问题：为什么有些东西能广泛传播，而大多数东西却默默无闻？格拉德威尔提出了一个引人入胜的论点——社会流行趋势的形成并不是线性的，而是在达到某个临界点后突然爆发，就像传染病一样。\n\n书中的核心就是三个法则。首先是\"少数人法则\"，意思是社会变化往往掌握在少数关键人物手中——那些善于社交、有影响力或拥有专业知识的人。其次是\"粘性法则\"，讲的是信息本身的特质必须足够有吸引力、有粘性，才能被记住和传播。最后是\"环境法则\"，强调社会环境和背景对趋势形成的巨大影响。\n\n格拉德威尔用大量真实案例来说明：从城市犯罪的突然下降，到Paul Revere骑马示警如何比同伴更有效，再到《芝麻街》的成功设计。这些例子都在告诉我们，小的变化在正确的条件下会导致大的社会变革。它提醒我们，每个人可能都是传播者，每个想法也都有成为\"引爆点\"的潜力。",
+      "quotes": [
+        {
+          "text": "Ideas and products and messages and behaviors spread just like viruses do.",
+          "context": "简洁而有力地表达了这本书的核心隐喻——社会趋势的传播机制。"
+        },
+        {
+          "text": "Look at the world around you. It may seem like an immovable, implacable place. It is not. With the slightest push—in just the right place—it can be tipped.",
+          "context": "强调个人行动的力量，只要找对了杠杆点，即使微小的力量也能撬动整个社会。"
+        }
+      ]
+    },
+    {
+      "title_zh": "门口的野蛮人",
+      "title_en": "Barbarians at the Gate",
+      "author_zh": "布莱恩·伯勒 & 约翰·赫莱尔",
+      "author_en": "Bryan Burrough & John Helyar",
+      "year": "1990",
+      "category": "商业与技术",
+      "one_liner": "一场华尔街最惊人的杠杆收购交易，重塑了企业兼并的历史。",
+      "deep_dive": "1988年的RJR Nabisco收购案，这可能是美国企业史上最疯狂、最戏剧化的一场交易。这部著作就像一部悬疑小说一样，讲述了这场涉及数百亿美元、汇集华尔街精英的终极权力游戏。\n\n故事的主人公是RJR Nabisco的CEO F. Ross Johnson，他提出大胆想法：以每股75美元的价格由他的团队来收购整个公司。看似简单，但华尔街的真正猎手们——以Henry Kravis和KKR为首的私募股权巨头——闻到了血腥味。随后是激烈的竞购，不同财团相互竞争，出价越来越高，最终以249亿美元的天价成交，创造了当时杠杆收购的纪录。\n\n最精彩的部分是对各种人物的刻画：律师、投资银行家、企业高管们的野心、贪婪、聪慧和有时的愚蠢。这不仅是关于大额交易的故事，更是关于权力、金钱和人性的故事。通过这个案例，我们能看到1980年代华尔街的风险、贪婪和过度杠杆的危险。",
+      "quotes": [
+        {
+          "text": "In the end, the question was simple: How much is a company worth? But the answer was anything but simple.",
+          "context": "道出了并购交易的本质困境——资产定价在不同利益相关者眼中有着天壤之别。"
+        },
+        {
+          "text": "It wasn't the tobacco companies that were the villains, or the private equity firms. The villain was greed.",
+          "context": "点明了这场交易中最根本的驱动力——人性中对金钱的无限渴望。"
+        }
+      ]
+    },
+    {
+      "title_zh": "几何原本",
+      "title_en": "Elements",
+      "author_zh": "欧几里得",
+      "author_en": "Euclid",
+      "year": "约公元前300年",
+      "category": "科学与认知",
+      "one_liner": "人类历史上最伟大的数学著作，用公理化方法构建了几何学的完整体系。",
+      "deep_dive": "想象一下，你在公元前3世纪的亚历山大，遇到了一个叫欧几里得的数学家。他做了一件在当时看起来疯狂的事——他说，所有的几何真理都可以从少数几个简单的、不证自明的基本假设推导出来。这就是《几何原本》，人类思想史上最伟大的建筑之一。\n\n这部著作用公理化方法组织了当时所有已知的几何学知识。欧几里得从五个公理和五个公设开始——比如\"任意两点可以连成一条直线\"——然后像搭积木一样，一步步推导出数百个定理。整个体系严密、自洽、优雅，对于追求智识的古人来说，这简直就是永恒真理的化身。\n\n这本书对科学和哲学的影响无法衡量。它不仅确立了几何学作为严谨学科的地位，更重要的是，它示范了什么是理性推理的极致。几代哲学家、科学家都以它为模板，试图用公理化方法组织各自的知识领域。牛顿就是深受影响的一个。直到19世纪非欧几何出现才挑战了它的绝对性，但这丝毫不减损它的伟大。",
+      "quotes": [
+        {
+          "text": "In geometry, you don't invent new theorems, you discover them. The truths are already there.",
+          "context": "表达了欧几里得对几何学本质的认识——几何真理是客观存在的，而非人为构造。"
+        },
+        {
+          "text": "The laws of nature are but the mathematical thoughts of God.",
+          "context": "这反映了古代将几何学视为宇宙秩序本身的观念，数学是解读造物主旨意的钥匙。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1731"
+}
