@@ -1,0 +1,71 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "我们为什么要睡觉",
+      "title_en": "Why We Sleep",
+      "author_zh": "马修·沃克",
+      "author_en": "Matthew Walker",
+      "year": "2017",
+      "category": "科学/健康/神经科学",
+      "one_liner": "睡眠是被严重低估的生物学奇迹，直接决定了你的智力、健康和寿命",
+      "deep_dive": "你是不是总觉得睡眠是可以被牺牲的？加班、熬夜、为了赶期限睡眠不足？别了，这本书会彻底改变你对睡眠的看法。沃克是神经科学家，用最新科学证据告诉你，充足睡眠不是奢侈品，而是生存必需品。从改善学习和记忆，到强化免疫系统，再到预防心脏病和癌症，睡眠的作用远超想象。书中有个震撼数据：连续两周睡眠不足，认知能力会下降到酒精中毒的程度。更有趣的是，书中揭示了为什么REM睡眠对创意那么重要，为什么年纪大了睡眠质量会下降。沃克用浅显语言讲述复杂的神经生物学原理，充满改变人生的建议。这不仅仅是科学著作，更是一份睡眠救赎指南。读完之后，你会重新审视自己的作息习惯。",
+      "quotes": [
+        {
+          "text": "Sleep is the single most effective thing we can do to reset our brain and body health each day.",
+          "context": "强调睡眠的基础性和必要性"
+        },
+        {
+          "text": "The shorter your sleep, the shorter your life.",
+          "context": "睡眠不足与寿命长度的直接关系"
+        },
+        {
+          "text": "No aspect of our biology is left untouched by sleep.",
+          "context": "睡眠影响生物学的方方面面"
+        }
+      ]
+    },
+    {
+      "title_zh": "玻尔传",
+      "title_en": "Niels Bohr: The Man, His Science, and the Age of Quanta",
+      "author_zh": "露丝·摩尔",
+      "author_en": "Ruth Moore",
+      "year": "1966",
+      "category": "传记/物理学/科学史",
+      "one_liner": "从一个丹麦少年到量子革命的缔造者，玻尔用智慧和坚持重塑了整个物理学基础",
+      "deep_dive": "尼尔斯·玻尔是20世纪最伟大的物理学家之一，但他远不仅仅是科学家。这部传记不仅讲述了他如何提出互补原理、推动量子革命，更揭示了这个天才背后的人性故事。玻尔出生在丹麦哥本哈根，在物理学风起云涌的时代，他与爱因斯坦、海森伯、薛定谔等巨人相互激励碰撞。书中最吸引人的地方在于玻尔的个性——既是严肃的科学家，也是热爱音乐、关心人文的思想家。他建立了哥本哈根学派，将世界各地的天才吸引到丹麦共同探索量子世界奥秘。同时，玻尔还是卓越的教育家，相信科学应为人类福祉服务。这部传记通过详细档案和访谈，让读者不仅理解量子力学发展，更能感受20世纪初科学的魅力和那个时代的精神风貌。",
+      "quotes": [
+        {
+          "text": "The opposite of a profound truth may well be another profound truth.",
+          "context": "对立观点在深层次上可能都有真理，反映了互补原理的哲学思想"
+        },
+        {
+          "text": "Prediction is very difficult, especially about the future.",
+          "context": "玻尔对科学认识局限性的著名论述"
+        }
+      ]
+    },
+    {
+      "title_zh": "活出生命的意义",
+      "title_en": "Man's Search for Meaning",
+      "author_zh": "维克多·弗兰克",
+      "author_en": "Viktor Frankl",
+      "year": "1946",
+      "category": "心理学/哲学/自传",
+      "one_liner": "在人生最绝望的困境中发现意义，这是关于如何活得更充实的永恒智慧",
+      "deep_dive": "维克多·弗兰克是大屠杀幸存者，但这本书不仅仅是关于苦难的回忆录。在纳粹集中营的黑暗日子里，弗兰克观察到，活下来的人往往不是体质最强的，而是找到生活意义的人。这个发现改变了他对人生的理解，也影响了现代心理学。书的前半部分是他在奥斯维辛的经历——令人窒息的细节和绝望的时刻。但真正改变人生的是后半部分，弗兰克介绍了他创立的意义疗法——一种基于寻找生活意义的心理治疗方法。他论证说，人类最深层需求不是快乐，而是找到生活的意义。无论你面临什么困难——失业、疾病、失恋、衰老——你都能找到让生活有意义的方式。这本书短小精悍，却充满哲学深度。它不仅适合在困难时刻阅读，更适合任何想要深思人生意义的人。",
+      "quotes": [
+        {
+          "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+          "context": "强调在无法改变外部环境时，改变自己的重要性"
+        },
+        {
+          "text": "It is the very pursuit of happiness that thwarts happiness.",
+          "context": "对人类心理的深刻洞察——对意义的追求往往比对快乐的追求更能带来满足"
+        }
+      ]
+    }
+  ]
+}
+```
