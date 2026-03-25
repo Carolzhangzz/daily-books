@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "原则",
+      "title_en": "Principles",
+      "author_zh": "瑞·达利欧",
+      "author_en": "Ray Dalio",
+      "year": "2017",
+      "category": "商业与技术",
+      "one_liner": "一个全球顶级对冲基金创始人用原则思维方式总结的成功法则和人生哲学",
+      "deep_dive": "达利欧用40多年的实践经验写成的这本书，本质上是在告诉我们：生活和工作都可以通过建立一套自己的原则来优化。他说他从1975年创办桥水基金开始，就靠着记录自己的原则、不断迭代来做决策，最后把一个小公司做成了全球最大的对冲基金。这本书分两部分——前半部分讲的是人生原则（怎么学习、怎么进步、怎么和人相处），后半部分讲工作原则（怎么组建团队、怎么做决策、怎么应对危机）。最有意思的是，达利欧把这些原则做成了一套算法，让机器来帮助做决策，听起来很冰冷，但实际上反映出了他对于理性、透明、进化的追求。这本书之所以值得读，不是因为它保证你会成功，而是它教你用系统化的方式思考问题。无论你是在创业、投资还是管理人生，都可以从中找到一些启发。特别是在这个充满不确定性的时代，有一套自己的原则就像有了一个内在的GPS。",
+      "quotes": [
+        {
+          "text": "Do not confuse the map with the territory.",
+          "context": "达利欧强调我们需要区分理论和现实，不要被自己的想法困住。这是整本书的核心——一切原则都需要在实践中验证。"
+        },
+        {
+          "text": "Pain + Reflection = Progress",
+          "context": "书中反复强调的一个公式，意思是经历挫折本身不值钱，关键是你从中学到了什么。很多成功的人并不是没有失败过，而是懂得反思失败。"
+        },
+        {
+          "text": "The biggest threat to great performance is the ego.",
+          "context": "达利欧认为，自我意识强的人往往因为保护自己的形象而拒绝接受批评和改进。真正成长的人需要放下自我。"
+        }
+      ]
+    },
+    {
+      "title_zh": "优雅的宇宙",
+      "title_en": "The Elegant Universe",
+      "author_zh": "布莱恩·格林",
+      "author_en": "Brian Greene",
+      "year": "1999",
+      "category": "科学与认知",
+      "one_liner": "用诗意的语言揭开宇宙最深的秘密：弦论如何重新定义现实的本质",
+      "deep_dive": "如果你想了解宇宙最前沿的物理学，这本书就像是格林带你去宇宙的后台看看。弦论这个理论听起来很复杂，但格林用各种比喻和故事把它变得可理解——比如他用吉他弦的不同振动来解释基本粒子的不同性质。这本书的精妙之处在于，它不仅讲了什么是弦论，更讲了为什么物理学家费这么大劲去研究它。从牛顿到爱因斯坦再到现代物理，格林一步步引导你看到一个问题：引力和量子力学为什么水火不容？弦论就是试图统一这两个世界的候选理论。书中特别有趣的是对维度的讨论——我们生活在三维空间，但弦论说宇宙其实有九维或十维。这听起来疯狂，但格林用巧妙的方式让你能够想象那些额外的维度藏在哪里。读完这本书，你不仅会对宇宙有全新的认识，还会感受到科学的美感——那种用最简洁的方式解释最复杂现象的优雅。",
+      "quotes": [
+        {
+          "text": "String theory provides a framework for reconciling general relativity and quantum mechanics.",
+          "context": "这是弦论的终极承诺——解决困扰物理学家一个世纪的矛盾。格林通过全书都在说明这一点的重要性。"
+        },
+        {
+          "text": "If the string theory is right, the universe is a symphony, and we are listening to its music.",
+          "context": "格林用音乐的比喻来描述弦论的核心——一切都是由振动的弦构成的，就像不同的音符组成交响乐。"
+        },
+        {
+          "text": "Reality is stranger and more wonderful than our everyday experience suggests.",
+          "context": "这是整本书的主旨——当你深入宇宙的微观世界，你会发现现实远比你想象的要奇妙得多。"
+        }
+      ]
+    },
+    {
+      "title_zh": "极权主义的起源",
+      "title_en": "The Origins of Totalitarianism",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1951",
+      "category": "哲学",
+      "one_liner": "一部令人震撼的政治哲学著作，剖析了现代极权主义如何从反犹主义、帝国主义中滋生并吞噬整个社会",
+      "deep_dive": "这本书完成于1951年，当时纳粹德国和苏联的恐怖刚刚结束不久。阿伦特作为一位犹太女性哲学家，用她的亲身经历和深刻的理论分析，试图回答一个让整个世界都困惑的问题：这一切是怎么发生的？她的答案不是简单地说\"坏人做了坏事\"，而是指出，极权主义并不是突然冒出来的，而是从我们看似正常的社会结构中生长出来的。书分三部分：反犹主义、帝国主义和极权主义本身。阿伦特论证，反犹主义和帝国主义为极权主义的出现创造了条件——当国家开始把某个群体妖魔化、消除人权时，距离全面的极权统治就不远了。最令人不安的观察是，极权统治的关键不是残暴本身，而是让人们失去思考的能力，变成没有个性的齿轮。这本书的影响力在于，它让我们看到民主社会也不是免疫的，只要我们停止警惕就有风险。",
+      "quotes": [
+        {
+          "text": "The ideal subject of totalitarian rule is not the convinced Nazi or the convinced Communist, but people for whom the distinction between fact and fiction has been blurred.",
+          "context": "阿伦特指出，极权统治的最恐怖之处不在于它的武力，而在于它制造信息混乱，让人民无法区分真实和谎言。这在当今信息爆炸的时代尤其有意义。"
+        },
+        {
+          "text": "We are not born equal; we become equal as members of a group.",
+          "context": "这句话反映了阿伦特对人权和平等的深刻理解——平等不是天生的，而是需要社会制度来保护和维持的。一旦这个制度崩溃，人就会被剥夺平等的地位。"
+        },
+        {
+          "text": "The most radical revolutionary will become a conservative the day after the revolution.",
+          "context": "这是阿伦特对权力的讽刺观察——权力会腐蚀任何人，即使是最初的理想主义者。极权主义正是这种权力本能的最极端表现。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1823"
+}
