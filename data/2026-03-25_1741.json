@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "霍比特人",
+      "title_en": "The Hobbit",
+      "author_zh": "J.R.R. 托尔金",
+      "author_en": "J.R.R. Tolkien",
+      "year": "1937",
+      "category": "文学",
+      "one_liner": "一个平凡的小人物在意外的冒险中发现自己的勇气和价值。",
+      "deep_dive": "霍比特人是个天才般的故事，讲述了比尔博·巴金斯从一个足不出户的小霍比特被卷入去拯救矮人宝藏的冒险。这个故事的妙处在于，托尔金没有给我们一个已经充满英雄气质的主角，而是一个胆小怕事、满足于舒适生活的普通人。正是这份普通性，让他的成长显得异常动人。\n\n比尔博的冒险不仅仅是打败怪物、赚取宝藏，更重要的是他逐步发现自己内在的力量。他学会了如何面对恐惧，如何在失望中坚持，如何为了朋友放弃金币。这种成长是缓慢而真实的——正如我们每个人在生活中的蜕变。\n\n同时，小说也深刻地探讨了权力、财富和贪心的危害。矮人国王索林因为对黄金的执着而失去一切，包括他的生命。这个悲剧性的转折提醒我们，物质财富本身并不能带来幸福，反而可能毁灭一个人。托尔金笔下的中土世界魅力无穷，但他真正想表达的，是那些关乎人性和价值观的永恒主题。",
+      "quotes": [
+        {
+          "text": "All we have to decide is what to do with the time that is given us.",
+          "context": "这是甘道夫关于选择和行动的深刻感悟，提醒我们生命的珍贵在于我们如何使用它。"
+        },
+        {
+          "text": "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it may be, it shall be that some day it will be so, and all will be well.",
+          "context": "对困境中仍然保有希望的人性美德的赞颂，体现了小说的乐观精神。"
+        }
+      ]
+    },
+    {
+      "title_zh": "噪声",
+      "title_en": "Noise: A Flaw in Human Judgment",
+      "author_zh": "丹尼尔·卡尼曼、奥利维耶·西博尼、卡斯·桑斯坦",
+      "author_en": "Daniel Kahneman, Olivier Sibony, Cass Sunstein",
+      "year": "2021",
+      "category": "科学与认知",
+      "one_liner": "揭露隐藏在决策中的噪声——比偏见更难察觉但影响更大的因素。",
+      "deep_dive": "如果你读过《思考，快与慢》，你知道卡尼曼已经完全改变了我们对人类理性的理解。但《噪声》这本书会再次颠覆你的认知。在《思考》中，卡尼曼主要讨论系统性偏见——我们做出错误决定的方向性错误。但《噪声》指向一个更深层的问题：即使没有偏见，我们的决定仍然充满随机的、不可预测的变化。\n\n想象两位医生给同样的患者做诊断，他们的结论可能完全不同。不是因为一个医生更聪明，而仅仅是因为他们的背景、当天的心情、对某个症状的强调程度不同。这种变化就是噪声。卡尼曼团队通过大量数据证明，噪声造成的经济和社会损失可能比系统性偏见更严重。\n\n这本书的价值不仅在于诊断问题，更在于提供了解决方案。卡尼曼建议通过结构化决策流程、引入多个视角、使用模型而非直觉来减少噪声。这不是关于让人变得更好，而是关于设计更好的系统。对任何关心决策质量的人来说——管理者、医生、法官、政治家——这都是必读的。",
+      "quotes": [
+        {
+          "text": "Noise is a hidden risk, and risks that are hard to see tend to be neglected.",
+          "context": "卡尼曼强调噪声正是因为其隐蔽性而危险，我们往往看不到它在破坏决策质量。"
+        },
+        {
+          "text": "The solution to noise is structure, not talent.",
+          "context": "核心观点：我们不能靠选择更聪明的人来解决噪声问题，而需要建立更好的决策程序。"
+        }
+      ]
+    },
+    {
+      "title_zh": "达洛维夫人",
+      "title_en": "Mrs. Dalloway",
+      "author_zh": "弗吉尼亚·伍尔夫",
+      "author_en": "Virginia Woolf",
+      "year": "1925",
+      "category": "文学",
+      "one_liner": "一个女人在伦敦的一个下午，整个意识在关于时间、爱、死亡和生命意义的冥想中展开。",
+      "deep_dive": "《达洛维夫人》是一部让人又爱又挫折的小说，因为它打破了所有你对故事的期待。没有传统的情节，没有清晰的因果关系，甚至主角克拉丽莎的生活在外人看来也没什么特别的。她只是在为一场晚宴做准备——但就是在这个平凡的日子里，伍尔夫让我们进入了她的意识深处。\n\n通过意识流的手法，伍尔夫展现了一个人的思想如何在片刻间跳跃——从对花朵的观察，跳到对过去的回忆，再跳到对死亡的恐惧。克拉丽莎不仅是一个人，她还是多个不同时刻的聚合体。小说穿插进入其他人物的意识（如她的前情人彼得，以及患有心理创伤的退伍兵塞普蒂默斯），这些不同的意识流形成了一个复杂的、多声部的交响乐。\n\n这部小说的核心是对时间的深刻思考。伍尔夫拒绝将时间理解为线性的流动，而是作为一种心理体验——有时一瞬间感觉像永恒，有时一个小时转瞬即逝。她问的问题仍然困扰着我们：我们的生命真的是在发生什么，还是仅仅是在观察它的发生？这种对现代意识的捕捉，使得这部1925年的小说至今仍感觉前卫而相关。",
+      "quotes": [
+        {
+          "text": "Death is the only experience I shall never describe.",
+          "context": "对死亡这个人类终极体验的悖论性思考——我们无法真正理解死亡，因为它超越了所有经验。"
+        },
+        {
+          "text": "Every secret of a writer's soul, every experience of his life, every quality of his mind is written large in his works.",
+          "context": "伍尔夫关于文学创作的反思，暗示她在这部小说中倾注了自己对生命意义的所有思考。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1741"
+}
