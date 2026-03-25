@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "论确定性",
+      "title_en": "On Certainty",
+      "author_zh": "路德维希·维特根斯坦",
+      "author_en": "Ludwig Wittgenstein",
+      "year": "1969",
+      "category": "哲学",
+      "one_liner": "打破笛卡尔式怀疑的魔咒，探索日常生活中最基础的确定性根源。",
+      "deep_dive": "维特根斯坦在这部遗作中做了一件很有意思的事儿——他直接挑战了整个西方哲学对确定性的理解。你知道吗，我们往往假设确定性要么来自逻辑论证，要么来自对感官的深度怀疑。但维特根斯坦说，不对，根本不是这样。我们的生活中有一套根深蒂固的信念体系，这些信念就像游戏的规则一样——你不能同时参加游戏又质疑规则本身。比如说，我确定我的手存在，确定地球存在了很久，这不是因为我用哲学论证证明了，而是因为这些信念构成了我理解世界的整个基础框架。如果你要对此提出怀疑，那你甚至没有用来表达怀疑的语言和概念。这很像在说，有些东西是在游戏开始之前就确定的，你没办法在游戏中把它拿出来再验证一遍。读这本书的时候，你会慢慢意识到，确定性不是我们需要去争取的东西，而是已经支撑着我们每一个行动和思考的东西。",
+      "quotes": [
+        {
+          "text": "If I want the door to turn, the hinges must stay put.",
+          "context": "维特根斯坦用这个比喻说明，就像门转动需要铰链保持固定一样，思考和行动需要某些基本信念保持不动摇。"
+        },
+        {
+          "text": "I am certain that I have a body.",
+          "context": "这不是经过论证得出的结论，而是支撑我们所有理性活动的基础性信念。"
+        }
+      ]
+    },
+    {
+      "title_zh": "诺桑觉寺",
+      "title_en": "Northanger Abbey",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1817",
+      "category": "文学",
+      "one_liner": "一个被哥特小说迷住的女孩在现实中学会爱与自知的故事。",
+      "deep_dive": "这是奥斯汀最有趣的一部小说，读起来就像在看一场精妙的智慧游戏。女主角凯瑟琳·莫兰是个十八岁的乡村女孩，她沉迷于哥特式小说，整天幻想自己身处神秘古堡和黑暗秘密之中。结果呢，当她被邀请去了真正的古堡——诺桑觉寺——以后，她开始把现实硬生生地套进小说的情节里。她怀疑男主人公的父亲把第一任妻子禁闭在某个密室里！这种反差真的绝了。但这本书的高明之处不仅在于这种喜剧效果，而是奥斯汀通过凯瑟琳的误判，讽刺了那个时代对女性教育的影响——我们该读什么书，看什么样的故事，这些看似无伤大雅的选择，其实在深刻塑造我们对世界和爱情的理解方式。最后凯瑟琳学会了分辨现实和幻想，也找到了真正的爱情——但这个过程本身就很有趣，因为这爱情也带着对小说套路的一点温柔调侃。",
+      "quotes": [
+        {
+          "text": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+          "context": "奥斯汀在小说开头就为小说这种文学形式辩护，既是开玩笑也是认真的，讽刺那些贬低女性文学的评论家。"
+        },
+        {
+          "text": "It is a truth universally acknowledged that a girl of eighteen ought to know better.",
+          "context": "这是对凯瑟琳天真的温柔嘲讽，同时反映了年龄与成熟之间的鸿沟。"
+        }
+      ]
+    },
+    {
+      "title_zh": "独裁者手册",
+      "title_en": "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics",
+      "author_zh": "布鲁斯·博埃诺·德梅斯基塔、阿拉斯泰尔·史密斯",
+      "author_en": "Bruce Bueno de Mesquita & Alastair Smith",
+      "year": "2011",
+      "category": "政治学",
+      "one_liner": "用冷酷的政治现实主义解释权力运作的铁律。",
+      "deep_dive": "这本书的标题会让你以为它在教人怎么当独裁者，但其实不是。它真正做的是用一套对得起数学的政治学逻辑来解释权力是怎么运作的。核心观点超级简单但又扎心——无论你是独裁者还是民主领导人，你的权力来源于一个'连赢联盟'，也就是那些关键的、无法替代的支持你的人。你需要让这些人开心，哪怕这意味着巨贪污、镇压反对派或者疯狂浪费国家资源。民主制度和独裁制度最大的区别不在价值观上，而在于这个利益集团的大小。民主国家的'连赢联盟'更大，所以领导人得对更多人负责，这自然就限制了腐败和滥权。但在独裁国家，联盟很小得多，领导人可以通过挥霍和压制来维持权力。这本书最恐怖的地方在于它的逻辑是对的——一旦你理解了这个框架，你就能解释历史上那些匪夷所思的政治决定为什么会发生。好消息是，理解了这个机制，我们也就明白了为什么制衡、透明度和参与制度这么重要。",
+      "quotes": [
+        {
+          "text": "Bad behavior is not a departure from good governance, it IS governance.",
+          "context": "这是整本书的核心洞察：坏行为不是对制度的背离，而是制度本身的逻辑结果。"
+        },
+        {
+          "text": "The larger the winning coalition, the more democratic the government; the smaller the coalition, the more autocratic.",
+          "context": "制度的性质本质上由支持权力者的关键人物数量决定，这个数字越大，系统的约束和透明度要求就越高。"
+        }
+      ]
+    }
+  ]
+}
+```
