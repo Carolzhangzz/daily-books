@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "人体的故事",
+      "title_en": "The Body: A Guide for Occupants",
+      "author_zh": "比尔·布莱森",
+      "author_en": "Bill Bryson",
+      "year": "2019",
+      "category": "科学与认知",
+      "one_liner": "一本用轻松幽默的方式讲述人体运作原理的科普佳作。",
+      "deep_dive": "你知道吗？人体其实是个效率相当低下但又令人叹为观止的机器。《人体的故事》就像坐在一个朋友的沙发上，听他讲述关于你自己身体的各种有趣故事。布莱森这位著名的旅行作家用他特有的幽默和渊博的知识，带你走进人体的每个角落——从你的皮肤如何抵御细菌入侵，到你的大脑如何在你睡眠时继续工作。他会告诉你为什么打喷嚏时你的眼睛会闭上，为什么有些人天生不怕冷，以及为什么我们的免疫系统有时候会攻击自己。最棒的是，这不是那种枯燥的医学教科书。布莱森穿插着历史故事、科学家的轶事和他自己的观察，让你既学到了知识，又被逗得哈哈大笑。他甚至敢于指出人体设计的各种缺陷——比如为什么人类的身体对长时间直立行走并不适合，为什么我们容易患各种疾病。这本书对任何想真正了解自己身体的人都是必读之作，因为它证明了科学知识可以既严谨又有趣。",
+      "quotes": [
+        {
+          "text": "Your body is composed of exactly the same atoms that waywardly became mixed up in an English poultry yard.",
+          "context": "布莱森用这句话诙谐地说明我们身体的物质成分其实非常普通，就像家禽场里的原子一样"
+        },
+        {
+          "text": "We are all just a collection of crazies and misfits stumbling through life together and calling it civilization.",
+          "context": "关于人类本质的幽默观点，强调我们虽然看似完美，实际上充满了各种缺陷"
+        },
+        {
+          "text": "The remarkable thing about the human body is that it's quite good at keeping you alive—despite everything.",
+          "context": "对人体生存能力的深刻而诙谐的评价，表达了对身体韧性的敬畏"
+        }
+      ]
+    },
+    {
+      "title_zh": "雾都孤儿",
+      "title_en": "Oliver Twist",
+      "author_zh": "查尔斯·狄更斯",
+      "author_en": "Charles Dickens",
+      "year": "1838",
+      "category": "文学",
+      "one_liner": "维多利亚时代伦敦的一个孤儿的悲惨遭遇和最终救赎的故事。",
+      "deep_dive": "如果你想了解为什么《雾都孤儿》至今仍被视为英文文学中最重要的作品之一，你需要明白狄更斯写的不仅仅是一个关于一个孩子的故事。这是对整个社会制度的血淋淋的控诉。小奥利弗·特维斯特从出生的那一刻就被命运捉弄——他母亲在贫民医院里去世，他被送到孤儿院，在那里他和其他孩子一起饱受饥饿和虐待。他那句著名的请求「Please, sir, I want some more」不仅仅是一个小孩想要更多粥的请求，而是对基本人类尊严的呼救。当奥利弗逃到伦敦后，他落入了坏人法gin的手中，被迫成为扒手，这段经历让我们看到了维多利亚时代伦敦底层社会的黑暗。狄更斯通过奥利弗的眼睛，向我们展示了被遗弃的儿童如何被系统性地压榨。书中的人物设定也非常巧妙——邪恶的法gin、凶残的Sikes、天真的奥利弗和善良的Brownlow先生等，每个角色都代表了社会的某个面向。这部小说不仅改变了人们对贫困儿童的看法，也直接影响了英国的社会改革。时至今日，这部作品仍然提醒我们，社会的良心和对弱势群体的保护是多么重要。",
+      "quotes": [
+        {
+          "text": "Please, sir, I want some more.",
+          "context": "奥利弗在孤儿院恳求更多食物时的请求，这句话已经成为文学中对人类基本需求和尊严的永恒象征"
+        },
+        {
+          "text": "It is a great deal better to be alone than in bad company.",
+          "context": "奥利弗对自己痛苦经历的深刻反思，表达了道德纯正比被迫与恶人为伍更为重要"
+        },
+        {
+          "text": "If the law says that, the law is a fool.",
+          "context": "狄更斯对不公正社会法律的直接批评，反映了他对制度性压迫的愤怒"
+        }
+      ]
+    },
+    {
+      "title_zh": "象与骑象人",
+      "title_en": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
+      "author_zh": "乔纳森·海特",
+      "author_en": "Jonathan Haidt",
+      "year": "2006",
+      "category": "心理学/哲学",
+      "one_liner": "用古老智慧和现代心理学解答什么是真正的快乐和有意义的人生。",
+      "deep_dive": "想象一下，你的心智就像一个骑象人：理性清晰的你坐在一头巨象上，象代表你的直觉、情绪和潜意识。问题是，尽管骑象人握着缰绳，但象才是真正的力量拥有者。这就是《象与骑象人》这本书的核心洞察，也是为什么你常常会做出看似不理性的决定。海特在这本书中汇集了各种古老的哲学智慧——从佛教、道教到柏拉图——来解释现代心理学发现的真理。他讨论了爱情、友谊、工作、精神信仰等生活的各个方面，每一章都像是一个小的启蒙。比如，他解释了为什么有些人的婚姻能持久，而有些只是昙花一现；为什么工作的意义对幸福如此重要；为什么精神信仰能给人带来平静。最有趣的地方在于，海特并没有给你一个幸福的公式，而是帮助你理解自己的心智如何工作。这不仅仅是一本心理学书籍，更是一份个人的启蒙之旅。如果你曾经困惑于为什么自己的行为与信念不符，或者为什么你追求幸福但总是感到空虚，这本书会给你答案。",
+      "quotes": [
+        {
+          "text": "We are not thinking creatures that feel; we are feeling creatures that think.",
+          "context": "海特对人类本质最深刻的定义，推翻了我们对理性至上的传统理解"
+        },
+        {
+          "text": "The happiness hypothesis that best matches the research is that happiness comes from within and without.",
+          "context": "指出幸福既不仅仅来自内心修养，也不仅仅来自外部条件，而是两者的结合"
+        },
+        {
+          "text": "The rider evolved, in large part, to serve the elephant.",
+          "context": "对人类理性进化原因的深刻反思，说明理性思维本质上是为了更好地满足我们的基本需求和情感"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1604"
+}
