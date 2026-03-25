@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "金枝",
+      "title_en": "The Golden Bough",
+      "author_zh": "詹姆斯·乔治·弗雷泽",
+      "author_en": "James George Frazer",
+      "year": "1890",
+      "category": "人类学/民俗学",
+      "one_liner": "追溯人类从巫术到宗教再到科学的精神演进之旅",
+      "deep_dive": "你知道吗，这本书曾被誉为人类学的圣经。弗雷泽花了一生去研究全球各地的神话、仪式和民俗，试图找到隐藏在这些看似离奇现象背后的逻辑。他的核心想法是人类信仰的演变遵循一个模式：从巫术（人们相信仪式可以直接控制自然），到宗教（借助神灵的力量），最后才是科学（通过理性观察自然）。读这部作品就像打开了一个巨大的民俗宝库，从古代凯尔特的祭祀到非洲部落的图腾崇拜，再到欧洲的季节庆典，一切都被重新诠释。虽然弗雷泽的一些具体理论现在看来已经过时，但他给了我们一种全新的看待人类文化的视角——那些看起来荒诞的做法，其实都是人类面对未知世界的理性尝试。这就是为什么这部著作虽然厚重，却深深影响了文学、心理学、社会学等多个领域。",
+      "quotes": [
+        {
+          "text": "Magic and religion are merely different phases of a more or less irrational effort to bring the phenomena of nature and life under control.",
+          "context": "弗雷泽论述巫术与宗教本质的核心观点"
+        },
+        {
+          "text": "The magician assumes that one event follows another necessarily and invariably without spiritual intervention; the sorcerer imagines direct control through will.",
+          "context": "关于因果关系认知的深层分析"
+        }
+      ]
+    },
+    {
+      "title_zh": "道德经",
+      "title_en": "Tao Te Ching",
+      "author_zh": "老子",
+      "author_en": "Laozi",
+      "year": "前6-4世纪",
+      "category": "哲学/宗教",
+      "one_liner": "用81首诗歌道尽宇宙运行法则和人生智慧",
+      "deep_dive": "这可能是世界上最被误解的经典著作。人们常以为道德经是教你如何成功、如何赚钱，其实它说的恰恰相反。老子的核心想法是：宇宙有一种自然秩序，他称之为道，这种秩序无言、无为，却无所不在。最妙的是，他认为真正的智慧在于顺应这种秩序而不是对抗它。听起来玄乎吗？但仔细想想，那些最成功的企业家和运动员最后都明白了这个道理——过度用力往往反而失败，放松反而成功。道德经只有五千多字，但每个字都经得起推敲。它讨论的是如何在纷扰的世界中找到内心安宁，如何领导而不显得专制，如何生活而不被欲望淹没。翻译版本众多，因为每个人读出来都有不同的感悟。无论你是想学哲学、寻求精神指引，还是只想读点不同的东西，这本书都值得花时间。",
+      "quotes": [
+        {
+          "text": "道可道，非常道。名可名，非常名。",
+          "context": "开篇第一句，表明道的本质难以用语言准确表达"
+        },
+        {
+          "text": "为学日益，为道日损。损之又损，以至于无为。",
+          "context": "论述学习之路与修道之路的区别，强调放下的重要性"
+        },
+        {
+          "text": "知人者智，自知者明。胜人者有力，自胜者强。",
+          "context": "关于真正的力量和智慧的深刻反思"
+        }
+      ]
+    },
+    {
+      "title_zh": "艾希曼在耶路撒冷",
+      "title_en": "Eichmann in Jerusalem",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1963",
+      "category": "历史/伦理学/政治哲学",
+      "one_liner": "一个哲学家对平庸之恶的深刻探询和警告",
+      "deep_dive": "1961年，阿伦特前往耶路撒冷旁听纳粹军官艾希曼的审判。她本想看到一个面目狰狞的恶魔，结果看到的是什么呢？一个平凡得不能再平凡的行政官员，甚至有点乏味。这个发现彻底改变了她的思考方向，也引发了这部最具争议性的著作。阿伦特提出了平庸之恶这个概念——最可怕的邪恶不来自天生的坏人，而是来自那些不经思考、机械地执行命令、不愿负起道德责任的普通人。艾希曼不是什么意识形态的狂热信徒，他只是做了他的工作，执行了他的指令。问题是，这样的只是做好工作却导致了数百万人的死亡。这本书当时引起了巨大争议——很多人指责阿伦特对受害者不尊重，但她的真正目的是向我们敲警钟：在任何社会中，只要权力结构允许，像艾希曼这样的平凡之人都可能成为邪恶的执行者。这个教训在今天依然刺痛着我们。",
+      "quotes": [
+        {
+          "text": "The most troublesome people are those who think with their mouths open. The banality of evil.",
+          "context": "对艾希曼及其代表现象的核心观点"
+        },
+        {
+          "text": "Inability to think is not stupidity; it is rather the sign of a deplorable state of mind.",
+          "context": "关于不愿进行独立思考所带来的危害"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1844"
+}
