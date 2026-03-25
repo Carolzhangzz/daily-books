@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "了不起的盖茨比",
+      "title_en": "The Great Gatsby",
+      "author_zh": "菲茨杰拉德",
+      "author_en": "F. Scott Fitzgerald",
+      "year": "1925",
+      "category": "文学",
+      "one_liner": "美国梦的荒凉与执念——一个被时代遗忘的爱情悲剧",
+      "deep_dive": "这本书就像一面镜子，照出了爵士乐时代美国社会的虚伪与绝望。故事的主人公盖茨比用五年时间积累财富，只为了靠近那个已婚女子黛西，这种执念既让人心疼又有点荒唐。菲茨杰拉德笔下的Long Island不是快乐之地，那些金碧辉煌的派对背后藏着人性的空洞——每个人都在逃避真实，用物质和欲望填补内心的空虚。盖茨比的悲剧不是失去了黛西，而是他做了一个永远无法实现的梦。这本书为什么还值得读？因为它问了一个永恒的问题：我们究竟在追求什么？是爱，是梦想，还是自欺欺人？每一代人都能在这部作品里找到自己的影子，找到那种「想要重新开始」的渴望。书里那句「所以我们继续逆流而上」，至今还在击打无数读者的心。",
+      "quotes": [
+        {
+          "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+          "context": "全书最后的句子，道出了人生的宿命——无论我们多努力，都无法逃离过去的追赶"
+        },
+        {
+          "text": "The one thing that was clear to him was that he had committed himself to the following of a grail.",
+          "context": "盖茨比的人生本质——像骑士一样追求虚幻的圣杯，最终付出了生命的代价"
+        }
+      ]
+    },
+    {
+      "title_zh": "纳尼亚传奇",
+      "title_en": "The Chronicles of Narnia",
+      "author_zh": "C·S·刘易斯",
+      "author_en": "C.S. Lewis",
+      "year": "1950",
+      "category": "文学",
+      "one_liner": "魔衣柜背后的异世界冒险，关乎救赎、勇气与信仰的童话史诗",
+      "deep_dive": "打开那个老衣柜，就进入了另一个世界——这是儿童文学里最魔法的开场。刘易斯创造的纳尼亚是个完整的宇宙，有自己的历史、信仰和道德法则。四个普通的孩子在这里遭遇了善恶之战，他们不仅要对抗邪恶的白女巫，更重要的是在冒险中学会了什么是勇气、承诺和自我牺牲。亚斯兰这只狮子的出现，让故事升华成了某种宗教寓言——但你不必信仰任何宗教也能感受到其中的力量。这套书的聪慧之处在于，它既是给孩子的冒险故事（剑、魔法、龙），也是给成人的哲学思考。每本书都像在问：你会为了什么而战？你能为了他人而放弃自己吗？为什么善必然要战胜恶？在这个充满不确定性的时代，纳尼亚提供了一种可能：尽管世界很黑暗，但总有光明的势力在抵抗，而我们每个人都可以选择站在光明这一边。",
+      "quotes": [
+        {
+          "text": "It is forbidden to talk when Aslan is speaking.",
+          "context": "在纳尼亚的法则中，亚斯兰的话语代表着终极真理，需要绝对的尊重与倾听"
+        },
+        {
+          "text": "When you are scared, just remember you are braver than you believe, stronger than you seem, and smarter than you think.",
+          "context": "这句话成了无数人的精神寄托，提醒我们内在的力量往往被自己低估"
+        }
+      ]
+    },
+    {
+      "title_zh": "千高原",
+      "title_en": "A Thousand Plateaus: Capitalism and Schizophrenia",
+      "author_zh": "德勒兹 & 加塔利",
+      "author_en": "Gilles Deleuze & Félix Guattari",
+      "year": "1980",
+      "category": "哲学",
+      "one_liner": "打破树状思维的根茎哲学——一部充满躁动与革命性的理论实验",
+      "deep_dive": "这不是一本你能舒服地读完的书，它更像是一场思维的冒险。德勒兹和加塔利用「根茎」（rhizome）这个生物学概念颠覆了传统哲学的树状结构——树是有根的，有始有终，有等级的；但根茎不同，它是网状的、去中心化的、可以从任何地方开始也能在任何地方结束。听起来抽象？其实就是说，现实不是那种非此即彼的二元对立，而是无数个平台互相连接，每个点都可以成为新的生成中心。为什么这在今天很重要？因为我们生活在一个互联网的世界里，信息、思想、权力的流动早已不是树状的了。这本书在上世纪80年代就在思考这个问题。它还探讨了「里程碑」（plateau）的概念——高原不是山峰，没有最高点，但它让你看到更广阔的风景。书里那些疯狂的论述、奇怪的案例研究（从游牧民到精神分裂症）、看似混乱的结构，其实都在呈现这样一个世界观：生命本身就是多元而流动的，任何试图固定和树状化它的做法都是压制。《千高原》不是来给你答案的，它是来炸毁你的思维框架的。",
+      "quotes": [
+        {
+          "text": "A rhizome as subterranean stem is absolutely different from roots and rootlets. Bulbs and tubers are rhizomes.",
+          "context": "全书的哲学基础——根茎理论打破了思维的树状等级制，开启了多元、去中心化的思维方式"
+        },
+        {
+          "text": "Write, form a rhizome, increase your territory by deterritorialization.",
+          "context": "这是对创意工作者和思想者的召唤——不要被既有框架困住，要不断去中心化，开拓新的可能性"
+        }
+      ]
+    }
+  ]
+}
+```
