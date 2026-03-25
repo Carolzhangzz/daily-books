@@ -1,0 +1,95 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "麦田里的守望者",
+      "title_en": "The Catcher in the Rye",
+      "author_zh": "塞林格",
+      "author_en": "J.D. Salinger",
+      "year": "1951",
+      "category": "文学",
+      "one_liner": "一个被开除的少年对虚伪成人世界的指控，用独白讲述精神分裂边缘的孤独之旅",
+      "deep_dive": "你有没有想过，为什么有些书能让人反复阅读？《麦田里的守望者》就是这样的书。它讲的是霍尔顿·考尔菲尔德，一个16岁的男孩，从宾夕法尼亚州的潘西预科学校被开除后，在纽约漂泊三天的故事。听起来简单，但这本书让整代人都找到了共鸣。\n\n霍尔顿是个矛盾的人物——他讨厌虚伪，却无处不在地看到虚伪；他渴望保护天真，却逐渐意识到天真无法保护；他想做麦田里的守望者，拯救那些玩耍的孩子，让他们不会掉下悬崖，但到最后他明白了，这个梦想本身就是一种不切实际的执念。这种深刻的矛盾感，就是为什么这本书至今仍然让读者感到被理解。\n\n塞林格的笔触非常独特。霍尔顿用第一人称讲述，这不是传统的叙述——他在你耳边唠叨，用他那套特殊的俚语和重复的短句。你会发现自己也开始用他的方式说话。这种亲密感让你无法保持距离，你会被迫思考：我是不是也在某个时刻像他一样失望过？\n\n这本书真正击中的是那个点——年轻人对世界的醒悟。不是说年轻人天真，而是当你逐渐意识到大人们也不过如此时的那种失望感。你的父母可能不像你想的那样有智慧，你尊敬的人可能也有缺陷，整个社会系统可能就是由很多虚假的东西支撑起来的。这种认识来临时的那种孤独和绝望，霍尔顿讲出来了。\n\n最后，这本书之所以伟大，是因为它不给你答案。霍尔顿没有变成一个充满智慧的人，他只是在某个精神病院里给你讲述他的故事。他还是迷茫的，还是痛苦的，但至少他知道了自己为什么迷茫。而读者的我们，也在这个陪伴中，学会了接纳成长过程中的那些不完美。",
+      "quotes": [
+        {
+          "text": "All I do is play these phonies all the time. All I do.",
+          "context": "霍尔顿不断重复这一点——他对虚伪的厌恶是整本书的核心驱动力。他看不惯大人们的伪装，这成为了他精神危机的根源。"
+        },
+        {
+          "text": "The thing is, it's really hard to get excited about anything when you're here. It really is.",
+          "context": "这反映了霍尔顿的抑郁状态——一种无法对任何事物产生真正热情的心态，这对青少年读者来说是非常共鸣的。"
+        },
+        {
+          "text": "I wish there was a way to know you're in the good old days, before you've actually left them.",
+          "context": "这也许是整本书最哲学的一句话，讲的是人总要到失去才能珍惜的遗憾感。"
+        },
+        {
+          "text": "Somebody should have told me that I was going to have to leave that school.",
+          "context": "霍尔顿对变化的无奈和对逃避责任的渴望，呈现了青春期特有的矛盾心态。"
+        }
+      ]
+    },
+    {
+      "title_zh": "第六次大灭绝",
+      "title_en": "The Sixth Extinction: An Unnatural History",
+      "author_zh": "伊丽莎白·科尔伯特",
+      "author_en": "Elizabeth Kolbert",
+      "year": "2014",
+      "category": "科学与认知",
+      "one_liner": "人类正在制造地球历史上第六次物种大灭绝，而这一次，造成者是我们",
+      "deep_dive": "想象一下，恐龙消失是因为陨石撞击，这是天灾。但现在，数以百万计的物种正在消失，而罪魁祸首就是我们这一代人。这听起来像科幻小说，但《第六次大灭绝》就是这样一部关于现实的书。\n\n科尔伯特的这本书让人不安的地方在于，它不是在危言耸听。她用大量的科学事实和田野调查，讲述了我们这个时代正在发生什么。地球历史上曾经发生过五次大规模物种灭绝事件——最著名的是恐龙灭绝的那一次，但还有其他四次。现在，科学家认为我们正在经历第六次，而这一次的速度比以往任何一次都快。\n\n最可怕的是，这次灭绝不是自然灾害引起的。它是由人类活动造成的——气候变化、栖息地破坏、污染、过度捕捞、物种入侵等等。科尔伯特走访了世界各地，见证了黄石公园的两栖动物消失、亚马逊雨林的砍伐、珊瑚礁的白化，每一个故事都是一个物种在我们眼前灭绝的证据。\n\n这本书不是简单的灾难叙述。科尔伯特的笔法很有趣，她在讲述科学的同时，也在思考人类的傲慢。我们改造环境、驯化物种、进行工业生产，所有这一切都基于一个假设：我们是聪明的，我们知道自己在做什么。但实际上，我们可能一直在制造我们完全无法预测的后果。\n\n最让人深思的是，这本书完成于2014年，而在那之后的十多年里，情况只是变得更糟。气候变暖加剧，生物多样性下降得更快。读这本书就像是在翻看一份警告信——它已经被证实了，现在的问题是，我们会听取这些警告吗？这本书的力量在于，它让你无法再装作无知。",
+      "quotes": [
+        {
+          "text": "The Anthropocene, in other words, is not an interval of time marked off by a change in the Earth's geology or astronomy. Rather, it is defined by one species—ours—and what it has done.",
+          "context": "这个观点重新定义了地质年代——不再是由物理现象，而是由人类行为来标记。这说明人类影响已经深刻改变了整个地球系统。"
+        },
+        {
+          "text": "It is, I think, the great tragedy of our moment, that we can speak of the natural world only in the elegiac tense.",
+          "context": "用过去式谈论自然世界，因为很多生态系统已经消失或正在消失。这句话捕捉了一种无奈和遗憾的感觉。"
+        },
+        {
+          "text": "We are deciding, without really making a decision, which species will live and which will die.",
+          "context": "这点出了人类面临的道德困境——我们的日常行为产生的累积效果正在改变生物圈，但大多数人甚至没有意识到。"
+        },
+        {
+          "text": "In the words of one researcher, frogs have been around for 265 million years. They survived the meteor that got the dinosaurs. Now they're going extinct because of us.",
+          "context": "这个例子简洁有力地说明了问题的严重性——抗过陨石撞击的物种，却敌不过人类活动。"
+        }
+      ]
+    },
+    {
+      "title_zh": "选择的悖论",
+      "title_en": "The Paradox of Choice: Why More Is Less",
+      "author_zh": "巴里·施瓦茨",
+      "author_en": "Barry Schwartz",
+      "year": "2004",
+      "category": "心理学",
+      "one_liner": "在选择自由的时代，选项越多我们反而越不幸福，甚至陷入决策瘫痪",
+      "deep_dive": "你有没有在购物网站上花费半小时去选择一件衣服？或者在餐厅菜单前不知所措？这不是你的问题，这是我们时代的问题。《选择的悖论》就是在解释为什么选择自由反而让我们感到束缚。\n\n施瓦茨的中心论点很简单但深刻：我们生活在一个前所未有的充裕时代。曾经，一个人的人生道路大多是被社会阶层、地点和时代决定的。但现在，我们拥有无限的选择——职业、伴侣、生活方式、甚至身份认同都可以选择。听起来太棒了，对吧？但问题是，选择越多，我们越容易陷入一种特殊的心理状态。\n\n首先是\"最大化\"的诅咒。有些人天生想要最好的。他们不满足于\"足够好\"，他们要找到绝对最优的选择。这意味着他们需要评估每一个选项，比较所有的优劣。结果是什么？他们花费大量时间在决策过程中，最后即使做出了选择，他们也总是在想，会不会有更好的选项被我错过了？\n\n其次是\"满足者\"虽然不那么极端，但他们面临的问题不同。他们一旦找到足够好的选项，就会停止寻找。但在一个有无限选项的世界里，\"足够好\"变成了一个模糊的标准。你永远不知道自己是否真的找到了足够好的，还是只是放弃了寻找。\n\n书中还讨论了期望设定的陷阱。选择越多，期望值越高。当你有十种咖啡可选而不是一种时，你对咖啡的期望会上升。结果是，即使实际的咖啡质量提高了，你的满意度反而可能下降，因为现实与期望的差距变大了。这就是为什么很多人会说，\"曾经的生活虽然选择少，但反而更满足\"。\n\n最有趣的部分是，施瓦茨指出这种现象导致了当代社会的两个悖论：首先，我们获得了前所未有的自由，但这种自由反而让我们感到更加沮丧。其次，当我们做出选择并失望时，我们往往会责怪自己而不是环境。选择自由被转化成了自我责备，这对心理健康是有害的。\n\n这本书的价值不仅在于诊断问题，还在于提供了一些实用的建议。它教你如何在选择中获得满足感——比如设定适当的期望、了解自己的偏好风格、有时候限制自己的选择。它让你明白，有时候放弃选择的自由反而能带来幸福。",
+      "quotes": [
+        {
+          "text": "The fact that some choice is good doesn't mean that more choice is better.",
+          "context": "这是整本书的核心论点——一种理性却容易被忽视的观察。在消费文化中，我们总被教导更多选择=更多自由=更多幸福，但心理学研究一次次推翻这个假设。"
+        },
+        {
+          "text": "As the number of options increases, the likelihood that people will experience regret or dissatisfaction increases.",
+          "context": "选择悖论的直接后果——更多选项不仅没有增加满意度，反而增加了遗憾感。因为放弃的东西变多了，人们总在想失去了什么。"
+        },
+        {
+          "text": "If I were to rank the most significant changes in our lives over the past 50 years, I would put the increase in choices at or very near the top.",
+          "context": "施瓦茨认为选择的增加是现代生活最深刻的变化之一，甚至可能比技术进步本身更重要。"
+        },
+        {
+          "text": "The more you choose, the more you regret.",
+          "context": "一个简明的总结性观察——选择的数量与遗憾的强度成正相关。每一个做出的选择都意味着许多其他可能性被放弃了。"
+        },
+        {
+          "text": "We would be better off if we embraced our limitations and stopped trying to maximize our outcomes.",
+          "context": "施瓦茨最后的建议——承认人类的有限性，停止无限追求最优，反而能获得更多的幸福和满足。"
+        }
+      ]
+    }
+  ]
+}
+```
