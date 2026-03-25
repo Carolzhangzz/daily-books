@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "精益创业",
+      "title_en": "The Lean Startup",
+      "author_zh": "埃里克·莱斯",
+      "author_en": "Eric Ries",
+      "year": "2011",
+      "category": "商业与技术",
+      "one_liner": "用最小化产品和快速迭代的方式，把创业变成一场可管理、可测量的学习实验",
+      "deep_dive": "这本书改变了我对创业的看法。你知道吗，很多创业公司失败不是因为点子不好，而是团队花了几年时间打造一个没人要的产品。莱斯在书里讲述的精益方法其实很简单——别一开始就想着完美，先做出最小化可行产品(MVP)扔到市场上，看用户怎么反应。然后根据真实数据快速调整方向，这叫\"转向\"(pivot)。\n\n我印象最深的是他讲的一个案例：他的创业公司在某个功能上花了一个月开发，结果用户几乎不用。如果早点发布，早点听到反馈，就能省掉这个月的时间。这简直是给所有完美主义创业者的当头一棒。\n\n更深层的理念是，创业本质是在不确定性中学习。你不是在执行一个既定计划，而是在进行科学实验——提出假设，测试，学习，改进。只要你能快速失败、快速学习，你离成功就近了。这套方法现在已经被全球创业公司和大企业的创新部门广泛采用。读完这本书，你会开始用\"什么是我们能今天测试的最小假设\"这样的问题来思考问题，而不是\"怎样才能做到完美\"。",
+      "quotes": [
+        {
+          "text": "The only way to win is to learn faster than anyone else.",
+          "context": "莱斯强调在快速变化的市场中，学习速度就是竞争力。越快从失败中学习，越快发现用户真正想要什么，就越有可能赢。"
+        },
+        {
+          "text": "An MVP is that version of a new product which allows a team to collect the maximum amount of validated learning with the least effort.",
+          "context": "最小化可行产品的定义——不是做最少的工作，而是以最高效的方式学习用户真正的需求。"
+        },
+        {
+          "text": "The fundamental activity of a startup is to turn ideas into products, measure how customers actually respond, and then learn whether to pivot or persevere.",
+          "context": "创业的核心循环：想法→产品→测试→学习。这个循环能重复得越快，公司存活的可能性就越大。"
+        }
+      ]
+    },
+    {
+      "title_zh": "项塔兰",
+      "title_en": "Shantaram",
+      "author_zh": "格雷戈里·大卫·罗伯茨",
+      "author_en": "Gregory David Roberts",
+      "year": "2003",
+      "category": "文学",
+      "one_liner": "一个逃犯的灵魂救赎之旅，在孟买的贫民窟里寻找自我、救赎与爱",
+      "deep_dive": "这本书厚到可以垫桌子腿，但我告诉你，看完会欲罢不能。《项塔兰》不是虚构小说，而是作者格雷戈里的真实经历。他从澳大利亚监狱逃脱，化名\"林\"来到孟买，在这座城市的贫民窟里开始了一个全新的生命。\n\n书里最吸引人的不是冒险情节，而是人物的复杂性和精神探索。林认识了各式各样的人——黑帮老大阿巴，风俗女子普莉亚，以及那些在孟买底层为生存而挣扎的人。通过这些关系，林慢慢认识到自己并不是无可救药的坏人，反而在帮助他人、给予爱的过程中找到了救赎。\n\n孟买在这部书里简直像个角色本身——混乱、暴力、美丽、悲伤，同时充满温度和希望。作者对孟买街道、语言、文化的细致描写让你能嗅到这座城市的气息。更重要的是，这本书提出了一个深刻的问题：一个人能改变吗？是什么让我们成为现在的样子？爱能救赎一个人吗？\n\n有人说这是现代流浪汉的史诗，我觉得更准确的说法是——这是一部关于人类精神复原力的颂歌。林经历了监狱、逃亡、贫穷、黑帮，但最终他的灵魂没有被摧毁，反而变得更柔软、更善良。这种坚持很打动人。",
+      "quotes": [
+        {
+          "text": "It took me a long time and most of the world to learn what I know about love and fate and the choices we make, but the heart of it all is simple: All you need is love.",
+          "context": "虽然这句看起来像老生常谈，但在林经历了生死、欺骗、暴力之后说出来，就获得了沉甸甸的力量。爱，是他在底层生活中唯一的坚持。"
+        },
+        {
+          "text": "The future is always a mystery, but I believe that we can influence it more than we know.",
+          "context": "林从最初的绝望囚徒变成了有责任感的人，这句话反映了他对人生选择权的重新认识——我们并非完全的受害者。"
+        },
+        {
+          "text": "We are all bound together, in ways we don't fully understand, and the bonds that connect us should be treasured, nurtured and guarded.",
+          "context": "贯穿全书的主题——人与人之间的联系如何给我们意义和救赎。每一段关系都改变了林的人生轨迹。"
+        }
+      ]
+    },
+    {
+      "title_zh": "雪崩",
+      "title_en": "Snow Crash",
+      "author_zh": "尼尔·斯蒂芬森",
+      "author_en": "Neal Stephenson",
+      "year": "1992",
+      "category": "科幻文学",
+      "one_liner": "在虚拟现实的元宇宙中，一个披萨外卖员黑客卷入了真实与虚拟世界的致命冒险",
+      "deep_dive": "1992年出版的《雪崩》现在读起来就像是预言一样疯狂。那时候没有互联网、没有VR头盔、没有元宇宙这个词，但斯蒂芬森已经在描绘一个完整的虚拟现实世界——他叫它\"元宇宙\"(Metaverse)，这个词后来被扎克伯格当成了Facebook的新愿景。\n\n主人公叫赫罗，白天在pizza店做送外卖的工作赚点小钱，晚上就潜入一个叫\"雪崩\"的虚拟世界里当黑客。在虚拟世界里，他是个厉害的剑客和街头英雄。故事开始时，一个神秘的计算机病毒出现了，这个病毒不仅能在虚拟世界里摧毁人的化身，还能在现实中把人的大脑弄成植物人。赫罗必须同时在两个世界里对抗这个威胁。\n\n这部书有意思的地方在于，斯蒂芬森不仅讲了个爽快的冒险故事，还融入了深厚的文化、语言学和神话学知识。病毒的名字\"雪崩\"来自一个古老的苏美尔神话，主人公需要理解古代宗教符号才能拯救世界。这种混搭——高科技加古代智慧——成了这部书的独特魅力。\n\n最重要的是，这本书对互联网社会的预测惊人准确。虚拟身份、数字经济、在线社交空间、信息战争——这些在90年代还是科幻概念，现在都成了日常现实。读这本书就像在看一个天才在30多年前写的关于我们今天生活的说明书。虽然有些技术细节过时了，但核心的想法和警告依然锐利。",
+      "quotes": [
+        {
+          "text": "In the beginning... there was the Word.",
+          "context": "书的开场呼应《圣经》开篇，暗示语言和符号的力量能塑造现实——这是整部书的哲学基础，也是病毒传播的机制。"
+        },
+        {
+          "text": "The Metaverse is not a product, it is a culture.",
+          "context": "斯蒂芬森在描述虚拟世界时的洞见——它不仅仅是技术，更是一个生活方式和社会结构。这个观点到今天仍然很有预见性。"
+        },
+        {
+          "text": "He could not get into any Metaverse business without dealing with the Raft, and he could not get away from the Raft without joining the Raft.",
+          "context": "讽刺现实和虚拟世界之间的循环困境，反映了人在信息社会中难以逃脱的系统约束。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1151"
+}
