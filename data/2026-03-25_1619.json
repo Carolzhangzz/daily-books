@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "米德尔马契",
+      "title_en": "Middlemarch",
+      "author_zh": "乔治·艾略特",
+      "author_en": "George Eliot",
+      "year": "1871",
+      "category": "文学小说",
+      "one_liner": "英国中部小镇的人物群像史诗，在平凡的生活中揭示生命的深刻意义",
+      "deep_dive": "这部小说常被誉为英文文学史上最伟大的作品之一，但它的伟大不在于情节的戏剧性，而在于对人性的透彻洞察。艾略特通过一个英国中部小镇——米德尔马契，编织了数条交织的人生线索。医学志向者、政治理想家、牧师、知识分子、家庭主妇……每个人都在追求自己的梦想，却在现实的无情磨砺中不断妥协。你读的不是传奇故事，而是真实生活。最让人感动的是，艾略特笔下的角色都不完美——他们有虚荣、有软弱、有自欺欺人，就像你我身边的每一个人。这正是小说的魔力：它让你在多妮亚的理想中看到自己的执着，在卡苏邦的执念中看到自己的固执，在露莎的善良中看到自己的脆弱。每次重读，你都会在不同的人物身上产生共鸣，因为你每一个人生阶段都在变化。",
+      "quotes": [
+        {
+          "text": "If we had a keen vision of all that is ordinary in human life, it would be like hearing the grass grow and we should die of that roar which is the other side of silence.",
+          "context": "开篇之语，艾略特论及普通人生活蕴藏的无限深度"
+        },
+        {
+          "text": "We are all of us born in moral stupidity, and can but emerge from that condition by slow degrees.",
+          "context": "关于人性成长与自我认识的深刻洞察"
+        }
+      ]
+    },
+    {
+      "title_zh": "追风筝的人",
+      "title_en": "The Kite Runner",
+      "author_zh": "卡勒德·胡塞尼",
+      "author_en": "Khaled Hosseini",
+      "year": "2003",
+      "category": "文学小说",
+      "one_liner": "一个关于背叛、救赎与友谊的故事，在战争中寻找失去的人性",
+      "deep_dive": "这部小说出版至今，依然是全球阅读量最大的当代文学作品之一。为什么这么多人为之动容？因为它碰触了人心最脆弱的地方——背叛。阿米尔和哈桑的友谊因为一个关键时刻的沉默而决裂，那个沉默承载的不仅是两个男孩的遗憾，更映照了整个阿富汗社会的阶级分化。胡塞尼用诗一般的笔触描绘了喀布尔的风景和人文，也通过人物的命运反映了战争如何摧毁了一个国家和数代人。但这不是一部悲观的书。它的核心是救赎——成年后的阿米尔终于有机会为过去的背叛做些什么，而这个救赎过程充满了危险、羞愧与最终的和解。读完这部书，你会重新审视'朋友'这个词的含义，也会思考，我们在人生中是否也有那样的背叛，那样的救赎机会。",
+      "quotes": [
+        {
+          "text": "There is a way to be good again, Rahim Khan had said on the phone just before hanging up. A way to end the winter.",
+          "context": "故事的转折点，暗示主角的救赎之路正式开启"
+        },
+        {
+          "text": "For you, a thousand times over.",
+          "context": "哈桑对阿米尔的忠诚誓言，承载了友谊的最深诺言"
+        }
+      ]
+    },
+    {
+      "title_zh": "悲剧的诞生",
+      "title_en": "The Birth of Tragedy",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1872",
+      "category": "哲学",
+      "one_liner": "从古希腊戏剧出发，重新诠释艺术、权力与生命的终极意义",
+      "deep_dive": "这是尼采的处女作，也是在哲学界引起剧烈震荡的著作。他颠覆了几个世纪以来对古希腊的理解。我们通常认为希腊文明代表理性与秩序的巅峰，但尼采说，古希腊的真正伟大来自于两种相反力量的完美结合：阿波罗精神（代表光、秩序、理性、个体化）和狄俄尼索斯精神（代表陶醉、混沌、集体性、音乐）。古代的伟大悲剧正是这两种精神的融合，而索福克勒斯之后，苏格拉底的理性主义入侵摧毁了这种平衡，导致了悲剧的衰亡。这不仅是对古代文化的分析，更是对现代生活的追问：当理性压倒了激情，当秩序摧毁了狂欢，我们失去了什么？尼采认为我们需要重新唤醒狄俄尼索斯精神，找回生命的激情与艺术性。读这部书，你会开始思考音乐、戏剧、甚至你的生活本身的更深层意义。",
+      "quotes": [
+        {
+          "text": "It is only as an aesthetic phenomenon that existence and the world are eternally justified.",
+          "context": "尼采的核心论断，认为艺术是存在的最终正当化"
+        },
+        {
+          "text": "Without music, life would be a mistake.",
+          "context": "对艺术与狄俄尼索斯精神重要性最著名的表述"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1619"
+}
