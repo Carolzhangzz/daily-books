@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "使女的故事",
+      "title_en": "The Handmaid's Tale",
+      "author_zh": "玛格丽特·阿特伍德",
+      "author_en": "Margaret Atwood",
+      "year": "1985",
+      "category": "文学/反乌托邦小说",
+      "one_liner": "极权统治下女性的沉默反抗与灵魂救赎",
+      "deep_dive": "读这本书真的会被震撼，不是因为故事有多离奇，而是它有种寒意的真实感。阿特伍德笔下的吉列德共和国看起来离我们很远，但她其实在警告我们，极权主义的根源就藏在看似合理的理由里——为了稳定，为了安全，为了生育率。故事通过使女的眼睛讲述，她们被剥夺身份、自由和尊严，沦为国家的生殖工具。但这本书最深刻的地方，不在于绝望有多黑暗，而在于人性中那种不可摧毁的东西。无论环境多么压抑，每个人都在用微小的方式反抗——一个眼神，一句谎言，一个秘密。这是一部关于权力、性别、自由和人的尊严的杰作，读完它你会重新思考什么叫做'正常'。",
+      "quotes": [
+        {
+          "text": "Nolite te bastardes carborundorum",
+          "context": "这句拉丁文（不要让杂碎们压倒你）是整部小说的精神内核，代表着在绝望中坚持反抗的力量"
+        },
+        {
+          "text": "We were the people who were not in the papers. We lived in the blank white spaces at the edges of print.",
+          "context": "讲述被历史遗忘的女性的命运，以及那些被体制忽视的生命"
+        }
+      ]
+    },
+    {
+      "title_zh": "穷查理宝典",
+      "title_en": "Poor Charlie's Almanack",
+      "author_zh": "查理·芒格",
+      "author_en": "Charlie Munger",
+      "year": "2005",
+      "category": "投资/人生智慧",
+      "one_liner": "从芒格的智慧里看清人生和投资的本质",
+      "deep_dive": "如果你觉得投资书都是教你怎么选股票，那就该看这本书。穷查理宝典其实是一部人生哲学著作，它用投资大师查理·芒格的言论和思想贯穿始终，但核心讲的是清晰思考和决策智慧。芒格强调的'多元思维模型'，就是说你得懂心理学、经济学、历史、哲学各种知识，才能做出好的判断。书里充满了他对人性弱点的洞察——我们多容易自欺欺人，多容易陷入群体思维。最有意思的是，芒格不是给你什么速成秘诀，反而是在说什么是他不做的，什么思维方式他避免。这种消极的教导法其实更有力，因为它让你明白，避免傻事往往比聪明事更重要。无论你是投资者还是普通人，这本书都能帮你建立一套靠谱的思维框架。",
+      "quotes": [
+        {
+          "text": "The best thing a human being can do is to help another human being know more.",
+          "context": "强调学习与传递知识的价值，这是芒格认为最有意义的人生追求"
+        },
+        {
+          "text": "Invert, always invert. Turn the problem upside down.",
+          "context": "芒格最著名的思维方法，通过反向思维来发现问题的本质"
+        }
+      ]
+    },
+    {
+      "title_zh": "美国大城市的死与生",
+      "title_en": "The Death and Life of Great American Cities",
+      "author_zh": "简·雅各布斯",
+      "author_en": "Jane Jacobs",
+      "year": "1961",
+      "category": "城市规划/社会学",
+      "one_liner": "推翻现代城市规划迷思，重新定义什么是活力的城市",
+      "deep_dive": "这本书出版于1961年，但读起来依然超前到惊人。简·雅各布斯是非专业的规划评论者，但她用记者的眼睛和普通人的感受，对当时主流的现代主义规划理论展开了猛烈批评。她看到的是，那些宏大的规划——宽阔的街道、统一的功能分区、摧毁社区建造新城——实际上摧毁了城市的生命力。真正生机勃勃的城市，反而有着多元混杂的用途，密集的人口，短的街区长度，还有新旧建筑的混合。听起来很简单，但这改变了整个城市规划的方向。雅各布斯强调社区、邻里关系、街道文化的重要性，这在冷冰冰的宏大规划时代是个革命性的声音。今天看我们的很多城市问题，其实都能在这本书里找到根源。它让你明白，城市不是工程问题，而是人的问题。",
+      "quotes": [
+        {
+          "text": "Cities have the capability that suburbs and shopping centers do not have: they provide what amounts to casual public sidewalk life.",
+          "context": "强调城市独特的社交功能和街道文化，这是城市真正的灵魂所在"
+        },
+        {
+          "text": "The kind of plain, ordinary, low-income housing, the cheap rents, attract not only people who are poor, but also people who are at a crucial point in their lives.",
+          "context": "指出城市多样性对不同人群的重要意义，尤其是为创业者和年轻人提供机会"
+        }
+      ]
+    }
+  ]
+}
+```
