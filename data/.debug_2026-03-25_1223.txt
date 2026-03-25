@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "超越自由与尊严",
+      "title_en": "Beyond Freedom and Dignity",
+      "author_zh": "伯尔赫斯·弗雷德里克·斯金纳",
+      "author_en": "Burrhus Frederic Skinner",
+      "year": "1971",
+      "category": "哲学",
+      "one_liner": "用行为主义心理学挑战西方文明最核心的信念——自由意志和尊严",
+      "deep_dive": "这本书一出版就引起巨大争议，因为斯金纳做了一件大不敬的事：他说人类其实没有自由意志。这听起来很刺耳，对吧？但他的论点其实很有意思。斯金纳认为，我们所有的行为，包括看似自主的决定，其实都是被环境中的强化和惩罚塑造的。你选择做一件事，不是因为你有某种神圣的自由意志，而是因为过去的经历让你这样做。这个观点彻底推翻了启蒙运动以来对人类的理解。那为什么这本书还值得读呢？因为斯金纳接下来提出的解决方案其实很乐观——如果人的行为可以被塑造，那我们就可以设计一个更好的社会。他提出了一个经典概念叫\"行为工程\"，通过改变环境和激励机制来创造更理性、更幸福的文明。现在回头看，他在1971年想象的那些想法——用系统的设计来改变人类行为——已经成为现代社会的现实。从教育系统到工作激励，从App成瘾机制到社交媒体算法，都是在实践斯金纳的理论。这本书的价值就在于，它强迫你重新思考自由、尊严、道德的真正含义。你真的有自由吗？还是你只是在接受更隐蔽的控制？",
+      "quotes": [
+        {
+          "text": "We are not to blame for our past behavior, but we are responsible for our future behavior.",
+          "context": "斯金纳认为，既然我们的过去决定了现在，那么我们能做的就是改变环境来塑造更好的未来——这是一个充满希望但又令人不安的观点。"
+        },
+        {
+          "text": "Freedom and dignity are myths that prevent us from using science to improve the human condition.",
+          "context": "这是全书最具冲击力的命题。斯金纳认为，对自由和尊严的执着信念反而阻碍了我们用理性方法来建设更好的社会。"
+        },
+        {
+          "text": "A person is not an originating agent; he is a locus, a point at which many genetic and environmental conditions come together in a joint effect.",
+          "context": "这句话概括了斯金纳的核心哲学：人不是独立的创造者，而是基因和环境共同作用的交汇点。"
+        }
+      ]
+    },
+    {
+      "title_zh": "鼠疫",
+      "title_en": "The Plague",
+      "author_zh": "阿尔贝·加缪",
+      "author_en": "Albert Camus",
+      "year": "1947",
+      "category": "文学",
+      "one_liner": "当瘟疫突然降临，城市被隔离，人们如何在绝望和荒诞中寻找生命的意义",
+      "deep_dive": "想象一个看似普通的北非城市奥兰，突然爆发了一种致命的瘟疫。人们最初不愿相信，然后恐惧，最后陷入某种诡异的常态。这就是加缪在1947年写下的《鼠疫》的开场——但它远不止是一个关于疾病的故事，实际上这是整个人类困境的隐喻。加缪通过几个不同的人物，让我们看到在面对不可抗拒的灾难时，人们的各种反应。有医生鲁克斯，他坚持治疗患者，尽管他知道可能无法获胜。有记者兰贝尔，在隔离中感受到与外界的分离。还有神父潘内鲁，他的信仰在瘟疫面前开始动摇。整个故事的关键不在于瘟疫何时结束——虽然它最终确实结束了——而在于人在完全无法控制的局面中如何保持尊严和目的。加缪想告诉我们的是：生活本身就是荒诞的，就像一场永无休止的瘟疫。但正是在这种荒诞中，我们对抗它、帮助他人的选择才显得有意义。这本书写于二战刚结束，暗喻了人类在纳粹统治下的经历，但它的力量远超越了那个时代。现在读它，你会发现它在谈论任何使我们感到无力的事——一场真正的大流行，社会的崩坏，个人的孤立。",
+      "quotes": [
+        {
+          "text": "If it is a fact that men are always capable of dying for an idea, they are not always capable of living for one.",
+          "context": "加缪通过鲁克斯医生之口说出了人生的困难真相：为理想而死很容易，但为理想而活，日复一日地坚持，才是真正的考验。"
+        },
+        {
+          "text": "The only way to deal with an unfree world is to become so absolutely free that very existence of that world is an affront.",
+          "context": "这句话触及了存在主义的核心——在一个由不可控制的力量主宰的世界里，自由不是外在的条件，而是内在的选择。"
+        },
+        {
+          "text": "There may be more things to admire in men than to despise.",
+          "context": "在瘟疫带来的绝望中，加缪看到了人类互相帮助、坚持抵抗的品质。这是整部作品的精神内核。"
+        }
+      ]
+    },
+    {
+      "title_zh": "纳尼亚传奇",
+      "title_en": "The Chronicles of Narnia",
+      "author_zh": "克莱夫·斯图尔特·刘易斯",
+      "author_en": "Clive Staples Lewis",
+      "year": "1950-1956",
+      "category": "文学",
+      "one_liner": "几个普通的孩子意外进入一个充满魔法、奇兽和灵魂救赎的平行世界",
+      "deep_dive": "刘易斯为我们打开了一扇衣橱的门。推开它，你会发现一个名叫纳尼亚的世界。这不是现代意义上的科幻小说传送门，而是一场真正的冒险——充满了谈话的动物、强大的魔法、古老的诅咒和善恶的绝对对抗。最著名的是《狮子、巫女和魔衣橱》，四个被疏散到乡下的伦敦孩子无意中发现了这个世界。在那里，他们遇到了阿斯兰，一只伟大的狮子，他代表了终极的善良和救赎。但纳尼亚被白女巫的永冬诅咒所笼罩。这个设定听起来很童话，但刘易斯的天才在于，他把深刻的基督教思想嵌入了这个故事——牺牲、救赎、信仰在黑暗中的力量。如果你只把它当儿童文学读，你会得到一个精彩的冒险。但如果你深入，你会发现刘易斯在讨论关于人性、勇气、背叛和原罪的永恒问题。纳尼亚的其他故事进一步扩展了这个世界——从《卡斯宾王子》的政治阴谋，到《航海者黎晨》的灵性寻求，再到《最后的战役》的末日启示。这个系列的天才在于，它对儿童和成人有完全不同的吸引力。孩子们享受魔法和冒险，成人则在思考信念、牺牲和救赎的更深层意义。",
+      "quotes": [
+        {
+          "text": "You can never go back to Narnia the same way twice. Once you've left, you can't return in the same way.",
+          "context": "这不仅是关于魔法的规则，更是关于成长的真理。我们无法回到童年，我们的每一次回归都是一次新的旅程。"
+        },
+        {
+          "text": "Further up and further in!",
+          "context": "这是纳尼亚探险者的永恒口号，代表了对知识、美好和终极真理的无尽追求。它激励着一代又一代的读者保持好奇和勇气。"
+        },
+        {
+          "text": "But a very few are brought back to Narnia and none of them, it is said, ever come back again.",
+          "context": "刘易斯提醒我们，纳尼亚的故事不是循环的，而是线性的、永恒的。每一个时刻都不会重复，我们必须珍惜它。"
+        }
+      ]
+    }
+  ]
+}
+```
