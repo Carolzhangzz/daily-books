@@ -1,1 +1,66 @@
-等待批准，将为这三本书生成JSON文件并推送到GitHub。
+我需要澄清一下第三本书。"印象派的敌人"这个书名我不能完全确定——可能是：
+
+1. 某本关于**印象派艺术史或批评**的学术著作（标题需要确认）
+2. 某位艺术家或批评家**反对印象派**的论著
+
+能否告诉我这本书的完整信息（作者、英文标题或出版年份）？这样我可以为你生成准确的推荐。
+
+同时，我先为前两本书生成推荐：
+
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "简爱",
+      "title_en": "Jane Eyre",
+      "author_zh": "夏洛蒂·勃朗特",
+      "author_en": "Charlotte Brontë",
+      "year": "1847",
+      "category": "文学",
+      "one_liner": "一个孤女通过坚持自我和追求平等爱情，最终获得尊严和幸福的经典传奇。",
+      "deep_dive": "《简爱》讲的是一个从小被虐待的孤女的逆袭故事，但它远不止于此。简爱经历了苦难的童年、严苛的学校生活，却始终保持着对自由和尊严的渴望。当她成为罗切斯特先生的家庭教师时，一段炽热而复杂的爱情开始了。最吸引人的地方在于，这不是一个女性被男性拯救的故事——相反，简爱在发现罗切斯特隐瞒真相后，毅然离开，坚守自己的原则。她的那句"我不是一件没有感情的机器"直击人心。这部小说打破了维多利亚时代对女性的刻板期待，主人公不是温顺的，而是有血有肉、有思想、有反抗精神的独立个体。它告诉我们，真正的爱情应该建立在平等和相互尊重的基础上，而不是依附和妥协。这就是为什么170多年后，人们仍在读这本书——因为简爱的精神永远不会过时。",
+      "quotes": [
+        {
+          "text": "I am no bird; and no net ensnares me; I am a free human being with an independent will.",
+          "context": "简爱拒绝被当作物品或附属品对待，这句话道出了她对自由和尊严的根本追求，也是整部作品的灵魂。"
+        },
+        {
+          "text": "I would always rather be happy than dignified.",
+          "context": "虽然简爱坚持原则，但这句话显示她最终选择了真实的幸福，而不是虚伪的高尚，体现了人物的真诚和成长。"
+        },
+        {
+          "text": "If all the world hated you and believed you wicked, while your own conscience approved you and absolved you from guilt, you would not be without friends.",
+          "context": "这是关于自我认知和内心坚守的深刻思考，强调了独立判断和自我肯定的重要性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "空间诗学",
+      "title_en": "The Poetics of Space",
+      "author_zh": "加斯东·巴什拉",
+      "author_en": "Gaston Bachelard",
+      "year": "1958",
+      "category": "哲学",
+      "one_liner": "通过诗意的想象力，探讨日常建筑空间如何唤起人类深层的情感和记忆。",
+      "deep_dive": "这是一本看似文学，实则哲学的奇妙著作。巴什拉没有用冰冷的学术语言讨论空间，而是邀请你跟随他进入一个个充满诗意的空间：房子的地下室、阁楼、壁橱、房间……每一个空间都在诉说着关于人性、梦想和记忆的故事。比如，为什么一个简陋的房间能让我们感到温暖和安全？为什么童年的老房子会在多年后闪现在梦里？巴什拉告诉我们，建筑空间不是中立的几何形状，而是与我们的无意识、情感和生活史深深交织的存在。他认为房子是我们的第一个宇宙，是保护、梦想和自我的容器。这本书特别有意思的地方在于，它打破了建筑理论的刻板印象，让我们用新的眼光看待生活的环境。读完后，你会发现自己开始关注起之前忽略的细节——一扇窗户、一道光线、一个角落——它们都在悄悄述说着空间与灵魂的秘密对话。",
+      "quotes": [
+        {
+          "text": "If I were asked to name the chief benefit of the house, I should say: the house shelters daydreaming, the house protects the dreamer, the house allows one to dream in peace.",
+          "context": "这是全书的精髓，揭示了空间对人的心灵的保护和滋养作用，解释了为什么我们的房子对我们意义重大。"
+        },
+        {
+          "text": "The house is one of the greatest powers of integration for the thoughts, memories and dreams of mankind.",
+          "context": "强调了日常空间在整合人类经验中的核心作用，说明建筑空间远超物理功能，是精神和记忆的载体。"
+        },
+        {
+          "text": "For in the life of a man, the house thrusts aside contingencies, its councils of continuity are unceasing.",
+          "context": "暗示房子在生命中提供的不只是物理庇护，更是对连续性、稳定性和生命意义的哲学承诺。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+请告诉我第三本书的详细信息，我就能为你补齐完整的推荐。
