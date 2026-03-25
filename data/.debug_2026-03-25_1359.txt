@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "双城记",
+      "title_en": "A Tale of Two Cities",
+      "author_zh": "查尔斯·狄更斯",
+      "author_en": "Charles Dickens",
+      "year": "1859",
+      "category": "历史小说",
+      "one_liner": "伦敦和巴黎两座城市的故事，在法国大革命的滚滚洪流中展现爱、牺牲与救赎的人性光辉。",
+      "deep_dive": "《双城记》是狄更斯最伟大的作品之一，也是很多人接触19世纪英国文学的入口。故事设定在法国大革命时期，在伦敦和巴黎两座城市之间切换。它讲述了几个普通人物在那个波澜壮阔的历史时代中的命运交织——有复仇、有背叛、有意外的邂逅，还有最后关头的自我牺牲。你会看到一个有点窝囊的律师父亲、一个坚定有主见的女性、一个浪荡子变成英雄……这些人物在革命的大浪淘沙中，用自己的方式诠释什么是爱和救赎。狄更斯最厉害的地方在于，他不仅展现了宏大的历史背景，还深入挖掘了每个人物的内心世界。读完它你会发现，无论时代多么黑暗，人性中仍然闪烁着温暖。这部小说已经被翻拍成无数电影和舞台剧，但原著的魅力是无法替代的。",
+      "quotes": [
+        {
+          "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+          "context": "小说开篇的著名句子，完美概括了法国大革命时代的矛盾和混乱"
+        },
+        {
+          "text": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+          "context": "主人公卡尔顿最后时刻的独白，诠释了终极的自我牺牲和救赎"
+        }
+      ]
+    },
+    {
+      "title_zh": "定位",
+      "title_en": "Positioning: The Battle for Your Mind",
+      "author_zh": "艾尔·里斯、杰克·特劳特",
+      "author_en": "Al Ries, Jack Trout",
+      "year": "1981",
+      "category": "营销/商业",
+      "one_liner": "揭示现代营销的核心秘密：不是改变消费者的想法，而是在消费者心智中占据独特位置。",
+      "deep_dive": "这本书完全改变了现代营销的玩法。里斯和特劳特提出了一个简单但深刻的观点：消费者的心智是一个拥挤的超市，每个品牌都在争夺一个位置。你不能靠更好的产品、更便宜的价格或更多的广告就赢——你需要在消费者的心智中创造一个独特的位置。比如提到可乐想起可口可乐，想到快递想起顺丰，这就是定位成功。书中用了大量真实案例来说明什么是好定位、什么是坏定位，为什么有些品牌成功了有些失败了。最精妙的地方在于，它教你如何用有限的资源与大品牌竞争——你不需要打败他们，只需要找到他们没有占据的心智位置。如果你做营销、创业，或者只是想了解为什么有些品牌能深入人心，这本书是必读。它的思想已经成为营销界的圣经，影响了几代营销人。",
+      "quotes": [
+        {
+          "text": "Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.",
+          "context": "定位的核心定义——强调营销的关键是影响消费者心智而非产品本身"
+        },
+        {
+          "text": "The most powerful concept in marketing is the mind of the prospect.",
+          "context": "揭示消费者心智是营销战场，谁占据了心智就赢了市场"
+        }
+      ]
+    },
+    {
+      "title_zh": "丧钟为谁而鸣",
+      "title_en": "For Whom the Bell Tolls",
+      "author_zh": "欧内斯特·海明威",
+      "author_en": "Ernest Hemingway",
+      "year": "1940",
+      "category": "历史小说/战争文学",
+      "one_liner": "西班牙内战中，一个美国志愿者与游击队员的三天生死考验，见证爱情、信念和人性在战争中的光芒。",
+      "deep_dive": "海明威的这部杰作是他对西班牙内战的深情记录，也是他最富有诗意和哲学深度的小说。故事很简单：美国炸药专家罗伯特·乔丹被派去与游击队合作，执行一项危险的爆炸任务。但三天内发生的事情远比任务本身复杂——他爱上了一个女孩，陷入了游击队的内部矛盾，面临着牺牲的抉择。海明威的笔风一向简洁有力，在这里却透出了难得的温柔和深思。关于战争、关于死亡、关于爱和责任，书里处处都是令人深思的句子。最让人印象深刻的是，海明威没有美化战争，也没有贬低任何一方——他看到的是普通人在非常时刻的真实反应。那个著名的书名来自约翰·多恩的诗句，指的是人与人之间的相连——没有人是孤岛。读完这本书，你会理解什么是真正的文学经典。",
+      "quotes": [
+        {
+          "text": "The world is a fine place and worth fighting for.",
+          "context": "小说中对人生价值的深刻思考，出自一个经历战争洗礼的人之口"
+        },
+        {
+          "text": "No man is an island, entire of itself; every man is a piece of the continent, a part of the main.",
+          "context": "改编自约翰·多恩的诗句，暗示了书名和人类共同命运的哲学意蕴"
+        }
+      ]
+    }
+  ]
+}
+```
