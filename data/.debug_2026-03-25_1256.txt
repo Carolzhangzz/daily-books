@@ -1,0 +1,85 @@
+现在为这三本书生成内容。根据参数，这是指定书籍模式，将为指定的三本书生成推荐。
+
+以下是严格JSON格式的输出（无markdown代码块）：
+
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "深度学习",
+      "title_en": "Deep Learning",
+      "author_zh": "伊恩·古德费罗、约书亚·本吉奥、亚伦·库维尔",
+      "author_en": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+      "year": "2016",
+      "category": "科学与技术",
+      "one_liner": "深度神经网络的圣经之作，从数学基础到实践应用的完整体系",
+      "deep_dive": "这本书就像是给深度学习建立了一个完整的哲学框架。如果你以前对神经网络的理解零零散散，这本书会把所有碎片拼成一个清晰的图景。作者三位都是深度学习的奠基人，他们用数学的严谨性和实践的洞察力，从线性代数、概率论讲起，逐步深入到卷积网络、递归网络、强化学习等前沿领域。最妙的是，他们不是纯粹堆砌公式，而是在每一步都解释了为什么要这样设计，为什么这样有效。比如讲反向传播时，不仅告诉你算法流程，还解释了为什么梯度下降在这里是最优选择。对于想真正理解AI而不只是用框架调参的人，这本书是必读。它改变了我对'学习'这个概念的理解——原来神经网络的学习和人脑的学习在数学本质上有这么深的共鸣。",
+      "quotes": [
+        {
+          "text": "Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction.",
+          "context": "这是对深度学习核心价值的定义——多层次的抽象表示正是深度学习超越浅层模型的地方"
+        },
+        {
+          "text": "The key insight is that we can achieve better performance on learning tasks by using a learning procedure that does not force us to specify in advance all of the information that the computer needs in order to solve the problem.",
+          "context": "深度学习的哲学核心——让机器自己从数据中发现规律，而非人工设计特征"
+        },
+        {
+          "text": "Representation learning with deep architectures is a way of discovering the characteristics of the data that are relevant for downstream tasks.",
+          "context": "为什么深层网络能从海量数据中提取智慧的深层原因——它学会了用最相关的特征去表示世界"
+        }
+      ]
+    },
+    {
+      "title_zh": "变形记",
+      "title_en": "The Metamorphosis",
+      "author_zh": "弗朗茨·卡夫卡",
+      "author_en": "Franz Kafka",
+      "year": "1915",
+      "category": "文学",
+      "one_liner": "一个人突然变成甲虫，却发现失去人形才能看清人生的真相",
+      "deep_dive": "这是一个听起来荒诞但读起来又诡异真实的故事。格里高尔·萨姆莎一觉醒来发现自己变成了一只巨大的甲虫，而最让人震撼的不是这个变身本身，而是整个故事竟然用一种平静到诡异的笔调讲述。卡夫卡没有给你惊悚的细节描写，反而用冷漠的语气迫使你面对一个问题：一个人变成虫子后，周围人的反应说明了什么？格里高尔生前是家里的经济支柱，是被需要的'有用的人'。变身后，他逐渐失去价值，家人对他的态度从震惊变成厌烦，再到遗忘。你会意识到，这个故事讲的其实不是变身，而是揭示人与人之间那种脆弱的关系——我们被爱、被重视，往往只是因为我们在经济或社会角色上的价值。失去这些，我们就像那只甲虫一样，被冷漠地遗弃。卡夫卡的天才之处在于，他用一个极端的隐喻把现代社会的冷酷真相展现出来，读完后你会用一种全新的眼光审视'我为什么工作'、'我的价值在哪里'这样的问题。",
+      "quotes": [
+        {
+          "text": "As Gregor Samsa awoke one morning from uneasy dreams, he found himself transformed in his bed into a gigantic insect.",
+          "context": "开篇这句话的冷静和荒诞形成强烈反差——仿佛在说'人生中最大的灾难，有时就这样不声不响地发生了'"
+        },
+        {
+          "text": "Was he an animal, that music had such a hold on him?",
+          "context": "格里高尔听到妹妹的音乐，在虫身上流露出人的灵魂——暗示真实的自我可能被社会角色深深埋没"
+        },
+        {
+          "text": "And it was like a confirmation of their new dreams and good intentions that, at the end of their journey, their daughter sprang to her feet first and stretched her young body.",
+          "context": "故事的结尾充满黑色讽刺——家人失去了格里高尔后，反而走向了新的希望，这说明了什么？"
+        }
+      ]
+    },
+    {
+      "title_zh": "维多利亚女王传",
+      "title_en": "Queen Victoria",
+      "author_zh": "莉顿·斯特雷奇",
+      "author_en": "Lytton Strachey",
+      "year": "1921",
+      "category": "传记",
+      "one_liner": "用讥讽的笔触戳破女王的神话，还原一个任性、深情、矛盾的真人",
+      "deep_dive": "这本传记一出版就震惊了英国，因为斯特雷奇做了一件当时很大胆的事——他用一种戏谑、人性化的口吻写女王，而不是那种肃穆庄严的传统笔调。他把维多利亚描绘成一个真实的、矛盾的、甚至有点任性的女人。年轻的维多利亚热爱舞蹈，喜欢调皮捣蛋；与艾伯特亲王的爱情深切而痴迷，以至于艾伯特去世后，她用40年的时间沉浸在哀悼里，甚至拒绝了公共生活。这不是历史教科书里那个开创'日不落帝国'的理性君主，而是一个被爱情和失去深深击打的人。斯特雷奇的厉害之处在于，他不是简单地讽刺女王的缺点，而是通过讽刺来揭露人性的真相——权力、责任、爱情和孤独如何在一个人身上碰撞。读这本书，你会对'伟大'这个词有全新的理解。伟大不是无情的坚持，有时候就是一个人在历史的舞台上，跟你我一样，经历着爱与失去，只不过这一切被记录下来了。",
+      "quotes": [
+        {
+          "text": "She was small, not merely in body but in mind; the ideas that occupied her were narrow and parochial; and her intelligence, rapid and effective on small matters, showed itself to be essentially commonplace.",
+          "context": "斯特雷奇毫不留情的评价——通过指出女王思想的局限性来揭示权力人物的真实面貌"
+        },
+        {
+          "text": "After the death of the Prince Consort, the Queen's life had completely changed. She had lost not only her husband, but in losing him, she had lost her whole reason for living.",
+          "context": "深深的哀伤让人看到，在'女王'这个身份背后，首先是一个妻子对丈夫的依赖和绝望"
+        },
+        {
+          "text": "The truth was that she loved him with an intensity which was almost hysterical, and she had built the entire structure of her existence upon his life.",
+          "context": "揭示了维多利亚人生中最深的弱点和最真挚的力量——一个人可以为爱而活，也可以为爱而死"
+        }
+      ]
+    }
+  ]
+}
+```
+
+生成完毕。三本书的JSON数据已按要求格式输出，包含300-500字的深度介绍和2-3条精选金句。
