@@ -1,0 +1,91 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "重来",
+      "title_en": "Rework",
+      "author_zh": "杰森·弗里德、大卫·海涅迈尔·汉森",
+      "author_en": "Jason Fried, David Heinemeier Hansson",
+      "year": "2010",
+      "category": "商业与技术",
+      "one_liner": "颠覆传统商业智慧的创业革命宣言",
+      "deep_dive": "这本书就像一个朋友在咖啡馆里给你掏心窝子，完全推翻了你对创业的认知。两位Basecamp创始人说了一堆"疯话"：你不需要大融资、不需要完美的商业计划、甚至不需要全职员工。他们用Basecamp本身作为活生生的例子，证明这套理论是真的有效。书里最让人醒脑的地方是"少就是多"的哲学——为什么做得少反而赚得多？因为你能专注于最重要的事。他们说"构建产品要为自己而不是为市场"，这听起来像是在自我中心，其实是最聪明的做法。最精彩的一章讲会议有毒，每场会议都在消耗你的创意和时间。如果你厌倦了那些堆满MBA术语的管理学著作，这本书会给你一股清新、叛逆、直白的力量。它不是鸡汤，而是硬核的商业智慧，用最简洁的方式告诉你怎样做出更好的产品。读完这本书，你会想立刻改变工作方式。",
+      "quotes": [
+        {
+          "text": "The way to be productive is to have really long stretches where you can actually focus on things.",
+          "context": "关于工作效率的本质——集中注意力比任何管理技巧都重要"
+        },
+        {
+          "text": "It doesn't matter how much you have left to do. What matters is how much you've gotten done.",
+          "context": "对进度的重新定义——关注完成而非待办"
+        },
+        {
+          "text": "The way to be an innovator is by ignoring the status quo.",
+          "context": "创新的真谛就是敢于走不同的路"
+        },
+        {
+          "text": "Meetings are toxic. They're usually about imminent deadlines or fire drills.",
+          "context": "批判企业低效的根本症结——不必要的会议浪费生命"
+        }
+      ]
+    },
+    {
+      "title_zh": "开放社会及其敌人",
+      "title_en": "The Open Society and Its Enemies",
+      "author_zh": "卡尔·波普尔",
+      "author_en": "Karl Popper",
+      "year": "1945",
+      "category": "哲学",
+      "one_liner": "为什么民主和开放思维是人类抵抗专制的最后堡垒",
+      "deep_dive": "波普尔是个真正的思想家。二战还没结束时，他就在思考一个终极问题：什么样的社会能让人类真正幸福？他提出了"开放社会"的概念，这个社会承认人都是有局限的、会犯错的，因此需要制度来制约权力，需要对话而非独裁。最精彩的地方是他对历史决定论的批判。那些声称知道历史最终走向的人——无论是马克思主义者还是保守派——往往最危险。他们以"科学必然性"的名义，为任何暴力都开脱。波普尔要你学会"临界性思维"，对所有权威——包括自己的信念——都保持怀疑。这不是虚无主义，而是对人类尊严的最深层次的捍卫。读这本书时，你会感觉自己在和一个伟大的思想家面对面交谈，他在为你最珍视的东西辩护。特别是在今天这个信息爆炸、专制死灰复燃的时代，这本书显得尤其宝贵。",
+      "quotes": [
+        {
+          "text": "We must plan for freedom, and not only for security, if for no other reason than that only freedom can make security secure.",
+          "context": "自由和安全的辩证关系——只有真正的自由才能带来真正的安全"
+        },
+        {
+          "text": "The task is not so much to see what no one has yet seen, but to think what nobody has yet thought about that which everybody sees.",
+          "context": "关于思维的力量——真正的思想来自对常见事物的重新审视"
+        },
+        {
+          "text": "I am not interested in whether the statement is true or false. I am interested in whether it is the best criticism of the problem at hand.",
+          "context": "科学精神的核心——不是追求绝对真理，而是不断改进我们的错误"
+        },
+        {
+          "text": "Utopian thinking is dangerous because it assumes we can know the ultimate good.",
+          "context": "对理想主义的警告——完美社会的梦想往往导致专制"
+        }
+      ]
+    },
+    {
+      "title_zh": "一千零一夜",
+      "title_en": "One Thousand and One Nights",
+      "author_zh": "民间传统",
+      "author_en": "Anonymous Folk Tales",
+      "year": "约9-13世纪",
+      "category": "文学",
+      "one_liner": "用故事的力量改变命运的永恒魔法",
+      "deep_dive": "这是一部魔法般的书，能把你带回到阿拉伯的古老夜晚。故事的框架本身就是奇迹：一个聪慧的女性莎赫拉扎德，用故事拯救了自己和无数妇女的生命。每晚讲述的故事——辛巴达的航海奇遇、阿里巴巴与四十大盗、阿拉丁神灯——这些名字你可能早就听过，但真正读原著时，你会发现它们远比任何改编都更深邃、更富有人性。故事套故事的结构像一个无尽的迷宫，每次转角都有惊喜。最打动人的是故事背后的哲学：在黑暗中保持希望有多难，聪慧和勇气如何改变命运，爱与忠诚如何穿越时间。这些故事诞生于中世纪，却对今天依然有力。书里有残忍也有温柔，有欲望也有救赎，有神奇也有深刻的人生洞察。莎赫拉扎德用1001个夜晚证明了一件事：故事是最强大的武器，它能感化暴君的心，拯救濒临绝望的灵魂。无论你几岁，这些故事都能触动心底最深的地方。",
+      "quotes": [
+        {
+          "text": "By your own soul's truth, the queen shall move the king's heart through the wisdom of her tales.",
+          "context": "莎赫拉扎德的智慧——故事具有改变人心的力量"
+        },
+        {
+          "text": "It is written in the stars; what is ordained will come to pass, yet cunning and courage can alter the course of fate.",
+          "context": "关于命运与自由意志的对话——即使命运注定，我们仍有改变的力量"
+        },
+        {
+          "text": "There is no fortress stronger than knowledge, no weapon sharper than the tongue.",
+          "context": "对智慧和言辞力量的颂歌"
+        },
+        {
+          "text": "The greatest journey is the one that takes place in the heart of man.",
+          "context": "最深刻的冒险是内心的自我发现"
+        }
+      ]
+    }
+  ]
+}
+```
