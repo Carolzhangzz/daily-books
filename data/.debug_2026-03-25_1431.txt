@@ -1,0 +1,67 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "自私的基因",
+      "title_en": "The Selfish Gene",
+      "author_zh": "理查德·道金斯",
+      "author_en": "Richard Dawkins",
+      "year": "1976",
+      "category": "科学/生物学",
+      "one_liner": "从基因的视角颠覆你对生命和进化的理解",
+      "deep_dive": "你可能从没想过，其实我们人类只是基因的生存机器。这本书彻底改变了人们理解进化论的方式。道金斯的核心观点就是，所有生物的行为，包括我们自认为高尚的利他主义和爱，本质上都是为了让自己的基因能够存活和复制。这听起来很冰冷，但恰恰这种新视角能帮我们理解为什么亲戚之间往往更互相帮助，为什么我们对自己孩子的关爱是无条件的。基因就像是一个无情的复制机，它不在乎你的感受，只想自己传递下去。当你用这个视角看待生物界的所有现象，从蜜蜂的社会性到鸟类的喂食行为，一切都变得合理了。这本书真的会让你重新思考自己的动机和选择。",
+      "quotes": [
+        {
+          "text": "We are survival machines - robot vehicles blindly programmed to preserve the selfish molecules known as genes.",
+          "context": "序言部分，点明了整本书的核心观点"
+        },
+        {
+          "text": "A gene that behaves altruistically is doing so only for blood relatives.",
+          "context": "关于血缘关系与利他行为的论述"
+        }
+      ]
+    },
+    {
+      "title_zh": "指环王",
+      "title_en": "The Lord of the Rings",
+      "author_zh": "J.R.R.托尔金",
+      "author_en": "J.R.R. Tolkien",
+      "year": "1954-1955",
+      "category": "奇幻文学",
+      "one_liner": "一个小人物背负绝望的使命，改变了整个世界的命运",
+      "deep_dive": "这可能是有史以来最伟大的奇幻史诗。托尔金凭空创造了一个完整的世界——有自己的语言、历史、地理和文化体系。故事本身很简单：一个平凡的小家伙弗罗多必须销毁一个邪恶的戒指。但真正吸引人的是这个journey的过程——从安乐乡出发，经历各种磨难，遭遇奋力相救的朋友，面对绝望和诱惑。看似不可能的任务，却因为一个普通人的执着和运气，还有朋友间的友谊，最终得以完成。这部作品探讨了权力的腐蚀、友谊的力量、勇气的定义，以及一个人如何在逆境中坚持。它不只是冒险故事，更是关于自我救赎和成长。",
+      "quotes": [
+        {
+          "text": "All we have to decide is what to do with the time that is given us.",
+          "context": "甘道夫关于时间和选择的经典台词"
+        },
+        {
+          "text": "Even the smallest person can change the course of the future.",
+          "context": "关于小人物改变世界的主题寓意"
+        }
+      ]
+    },
+    {
+      "title_zh": "第二性",
+      "title_en": "The Second Sex",
+      "author_zh": "西蒙娜·德·波伏瓦",
+      "author_en": "Simone de Beauvoir",
+      "year": "1949",
+      "category": "哲学/女性主义",
+      "one_liner": "女性的存在不由生物属性决定，而是一种自由的实现",
+      "deep_dive": "这是女性主义理论的奠基之作。波伏瓦开篇那句名言——\"女人不是天生的，而是后天制造的\"——直接挑战了整个社会关于女性本质的假设。她论证说，女性之所以被边缘化、被压制，不是因为生物学或自然规律，而是因为父权社会结构的长期压迫。她分析了从古代到当代女性如何被定义为男性的\"另一者\"，如何内化了父权社会的价值观，甚至自己去限制自己的可能性。但同时，波伏瓦也是一个存在主义者，相信人拥有自由选择的力量。她在书中呼吁女性争取经济独立、教育机会，真正成为自己人生的主人。这本书虽然写于70多年前，但对当代女性仍然有深刻的启示。",
+      "quotes": [
+        {
+          "text": "One is not born, but rather becomes, a woman.",
+          "context": "开篇的核心观点，挑战了性别本质主义"
+        },
+        {
+          "text": "Freedom is what you do with what's been done to you.",
+          "context": "关于自由意志和主体性的论述"
+        }
+      ]
+    }
+  ]
+}
+```
