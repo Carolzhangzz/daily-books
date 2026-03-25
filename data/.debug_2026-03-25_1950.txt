@@ -1,0 +1,1 @@
+需要您批准写入 JSON 文件。请允许我保存推荐内容到 `/Users/carol/Documents/daily-books/data/2026-03-25.json`。
