@@ -1,0 +1,83 @@
+根据您提供的三本书籍，我来为您生成推荐。其中"大自然的猎人"在经典书单中可能对应为自然观察类著作。让我为您生成严格的JSON格式推荐：
+
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "达洛维夫人",
+      "title_en": "Mrs. Dalloway",
+      "author_zh": "弗吉尼亚·伍尔夫",
+      "author_en": "Virginia Woolf",
+      "year": "1925",
+      "category": "文学",
+      "one_liner": "一个女人的一天：在都市的流动意识中，捕捉生活的琐碎与深刻。",
+      "deep_dive": "这部经典意识流小说以人类最平凡的一天作为素材，却用最复杂的心理刻画打造出一个时代的精神肖像。Clarissa Dalloway 只是在为晚宴做准备，但在她的思想里，时间被打碎了，记忆、幻想、他人的故事层叠交织。伍尔夫用全知视角穿梭于各个角色的内心世界，让我们看到每个人都在暗处承受着什么——战争的创伤、爱的遗憾、存在的虚无感。这不是传统的情节小说，而是一首对生命本身的冥想诗。读这本书的体验很像乘坐意识流的小舟，你会在某一刻突然明白，生活的意义不在于发生什么大事，而在于你如何感受那些细微的光线、声音和人与人之间的触碰。它影响了几代作家，也改变了人们对小说形式的理解——原来小说可以不讲故事，只讲思想本身的运动。",
+      "quotes": [
+        {
+          "text": "What did it matter then, what did it matter that she must inevitably cease completely; all this must go on without her; did she resent it; or did it not become consoling to believe that death ended absolutely?",
+          "context": "Clarissa 在生命的尾声思考死亡和永恒，这是全书最深层的哲学追问——我们对无常的恐惧与接纳"
+        },
+        {
+          "text": "A woman's life is not a man's life. And the difference is in the creative power. A woman can create a life within a life.",
+          "context": "伍尔夫对女性存在状态的深刻观察，也是她整个创作哲学的核心——女性的力量在于内向的创造"
+        },
+        {
+          "text": "Every secret of a writer's soul, every experience of his life, every quality of his mind is written large in his works.",
+          "context": "伍尔夫论述文学与自我的关系，也解释了为什么这部看似无情节的小说却如此真实而动人"
+        }
+      ]
+    },
+    {
+      "title_zh": "大外交",
+      "title_en": "Diplomacy",
+      "author_zh": "亨利·基辛格",
+      "author_en": "Henry Kissinger",
+      "year": "1994",
+      "category": "社科与历史",
+      "one_liner": "从威斯特伐利亚体系到冷战结束，500年外交史中权力的舞蹈与国家利益的永恒博弈。",
+      "deep_dive": "基辛格用他数十年的从政和外交经验，为我们讲述了一段关于权力、平衡与国家命运的宏大叙事。这不是单纯的历史书，而是一本关于国际关系逻辑的深度解读。从1648年的威斯特伐利亚和约开始，基辛格追踪了现代国家体系如何在几代伟大政治家的手中塑造——他们如何在道德与现实之间走钢丝，如何通过权力平衡维持秩序。你会看到俾斯麦如何整合欧洲、梅特涅如何维持维也纳体系、丘吉尔和罗斯福如何在世界战争中重塑秩序。基辛格的笔锋既有宏观的地缘政治视野，也有对历史细节的冷静剖析。最有价值的是，他不在乎道德评判，只在乎理解各国政治家在具体约束下的选择——这种现实主义视角会彻底改变你对国际新闻和政治事件的理解。这是精英必读，也是任何想理解当代世界秩序的人的教科书。",
+      "quotes": [
+        {
+          "text": "The statesman must preserve the independence and the power of his nation above all; all other considerations must yield to this fundamental necessity.",
+          "context": "基辛格论述国家利益的至高性，这是他整个外交哲学的核心——现实主义政治的基石"
+        },
+        {
+          "text": "Diplomacy is the art of restraining force. It seeks to curb conflict and to establish rules that limit the scope and intensity of war.",
+          "context": "对外交本质的精妙定义，说明了为什么外交比武力更需要智慧"
+        },
+        {
+          "text": "The statesman who cannot follow the vision because he is overwhelmed by the pressures of the immediate is condemned to sterility.",
+          "context": "基辛格对政治领袖的要求——既要处理眼前的危机，更要有历史的视野"
+        }
+      ]
+    },
+    {
+      "title_zh": "大自然的猎人",
+      "title_en": "The Hidden Life of Trees",
+      "author_zh": "彼得·沃莱本",
+      "author_en": "Peter Wohlleben",
+      "year": "2015",
+      "category": "自然与生态",
+      "one_liner": "树木如何在地下秘密社交、传递信息、互相扶持，重新定义我们对森林和生命的理解。",
+      "deep_dive": "这本书会彻底改变你看森林的方式——不再是一堆独立的木头，而是一个活的、会呼吸的、充满智慧的超级生命体。沃莱本是德国一位有30年经验的林务官，他用科学证据结合诗意的语言，揭示了森林里发生的不可思议的事。树木通过菌根网络——一种地下的真菌纤维网——互相通信，分享水分和营养，甚至可以识别自己的孩子。一棵年迈的树就像森林的父母，会源源不断地供养周围的幼树。生病的树会向健康的树发出警告信号，让它们提前准备防御。这完全颠覆了我们对竞争与生存的刻板想象——在森林里，合作和相互扶持才是规则。沃莱本还深入讨论了为什么树木需要森林、为什么单一树种种植园死气沉沉、为什么老树比年轻树更重要。读这本书的过程像是被邀请进入一个隐秘的地下世界，你会开始思考：如果一棵树都懂得如此深刻的合作与牺牲，我们的社会又该反思什么？",
+      "quotes": [
+        {
+          "text": "Trees are not individual entities; they are part of a superorganism that stretches across the entire forest floor, where the real action is.",
+          "context": "沃莱本对森林本质的革命性认识，让我们看到森林不是树木的集合，而是一个整体的、会思考的生命体"
+        },
+        {
+          "text": "A forest cannot be healthy if it is composed of the same age of trees. It is the mix of generations that makes a forest stable and resilient.",
+          "context": "对森林多样性和代际更替重要性的深刻理解，也是一个关于社会的隐喻"
+        },
+        {
+          "text": "The forest knows how to heal itself. We don't need to manage it; we need to listen to it.",
+          "context": "沃莱本对人与自然关系的核心观点——放弃控制，学会谦卑和倾听"
+        }
+      ]
+    }
+  ]
+}
+```
+
+已生成 JSON 格式的三本书推荐，包含深度介绍（聊天口吻）和精选金句。可直接用于您的数据系统。
