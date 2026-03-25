@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "存在主义是一种人道主义",
+      "title_en": "Existentialism is a Humanism",
+      "author_zh": "让-保罗·萨特",
+      "author_en": "Jean-Paul Sartre",
+      "year": "1947",
+      "category": "哲学",
+      "one_liner": "萨特用一场著名讲演论证存在先于本质，人拥有绝对自由，因此承担绝对责任。",
+      "deep_dive": "这是萨特最著名的讲演稿，也是你理解存在主义最直接的入口。他开门见山就说，存在主义被骂惨了——有人说它让人绝望，有人说它不人道。萨特就跳出来辩护。他的逻辑其实很简单，但听起来特别震撼：你生下来的时候，这个世界上没有人告诉你该是什么样的。你不像一把椅子，椅子有预定的用途。人是自由的，这不是好事儿，这特么是诅咒。因为自由意味着你得负责任。你选择了什么，就成了什么。这不是什么高深的哲学，而是一种生活态度——承认自己的自由，接受自己选择的后果。最震撼的是他说的一句话，大意是没有人天生是叛徒、英雄或懦夫，你通过行动塑造自己。这本书特别适合那些感到被生活困住、觉得自己没有选择的人。萨特在告诉你，其实你一直都有选择，只是你假装没有。读完之后你会不舒服，因为你没法再甩锅给命运、社会或家庭了。",
+      "quotes": [
+        {
+          "text": "Existence precedes essence",
+          "context": "存在主义的核心命题，意思是人先存在，然后通过自己的行为和选择才定义自己是什么样的人，而不是相反。"
+        },
+        {
+          "text": "We are our choices",
+          "context": "萨特的终极结论——你就是你所有选择的总和，没有人能帮你选择，也没人能替你承担后果。"
+        },
+        {
+          "text": "Bad faith is an act of lying to oneself about one's freedom and responsibility",
+          "context": "诠释了一种自欺的生活方式，比如说'我没办法'、'我注定如此'，本质上是逃避自己的自由和责任。"
+        }
+      ]
+    },
+    {
+      "title_zh": "万物的终结",
+      "title_en": "The End of All Things",
+      "author_zh": "乔纳森·弗兰岑",
+      "author_en": "Jonathan Franzen",
+      "year": "2011",
+      "category": "文学",
+      "one_liner": "通过几个互联关联的故事探讨现代人的孤独、连接与终局的意义。",
+      "deep_dive": "弗兰岑是个特别擅长写人物困境的作家。这本故事集里有五个故事，每一个都戳中你心窝。他写的不是什么波澜壮阔的大事件，而是日常生活中的那些无能为力。比如有个故事讲的是一对陌生人在飞机上谈话，他们互相倾诉人生的失败和遗憾，就在谈话中，他们发现了某种奇异的连接。还有个故事讲一个退休的教授，他以为自己能掌控自己的人生，结果发现所有的掌控都是幻觉。弗兰岑的厉害在于，他不是在给你讲大道理，而是在展现人生本身的矛盾性。你以为能改变什么，结果改变不了。你以为是终结，其实只是另一个开始。这本书的'终结'不是指世界末日，而是那些私人的、微观的、每个人都会经历的终结——梦想破灭、关系断裂、对人生的幻想破灭。特别现代，特别扎心。",
+      "quotes": [
+        {
+          "text": "The loneliness of the digital age is that you can reach anybody in the world but nobody is really there to listen",
+          "context": "弗兰岑对现代孤独的观察——虽然我们连接众多，但真正的理解和陪伴却变得越来越稀缺。"
+        },
+        {
+          "text": "We only feel bad about the things we can actually change, not the things we're powerless against",
+          "context": "探讨人类的心理悖论——我们的痛苦往往来自于对无法改变之事的徒劳抗争。"
+        },
+        {
+          "text": "The end of all things is just the beginning of another kind of life",
+          "context": "故事集的主题——每个故事的结局都暗示着，什么都没有真正结束，一切只是转变成另一种形式。"
+        }
+      ]
+    },
+    {
+      "title_zh": "谁说大象不能跳舞",
+      "title_en": "Who Says Elephants Can't Dance?",
+      "author_zh": "路易斯·郭士纳",
+      "author_en": "Louis V. Gerstner Jr.",
+      "year": "2002",
+      "category": "商业与技术",
+      "one_liner": "IBM前CEO讲述他如何将濒临破产的蓝色巨人转变为互联网时代的科技领导者。",
+      "deep_dive": "这本书就是一个关于救赎的故事。1993年郭士纳接手IBM的时候，这家公司已经快死了。它曾经是世界上最强大的高科技企业，但它被自己的成功困住了。整个公司的人都在说'我们就是这样做事的'。郭士纳来了之后做的第一件事就是打破这个'我们一直这样做'的魔咒。他意识到大象跳舞看起来很蠢，但如果这头大象真的开始跳，没人能挡得住。所以他没有拆散IBM，而是改造了它。他从组织文化入手，从激进的重组开始，让一个僵化的、自我满足的公司重新活过来。最厉害的是他的战略眼光——他看到了互联网的力量，但他没有让IBM去做互联网公司，而是让IBM成为提供服务的公司。这个转变拯救了IBM。这本书特别适合那些需要变革、需要推动组织转身的人，因为郭士纳讲的不是什么管理理论，而是真实的战斗经验。",
+      "quotes": [
+        {
+          "text": "Fix the culture first, and the business will follow",
+          "context": "郭士纳的核心管理哲学——企业的问题往往源于文化问题，只有真正改变人的思维和行为方式，才能推动业务的真正转变。"
+        },
+        {
+          "text": "The most important thing is the customer, not the company",
+          "context": "IBM复兴的核心——从内向型的'我们怎样做事'转向外向型的'客户需要什么'，这个转变本身就是革命。"
+        },
+        {
+          "text": "You can't transform a company if the people in it don't believe transformation is necessary",
+          "context": "强调了推动变革的难点——最难的不是制定计划，而是让组织内的每个人认识到非变不可，进而参与到变革中来。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1831"
+}
