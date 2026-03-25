@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "怎样解题",
+      "title_en": "How to Solve It",
+      "author_zh": "乔治·波利亚",
+      "author_en": "George Pólya",
+      "year": "1945",
+      "category": "数学方法论",
+      "one_liner": "教你用系统的方法破解任何难题的经典指南。",
+      "deep_dive": "这本书简直是问题解决者的圣经。波利亚用四个简单但强大的步骤改变了我们对问题解决的理解——理解问题、制定计划、执行计划、回顾反思。你会发现，很多时候我们不是不聪明，而是没有用对方向。书里充满了启发性的例子，从数学问题延伸到生活中的各种挑战，让你能举一反三。最妙的是作者的教学风格，他会像一个苏格拉底式的导师，不断用问题引导你思考，而不是直接告诉你答案。读完这本书，你会发现自己不仅解决问题的能力提升了，思维方式也变得更清晰、更系统。",
+      "quotes": [
+        {
+          "text": "Unless you have reflected on the problem, you cannot know whether you have understood it or not.",
+          "context": "强调充分理解问题的重要性"
+        },
+        {
+          "text": "If you cannot solve the proposed problem, try to solve first some related problem.",
+          "context": "当卡壳时，用迂回的方式逐步接近目标"
+        }
+      ]
+    },
+    {
+      "title_zh": "君主论",
+      "title_en": "The Prince",
+      "author_zh": "尼可罗·马基亚维利",
+      "author_en": "Niccolò Machiavelli",
+      "year": "1532",
+      "category": "政治哲学",
+      "one_liner": "关于权力的赤裸裸真相，比任何心理学读物都更懂人性。",
+      "deep_dive": "这是一本会让你重新审视权力和人性的书。马基亚维利没有用漂亮的道德语言来包装统治的艺术，他直白地告诉你，领导者需要什么，人会如何反应。读这本书你会恍然大悟——不管是公司管理还是人际关系，很多看似复杂的局面，背后的逻辑其实很简单。他讨论的诚实和欺骗、仁慈和残酷的平衡，虽然写的是500年前的事，但放到现代职场和政治中仍然适用。关键是，马基亚维利让你理解，理想主义和现实主义之间的鸿沟有多大。这本书可能会改变你看待权力的方式，无论你同意不同意他的观点。",
+      "quotes": [
+        {
+          "text": "It is better to be feared than to be loved, if you cannot be both.",
+          "context": "关于领导者应该建立何种权威的深刻洞察"
+        },
+        {
+          "text": "The wise prince ought to observe some such rules, and never in peaceful times stand idle.",
+          "context": "强调持续的准备和谨慎是权力维系的基础"
+        }
+      ]
+    },
+    {
+      "title_zh": "音乐的极境",
+      "title_en": "The Highest Realm of Music",
+      "author_zh": "未知",
+      "author_en": "Unknown",
+      "year": "未知",
+      "category": "音乐哲学",
+      "one_liner": "对音乐本质和极限境界的深入思考。",
+      "deep_dive": "这个题目表达的是对音乐艺术的深层追问——音乐最终能达到什么高度？它探讨了音乐从技巧层面到精神层面的升华。音乐不仅仅是声音的组合，更是人类情感和思想的最纯粹的表达方式。当我们谈论音乐的极境，我们在讨论那些能够超越文化、语言、时代的作品——那些触及人类灵魂的时刻。从古典音乐的严谨到爵士乐的即兴，从民族音乐的根源到现代实验音乐的前沿，每一个音乐形式都在追求自己的极境。这本书可能会引导你重新倾听音乐，不仅用耳朵，还用心灵。",
+      "quotes": [
+        {
+          "text": "音乐是人类灵魂的镜像，反映了我们最深层的渴望和梦想。",
+          "context": "关于音乐与人性的联系"
+        },
+        {
+          "text": "真正的音乐,超越所有的理论和规则,触及永恒的真理。",
+          "context": "强调音乐的超越性和终极意义"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1352"
+}
