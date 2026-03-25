@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "科学革命的结构",
+      "title_en": "The Structure of Scientific Revolutions",
+      "author_zh": "托马斯·库恩",
+      "author_en": "Thomas S. Kuhn",
+      "year": "1962",
+      "category": "科学哲学",
+      "one_liner": "用范式概念重新诠释科学发展，打破线性进步观的经典之作",
+      "deep_dive": "这本书彻底改变了我们对科学进步的理解。库恩在这里提出了一个激进的想法：科学并不是线性积累知识的过程，而是在不同的范式（paradigm）之间进行革命性的转变。什么是范式呢？简单说，就是科学共同体在某个时期共同接受的理论框架和研究方法。比如说，哥白尼日心说的提出，就是一次从地心说范式到日心说范式的转变。库恩认为，大多数时候科学家在现有范式内工作（常规科学），但当异常现象不断积累，现有范式无法解释时，就会引发科学危机，最终导致新范式的确立。这个观点很有意思，它暗示了科学知识具有社会性和历史性，而不是绝对的、客观的。这本书之所以重要，在于它让我们重新思考什么是科学，怎样才能称之为进步。对于想理解科学哲学、知识论，或者只是想开阔思维视野的人来说，都值得一读。",
+      "quotes": [
+        {
+          "text": "Discovery begins with the awareness of anomaly, with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science.",
+          "context": "说明科学革命的触发点来自于现象的异常"
+        },
+        {
+          "text": "The transferrence of allegiance from paradigm to paradigm is a conversion experience that cannot be forced.",
+          "context": "强调范式转变的非理性性和个人主观性"
+        }
+      ]
+    },
+    {
+      "title_zh": "小逻辑",
+      "title_en": "Hegel's Logic (Encyclopaedia Logic)",
+      "author_zh": "格奥尔格·威廉·弗里德里希·黑格尔",
+      "author_en": "G.W.F. Hegel",
+      "year": "1817",
+      "category": "哲学/逻辑学",
+      "one_liner": "黑格尔辩证逻辑的核心著作，思想史上最具野心的理性体系",
+      "deep_dive": "黑格尔的《小逻辑》（也叫《哲学百科全书逻辑部分》）是整个西方哲学中最复杂、最具挑战性的文本之一。它不是传统意义上的形式逻辑教科书，而是一种对思想本身的根本反思。黑格尔主张逻辑不仅是思维的工具，更是现实本身的结构。他提出的辩证法——正题、反题、合题的三段论——深刻影响了后世的哲学和科学。在这部著作中，黑格尔试图证明：理性就是现实，现实就是理性。通过不断的自我否定和扬弃（Aufhebung），概念不断演进，最终达到绝对精神的自我认识。这样的思想既宏大又晦涩，充满了思辨的力量。如果你想理解现代哲学的源头，或者想挑战自己的思维能力，这本书绝对会给你一个深刻的洗礼。",
+      "quotes": [
+        {
+          "text": "The real is rational and the rational is real.",
+          "context": "黑格尔哲学的核心命题，表明理性与现实的统一"
+        },
+        {
+          "text": "Contradiction is the root of all motion and of all life.",
+          "context": "强调矛盾在发展中的推动作用"
+        }
+      ]
+    },
+    {
+      "title_zh": "东方化",
+      "title_en": "Orientalism",
+      "author_zh": "爱德华·萨义德",
+      "author_en": "Edward W. Said",
+      "year": "1978",
+      "category": "批评理论/文化研究",
+      "one_liner": "揭露西方对东方的话语权力构建，开启后殖民理论的里程碑",
+      "deep_dive": "萨义德的《东方化》是20世纪文化批评中最有影响力的著作之一。这本书的核心论点是：\"东方\"并不是一个客观存在的地理或文化概念，而是西方通过学术、文学、艺术等文化权力精心构造出来的一种形象。换句话说，西方通过这种话语建立了对东方的统治。从拿破仑远征埃及开始，西方东方学家通过研究、描述、评价东方，实际上在塑造东方，甚至控制东方。萨义德借用福柯的权力话语理论，指出知识本身就是权力，而且这种权力关系在文化和学术领域同样存在。这本书让我们意识到：我们对异文化的理解往往被既有的话语框架所限制，而这些框架往往体现了权力关系。对于想理解帝国主义、全球化、文化认同等问题的人来说，这是一本必读书。它不仅改变了人们对东方的看法，也改变了整个人文学科的理论框架。",
+      "quotes": [
+        {
+          "text": "The Orient was almost a European invention, and had been since antiquity a place of romance, exotic beings, haunting memories and landscapes, remarkable experiences.",
+          "context": "说明东方如何被西方想象和建构"
+        },
+        {
+          "text": "Orientalism as a Western style for dominating, restructuring, and having authority over the Orient.",
+          "context": "定义东方化的核心——西方的权力话语体系"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1819"
+}
