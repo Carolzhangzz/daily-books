@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "远大前程",
+      "title_en": "Great Expectations",
+      "author_zh": "查尔斯·狄更斯",
+      "author_en": "Charles Dickens",
+      "year": "1861",
+      "category": "文学",
+      "one_liner": "一个孤儿男孩通过意外的财富机会踏上人生之旅，在追寻梦想的过程中逐渐认识到什么才是真正重要的。",
+      "deep_dive": "《远大前程》讲的是皮普从一个贫穷的孤儿男孩，被神秘人物资助后，进入上流社会的故事。这本书的妙处在于它不是简单的励志故事——皮普得到了他梦寐以求的一切，却发现自己变得虚伪、冷漠，甚至背弃了曾经深爱的人。狄更斯通过这个男孩的成长，问了一个永恒的问题：成功和财富真的能让我们幸福吗？\n\n书中最触动人心的地方，是皮普逐渐意识到自己的错误——他曾经鄙视那些爱他、帮助他的普通人，而去追逐虚幻的社会地位。他的转变不是突然的，而是一步步的觉醒。当他最终明白什么叫真正的忠诚、感恩和爱，已经失去了太多。\n\n这不仅是一部关于阶级的小说，更是关于自我欺骗的小说。我们都有过皮普的时刻——被虚荣心驱使，忽视身边真正珍贵的东西。狄更斯用这个故事提醒我们，人生的远大前程，最后往往要回到最初的起点，去珍视那些被我们忽视的简单而真实的情感。",
+      "quotes": [
+        {
+          "text": "We never know how much we like a place till we leave it.",
+          "context": "皮普离开故乡去伦敦时的感悟——只有失去，才能明白你真正珍视的是什么。"
+        },
+        {
+          "text": "It is a great thing to have a great man's interest.",
+          "context": "皮普对神秘资助人的幻想，讽刺地反映了人们对权力和地位的盲目追求。"
+        },
+        {
+          "text": "Suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be.",
+          "context": "成熟后的皮普终于理解，唯有经历苦难，才能真正懂得他人的心。"
+        }
+      ]
+    },
+    {
+      "title_zh": "罗生门",
+      "title_en": "Rashomon",
+      "author_zh": "芥川龙之介",
+      "author_en": "Akutagawa Ryunosuke",
+      "year": "1915",
+      "category": "文学",
+      "one_liner": "同一起事件从四个不同视角讲述，每个人都有自己的真实，却没有绝对的真理。",
+      "deep_dive": "《罗生门》是一个短篇，但它的力量足以撼动人对真实的理解。故事很简单：一个武士和他的妻子在深林中遭遇了一个强盗。一个女人被伤害了。但到底发生了什么？\n\n芥川龙之介的天才之处在于，他让四个当事人——强盗、妻子、武士（通过灵媒）和一个目击者——各自讲述他们眼中的事件。令人震惊的是，四个版本几乎完全不同。强盗说他是为了女人而杀死了武士；妻子说她是无能为力的受害者；武士说他自己跪地求情；目击者见证的是一个完全不同的戏剧。\n\n这部作品的深刻之处，不在于揭露某个人在说谎，而在于它质疑了\"真实\"本身的存在。每个人都从自己的利益、自尊和角度出发，各自打造了一个自圆其说的故事。没有人有意说谎，可没有人说的是完全的真相。这在当代尤其有意义——在信息爆炸、观点碰撞的时代，我们也都在讲述自己的\"罗生门\"。这部短篇提醒我们保持谦逊：我们看到的永远只是一个视角，真实往往远比我们想象的复杂。",
+      "quotes": [
+        {
+          "text": "In a word, I am the only one who tells the truth.",
+          "context": "每个讲述者都坚持自己的版本最真实，讽刺地暴露了人的主观性。"
+        },
+        {
+          "text": "I cannot understand at all why I have been brought here for such a trifling matter.",
+          "context": "强盗对自己的行为轻描淡写，反映了人如何为自己的所作所为进行合理化。"
+        },
+        {
+          "text": "You see, I am not a man to be ashamed of my past.",
+          "context": "在讲述自己的版本时，每个人都在维护自己的自尊和名誉。"
+        }
+      ]
+    },
+    {
+      "title_zh": "美丽新世界",
+      "title_en": "Brave New World",
+      "author_zh": "阿道司·赫胥黎",
+      "author_en": "Aldous Huxley",
+      "year": "1932",
+      "category": "文学",
+      "one_liner": "在一个通过科技、药物和文化控制实现了表面幸福的社会里，人类已经失去了自由选择和真正的人性。",
+      "deep_dive": "《美丽新世界》描绘的未来社会，乍一看是乌托邦——没有疾病、没有衰老、没有痛苦、没有冲突。人们被分为不同的阶级从小进行心理暗示和教育，每个人都被设计得适应自己的社会角色。如果有人感到不安，政府提供的叫\"soma\"的药物能立刻让你快乐。有娱乐、有性、有稳定的生活——听起来像天堂，对吧？\n\n但赫胥黎的黑暗天才在于，他展示了这种完美需要的代价。为了维持这个社会，政府必须消除人的自由意志、独立思考的能力，甚至是深刻的情感联系。你不能真正爱一个人，因为那会导致嫉妒和痛苦。你不能创造，因为创造需要不满足和挣扎。历史被消除了，艺术被简化了，复杂的思想被禁止了。\n\n这本书在1932年写成，却预言了我们当代的很多现实——娱乐和消费如何让我们麻木，科技如何被用来控制而非解放，我们如何主动选择舒适而放弃自由。赫胥黎最终要问的是：如果代价是你的人性，幸福还值得吗？这个问题在信息时代、社交媒体算法时代显得更加紧迫。",
+      "quotes": [
+        {
+          "text": "The condition of the subject for investigation is not what matters, but the investigation itself.",
+          "context": "揭示了这个社会如何用科学和理性为控制和压迫辩护。"
+        },
+        {
+          "text": "One believes things because one has been conditioned to believe them.",
+          "context": "从小的心理暗示如何塑造了每个人的思维和选择，失去了真正的自我。"
+        },
+        {
+          "text": "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin.",
+          "context": "野蛮人约翰的绝望呐喊，道出了人类真正渴望的——即使那些渴望带来痛苦。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1413"
+}
