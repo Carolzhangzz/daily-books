@@ -1,0 +1,3 @@
+等待权限批准...保存完成后，我会更新索引并推送到GitHub。
+
+完成后页面将在约 30 秒后更新，访问 https://carolzhangzz.github.io/daily-books/ 查看。

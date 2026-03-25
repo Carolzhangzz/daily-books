@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "理智与情感",
+      "title_en": "Sense and Sensibility",
+      "author_zh": "简·奥斯汀",
+      "author_en": "Jane Austen",
+      "year": "1811",
+      "category": "文学",
+      "one_liner": "通过两姐妹的爱情故事，探讨理性与感情之间的平衡艺术",
+      "deep_dive": "这部作品讲述了达什伍德家族两姐妹截然不同的人生选择。大姐艾琳娜代表'理智'，她压抑自己的感情，用理性和克制来应对生活的不公正；小妹玛丽安代表'情感'，她热烈、真诚，但也容易被伤害。通过她们各自的爱情经历，奥斯汀巧妙地问了一个时至今日仍然触及我们的问题：人应该如何生活？是像艾琳娜那样完全理性地防守自己，还是像玛丽安那样敞开心扉？这不是一部简单的爱情小说，而是关于成熟的本质。两姐妹都要经历痛苦才能领悟，最终她们都找到了属于自己的答案——既不是完全被感情淹没，也不是完全抹杀内心的渴望。读这部书时，你会发现它对现代人依然有效：我们每个人都在学习如何既保持理性的判断，又不失去对生活的热情。",
+      "quotes": [
+        {
+          "text": "It is not time or opportunity that is to determine intimacy; it is disposition alone.",
+          "context": "艾琳娜对真正亲密关系的洞察——时间和机遇不能创造真正的连接，只有性格和品质才能"
+        },
+        {
+          "text": "The world has no business to know what we feel or think.",
+          "context": "关于隐私和自我保护——有些深层的东西不应该暴露给外界"
+        }
+      ]
+    },
+    {
+      "title_zh": "人格心理学",
+      "title_en": "Personality Psychology",
+      "author_zh": "丹尼尔·塞尔温 & 劳伦斯·佩文",
+      "author_en": "Daniel Cervone & Lawrence Pervin",
+      "year": "2012",
+      "category": "心理学",
+      "one_liner": "系统介绍人格如何形成、为什么我们各不相同，以及这些差异如何影响人生",
+      "deep_dive": "人格心理学回答的是一个我们都好奇的问题：为什么人与人之间差异这么大？这部作品从多个角度展开——从弗洛伊德的深层无意识理论，到现代神经生物学对大脑的理解，再到社会文化因素的影响。书中最有用的部分是介绍'大五人格'模型，它用五个维度（开放性、责任感、外向性、宜人性、神经质）来描述人的基本特质。但真正的洞察在于，这些特质不是简单的好坏评判——一个高度神经质的人可能比容易满足的人更容易察觉到问题；一个低开放性的人提供的是稳定而非激情。这部书让你看到，理解自己和他人的性格不是为了改变或评判，而是为了更好地接纳。当你知道自己为什么会这样反应、为什么会这样选择时，生活中很多冲突都迎刃而解了。",
+      "quotes": [
+        {
+          "text": "Personality is not something you have, but something you do—it's the consistent patterns of thoughts, feelings, and behaviors that emerge across situations.",
+          "context": "现代人格心理学的核心洞察——人格是行为的一致性模式，不是固定的标签"
+        },
+        {
+          "text": "We are not prisoners of our traits; we are architects of our lives.",
+          "context": "强调虽然人格有稳定性，但人依然具有主观能动性来塑造自己的人生"
+        }
+      ]
+    },
+    {
+      "title_zh": "钟形罩",
+      "title_en": "The Bell Jar",
+      "author_zh": "西尔维亚·普拉斯",
+      "author_en": "Sylvia Plath",
+      "year": "1963",
+      "category": "文学",
+      "one_liner": "年轻女性被压抑的绝望与精神崩溃的深刻自白",
+      "deep_dive": "这部半自传体小说讲述了埃丝特·格林伍德在1950年代纽约的精神崩溃之旅。表面上，埃丝特是个聪慧、有才华的女大学生，但她逐渐被一种难以名状的绝望包裹着——就像被罩在一个透明的钟形罩下，她能看到外面的世界，却无法真正触及。普拉斯用尖锐而黑色幽默的笔触揭露了当代社会对女性的期待有多么荒谬：既要聪慧独立，又要温柔贤淑；既要追求事业，又要渴望婚姻；既要性感迷人，又要贞洁端庄。这些相互矛盾的要求最终压碎了埃丝特的心理防线。但这不仅仅是关于抑郁症的作品，更是对整个社会结构、对女性困境的深层批评。读这部书时，你会感受到一种让人窒息的真实感——那种绝望不是夸张的文学修辞，而是被社会期待活活压死的样子。",
+      "quotes": [
+        {
+          "text": "I felt like I was being suffocated by the weight of all other people's expectations.",
+          "context": "埃丝特对社会压力的核心描写——社会期待不是建议，而是一种窒息的力量"
+        },
+        {
+          "text": "If you expect nothing from somebody you are never disappointed.",
+          "context": "埃丝特在绝望中学会的自我保护——放弃期待，放弃希望"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1513"
+}
