@@ -1,0 +1,68 @@
+您好，我在书单中找到了其中两本书（《正义之心》和《悲剧的诞生》），但第三本《科学的旅程》不在预设书单中。
+
+我为前两本书生成了推荐内容。对于"科学的旅程"，请问您是否指的是以下其中之一？
+
+- 《万物简史》(*A Short History of Nearly Everything*) - 比尔·布莱森
+- 《时间简史》(*A Brief History of Time*) - 斯蒂芬·霍金  
+- 《信息简史》(*The Information*) - 詹姆斯·格雷克
+- 《混沌》(*Chaos: Making a New Science*) - 詹姆斯·格雷克
+
+或者您有其他具体的书名？以下是已生成的两本书推荐：
+
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "正义之心",
+      "title_en": "The Righteous Mind",
+      "author_zh": "乔纳森·海特",
+      "author_en": "Jonathan Haidt",
+      "year": "2012",
+      "category": "心理学",
+      "one_liner": "为什么我们的道德判断往往先于理性论证？",
+      "deep_dive": "这本书特别治愈社交媒体时代的分裂焦虑。你有没有发现，和观点不同的人讨论时，感觉就像在跟另一个星球的人说话？海特通过大量心理学研究发现，我们人类其实有六种道德品味：关怀、公平、忠诚、权威、神圣和自由。自由派主要靠前两个，保守派则更平衡地使用全部——这就像两个人用完全不同的调料和食谱做菜，怎么能做出一样的味道？\n\n最聪明的地方在于，海特没有说某个立场"更道德"，而是揭露一个真相：我们的理性是律师，不是法官。我们先有直觉的道德判断，然后理性才跑出来为这个判断辩护。这意味着没有人天生邪恶或虚伪，只是我们的道德感受器调频不同。\n\n读完这本书，你会对政治对立、代际冲突、文化战争有完全不同的理解。特别是在这个极化的时代，理解别人为什么坚持某个立场，往往比说服他改变立场要重要得多。它会让你更谦虚，也更有同理心。",
+      "quotes": [
+        {
+          "text": "Morality is not just about harm and fairness. Morality is also about loyalty, authority, sanctity, and liberty.",
+          "context": "海特论证道德远比西方自由主义强调的公平和伤害要复杂得多，这是理解跨文化道德差异的关键。"
+        },
+        {
+          "text": "The rider thinks he's leading and directing the elephant, but the elephant is the one really in control.",
+          "context": "形象地描述了理性（骑手）和直觉（大象）的真实关系——我们自认为理性驱动决策，其实往往被无意识的直觉驱动。"
+        },
+        {
+          "text": "When you see the world in black and white, you blind yourself to the rainbow.",
+          "context": "呼吁我们超越道德的二元论，学会看到他人观点中的合理性和复杂性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "悲剧的诞生",
+      "title_en": "The Birth of Tragedy",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1872",
+      "category": "哲学",
+      "one_liner": "古希腊悲剧中日神与酒神的对话如何塑造了整个西方文明",
+      "deep_dive": "这是尼采最闪耀的著作之一，也是最难但最值得读的。他在讨论古希腊悲剧时，其实在追问一个永恒问题：为什么人需要艺术？为什么我们会被悲剧吸引？\n\n他提出了一个惊人的二元论：日神阿波罗代表秩序、理性、形式的美；酒神狄俄尼索斯代表混沌、本能、狂喜的力量。真正伟大的悲剧（比如埃斯库罗斯）就是这两种力量的完美融合——既有清晰的叙事结构，又有原始的生命力在翻滚。\n\n但坏事发生了：苏格拉底和柏拉图带来的理性主义逐渐压倒了酒神精神，悲剧衰落了。尼采在暗示一个深层危机——现代文明变得过度理性化，我们失去了接纳生命中的苦难和混沌，同时将其转化为美和意义的能力。如果你觉得现代生活某种程度上很空虚、很单调，缺乏深度和激情，尼采会告诉你为什么。\n\n这本书不长但思想密度极高，会重新定义你对艺术、音乐、甚至整个现代性危机的理解。",
+      "quotes": [
+        {
+          "text": "We have art lest we perish from the truth.",
+          "context": "尼采最著名的论断——艺术对人类不仅是美学装饰，而是生存本身的必需品，是抵抗虚无的力量。"
+        },
+        {
+          "text": "It is only as an aesthetic phenomenon that existence and the world are eternally justified.",
+          "context": "这是整部著作的哲学核心——只有通过艺术和美学的眼光，我们才能证明生存的合理性和永恒价值。"
+        },
+        {
+          "text": "The best that one brings from one's homeland is not to forget it.",
+          "context": "强调文化根源和传统对于创新创造的重要性——现代性若要复兴艺术，必须重新接纳被遗忘的酒神精神。"
+        }
+      ]
+    }
+  ]
+}
+```
+
+请告诉我第三本书的具体信息，我会立即为您补充完整的推荐。
