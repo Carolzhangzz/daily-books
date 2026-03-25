@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "丝绸之路",
+      "title_en": "The Silk Roads: A New History of the World",
+      "author_zh": "彼得·弗兰克帕尼",
+      "author_en": "Peter Frankopan",
+      "year": "2015",
+      "category": "社科与历史",
+      "one_liner": "跨越两千年的全球贸易与文明交汇史，重新解读人类文明的发展轨迹",
+      "deep_dive": "《丝绸之路》颠覆了我们对世界史的理解。大多数人认为西方文明是世界发展的中心，但弗兰克帕尼用一个宏大的视角告诉我们，真正推动人类文明的是那条连接东西方的贸易网络。这不仅是关于商品的交换，而是文化、思想、宗教和技术的大融合。从丝绸、香料、瓷器，到宗教信仰和哲学思想，都在这条古老的路上流动。书中描写了帝国的兴衰、商人的冒险、宗教的传播，以及地缘政治如何围绕这些贸易路线展开。从中国的汉朝、伊斯兰世界的崛起、蒙古帝国的扩张，到现代欧洲的兴起，每个时代的权力中心都在争夺对这条生命线的控制权。最引人深思的是，当你看到这些古老的贸易路线如何直接影响了现在的地缘政治，你会发现历史其实从未远离过。中亚的冲突、中东的纠纷，甚至现在的一带一路倡议，都是这条古老丝路的现代延续。这本书让你明白，全球化并不是什么新鲜事物。人类几千年来就在进行着全球化的探险，而现在我们所经历的，不过是历史的轮回。",
+      "quotes": [
+        {
+          "text": "The Silk Roads were not simply a highway for the movement of goods. They were highways for the transmission of ideas, religions, and cultures.",
+          "context": "强调丝绸之路的真正意义不在商业本身，而在于它是文明交流的通道。"
+        },
+        {
+          "text": "To understand the present, one must look to the past.",
+          "context": "说明研究丝绸之路历史对理解现代世界格局的重要性。"
+        }
+      ]
+    },
+    {
+      "title_zh": "公正：该如何是好？",
+      "title_en": "Justice: What's the Right Thing to Do?",
+      "author_zh": "迈克尔·桑德尔",
+      "author_en": "Michael J. Sandel",
+      "year": "2009",
+      "category": "哲学",
+      "one_liner": "通过日常困境探讨伦理学的核心问题，揭示我们对公正的理解如何塑造社会",
+      "deep_dive": "桑德尔的《公正》读起来不像一本哲学书，反而像一个睿智的教授在和你讨论日常生活中的难题。为什么有人应该得到更多？什么时候抢劫富人来帮助穷人是对的？如果一个人会对社会造成威胁，提前杀死他是否公正？这些问题乍看荒诞，但它们直指人类社会最基本的困境。桑德尔展示了三种主要的伦理思想：功利主义、自由主义和美德伦理学。他通过大量的现实案例来说明，每种理论都有其合理之处，但也都无法完美解释所有现象。这本书的妙处在于，它让你意识到自己的道德直觉其实建立在某种哲学基础之上，而且这种基础往往不是你有意识选择的。最深刻的洞见是：什么是公正其实取决于你如何定义好的生活。不同的文化和个人对此有不同的理解，这解释了为什么同一个问题在不同地区会有完全不同的答案。这本书不提供答案，而是教你如何更清晰地思考。",
+      "quotes": [
+        {
+          "text": "Justice is not a matter of individual choice or preference. It is something we deliberate about, something we reason about together, as a political community.",
+          "context": "强调公正是共同的伦理思考，而非个人主观判断。"
+        },
+        {
+          "text": "The problem with this view is that it doesn't take seriously the moral status of the individual.",
+          "context": "说明纯功利主义的局限——它可能会为了整体幸福而牺牲个人权利。"
+        }
+      ]
+    },
+    {
+      "title_zh": "论革命",
+      "title_en": "On Revolution",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1963",
+      "category": "哲学",
+      "one_liner": "对现代革命本质的深刻思考，区分真正的自由与权力的获取",
+      "deep_dive": "阿伦特在《论革命》中做了一件看似简单却极其深刻的事：她区分了暴力与权力。很多人认为革命就是推翻旧政权的暴力行为，但阿伦特主张，真正的革命是建立新秩序、创造新的政治空间的行为。暴力只是手段，权力才是目标。这个区分改变了我们对历史事件的理解。她对美国革命和法国大革命进行了比较分析，认为美国革命成功地建立了共和制，而法国大革命陷入了暴力和恐怖中。区别在哪里？美国人专注于建立新的政治框架，而法国人被一种绝对正义的幻想所迷住，导致无休止的暴力。这对现代政治有深刻的启示。阿伦特还强调了新开始的概念，认为人类拥有进行根本性变革的能力。但这也意味着，革命之后建立的新秩序往往无法预测，因为你无法预知人类自由意志会导向何处。这使得革命既充满希望，又充满风险。",
+      "quotes": [
+        {
+          "text": "Revolution means the beginning of something entirely new. The revolutions of the modern age sound the death knell of tyranny in so far as they proclaim the birth of freedom.",
+          "context": "强调革命的本质是打破旧秩序、创造新的自由空间。"
+        },
+        {
+          "text": "The force of power springs from the people and cannot be sustained without them. Power is not an individual thing, but a collective capacity to act.",
+          "context": "说明真正的权力来自人民的集体意愿，而不是暴力。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1928"
+}
