@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "人的境况",
+      "title_en": "The Human Condition",
+      "author_zh": "汉娜·阿伦特",
+      "author_en": "Hannah Arendt",
+      "year": "1958",
+      "category": "哲学",
+      "one_liner": "探讨人类三种基本活动（劳动、制作、行动）如何定义现代性的困境。",
+      "deep_dive": "《人的境况》是阿伦特最重要的著作，她重新思考了人类活动的根本结构。从古雅典民主出发，她将人的活动划分为三层：劳动（为了生存的重复性工作）、制作（创造有形物品）和行动（真正的政治活动，需要他人见证）。她认为现代社会的危机在于我们过度强调了劳动和制作，导致\"行动\"——这种需要言论与行为相互呼应、真正人性的活动——被边缘化了。\n\n在消费社会中，人们被困在无尽的劳动-消费循环里，失去了作为政治主体独立思考和表达的能力。阿伦特对现代性的批评非常深刻：我们制造了越来越多的物品，却忘记了人类最高的天赋——创造新的开端、启动新事物的能力。这本书很难读，充满复杂的哲学论证，但对理解我们当下的困境——被工作淹没、被消费主义驱使、被信息轰炸——仍有深刻启发。如果你曾感觉日常生活的空虚和重复，感觉缺乏真正的自由，阿伦特会帮你看清这是怎样发生的。",
+      "quotes": [
+        {
+          "text": "Action... is never possible in isolation; to be isolated is to be deprived of the ability to act at all.",
+          "context": "阿伦特强调行动需要他人见证，孤立等于无能——这是人的政治本质的核心"
+        },
+        {
+          "text": "The most radical revolutionary will always appear as a conservative next to the radical destruction that progress threatens.",
+          "context": "现代性对传统的摧毁令人震惊，进步本身也是一种破坏"
+        },
+        {
+          "text": "It is in the nature of beginning that something new is started which cannot be expected from whatever may have happened before.",
+          "context": "人类独特的能力是启动新事物、改变既定轨迹，这正是被现代性压抑的东西"
+        }
+      ]
+    },
+    {
+      "title_zh": "沉默的羔羊",
+      "title_en": "The Silence of the Lambs",
+      "author_zh": "托马斯·哈里斯",
+      "author_en": "Thomas Harris",
+      "year": "1988",
+      "category": "文学",
+      "one_liner": "FBI新手与天才精神病连续杀手的智力与心理较量，探讨善恶的本质。",
+      "deep_dive": "《沉默的羔羊》不仅是伟大的心理惊悚小说，更是对人性黑暗面的深刻剖析。故事通过年轻FBI特工克劳迪娅·史达琳与监禁的天才精神病杀手汉尼拔·莱克特之间的对话展开，两人都试图理解并追捕另一个杀手。哈里斯创造的莱克特是文学史上最令人难忘的反派——他不是你预期的怪物，而是受过高等教育、谈吐优雅、充满魅力的人，但同时完全缺乏同理心，将他人视为可供品尝的物品。\n\n通过与莱克特的对话，史达琳被迫面对自己的恐惧和过去的创伤，而莱克特似乎对这个年轻特工产生了某种扭曲的兴趣。小说的绝妙之处在于，它从多个角度呈现了人类的脆弱性：无辜受害者的绝望、执法者的道德困境，以及被社会边缘化、扭曲的人如何寻求报复。每一个角色——包括追捕者和被追捕者——都有令人同情的理由，使整个故事变得复杂而令人不安。《沉默的羔羊》教会我们，邪恶往往不是来自我们想象的地方，而可能潜伏在最有教养、最聪慧的人心中。",
+      "quotes": [
+        {
+          "text": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+          "context": "莱克特对自己食人行为的典型陈述，呈现出他的精神病性人格和扭曲的幽默感"
+        },
+        {
+          "text": "We covet what we see every day.",
+          "context": "莱克特关于人类欲望本质的深刻观察，暗示所有人心中都有黑暗的冲动"
+        },
+        {
+          "text": "First principles. Simplicity. Read Marcus Aurelius. Of each thing that troubles you, ask: what is it in itself?",
+          "context": "莱克特对史达琳的人生建议，展现他虽然邪恶但拥有某种扭曲的智慧"
+        }
+      ]
+    },
+    {
+      "title_zh": "穷查理宝典",
+      "title_en": "Poor Charlie's Almanack",
+      "author_zh": "查理·芒格",
+      "author_en": "Charlie Munger",
+      "year": "2005",
+      "category": "商业与技术",
+      "one_liner": "伯克希尔哈撒韦副主席查理·芒格的投资智慧和人生哲学合集。",
+      "deep_dive": "《穷查理宝典》是一部独特的书，汇集了查理·芒格数十年来的投资建议、演讲、信件和思考。如果你以为这是关于快速致富的书，你会失望；如果你想学习如何清晰地思考、在复杂世界中做出理性决策，这本书会改变你。芒格的核心哲学是\"多学科思维\"——仅用一种学科的知识看待问题是危险的。你需要理解心理学（为什么人们做出非理性决定）、历史（同样错误如何重复）、数学（概率力量）、物理学（因果关系）、经济学、生物学……当你拥有这样的\"思维模型工具箱\"时，才能看清那些单一视角隐藏的真相。\n\n书中充满了他对人类愚蠢的幽默观察——我们如何被心理偏差奴役、如何因贪心做出糟糕决定、如何陷入思维模式困顿。但芒格从不悲观；他相信通过自我教育和不断思考，我们可以避免最明显的陷阱。他的故事既关于投资和商业，也关于如何活得更清楚、更聪慧。这不是教你赚钱的书，而是教你如何思考，让好结果自然而然跟随而来。",
+      "quotes": [
+        {
+          "text": "The best thing a human being can do is to help another human being know more.",
+          "context": "芒格对教育和知识传承价值的强调，这是他一生的信念"
+        },
+        {
+          "text": "Invert, always invert. If you want to get smart, the question you keep asking is 'And where can it go wrong?'",
+          "context": "他标志性的\"反向思维\"方法，通过思考失败来理解成功——这是清晰思维的秘诀"
+        },
+        {
+          "text": "You don't have to be right on everything. You just have to be right on the really big decisions.",
+          "context": "关于聚焦和优先级的人生智慧，避免分散在琐碎细节上"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1453"
+}
