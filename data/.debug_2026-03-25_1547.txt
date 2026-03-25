@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "鞋狗",
+      "title_en": "Shoe Dog",
+      "author_zh": "菲尔·奈特",
+      "author_en": "Phil Knight",
+      "year": "2016",
+      "category": "商业与技术",
+      "one_liner": "耐克创始人的自传：从跑步爱好者到运动帝国缔造者的传奇创业之路",
+      "deep_dive": "这是一部关于执念与坚持的故事。菲尔·奈特用最坦诚的笔触讲述了他如何从一个普通的跑步爱好者，变成耐克这个全球最伟大运动品牌的缔造者。书的魅力在于，他没有讲述一个完美的创业故事，而是把所有的失败、焦虑、濒临破产的日子都写了出来。你能感受到那种在困难中坚持的真实感——银行拒贷、员工离职、产品质量问题、与经销商的冲突，一切都那么真实而残酷。但奈特什么时候都没有放弃，他对跑步的热爱，对完美产品的执念，像一盏灯一样照亮了整个过程。读这本书就像在看一个人的内心独白，他会坦白为什么某个决定是错的，为什么某个员工对他有多重要，为什么有时候你需要相信直觉而不是理性。这种诚实感是很多商业书籍都没有的。它让你明白创业不是英雄式的独行侠冒险，而是一个普通人在时代浪潮中不断调整、学习、坚持的过程。对于任何想创业、或者想理解品牌是怎么建立的人，这本书都是必读的。",
+      "quotes": [
+        {
+          "text": "The moment you commit and invest yourself completely, magic happens.",
+          "context": "奈特强调承诺和全身心投入的力量——这正是他和耐克成功的核心"
+        },
+        {
+          "text": "Don't tell people how to do things, tell them what to do and let them surprise you with their results.",
+          "context": "关于领导力和信任，奈特对如何管理团队的深刻理解"
+        },
+        {
+          "text": "Life is growth. You stop growing, you start dying.",
+          "context": "对于持续创新和自我超越的哲学思考，贯穿整个创业生涯"
+        }
+      ]
+    },
+    {
+      "title_zh": "富兰克林自传",
+      "title_en": "The Autobiography of Benjamin Franklin",
+      "author_zh": "本杰明·富兰克林",
+      "author_en": "Benjamin Franklin",
+      "year": "1790",
+      "category": "传记与回忆录",
+      "one_liner": "美国开国元勋的自传：记录一个印刷工如何通过自我修养和务实精神成为科学家、发明家和政治家",
+      "deep_dive": "富兰克林的自传就像一部美国的创业教科书。他的故事证明了在那个时代，一个没有背景、没有资源的年轻人，只要有决心和聪慧，完全可以改变自己的命运。他从费城的印刷学徒开始，通过勤奋工作、节俭生活、不断学习，逐步建立起自己的印刷事业。但富兰克林与其他商人不同的是，他把目光放得更宽——他对科学充满好奇，做了著名的风筝实验来证明闪电的本质；他发明了避雷针、眼镜等改善生活的东西；他甚至参与了美国独立战争和制宪大会。这本书最吸引人的地方，是富兰克林对自己人生的理性规划。他在年轻时就制定了清晰的人生目标，列出了自己需要改进的品质，然后一个一个地工作在这些目标上。这种近乎现代的自我管理方式，在18世纪显得特别珍贵。读他的书，你能感受到启蒙时期的乐观精神，还能学到一些永恒的做人智慧：诚实、勤奋、谦虚、持续学习。富兰克林证明了什么叫真正的自我实现。",
+      "quotes": [
+        {
+          "text": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+          "context": "富兰克林对学习的理解——体验和参与是最好的学习方式"
+        },
+        {
+          "text": "Three may keep a secret, if two of them are dead.",
+          "context": "他对人性和信任的犀利观察，充满了实用的生活智慧"
+        },
+        {
+          "text": "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
+          "context": "体现了他崇尚的生活方式和自律精神，这成为他成功的基础"
+        }
+      ]
+    },
+    {
+      "title_zh": "查拉图斯特拉如是说",
+      "title_en": "Thus Spoke Zarathustra",
+      "author_zh": "弗里德里希·尼采",
+      "author_en": "Friedrich Nietzsche",
+      "year": "1885",
+      "category": "哲学",
+      "one_liner": "尼采的哲学诗篇杰作：通过查拉图斯特拉之口宣讲超人哲学、权力意志和人类道德的深刻重构",
+      "deep_dive": "这是一部很难用简单的方式概括的书。尼采用高度诗化和隐喻的语言，通过一个波斯先知查拉图斯特拉的故事，来传递他最核心的哲学思想。最著名的就是"上帝已死"这一宣言——但它不是什么科学论证，而是在说人类必须超越传统宗教和道德框架，去创造新的价值观。查拉图斯特拉讲述"超人"的概念，这不是什么物种进化论，而是在说人类应该不断超越自己，追求卓越和创造力。还有"权力意志"——这也被严重误读过。尼采说的不是弱肉强食的丛林法则，而是一种内在的、创造性的驱动力，推动生命不断地、无目的地去创造新的价值。这本书之所以伟大，是因为它触及了现代人最深层的问题：既然我们不能再依赖传统宗教给我们的意义，我们应该如何生活？我们应该创造什么样的价值观？当所有东西都不确定的时候，我们怎么给自己的人生下定义？读这本书会很困难——尼采的文风密集，隐喻层层叠叠，但正是这种困难，让阅读变成了一种精神修行。它会挑战你对道德、生活意义、人生目标的所有预设观念。",
+      "quotes": [
+        {
+          "text": "God is dead. God remains dead. And we have killed him. Yet his shadow still looms.",
+          "context": "尼采最著名的宣言——宣告传统价值观的终结和人类需要自我救赎的开始"
+        },
+        {
+          "text": "One must have chaos within oneself to give birth to a dancing star.",
+          "context": "关于创造性和个人成长——内心的混沌和矛盾是产生伟大创造的必要条件"
+        },
+        {
+          "text": "He who has a why to live can bear almost any how.",
+          "context": "对人生意义和目标的深刻理解，强调找到生命的理由比承受困难更重要"
+        }
+      ]
+    }
+  ]
+}
+```
