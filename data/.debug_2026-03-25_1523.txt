@@ -1,0 +1,1 @@
+需要您的权限来保存这个JSON文件。这会将推荐内容写入 `/Users/carol/Documents/daily-books/data/2026-03-25.json`，然后我会更新索引并推送到GitHub。
