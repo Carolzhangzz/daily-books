@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-25",
+  "books": [
+    {
+      "title_zh": "异类",
+      "title_en": "Outliers: The Story of Success",
+      "author_zh": "Malcolm Gladwell",
+      "author_en": "Malcolm Gladwell",
+      "year": "2008",
+      "category": "非虚构/心理学",
+      "one_liner": "揭秘成功人士背后的隐藏规律与社会文化因素",
+      "deep_dive": "你想过没有，一个人的出生日期和地点可能比天赋更决定他的成就？这就是Gladwell想告诉你的。他用一个个真实故事打破了我们对成功的所有刻板印象。比尔·盖茨之所以能垄断软件业，不只是因为他聪明，更因为他在1955年出生，赶上了个人电脑革命的浪潮。The Beatles为什么能成为乐坛传奇？因为他们在利物浦的俱乐部里演出了超过1200场，完成了那个\"一万小时法则\"。书里还讲了加州的犹太律师为什么比纽约的更成功，原因竟然是他们工作文化更符合现代商业需求。这本书的牛叉之处在于，它让你明白成功不是天选之人的专属游戏，而是有规律、有模式的。你开始理解为什么韩国学生数学好不是因为基因，而是因为东亚文化里对数字学习的重视。读完后你会重新审视自己的经历，那些看似偶然的机遇，其实都在遵循某种深层的社会规则。",
+      "quotes": [
+        {
+          "text": "Success is not a random act. Success is the result of preparation, hard work, and learning from failure.",
+          "context": "成功的核心因素不在基因，而在于充分的准备和持续的努力"
+        },
+        {
+          "text": "It is those who are successful who are most likely to be given the kinds of special opportunities that lead to further success.",
+          "context": "机遇和成功形成正反馈循环——成功者更容易获得更多机遇"
+        }
+      ]
+    },
+    {
+      "title_zh": "悉达多",
+      "title_en": "Siddhartha",
+      "author_zh": "赫尔曼·黑塞",
+      "author_en": "Hermann Hesse",
+      "year": "1922",
+      "category": "文学/哲学小说",
+      "one_liner": "一个人寻求内心真实自我的灵魂修行之旅",
+      "deep_dive": "想象一下，如果释迦牟尼也经历过迷茫、欲望和失败呢？这就是黑塞笔下的悉达多。这部小说跟你在宗教课本上读到的传统故事很不一样。悉达多不是一开始就开悟的人，他是一个不断追寻、不断犯错、最后才找到自己的普通人。他放弃了舒适的婆罗门生活去做苦修士，后来又沉溺于爱情和财富的诱惑，最终沦为了一个摆渡人。但这些\"失败\"才是这部书的精妙之处——每一次迷茫都让他更接近真理。书里有一条河，作为整个故事的象征，悉达多在河边听到了河水的声音，那声音包容了所有的矛盾和对立。你会发现这是一部关于\"过程比结果更重要\"的小说，关于\"人生本身就是修行\"的哲学思考。读这本书的人往往在人生的十字路口——迷茫、困顿或是物质充足但精神空虚。黑塞用诗意的语言告诉你，那些看似无意义的经历，其实都是灵魂在雕刻自己的过程。",
+      "quotes": [
+        {
+          "text": "When someone is searching, it might just be that the only thing their eyes see is whatever they are looking for.",
+          "context": "讲述了执念如何限制了我们的视野，只看到想看的东西"
+        },
+        {
+          "text": "I have become aware of the flowing-together of all things, I have learned that all things that seem detached are actually connected.",
+          "context": "顿悟时刻：世界上所有看似分离的事物其实都是相连的整体"
+        }
+      ]
+    },
+    {
+      "title_zh": "论语",
+      "title_en": "The Analects",
+      "author_zh": "孔子",
+      "author_en": "Confucius",
+      "year": "约公元前5世纪",
+      "category": "古典/哲学",
+      "one_liner": "孔子言行录，两千年儒家思想的源头与人生智慧的宝库",
+      "deep_dive": "别被\"古籍\"这两个字吓到。《论语》其实就像你的朋友圈——记录了孔子和学生们的日常对话。开篇\"学而时习之，不亦说乎\"听起来简单，但你细细品，就会发现孔子在说一个关于学习本身就是快乐的人生哲学。这本书为什么能影响中国两千多年？因为它解决的都是人生的根本问题：怎样做个好人？怎样处理人际关系？什么是真正的学习？权力和道德的关系是什么？最牛的是，孔子从不装逼。他说\"知之为知之，不知为不知，是知也\"——不懂就是不懂，这反而是一种智慧。书里有大量关于\"修身齐家\"的论述，告诉你个人的修养如何影响整个社会。现代人读《论语》会很惊讶，因为很多观点在今天仍然有力——关于同理心、关于做人的底线、关于如何影响他人。这不是宗教经典，而是一个有趣老头和他学生的智慧对话集，用最朴实的语言讲最深层的道理。",
+      "quotes": [
+        {
+          "text": "The superior man is anxious lest he should not get the better of himself; he does not anxiously seek to get the better of others.",
+          "context": "真正的修养不在战胜他人，而在自我克制和内在提升"
+        },
+        {
+          "text": "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it—this is knowledge.",
+          "context": "关于学问和诚实：知道自己不知道，比装作知道更有智慧"
+        }
+      ]
+    }
+  ],
+  "id": "2026-03-25_1458"
+}
