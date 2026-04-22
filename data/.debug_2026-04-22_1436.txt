@@ -1,0 +1,79 @@
+```json
+{
+  "date": "2026-04-22",
+  "books": [
+    {
+      "title_zh": "半个地球",
+      "title_en": "Half-Earth: Our Planet's Fight for Life",
+      "author_zh": "爱德华·威尔逊",
+      "author_en": "Edward Osborne Wilson",
+      "year": "2016",
+      "category": "生态保护/科学",
+      "one_liner": "一位传奇生物学家的警示：只有保护地球一半的生态空间，才能拯救物种多样性。",
+      "deep_dive": "老威尔逊在晚年提出了这个大胆又让人心酸的主张。他说啊，我们现在的问题其实很现实：人类占据的生活空间越来越大，野生动物的栖息地被挤压得越来越小，大量物种在我们眼皮底下灭绝了。他花了几十年研究蚂蚁和生物多样性，看到的都是些让人无奈的数据。所以他最后得出结论——与其继续这样消耗下去，不如主动把地球的一半还给自然，给其他物种留下生存空间。这听起来很激进，但他的论证其实很扎实，涉及生态学、经济学、伦理学等多个角度。最打动人的是，这本书不是单纯的悲观警告，而是一个具体的、可行的方案。威尔逊就像在和你面对面聊天，他既是科学家的严谨，也带着一个老人对地球的关切。",
+      "quotes": [
+        {
+          "text": "The extinction of species is a tragedous loss, for each species is irreplaceable.",
+          "context": "威尔逊强调物种灭绝的不可逆转性，每一个物种都代表着百万年进化的结晶"
+        },
+        {
+          "text": "We are drowning in information, yet starved for wisdom.",
+          "context": "反思人类面对环境危机时的矛盾处境——掌握数据却缺乏行动的智慧"
+        },
+        {
+          "text": "The best way out is always through.",
+          "context": "对应威尔逊的核心主张：只有直面问题，主动改变，才能找到出路"
+        }
+      ]
+    },
+    {
+      "title_zh": "安娜·卡列尼娜",
+      "title_en": "Anna Karenina",
+      "author_zh": "列夫·托尔斯泰",
+      "author_en": "Leo Tolstoy",
+      "year": "1877",
+      "category": "长篇小说/文学",
+      "one_liner": "俄罗斯文学的巅峰之作，描绘爱情、家庭与社会的终极悖论。",
+      "deep_dive": "这部小说开篇那句话你可能听过——\"所有幸福的家庭都相似，不幸的家庭各有各的不幸\"。托尔斯泰就是用这个想法展开了整个故事，关于安娜和列文的两条生命线交织在一起。安娜为了爱情抛弃了婚姻，却发现热烈的激情最终无法填补心灵的空虚；而列文在爱情和信仰的探索中，慢慢找到了生活的意义。有意思的是，托尔斯泰完全不是在讲道德故事，而是真诚地描写人性的复杂性。书里的人物都那么鲜活，他们的欲望、矛盾、迷茫都写得特别细致。你会看到贵族社会的虚伪，也会看到普通人的真实。这部作品之所以伟大，就在于它触碰了人类永恒的问题：什么是幸福？如何活得有意义？这些问题读完书以后还会在你心里反复回响。",
+      "quotes": [
+        {
+          "text": "All happy families are alike; each unhappy family is unhappy in its own way.",
+          "context": "小说开篇的哲学思考，揭示了生活中幸福的单调性和痛苦的多样性"
+        },
+        {
+          "text": "If I try to seize this moment it is already no longer the same.",
+          "context": "安娜对爱情本质的领悟，表达了人类对永恒和瞬间的悖论性追求"
+        },
+        {
+          "text": "The more we live by our intellect, the less we understand the meaning of life.",
+          "context": "列文的人生思考，指向理性与直觉、知识与智慧之间的鸿沟"
+        }
+      ]
+    },
+    {
+      "title_zh": "苏菲的世界",
+      "title_en": "Sophie's World: A Novel About the History of Philosophy",
+      "author_zh": "乔斯坦·贾德",
+      "author_en": "Jostein Gaarder",
+      "year": "1991",
+      "category": "哲学/小说",
+      "one_liner": "一个14岁女孩收到神秘来信，展开了一场跨越人类思想史的冒险。",
+      "deep_dive": "想象一下，你突然收到一封来自陌生人的信，问你\"你是谁？世界从何而来？\"这就是苏菲的遭遇。贾德很聪明地把哲学史写成了悬疑小说。苏菲一边回答来信人的问题，一边不断发现自己的世界可能不是真实的，整个故事就这样层层递进。作者通过苏菲的眼睛，带你从古希腊的泰勒斯讲到20世纪的现代哲学，每一个哲学家的思想都用通俗的方式解释，不会让你觉得费劲。更妙的是，这本书不是干巴巴的教科书，它有悬念、有情节、有真实的情感。你跟着苏菲一起困惑，一起顿悟。到了书的后半段，你会发现小说本身就变成了对\"什么是真实\"这个问题的一场演示。这本书特别适合青少年，但成年人读也会有所收获，因为它提醒你，理解这个世界的一切都始于提问。",
+      "quotes": [
+        {
+          "text": "The only true wisdom is to know that you know nothing.",
+          "context": "引用苏格拉底的名言，贯穿整本书的哲学探索主题"
+        },
+        {
+          "text": "I think therefore I am.",
+          "context": "笛卡尔的经典论断，在故事中成为苏菲确认自我存在的关键"
+        },
+        {
+          "text": "A human being is a part of the whole which we call the universe, but he experiences himself as something separated from the rest.",
+          "context": "爱因斯坦的观点，反映了人类对自我与宇宙关系的永恒思考"
+        }
+      ]
+    }
+  ]
+}
+```
