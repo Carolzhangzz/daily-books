@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-22",
+  "books": [
+    {
+      "title_zh": "信号与噪声",
+      "title_en": "The Signal and the Noise: Why So Many Predictions Fail – but Some Don't",
+      "author_zh": "纳特·西尔弗",
+      "author_en": "Nate Silver",
+      "year": "2012",
+      "category": "商业与技术",
+      "one_liner": "在信息爆炸的时代，学会区分真正重要的信号和无意义的噪声，才是做好预测的关键。",
+      "deep_dive": "你知道吗，气象学家之所以能越来越准确地预测天气，不是因为他们突然变聪明了，而是他们学会了区分什么是真正可预测的，什么只是噪声。西尔弗用这个洞察贯穿全书，从棒球统计、地震预测、金融危机到政治选举，展示了预测失败的深层原因。\n\n这本书最精妙的地方在于它不是在教你具体的预测技巧，而是在拆解人类预测思维的bug。我们为什么那么容易陷入过度自信？为什么看似相同的数据，有人能发现趋势，有人只看到噪声？西尔弗用贝叶斯思维来解答这些问题。他认为好的预测不是关于绝对的确定性，而是关于不断更新概率——每当新信息出现，就调整你的信念。\n\n读这本书的时候，你会慢慢意识到一个颠覆性的事实：那些自信满满、声称能精确预测的人，往往是最危险的。而真正的高手，反而是那些承认不确定性、但能在不确定中找到规律的人。在这个时代，我们被淹没在数据和观点中，学会这种思维方式，比任何具体的技能都值钱。",
+      "quotes": [
+        {
+          "text": "The key to making good forecasts is not in limiting yourself to quantitative methods or in disdaining the advice of experts. Instead, it is in the intellectual humility to accept that precise forecasts of the future are impossible.",
+          "context": "西尔弗对预测本质的定义。真正的高手不是预测得最准，而是诚实地承认预测的局限性。"
+        },
+        {
+          "text": "In the financial markets, hindsight bias is especially powerful because it can be profitable to create a narrative about the present that feels like it was inevitable.",
+          "context": "解释为什么经济危机总是事后才被'看穿'——我们的大脑天生会编故事，让随机事件看起来像是早已注定。"
+        },
+        {
+          "text": "The signal is the truth. The noise is what distracts us from the truth.",
+          "context": "全书的核心比喻。分清哪些信息能引导我们接近真相，哪些只是让我们转圈。"
+        }
+      ]
+    },
+    {
+      "title_zh": "什么是当代艺术",
+      "title_en": "Ways of Curating",
+      "author_zh": "汉斯·乌尔里希·奥布里斯特",
+      "author_en": "Hans Ulrich Obrist",
+      "year": "2014",
+      "category": "艺术与美学",
+      "one_liner": "走进当代艺术的迷宫，用策展人的视角重新看待什么定义了艺术本身。",
+      "deep_dive": "如果你曾经站在当代艺术博物馆，看着一个空房间、一堆砖头或者一个闪烁的霓虹灯，然后问自己'这真的是艺术吗？'，那么奥布里斯特的这本书就是为你写的。这位传奇策展人用了一种非常坦率的方式来解答这个问题——他不会告诉你什么是艺术的'正确'定义，而是带你看当代艺术家们是怎么重新定义艺术的。\n\n奥布里斯特在整个艺术世界中游走过，从早期的观念艺术到后来的社会实践艺术，他发现了一个有趣的现象：当代艺术的真正革命不在于形式，而在于艺术家们开始质疑艺术本身的存在条件。一个艺术家用数据来创作，一个用参与者的集体记忆，一个甚至用时间本身——这些都挑战了我们对'艺术是什么'的基本假设。\n\n这本书的妙处在于，奥布里斯特不是在课堂里对你讲课，而是在邀请你进入他的思维过程。通过他对几十位艺术家的访谈和对历史事件的回顾，你会逐渐理解：当代艺术其实在问的是'什么是可能的'，而不仅仅是'这看起来像什么'。读完后，你可能仍然不会喜欢所有的当代艺术，但你会明白为什么艺术家们坚持去做那些看起来荒唐的事情——因为艺术的边界本来就应该不断被推动。",
+      "quotes": [
+        {
+          "text": "Curating is about creating narratives and new ways of looking at things.",
+          "context": "奥布里斯特对策展工作的定义。当代艺术不是单纯的作品展示，而是通过重新组织和诠释来创造新的理解视角。"
+        },
+        {
+          "text": "The most interesting art today is the one that raises questions rather than provides answers.",
+          "context": "当代艺术的核心特征——它的价值不在于美或技巧，而在于启发我们重新思考。"
+        },
+        {
+          "text": "Art is a conversation. The artist makes something, the exhibition presents it, and the viewer completes the circle by engaging with it.",
+          "context": "强调了当代艺术中观众的主动性。不再是被动欣赏，而是成为创意完成的一部分。"
+        }
+      ]
+    },
+    {
+      "title_zh": "切·格瓦拉传",
+      "title_en": "Che Guevara: A Revolutionary Life",
+      "author_zh": "乔恩·李·安德森",
+      "author_en": "Jon Lee Anderson",
+      "year": "1997",
+      "category": "传记",
+      "one_liner": "跟踪一个医学院学生如何成为革命偶像，以及理想主义与现实的永恒冲突。",
+      "deep_dive": "读切·格瓦拉的传记，就像在看一部好莱坞永远拍不了的电影。一个精英医科学生，本可以有舒服的医生生涯，却骑摩托车游历拉美，在贫困和不公正面前彻底改变了人生路线。安德森花了多年时间采访了切身边的人，翻阅了海量档案，把这个被神化、被妖魔化、被反复消费的历史人物还原成了一个真实的、矛盾的、有血有肉的人。\n\n这本传记最吸引人的地方，不仅是它记录了切如何参与古巴革命、推翻巴蒂斯塔，更重要的是它诚实地呈现了切的理想主义信念是如何在现实中一次次碰壁的。他不满足于在哈瓦那的权力中心，执意去刚果、去玻利维亚进行新的革命尝试，最终在玻利维亚的丛林中被俘杀。安德森没有把这描写成悲剧或胜利，而是展现了一个人如何在信念和现实的张力中做出选择，甚至是最后的选择。\n\n更深层的，这本书其实在问一个永恒的问题：什么时候理想主义变成了偏执？什么时候为了大义而牺牲个人和他人是正义的？切的故事没有简单答案，但这种复杂性才是它触动人心的原因。你会看到他的医者本心、他对底层人民的同情，也会看到他的专制倾向、他的冷酷决绝。读完这本书，你不仅理解了20世纪最重要的政治人物之一，更理解了革命本身的代价。",
+      "quotes": [
+        {
+          "text": "The true revolutionary is guided by great feelings of love.",
+          "context": "切关于革命本质的思考。尽管他的方法充满暴力，但他声称的出发点始终是对被压迫者的爱。这个矛盾贯穿他的一生。"
+        },
+        {
+          "text": "I have lived as few men have wanted to live.",
+          "context": "切在日记中的自省。承认自己选择了一条大多数人不愿走的路，既是自豪，也是孤独的承认。"
+        },
+        {
+          "text": "At the risk of seeming ridiculous, let me say that the true revolutionary is guided by a great feeling of love.",
+          "context": "这句话反复出现在切的著作和演讲中，是他试图为自己激进行动提供道德基础的关键论述。"
+        }
+      ]
+    }
+  ],
+  "id": "2026-04-22_1434"
+}
